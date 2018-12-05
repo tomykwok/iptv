@@ -6,16 +6,16 @@ http://stream
 #EXTINF:-1 tvg-id="id1" tvg-name="hbo22" tvg-logo="logo1" group-title="Group 1",hbo2
 http://stream link
 
-#EXTINF:-1, tvg-id="id1" tvg-name="11" tvg-logo="" group-title="JAV SENSOR",1
+#EXTINF:-1 tvg-id="id1" tvg-name="11" tvg-logo="" group-title="JAV SENSOR",1
 https://videos.videopress.com/HbSi4WX4/259luxu-1044_std.mp4
 
-#EXTINF:-1, tvg-id="id1" tvg-name="22" tvg-logo="" group-title="JAV SENSOR",2
+#EXTINF:-1 tvg-id="id1" tvg-name="22" tvg-logo="" group-title="JAV SENSOR",2
 https://videos.videopress.com/RyrVEwN3/200gana-1929_std.mp4
 
-#EXTINF:-1, tvg-id="id1" tvg-name="33" tvg-logo="" group-title="JAV NO SENSOR",3
+#EXTINF:-1 tvg-id="id1" tvg-name="33" tvg-logo="" group-title="JAV NO SENSOR",3
 https://videos.videopress.com/xF2BkqXu/259luxu-1042_std.mp4
 
-#EXTINF:-1, tvg-id="id1" tvg-name="44" tvg-logo="" group-title="JAV NO SENSOR",4
+#EXTINF:-1 tvg-id="id1" tvg-name="44" tvg-logo="" group-title="JAV NO SENSOR",4
 https://videos.videopress.com/7j3Ohnzq/meyd-444_std.mp4
 
 #EXTINF:0, group-title="JAV CENCORED" ,JAV1
