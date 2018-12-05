@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="id1" tvg-name="hbo" tvg-logo="logo1" group-title="Group 1",hbo
+http://stream
+
+#EXTINF:-1 tvg-id="id1" tvg-name="hbo2" tvg-logo="logo1" group-title="Group 1",hbo2
+http://stream link
+
 #EXTINF:0, tvg-id="" tvg-name="" tvg-logo="" group-title="JAV SENSOR",1
 https://videos.videopress.com/HbSi4WX4/259luxu-1044_std.mp4
 
