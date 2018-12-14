@@ -13,15 +13,6 @@ http://210.210.155.35/session/687d0a28-b723-11e8-a6e4-b82a72d63267/qwr9ew/s/s05/
 #EXTINF:-1,TRANSTV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0,TRANS7
-https://stream-03.sg1.dailymotion.com/dm/3/x6p1gw7/live-0.m3u8
-
-#EXTINF:0,TRANS7
-https://stream-01.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
-
-#EXTINF:0,TRANS7
-https://stream-01.sg1.dailymotion.com/dm/3/x6p1gw7/live-3.m3u8
-
 #EXTINF:-1,TRANS7
 http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -58,12 +49,6 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w645905961_
 #EXTINF:-1,TV ONE
 http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0,TVONE
-https://stream-02.sg1.dailymotion.com/dm/3/x619221/live-2.m3u8
-
-#EXTINF:0,TVONE
-https://stream-02.sg1.dailymotion.com/dm/3/x619221/live-3.m3u8
-
 #EXTINF:-1,ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 
@@ -84,9 +69,6 @@ http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=0
 
 #EXTINF:-1,SINDO TV
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:0, group-title="SPORTS",LIGA GOJEK
-http://id1.indostreamingtv.com/live/tv11/index.m3u8
 
 #EXTINF:-1,CELESTIAL MOVIE
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
