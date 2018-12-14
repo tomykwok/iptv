@@ -1,9 +1,6 @@
 #EXTINF:0,TRANS TV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0,TRANS7 HD
-http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
-
 #EXTINF:0,RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -94,14 +91,8 @@ http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
 #EXTINF:0, group-title="INDOTV",METRO TV 1
 http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0, group-title="INDOTV",INDOSIAR 2
-http://id1.indostreamingtv.com/live/tv11/index.m3u8
-
 #EXTINF:0, group-title="INDOTV",TRANS7
 http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:0, group-title="INDOTV",TV ONE 1
-http://id1.indostreamingtv.com/live/tv44/index.m3u8
 
 #EXTINF:0, group-title="INDOTV",ANTV 1
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
@@ -121,9 +112,6 @@ http://edge.okezone.com/live/rctioke.m3u8
 #EXTINF:0, group-title="INDOTV",SBO TV SURABAYA
 http://stream.sbo.co.id:1935/sbotv/live/chunklist_w433447537.m3u8
 
-#EXTINF:0, group-title="INDOTV",SCTV 1
-http://id7.indostreamingtv.com/live/tv2/index.m3u8
-
 #EXTINF:0, group-title="INDOTV",TEGAR TV JOGJA
 http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
 
@@ -141,9 +129,6 @@ http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/
 
 #EXTINF:0, group-title="INDOTV",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
-
-#EXTINF:0, group-title="KIDS",BIZNET KIDS
-http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/chunklist_w381752356_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPUt0QlI0a05LS2lwclVCY3VEeTVrRUVORVZremtnRmdNc0VmU2xOYW1QcWpuUC1TQzNPclhNQUlTSDRpcDZ4dno=.m3u8
 
 #EXTINF:0, group-title="KIDS",ANIMAX ID
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
@@ -171,9 +156,6 @@ http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
 
 #EXTINF:0, group-title="ENTERTAINMENT",CRIME & INVESTIGATION
 http://www.5z8.info/launchexe_jfpw
-
-#EXTINF:0, group-title="ENTERTAINMENT",HD MEDIA
-http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
 
 #EXTINF:0, group-title="ENTERTAINMENT",RETRO TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
@@ -217,12 +199,6 @@ http://80.80.160.168/live/5/live.m3u8
 #EXTINF:0, group-title="KNOWLEDGE",NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
-#EXTINF:0, group-title="KNOWLEDGE",RT DOCUMENTARY
-https://secure-streams.akamaized.net/rt-doc/index.m3u8
-
-#EXTINF:0, group-title="LIFESTYLE",BIZNET LIFESTYLE
-http://livestream.biznetvideo.net/biznet_lifestyle/_definst_/stream_lifestyle/chunklist_w251745252_tkdG9rZW5iaXpuZXRsaXZlc3RhcnR0aW1lPTAmdG9rZW5iaXpuZXRsaXZlZW5kdGltZT0wJnRva2VuYml6bmV0bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ0b2tlbmJpem5ldGxpdmVoYXNoPXBoWWNPYTlzSExwclVvVmtnaHc1QTRuQjZTRWZxYjhSeDh2Y1VNQkc5QzZaZUdVZnJVdFFMdTJuQllvNmQ1UkU=.m3u8
-
 #EXTINF:0, group-title="LIFESTYLE",FOODIE
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 
@@ -243,9 +219,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 
 #EXTINF:0, group-title="LIFESTYLE",HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-
-#EXTINF:0, group-title="MOVIE",HBO ID
-http://210.210.155.35/uq2663/h/h231/02.m3u8
 
 #EXTINF:0, group-title="MOVIE",CELESTIAL MOVIES ID
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
@@ -270,12 +243,6 @@ http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 
 #EXTINF:0, group-title="MOVIE",&PRIVE HD
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-
-#EXTINF:0, group-title="MOVIE",SYFY
-http://23.237.22.82:8086/udp/127.0.0.1:56063
-
-#EXTINF:0, group-title="MOVIE",HALLMARK MOVIES&MYSTERIES
-http://23.237.22.82:8086/udp/127.0.0.1:56067
 
 #EXTINF:0, group-title="MOVIE",FOX MOVIES
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
@@ -322,20 +289,11 @@ http://80.80.160.168/live/6/live.m3u8
 #EXTINF:0, group-title="SPORT",ESPN 2
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
-#EXTINF:0, group-title="SPORT",BT SPORTS 1
-http://163.172.211.93:8081/BT/1/index.m3u8
-
 #EXTINF:0, group-title="SPORT",BT SPORTS 2
 http://163.172.86.57:3135/B/2/index.m3u8
 
 #EXTINF:0, group-title="SPORT",BT SPORTS 3
 http://163.172.86.59:3135/1513/BT/index.m3u8
-
-#EXTINF:0, group-title="SPORT",ELEVEN SPORTS 1
-http://61.58.60.230:9000/live/75.m3u8
-
-#EXTINF:0, group-title="SPORT",ELEVEN SPORTS 2
-http://61.58.60.230:9000/live/102.m3u8
 
 #EXTINF:0, group-title="SPORT",AD SPORT 1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
@@ -352,23 +310,14 @@ http://163.172.211.93:8081/Ten/1/index.m3u8
 #EXTINF:0, group-title="SPORT",SONY TEN2 HD
 http://163.172.218.205:8081/2Ten/2/index.m3u8
 
-#EXTINF:0, group-title="SPORT",SONY TEN3 HD
-http://163.172.86.57:3135/Ten/3/index.m3u8?token=YjdkNWYxMjgwNjk5NzQ1NDJkODI4OWM3ZWMxY2NjMGU6MTUzMzg5MDU4Mw==
-
 #EXTINF:0, group-title="SPORT",FOX SPORT 1
 http://45.58.62.92:8080
-
-#EXTINF:0, group-title="SPORT",FOX SPORT 2
-http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
 
 #EXTINF:0, group-title="SPORT",FOX SPORT 3
 http://210.210.155.35/uq2663/h/h21/index1.m3u8
 
 #EXTINF:0, group-title="SPORT",FOX SPORT RACING
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-
-#EXTINF:0, group-title="SPORT",ALL SPORTS
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
 
 #EXTINF:0, group-title="SPORT",ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
@@ -399,9 +348,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
 #EXTINF:0, group-title="SPORT",KUWAIT ONE
 http://wms.tecnoxia.com:1935/8158/8158/chunklist_w299184953.m3u8
-
-#EXTINF:0, group-title="SPORT",WWE TV
-http://flu1.podzone.net:9091/WWE/Net2/index.m3u8
 
 #EXTINF:0, group-title="SPORT",MLB NETWORK
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
@@ -436,9 +382,6 @@ http://78.47.151.116:1935/tilesport/movie1/chunklist_w464730088.m3u8
 #EXTINF:0, group-title="SPORT",TVA SPORT
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8
 
-#EXTINF:0, group-title="SPORT",SPORTS
-http://163.172.46.35:8080/Game/2/index.m3u8
-
 #EXTINF:0, group-title="SPORT",BTN SPORTS
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
 
@@ -462,12 +405,6 @@ http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/
 
 #EXTINF:0, group-title="MUSIC",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
-
-#EXTINF:0, group-title="MUSIC",O FHD
-http://77.232.128.68/bks.m3u8
-
-#EXTINF:0, group-title="MUSIC",ONE
-http://rtmp.one.by:1300
 
 #EXTINF:0, group-title="MUSIC",XLITE MUSIC
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
@@ -516,9 +453,6 @@ http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 
 #EXTINF:0, group-title="NEWS",RTE NEWS NOW
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
-
-#EXTINF:0, group-title="NEWS",RT-USA
-https://secure-streams.akamaized.net/rt/index.m3u8
 
 #EXTINF:0, group-title="NEWS",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
@@ -598,18 +532,6 @@ http://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
 #EXTINF:0, group-title="ASIA",SURIA
 http://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u8
 
-#EXTINF:0, group-title="ASIA",TV3
-http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
-
-#EXTINF:0, group-title="ASIA",TV7
-http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
-
-#EXTINF:0, group-title="ASIA",TV8
-http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
-
-#EXTINF:0, group-title="ASIA",TV9
-http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
-
 #EXTINF:0, group-title="ASIA",TVIKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 
@@ -648,9 +570,6 @@ http://115.178.24.80:1935/dvr/_definst_/c8.stream/playlist.m3u8
 
 #EXTINF:-1,PPTV HD
 http://49.231.4.246:9981/stream/channelid/124747937
-
-#EXTINF:-1, PPTV HD
-http://119.59.125.74/stream/totnew.php?channel_id=623d009180394c528880c14e2254452a&.m3u8
 
 #EXTINF:-1,Sport 1
 http://c0.cdn.trinity-tv.net/stream/xm2dfkrdw9ik5z9sfrg7zhijppp4runkmzxmu92cq5zhbecaunzj25vjnggqwfsywr4zm97kg8ga3pf64eume8eygd5rx8g46e35i3esy9mu9sxzqvi7t9g896gtw4ydwuhxcegfdyqdz7nsqkuks6i=.m3u8
@@ -727,35 +646,14 @@ http://almientv.onlivestreaming.net/almientv/livestream/playlist.m3u8
 #EXTINF:0,AL-QUR'AN KARIM
 http://rr2.dens.tv/s/s28/index.m3u8
 
-#EXTINF:0,ANIMAX
-http://rr1.dens.tv/h/h144/index.m3u8
-
 #EXTINF:0,ANIPLUS
 http://rr1.dens.tv/h/h02/index.m3u8
 
 #EXTINF:0,ANTV
 http://rr2.dens.tv/s/s07/index.m3u8
 
-#EXTINF:0,ARIRANG
-http://livestream.biznetvideo.net/biznet_arirang/_definst_/stream_arirang/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=8pwO_vKBP7a6lRjhEkxA3pYB87yz_XwLsDu5B1M0NB-WDNuwNlybEKBRJQjCGNND
-
 #EXTINF:0,ASHIIL
 http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8
-
-#EXTINF:0,ASTRO ARENA
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-
-#EXTINF:0,ASTRO AWANI
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
-
-#EXTINF:0,ASWAJA
-http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
-
-#EXTINF:0,AUSTRALIA PLUS
-http://livestream.biznetvideo.net/biznet_australia/_definst_/stream_australia/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=Q4uUz77dqo05YnU_3JjbIVkiN6-ZMczFLYEAR9HTxrmjaZ5ZmlM6PU_W5E8ateC6
-
-#EXTINF:0,AXN
-http://rr1.dens.tv/h/h141/index.m3u8
 
 #EXTINF:0,B4U MOVIES
 http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
@@ -763,35 +661,14 @@ http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
 #EXTINF:0,B4U MUSIC
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 
-#EXTINF:0,BADAR TV
-http://wowza58.indostreamserver.com:1935/badartv/live/playlist.m3u8
-
-#EXTINF:0,BANTEN TV
-http://122.248.32.234:1935/ch22/myStream/playlist.m3u8
-
 #EXTINF:0,BBS TV
 http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
-
-#EXTINF:0,BERITASATU JAKARTA GLOBE
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-
-#EXTINF:0,BERITASATU WORLD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
 #EXTINF:0,BERITASATU
 http://edge.linknetott.swiftserve.com/channelgroup1/cg1production/ch360/index.m3u8
 
 #EXTINF:0,BERNAMA
 http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
-
-#EXTINF:0,BIZNET KIDS
-http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=KtBR4kNKKiprUBcuDy5kEENEVkzkgFgMsEfSlNamPqjnP-SC3OrXMAISH4ip6xvz
-
-#EXTINF:0,BIZNET LIFESTYLE
-http://livestream.biznetvideo.net/biznet_lifestyle/_definst_/stream_lifestyle/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=phYcOa9sHLprUoVkghw5A4nB6SEfqb8Rx8vcUMBG9C6ZeGUfrUtQLu2nBYo6d5RE
-
-#EXTINF:0,BLOOMBERG INTERNATIONAL
-http://livestream.biznetvideo.net/biznet_bloomberg/_definst_/stream_bloomberg/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=meLBJvKZ2MYgyG4OstTDVt-oUhu2aH8Gb3hDakN5cyPF68W4lVgSGhvc9xuxO6u5
 
 #EXTINF:0,BLOOMBERG US
 http://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
@@ -804,12 +681,6 @@ http://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
 
 #EXTINF:0,BT SPORTS 1
 http://163.172.218.205:8081/BT/1/index.m3u8
-
-#EXTINF:0,BT SPORTS 2
-http://163.172.218.205:8081/BT/2/index.m3u8
-
-#EXTINF:0,BTV
-http://122.248.32.234:1935/ch10/myStream/playlist.m3u8
 
 #EXTINF:0,CAHAYA BANTEN
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
@@ -847,9 +718,6 @@ http://122.248.32.234:1935/ch28/myStream/playlist.m3u8
 #EXTINF:0,CMC USA
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CMCUSA.m3u8
 
-#EXTINF:0,CNN INDONESIA
-http://rr.dens.tv/h/h234/index.m3u8
-
 #EXTINF:0,CULTURA
 http://srv3.zoeweb.tv:1935/z01-live/stream/playlist.m3u8
 
@@ -859,14 +727,8 @@ http://rr.dens.tv/h/h01/index.m3u8
 #EXTINF:0,DAAI
 http://rr2.dens.tv/s/s13/index.m3u8
 
-#EXTINF:0,DANGDUT TV
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-
 #EXTINF:0,DENS TV INFO
 http://tv.dens.tv/live/a/a01/index.m3u8
-
-#EXTINF:0,DESA TV
-http://wowza60.indostreamserver.com:1935/tvdesa/live/playlist.m3u8
 
 #EXTINF:0,DESI CHANNEL
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
@@ -877,17 +739,11 @@ http://cm.hostlagarto.com:8081/tvdigitalimperial/tvdigitalHD.myStream/playlist.m
 #EXTINF:0,DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 
-#EXTINF:0,DMI TV
-http://stream1.ninmedia.tv/live/xmedia-dmitv.stream_nin/playlist.m3u8
-
 #EXTINF:0,DRAGON
 http://rr2.dens.tv/s/s29/index.m3u8
 
 #EXTINF:0,DUBAI ONE
 http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
-
-#EXTINF:0,DUTA TV
-http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
 
 #EXTINF:0,DW (DE)
 http://rr2.dens.tv/s/s26/index.m3u8
@@ -940,38 +796,20 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.
 #EXTINF:0,FASHION PHOTOSHOOTS
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_photoshoots_adaptive.smil/media.m3u8
 
-#EXTINF:0,FASHION TV
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-
 #EXTINF:0,FASHION WEEKS
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_fashion_weeks_adaptive.smil/media.m3u8
 
 #EXTINF:0,FIGHT SPORTS
 http://rr.dens.tv/h/h05/index.m3u8
 
-#EXTINF:0,FOODIE
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-
 #EXTINF:0,FRANCE 24
 http://rr2.dens.tv/s/s22/index.m3u8
-
-#EXTINF:0,GLOBAL TV
-http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:0,GOLF
-http://rr.dens.tv/h/h232/index.m3u8
-
-#EXTINF:0,HBO INDONESIA
-http://rr.dens.tv/h/h231/index.m3u8
 
 #EXTINF:0,HIDUP TV
 http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
 
 #EXTINF:0,HITS
 http://rr.dens.tv/h/h37/index.m3u8
-
-#EXTINF:0,HOME & LIVING
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 
 #EXTINF:0,HR EVENT
 http://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
@@ -988,17 +826,8 @@ http://rr2.dens.tv/s/s04/index.m3u8
 #EXTINF:0,INEWS TV
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0,INSAN TV
-http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
-
 #EXTINF:0,IN TV
 http://rr2.dens.tv/s/s46/index.m3u8
-
-#EXTINF:0,JAK TV
-http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:0,JAMBI TV
-http://122.248.32.234:1935/ch23/myStream/playlist.m3u8
 
 #EXTINF:0,JASMINE TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
@@ -1009,12 +838,6 @@ http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
 #EXTINF:0,J'GO TV
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
 
-#EXTINF:0,JPM
-http://122.248.32.234:1935/jpm/myStream/playlist.m3u8
-
-#EXTINF:0,JTV SURABAYA
-http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
 #EXTINF:0,K+
 http://rr.dens.tv/h/h08/index.m3u8
 
@@ -1024,41 +847,23 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 #EXTINF:0,KBS WORLD
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/index.m3u8
 
-#EXTINF:0,KITANESIA
-http://stream1.ninmedia.tv/live/xmedia-kitanesiatv.stream_nin/playlist.m3u8
-
 #EXTINF:0,KIX
 http://rr.dens.tv/h/h07/index.m3u8
-
-#EXTINF:0,KLIK MUSIC
-http://stream1.ninmedia.tv/live/xmedia-klikmusictv.stream_nin/playlist.m3u8
 
 #EXTINF:0,KOMPAS TV
 http://rr2.dens.tv/s/s09/index.m3u8
 
-#EXTINF:0,KTV
-http://stream-02.sg1.dailymotion.com/dm/3/x6pjk61/live.m3u8
-
 #EXTINF:0,LEJEL HOME SHOPPING
 http://rr2.dens.tv/s/s42/index.m3u8
 
-#EXTINF:0,LIFETIME
-http://rr.dens.tv/h/h235/index.m3u8
-
 #EXTINF:0,MADANI TV
 http://stream.asianastream.com:1935/live/ngrp:madanitv_all/playlist.m3u8
-
-#EXTINF:0,MADU TV
-http://videostream.indostreamserver.com:1935/madufm/live/playlist.m3u8
 
 #EXTINF:0,MAHA MOVIE
 http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/playlist.m3u8
 
 #EXTINF:0,MAKKAH TV
 http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
-
-#EXTINF:0,MALEO TV
-http://stream1.ninmedia.tv/live/xmedia-maleotv.stream_nin/playlist.m3u8
 
 #EXTINF:0,MEDIASET 20
 http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch25)/index.m3u8
@@ -1105,12 +910,6 @@ http://rr2.dens.tv/s/s49/index.m3u8
 #EXTINF:0,MIAMI TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
-#EXTINF:0,MK TV
-http://stream1.ninmedia.tv/live/xmedia-mktv.stream_nin/playlist.m3u8
-
-#EXTINF:0,MNC TV
-http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
 #EXTINF:0,MTA ORIGIN
 http://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
 
@@ -1120,23 +919,8 @@ http://203.153.218.156:1935/live/myStream/playlist.m3u8
 #EXTINF:0,MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-#EXTINF:0,MY CINEMA
-http://rr2.dens.tv/x6bnqe/s/s31/S4/mnf.m3u8
-
 #EXTINF:0,MY KIDS
 http://210.210.155.35/x6bnqe/s/s30/S4/mnf.m3u8
-
-#EXTINF:0,NABAWI TV
-http://stream2.ninmedia.tv/live/xmedia-nabawitv.stream_nin/playlist.m3u8
-
-#EXTINF:0,NADA MUSLIM TV
-http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
-
-#EXTINF:0,NAT GEO WILD
-http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=9HBzxNeuVKCF9tSg8EJBDQouJrh4MyHZjmkMJGdq8Uh4APAFd9-6ylJqTh03popl
-
-#EXTINF:0,NATIONAL GEOGRAPHIC
-http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=7uN8irTYbg4krqClT-fumw597nysiQLTedMw2_3HXq8XMkPGnw_lsCxqZx7OHAcc
 
 #EXTINF:0,NDR HAMBURG
 http://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
@@ -1149,12 +933,6 @@ http://rr1.dens.tv/h/h29/index.m3u8
 
 #EXTINF:0,NHK WORLD
 http://rr.dens.tv/h/h23/index.m3u8
-
-#EXTINF:0,NIAGA TV
-http://119.235.249.58:1935/niagatv/live/playlist.m3u8
-
-#EXTINF:0,NIRWANA TV
-http://122.248.32.234:1935/ch8/myStream/playlist.m3u8
 
 #EXTINF:0,NU CHANNEL
 http://stream1.ninmedia.tv/live/xmedia-nuchannel.stream_nin/playlist.m3u8
@@ -1174,9 +952,6 @@ http://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
 #EXTINF:0,PARLIMEN TV
 http://rtm-live.glueapi.io/smil:rtmch007.smil/playlist.m3u8
 
-#EXTINF:0,PAYTREN TV
-http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
-
 #EXTINF:0,PHOENIX
 http://rr2.dens.tv/s/s21/index.m3u8
 
@@ -1195,26 +970,11 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:0,RAI GULP
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 
-#EXTINF:0,RAI MOVIE
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
-#EXTINF:0,RAI NEWS
-http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
-
 #EXTINF:0,RAI PREMIUM
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 
-#EXTINF:0,RAI SPORT 1
-http://raisportuno1-live.akamaized.net/hls/live/598320/raisportuno1/raisport1_1800/chunklist.m3u8
-
-#EXTINF:0,RAI SPORT 2
-http://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8
-
 #EXTINF:0,RAI YOYO
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
-
-#EXTINF:0,RCTI
-http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0,REFORMED 21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
@@ -1243,17 +1003,11 @@ http://rr2.dens.tv/s/s38/index.m3u8
 #EXTINF:0,RTV
 http://rr2.dens.tv/s/s12/index.m3u8
 
-#EXTINF:0,RUMAH TV
-http://stream2.ninmedia.tv/live/xmedia-rumahtv.stream_nin/playlist.m3u8
-
 #EXTINF:0,SAKTI TV
 http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
 
 #EXTINF:0,SALAM TV
 http://wowza60.beetecmedia.com:1935/salamtv/live/playlist.m3u8
-
-#EXTINF:0,SALING SAPA
-http://stream2.ninmedia.tv/live/nin-salingsapa.stream_nin/playlist.m3u8
 
 #EXTINF:0,SALURAN FILM INDONESIA
 http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/playlist.m3u8
@@ -1291,26 +1045,11 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.
 #EXTINF:0,SNRT - AT-TAMAZIGHT
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 
-#EXTINF:0,SONY CHANNEL
-http://rr.dens.tv/h/h142/index.m3u8
-
-#EXTINF:0,SONY MIX
-http://103.14.127.39:1935/sonymix/sonymix.stream_360p/playlist.m3u8
-
-#EXTINF:0,SONY ONE
-http://rr.dens.tv/h/h143/index.m3u8
-
 #EXTINF:0,SONY TEN SPORTS 1
 http://163.172.218.205:8081/Ten/1/index.m3u8
 
-#EXTINF:0,SONY TEN SPORTS 2
-http://163.172.218.205:8081/2Ten/2/index.m3u8
-
 #EXTINF:0,SONY TEN SPORTS 3
 http://163.172.218.205:8081/Ten/3/index.m3u8
-
-#EXTINF:0,STAR VIJAY
-http://216.144.250.174/Star_Vijay_hD/tracks-v1a1/index.m3u8
 
 #EXTINF:0,SUNNAH NABAWIYAH
 http://rr2.dens.tv/s/s27/index.m3u8
@@ -1323,9 +1062,6 @@ http://stream1.ninmedia.tv/live/xmedia-tabalongtv.stream_nin/playlist.m3u8
 
 #EXTINF:0,TAGESSCHAU 24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-
-#EXTINF:0,TAHFIDZ TV
-http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 
 #EXTINF:0,TBN ARMENIA
 http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8
@@ -1363,9 +1099,6 @@ http://rr2.dens.tv/s/s05/index.m3u8
 #EXTINF:0,TRANS7
 http://rr2.dens.tv/s/s06/index.m3u8
 
-#EXTINF:0,TRT WORLD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
 #EXTINF:0,TV CHOSUN
 http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/playlist.m3u8
 
@@ -1375,32 +1108,17 @@ http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
 #EXTINF:0,TV2
 http://rtm-live.glueapi.io/smil:rtmch002.smil/playlist.m3u8
 
-#EXTINF:0,TV3
-http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live.m3u8
-
 #EXTINF:0,TV5 MONDE
 http://rr2.dens.tv/s/s24/index.m3u8
 
-#EXTINF:0,TV7
-http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
-
-#EXTINF:0,TV8
-http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live.m3u8
-
 #EXTINF:0,TV9 NUSANTARA
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
-
-#EXTINF:0,TV9
-http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 
 #EXTINF:0,TVE
 http://rr2.dens.tv/s/s25/index.m3u8
 
 #EXTINF:0,TVi
 http://rtm-live.glueapi.io/smil:rtmch004.smil/playlist.m3u8
-
-#EXTINF:0,TVKU
-http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:0,TVONE
 http://rr2.dens.tv/s/s02/index.m3u8
@@ -1425,9 +1143,6 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
 #EXTINF:0,VOICE OF AMERICA (ARA)
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-
-#EXTINF:0,WARNER BROS TV
-http://rr.dens.tv/h/h233/index.m3u8
 
 #EXTINF:0,WESAL TV
 http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
@@ -1468,51 +1183,3164 @@ http://z5ams.akamaized.net/zcinemahd/playlist.m3u8
 #EXTINF:0,ZEE CINEMA
 http://z5ams.akamaized.net/zcinemasd/playlist.m3u8
 
-#EXTINF:0,ZEE STUDIO
-http://z5ams.akamaized.net/zeestudiosd/playlist.m3u8
-
 #EXTINF:0,ZEE WORLD
 http://z5ams.akamaized.net/world/playlist.m3u8
 
 #EXTINF:0,ZING
 http://z5ams.akamaized.net/zing/playlist.m3u8
 
-#EXTM3U
-#EXTINF:0,group-title="NEWS"",ESPN NEWS
-http://23.237.22.82:8086/udp/127.0.0.1:56254
+#EXTINF:0 group-title="AF: Afghanistan",AF: KTV SPORT
+http://www.elahmad.com/tv/m3u8/ktv.m3u8
 
-#EXTINF:0,group-title="NEWS"",FOX NEWS
-http://23.237.22.82:8086/udp/127.0.0.1:56077
+#EXTINF:0 group-title="AFR: Africa",AFR: CANAL SPORT 1
+http://185.132.179.43:8000/live/OG82YHlMmyo4e2T/HAlIrAIpqdfhEuH/854.ts
 
-#EXTINF:0,group-title="SPORTS"",FOX SPORT 1
-http://23.237.22.82:8086/udp/127.0.0.1:56046
+#EXTINF:0 group-title="AFR: Africa",AFR: CANAL SPORT 1 (1+)
+http://185.132.179.43:8000/live/OG82YHlMmyo4e2T/HAlIrAIpqdfhEuH/854.m3u8
 
-#EXTINF:0,group-title="SPORTS"",FOX 5
-http://23.237.22.82:8086/udp/127.0.0.1:56163
+#EXTINF:0 group-title="AFR: Africa",AFR: CANAL SPORT 2
+http://185.132.179.43:8000/live/OG82YHlMmyo4e2T/HAlIrAIpqdfhEuH/855.ts
 
-#EXTINF:0,group-title="SPORTS"",NBA TV
-http://23.237.22.82:8086/udp/127.0.0.1:56052
+#EXTINF:0 group-title="AFR: Africa",AFR: CANAL SPORT 2 (1+)
+http://185.132.179.43:8000/live/OG82YHlMmyo4e2T/HAlIrAIpqdfhEuH/855.m3u8
 
-#EXTINF:0,group-title="MOVIES"",HALLMARK
-http://23.237.22.82:8086/udp/127.0.0.1:56067
+#EXTINF:0 group-title="AFR: Africa",AFR: DIASPORA24
+http://185.132.179.43:8000/live/OG82YHlMmyo4e2T/HAlIrAIpqdfhEuH/911.ts
 
-#EXTINF:0,group-title="SPORTS"",BEIN SPORT
-http://23.237.22.82:8086/udp/127.0.0.1:56021
+#EXTINF:0 group-title="AFR: Africa",AFR: DIASPORA24 (1+)
+http://185.132.179.43:8000/live/OG82YHlMmyo4e2T/HAlIrAIpqdfhEuH/911.m3u8
 
-#EXTINF:0,group-title="MOVIES"",TNT
-http://23.237.22.82:8086/udp/127.0.0.1:56261
+#EXTINF:0 group-title="AL: Albania",AL: EUROSPORT 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26518.ts
 
-#EXTINF:0,group-title="SPORTS"",BEIN LALIGA
-http://23.237.22.82:8086/udp/127.0.0.1:56022
+#EXTINF:0 group-title="AL: Albania",AL: EUROSPORT 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26518.ts
 
-#EXTINF:0,group-title="Dokumenter"",NAT GEO WILD
-http://23.237.22.82:8086/udp/127.0.0.1:56263
+#EXTINF:0 group-title="AL: Albania",AL: EUROSPORT 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26517.ts
 
-#EXTINF:0,group-title="SPORTS"",BEIN SPORT 4
-http://23.237.22.82:8086/udp/127.0.0.1:56024
+#EXTINF:0 group-title="AL: Albania",AL: EUROSPORT 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26517.ts
 
-#EXTINF:0,group-title="SPORTS"",BEIN SPORT 5
-http://23.237.22.82:8086/udp/127.0.0.1:56025
+#EXTINF:0 group-title="AL: Albania",AL: KUJTESA SPORT 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26494.ts
 
-#EXTINF:0,group-title="NEWS"",CNN
-http://23.237.22.82:8086/udp/127.0.0.1:56264
+#EXTINF:0 group-title="AL: Albania",AL: KUJTESA SPORT 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26494.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: KUJTESA SPORT 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26493.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: KUJTESA SPORT 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26493.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: KUJTESA SPORT 3 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26492.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: KUJTESA SPORT 3 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26492.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: KUJTESA SPORT 4 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26491.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: KUJTESA SPORT 4 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26491.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: RTSH SPORT HD
+http://193.200.164.163:80/live/Malika/Malika2018/26548.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: RTSH SPORT (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26548.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SPORT
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/563.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26471.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26471.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26470.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26470.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 3 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26469.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 3 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26469.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 4 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26468.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 4 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26468.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 5 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26467.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 5 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26467.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 6 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26466.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 6 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26466.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 7 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26465.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT 7 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26465.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT KOSOVA 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26463.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SUPER SPORT KOSOVA 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26463.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SUPERSPORT 5
+http://37.187.156.144:1453/live/james.cameron937/iefrhb4rgb6784/4993.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: SUPERSPORT KOSOVA 1
+http://37.187.156.144:1453/live/james.cameron937/iefrhb4rgb6784/4994.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: TELE SPORT
+http://193.200.164.163:80/live/Malika/Malika2018/26459.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: TELE SPORT (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26459.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: TRING SPORT 1 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26441.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: TRING SPORT 2 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26440.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: TRING SPORT 3 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26439.ts
+
+#EXTINF:0 group-title="AL: Albania",AL: TRING SPORT 4 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26438.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORT 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/755.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORT 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/755.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/1445.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 OPT 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 OPT 1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 OPT 2 HD
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 OPT 3 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/1446.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 OPT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 OPT 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 OPT 3 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABUDHABI SPORTS 2 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/22038.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABUDHABI SPORTS 3 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/22037.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABUDHABI SPORTS 4 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/22036.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABUDHABI SPORTS 5 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/22035.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: ABUDHABI SPORTS 6 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/22034.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: AD SPORT 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/756.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: AD SPORT 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/756.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: AL ANBAR
+http://193.200.164.163:80/live/Malika/Malika2018/640.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: AL ANBAR (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/640.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: AL IRAQIA SPORT
+http://193.200.164.163:80/live/Malika/Malika2018/676.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: AL IRAQIA SPORT (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/676.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: AL KASS SPORTS 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BAHRAIN SPORTS
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/140.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BAHRAIN SPORTS (1+)
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BAHRAIN SPORTS 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/735.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BAHRAIN SPORTS 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/735.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BAHRAIN SPORTS 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/734.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BAHRAIN SPORTS 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/734.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT HD
+http://193.200.164.163:80/live/Malika/Malika2018/27902.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27926.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27902.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27926.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT 4 HD
+http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/5.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT 4 (2+) HD
+http://www.freeiptvdaily.net:8000/live/C4jrr5f1uG/freeiptvdaily.tv/5.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT 4 (5+) HD
+http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/5.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/788.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1 (1+) HD
+http://212.8.248.94:2103/live/nani27/nani27/10081.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1 (2+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27901.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1 (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27901.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1 (5+) HD
+http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/2.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1 (8+) HD
+http://www.freeiptvdaily.net:8000/live/C4jrr5f1uG/freeiptvdaily.tv/2.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1 (12+) HD
+http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/2.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1
+http://212.8.248.94:2103/live/nani27/nani27/2600.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 10 HD
+http://212.8.248.94:2103/live/nani27/nani27/797.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 10 (1+) HD
+http://212.8.248.94:2103/live/nani27/nani27/10072.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 10 (2+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27892.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 10 (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27892.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 10 (4+) HD
+http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/24.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 10 (5+) HD
+http://www.freeiptvdaily.net:8000/live/C4jrr5f1uG/freeiptvdaily.tv/24.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 10
+http://212.8.248.94:2103/live/nani27/nani27/2609.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 13 HD
+http://193.200.164.163:80/live/Malika/Malika2018/27889.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 13 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27889.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 14 HD
+http://193.200.164.163:80/live/Malika/Malika2018/27888.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 14 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27888.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 15 HD
+http://193.200.164.163:80/live/Malika/Malika2018/27887.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 15 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27887.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 16 HD
+http://193.200.164.163:80/live/Malika/Malika2018/27886.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 16 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27886.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/789.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2 (1+) HD
+http://212.8.248.94:2103/live/nani27/nani27/10080.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2 (2+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27900.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2 (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27900.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2 (5+) HD
+http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/3.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2 (8+) HD
+http://www.freeiptvdaily.net:8000/live/C4jrr5f1uG/freeiptvdaily.tv/3.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2 (12+) HD
+http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/3.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2
+http://212.8.248.94:2103/live/nani27/nani27/2601.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3 HD
+http://212.8.248.94:2103/live/nani27/nani27/790.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3 (1+) HD
+http://212.8.248.94:2103/live/nani27/nani27/10079.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3 (2+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27899.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3 (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27899.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3 (5+) HD
+http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/4.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3 (8+) HD
+http://www.freeiptvdaily.net:8000/live/C4jrr5f1uG/freeiptvdaily.tv/4.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3 (12+) HD
+http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/4.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3
+http://212.8.248.94:2103/live/nani27/nani27/2602.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 4 HD
+http://212.8.248.94:2103/live/nani27/nani27/791.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 4 (1+) HD
+http://212.8.248.94:2103/live/nani27/nani27/10078.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 4 (2+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27898.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 4 (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27898.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 4
+http://212.8.248.94:2103/live/nani27/nani27/2603.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5 HD
+http://212.8.248.94:2103/live/nani27/nani27/792.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5 (1+) HD
+http://212.8.248.94:2103/live/nani27/nani27/10077.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5 (2+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27897.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5 (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27897.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5 (5+) HD
+http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/6.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5 (8+) HD
+http://www.freeiptvdaily.net:8000/live/C4jrr5f1uG/freeiptvdaily.tv/6.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5 (12+) HD
+http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/6.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5
+http://212.8.248.94:2103/live/nani27/nani27/2604.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6 HD
+http://212.8.248.94:2103/live/nani27/nani27/793.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6 (1+) HD
+http://212.8.248.94:2103/live/nani27/nani27/10076.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6 (2+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27896.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6 (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27896.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6 (5+) HD
+http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/7.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6 (8+) HD
+http://www.freeiptvdaily.net:8000/live/C4jrr5f1uG/freeiptvdaily.tv/7.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6 (12+) HD
+http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/7.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6
+http://212.8.248.94:2103/live/nani27/nani27/2605.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7 HD
+http://212.8.248.94:2103/live/nani27/nani27/794.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7 (1+) HD
+http://212.8.248.94:2103/live/nani27/nani27/10075.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7 (2+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27895.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7 (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27895.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7 (5+) HD
+http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/8.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7 (8+) HD
+http://www.freeiptvdaily.net:8000/live/C4jrr5f1uG/freeiptvdaily.tv/8.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7 (12+) HD
+http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/8.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7
+http://212.8.248.94:2103/live/nani27/nani27/2606.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 8 HD
+http://212.8.248.94:2103/live/nani27/nani27/795.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 8 (1+) HD
+http://212.8.248.94:2103/live/nani27/nani27/10074.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 8 (2+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27894.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 8 (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27894.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 8 (5+) HD
+http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/9.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 8 (8+) HD
+http://www.freeiptvdaily.net:8000/live/C4jrr5f1uG/freeiptvdaily.tv/9.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 8 (12+) HD
+http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/9.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9 HD
+http://212.8.248.94:2103/live/nani27/nani27/796.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9 (1+) HD
+http://212.8.248.94:2103/live/nani27/nani27/10073.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9 (2+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27893.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9 (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27893.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9 (5+) HD
+http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/10.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9 (8+) HD
+http://www.freeiptvdaily.net:8000/live/C4jrr5f1uG/freeiptvdaily.tv/10.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9 (12+) HD
+http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/10.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9
+http://212.8.248.94:2103/live/nani27/nani27/2608.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS NBA HD
+http://193.200.164.163:80/live/Malika/Malika2018/27884.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS NBA (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27884.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEOUTQ SPORTS 1 HD
+http://37.187.156.144:1453/live/james.cameron937/iefrhb4rgb6784/6826.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEOUTQ SPORTS 2 HD
+http://37.187.156.144:1453/live/james.cameron937/iefrhb4rgb6784/6825.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEOUTQ SPORTS 3 HD
+http://37.187.156.144:1453/live/james.cameron937/iefrhb4rgb6784/6824.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEOUTQ SPORTS 4 HD
+http://37.187.156.144:1453/live/james.cameron937/iefrhb4rgb6784/6823.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEOUTQ SPORTS 5 HD
+http://37.187.156.144:1453/live/james.cameron937/iefrhb4rgb6784/6822.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEOUTQ SPORTS 6 HD
+http://37.187.156.144:1453/live/james.cameron937/iefrhb4rgb6784/6821.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BEOUTQ SPORTS 7 HD
+http://37.187.156.144:1453/live/james.cameron937/iefrhb4rgb6784/6820.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORTS 2 HD
+http://37.187.156.144:1453/live/james.cameron937/iefrhb4rgb6784/658.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORTS 4HD
+http://37.187.156.144:1453/live/james.cameron937/iefrhb4rgb6784/660.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORTS 5HD
+http://37.187.156.144:1453/live/james.cameron937/iefrhb4rgb6784/661.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORTS 6HD
+http://37.187.156.144:1453/live/james.cameron937/iefrhb4rgb6784/662.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORTS 7 HD
+http://37.187.156.144:1453/live/james.cameron937/iefrhb4rgb6784/1763.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORTS 8HD
+http://37.187.156.144:1453/live/james.cameron937/iefrhb4rgb6784/663.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: BN SPORTS 9HD
+http://37.187.156.144:1453/live/james.cameron937/iefrhb4rgb6784/664.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: DMC SPORTS
+http://193.200.164.163:80/live/Malika/Malika2018/789.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: DMC SPORTS (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/789.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/757.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/757.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 1 (2+) HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/13.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 1 (3+) HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/13.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 1
+http://212.8.248.94:2103/live/nani27/nani27/2252.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 2 HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/14.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 2 (1+) HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/14.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 2
+http://212.8.248.94:2103/live/nani27/nani27/2253.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 2 (1+)
+http://193.200.164.163:80/live/Malika/Malika2018/744.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 2 (2+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/744.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 3
+http://193.200.164.163:80/live/Malika/Malika2018/743.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 3 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/743.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/758.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/758.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT 4
+http://193.200.164.163:80/live/Malika/Malika2018/745.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT 4 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/745.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT SPORTS
+http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS HD
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS 3 HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/18.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS 3 (1+) HD
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/18.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: FOX SPORTS 1
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/14214.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: FOX SPORTS 2
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/14213.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: JORDAN SPORT
+http://193.200.164.163:80/live/Malika/Malika2018/719.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: JORDAN SPORT (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/719.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: KTV SPORT HD
+http://193.200.164.163:80/live/Malika/Malika2018/599.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: KTV SPORT (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/599.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: KTV SPORT
+http://193.200.164.163:80/live/Malika/Malika2018/594.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: KTV SPORT (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/594.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: KUWEIT TV SPORT HD
+http://212.8.248.94:2103/live/nani27/nani27/1779.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: NEELAIN SPORT
+http://193.200.164.163:80/live/Malika/Malika2018/19152.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: NEELAIN SPORT (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19152.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: NILE SPORT
+http://193.200.164.163:80/live/Malika/Malika2018/848.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: NILE SPORT (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/848.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: NILE SPORTS
+http://212.8.248.94:2103/live/nani27/nani27/725.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: ON TV SPORT HD
+http://193.200.164.163:80/live/Malika/Malika2018/808.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: ON TV SPORT (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/808.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: ON TV SPORT
+http://193.200.164.163:80/live/Malika/Malika2018/809.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: ON TV SPORT (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/809.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: OSN BOX OFFICE 1 (3+) HD
+http://www.freeiptvdaily.net:8000/live/C4jrr5f1uG/freeiptvdaily.tv/47.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: OSN BOX OFFICE 1 (5+) HD
+http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/47.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: OSN BOX OFFICE 2 (3+) HD
+http://www.freeiptvdaily.net:8000/live/C4jrr5f1uG/freeiptvdaily.tv/48.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: OSN BOX OFFICE 2 (5+) HD
+http://www.freeiptvdaily.net:8000/live/samiaiche1987b@gmail.com/0J5ZsNcvDh/48.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: OSN SPORTS ACTION 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/7058.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: OSN SPORTS ACTION 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/4373.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: PALESTINE SPORT
+http://193.200.164.163:80/live/Malika/Malika2018/619.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: PALESTINE SPORT (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/619.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: QHD BEIN SPORTS HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27923.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: QHD BEIN SPORTS 1 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27921.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: QHD BEIN SPORTS 10 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27912.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: QHD BEIN SPORTS 2 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27920.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: QHD BEIN SPORTS 3 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27919.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: QHD BEIN SPORTS 4 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27918.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: QHD BEIN SPORTS 5 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27917.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: QHD BEIN SPORTS 6 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27916.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: QHD BEIN SPORTS 7 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27915.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: QHD BEIN SPORTS 8 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27914.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: QHD BEIN SPORTS 9 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27913.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: S7T SPORT HD
+http://193.200.164.163:80/live/Malika/Malika2018/27449.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: SPORT
+http://193.200.164.163:80/live/Malika/Malika2018/904.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: SPORT (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/904.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: SPORT (2+)
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/569.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: SPORT (3+)
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/570.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: SPORT 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/731.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: SPORTS 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/19164.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: SPORTS 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19164.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: SPORTS 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26603.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: SPORTS 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26603.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: SPORTS PLUS 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26602.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: SPORTS PLUS 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26602.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: SPORTS PLUS 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26601.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: SPORTS PLUS 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26601.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: SUDAN SPORT HD
+http://193.200.164.163:80/live/Malika/Malika2018/20950.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: SUDAN SPORT (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/20950.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: SUDAN SPORT
+http://193.200.164.163:80/live/Malika/Malika2018/19147.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: SUDAN SPORT (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19147.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: VARZESH TV SPORTS IR
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+
+#EXTINF:0 group-title="AR: Arabia",AR: YAS SPORT HD
+http://193.200.164.163:80/live/Malika/Malika2018/754.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: YAS SPORT (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/754.ts
+
+#EXTINF:0 group-title="AR: Arabia",AR: YAS SPORTS UPDATED
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+
+#EXTINF:0 group-title="ARG: Argentina",ARG: FOX SPORTS HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/10406.ts
+
+#EXTINF:0 group-title="ARG: Argentina",ARG: FOX SPORTS (1+) HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11713.ts
+
+#EXTINF:0 group-title="ARG: Argentina",ARG: FOX SPORTS
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/14217.ts
+
+#EXTINF:0 group-title="ARG: Argentina",ARG: FOX SPORTS 2 HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/4885.ts
+
+#EXTINF:0 group-title="ARG: Argentina",ARG: FOX SPORTS 3 HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/4886.ts
+
+#EXTINF:0 group-title="ARG: Argentina",ARG: FOX SPORTS PREMIUM HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/10405.ts
+
+#EXTINF:0 group-title="ARG: Argentina",ARG: FOX SPORTS PREMIUM (1+) HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/14732.ts
+
+#EXTINF:0 group-title="ARG: Argentina",ARG: FOX SPORTS SOLO EVENTOS
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/9384.ts
+
+#EXTINF:0 group-title="ARG: Argentina",ARG: FOX SPORTS SOLO EVENTOS (1+)
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/15469.ts
+
+#EXTINF:0 group-title="ARG: Argentina",ARG: UMAGTV 2 PUNTA ARENAS
+http://edge1.cl.grupoz.cl/itser4/tser4.sdp/chunklist_w638282256.m3u8
+
+#EXTINF:0 group-title="BG: Bulgaria",BG: DIEMA SPORT
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21571.ts
+
+#EXTINF:0 group-title="BG: Bulgaria",BG: DIEMA SPORT 2
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21570.ts
+
+#EXTINF:0 group-title="BG: Bulgaria",BG: EUROSPORT HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21563.ts
+
+#EXTINF:0 group-title="BG: Bulgaria",BG: EUROSPORT
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21565.ts
+
+#EXTINF:0 group-title="BG: Bulgaria",BG: EUROSPORT 2
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21564.ts
+
+#EXTINF:0 group-title="BG: Bulgaria",BG: NOVA SPORT
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21541.ts
+
+#EXTINF:0 group-title="BG: Bulgaria",BG: SPORT PLUS HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21540.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: FIGHT NETWORK HD
+http://212.8.248.94:2103/live/nani27/nani27/3529.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: FIGHT NETWORK
+http://193.200.164.163:80/live/Malika/Malika2018/30465.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: FIGHT NETWORK (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/30465.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: GINX ESPORTS TV HD
+http://212.8.248.94:2103/live/nani27/nani27/3370.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: GINX ESPORTS TV
+http://193.200.164.163:80/live/Malika/Malika2018/30456.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: GINX ESPORTS TV (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/30456.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: GOLF
+http://212.8.248.94:2103/live/nani27/nani27/3475.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: GOLF (1+)
+http://193.200.164.163:80/live/Malika/Malika2018/30452.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: GOLF (2+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/30452.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: GOLF (3+)
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11456.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: MLB NETWORK
+http://193.200.164.163:80/live/Malika/Malika2018/30426.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: MLB NETWORK (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/30426.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: NBA TV
+http://212.8.248.94:2103/live/nani27/nani27/3458.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: NBA TV (1+)
+http://193.200.164.163:80/live/Malika/Malika2018/30418.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: NBA TV (2+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/30418.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: NFL NETWORK
+http://193.200.164.163:80/live/Malika/Malika2018/30415.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: NFL NETWORK (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/30415.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET 360 HD
+http://212.8.248.94:2103/live/nani27/nani27/3469.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET 360
+http://193.200.164.163:80/live/Malika/Malika2018/30387.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET 360 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/30387.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET EAST
+http://212.8.248.94:2103/live/nani27/nani27/3412.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET EAST (1+)
+http://193.200.164.163:80/live/Malika/Malika2018/30386.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET EAST (2+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/30386.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET ONE HD
+http://212.8.248.94:2103/live/nani27/nani27/3468.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET ONE
+http://193.200.164.163:80/live/Malika/Malika2018/30385.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET ONE (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/30385.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET ONTARIO HD
+http://212.8.248.94:2103/live/nani27/nani27/3467.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET ONTARIO
+http://193.200.164.163:80/live/Malika/Malika2018/30384.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET ONTARIO (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/30384.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET PACIFIC HD
+http://212.8.248.94:2103/live/nani27/nani27/3499.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET PACIFIC
+http://193.200.164.163:80/live/Malika/Malika2018/30383.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET PACIFIC (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/30383.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET WEST
+http://212.8.248.94:2103/live/nani27/nani27/3455.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET WEST (1+)
+http://193.200.164.163:80/live/Malika/Malika2018/30382.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET WEST (2+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/30382.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: TVA SPORTS
+http://212.8.248.94:2103/live/nani27/nani27/3493.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: TVA SPORTS (1+)
+http://193.200.164.163:80/live/Malika/Malika2018/30350.ts
+
+#EXTINF:0 group-title="CA: Canada",CA: TVA SPORTS (2+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/30350.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT 1 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1330.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT 1
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1448.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT 2 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1329.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT 2
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1447.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT 3 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1328.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT 3
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1446.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT MAX 5 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/18689.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT MAX 6 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/18688.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT MAX 7 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/18687.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT MAX 8 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/18686.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT MAX 9 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/18685.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT MAX10
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1373.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT MAX4
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1372.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT MAX5
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1371.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT MAX6
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1370.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT MAX8
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1368.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEIN SPORT MAX9
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1367.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEINSPORT1 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1419.ts
+
+#EXTINF:0 group-title="FR: France",FR: BEINSPORT3 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1417.ts
+
+#EXTINF:0 group-title="FR: France",FR: BFM SPORT HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/18683.ts
+
+#EXTINF:0 group-title="FR: France",FR: CANAL SPORT HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1315.ts
+
+#EXTINF:0 group-title="FR: France",FR: CANAL SPORT (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1495.ts
+
+#EXTINF:0 group-title="FR: France",FR: CANAL SPORT
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1422.ts
+
+#EXTINF:0 group-title="FR: France",FR: EUROSPORT 1HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1332.ts
+
+#EXTINF:0 group-title="FR: France",FR: EUROSPORT 2 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1331.ts
+
+#EXTINF:0 group-title="FR: France",FR: EUROSPORT SPORTS
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+
+#EXTINF:0 group-title="FR: France",FR: EUROSPORT1 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1415.ts
+
+#EXTINF:0 group-title="FR: France",FR: EUROSPORT2 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1414.ts
+
+#EXTINF:0 group-title="FR: France",FR: EXTREME SPORTS HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1292.ts
+
+#EXTINF:0 group-title="FR: France",FR: EXTREME SPORTS (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1408.ts
+
+#EXTINF:0 group-title="FR: France",FR: GOLF HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1289.ts
+
+#EXTINF:0 group-title="FR: France",FR: GOLF (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1410.ts
+
+#EXTINF:0 group-title="FR: France",FR: GOLF CHANNEL HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1290.ts
+
+#EXTINF:0 group-title="FR: France",FR: GOLF CHANNEL (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1409.ts
+
+#EXTINF:0 group-title="FR: France",FR: INFO SPORT
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1399.ts
+
+#EXTINF:0 group-title="FR: France",FR: INFOSPORT HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1340.ts
+
+#EXTINF:0 group-title="FR: France",FR: INFOSPORT (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1416.ts
+
+#EXTINF:0 group-title="FR: France",FR: MOTORSPORT TV HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1411.ts
+
+#EXTINF:0 group-title="FR: France",FR: RMC ACCESS SPORT 1 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1327.ts
+
+#EXTINF:0 group-title="FR: France",FR: RMC ACCESS SPORT 2 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1326.ts
+
+#EXTINF:0 group-title="FR: France",FR: RMC ACCESS SPORT 3 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1325.ts
+
+#EXTINF:0 group-title="FR: France",FR: RMC ACCESS SPORT 4 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1324.ts
+
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT 1 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26597.ts
+
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT 2 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26596.ts
+
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT 3 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26595.ts
+
+#EXTINF:0 group-title="FR: France",FR: RMC SPORT 4 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26594.ts
+
+#EXTINF:0 group-title="FR: France",FR: SFR SPORT 1
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1437.ts
+
+#EXTINF:0 group-title="FR: France",FR: SFR SPORT 2
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1436.ts
+
+#EXTINF:0 group-title="FR: France",FR: SFR SPORT1 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1423.ts
+
+#EXTINF:0 group-title="FR: France",FR: SFR SPORT2 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1422.ts
+
+#EXTINF:0 group-title="FR: France",FR: SFR SPORT3 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1421.ts
+
+#EXTINF:0 group-title="FR: France",FR: SFR SPORT5 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1420.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: DRF1
+http://62.67.13.54:1935/drf1/drf1_livestream_1/playlist.m3u8
+
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/2095.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 1 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/33451.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 1 (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/33451.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/33450.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/33450.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 2 XTRA HD
+http://212.8.248.94:2103/live/nani27/nani27/2094.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 2 XTRA (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/33449.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 2 XTRA (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/33449.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 2 XTRA (3+) HD
+http://higshare.higiptv.net:25461/live/loft366/daffadaqfd/2573.m3u8
+
+#EXTINF:0 group-title="DE: Germany",DE: JUKEBOX
+http://193.200.164.163:80/live/Malika/Malika2018/33500.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: JUKEBOX (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/33500.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: MOTORVISION
+http://193.200.164.163:80/live/Malika/Malika2018/33448.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: MOTORVISION (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/33448.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: ORF SPORT
+http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
+
+#EXTINF:0 group-title="DE: Germany",DE: PL CANAL SPORT HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/1992.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: PL EUROSPORT 1 HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2005.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: PL EUROSPORT 2 HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2006.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: PL EXTREME SPORTS HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2007.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: PL FIGHTBOX HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2008.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: PL FILMBOX ACTION
+http://stars.managercw.com:8000/live/POLAND/POLAND/2009.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: PL FILMBOX ACTION (1+)
+http://stars.managercw.com:8000/live/POLAND/POLAND/2009.m3u8
+
+#EXTINF:0 group-title="DE: Germany",DE: PL FILMBOX FAMILY
+http://stars.managercw.com:8000/live/POLAND/POLAND/2011.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: PL FILMBOX FAMILY (1+)
+http://stars.managercw.com:8000/live/POLAND/POLAND/2011.m3u8
+
+#EXTINF:0 group-title="DE: Germany",DE: PL FILMBOX PREMIUM HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2012.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: PL GOLF CHANNEL
+http://37.59.34.182:8000/live/POLAND/POLAND/2017.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: PL GOLF CHANNEL (1+)
+http://stars.managercw.com:8000/live/POLAND/POLAND/2017.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2053.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT (1+) HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2053.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT EXTRA HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2051.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT EXTRA (1+) HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2051.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT EXTRA
+http://37.59.34.182:8000/live/POLAND/POLAND/2050.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT EXTRA 1
+http://stars.managercw.com:8000/live/POLAND/POLAND/2050.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT FIGHT HD
+http://37.59.34.182:8000/live/POLAND/POLAND/2052.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: PL POLSAT SPORT FIGHT (1+) HD
+http://stars.managercw.com:8000/live/POLAND/POLAND/2052.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: RED BULL TV HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/33445.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/33445.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 1
+http://193.200.164.163:80/live/Malika/Malika2018/33443.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 1 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/33443.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/33444.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/33444.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 2
+http://193.200.164.163:80/live/Malika/Malika2018/33442.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 2 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/33442.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: SKY SPORT 2 (2+)
+http://higshare.higiptv.net:25461/live/loft366/daffadaqfd/2628.m3u8
+
+#EXTINF:0 group-title="DE: Germany",DE: SPORT
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/33454.ts
+
+#EXTINF:0 group-title="DE: Germany",DE: SPORT 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/33452.ts
+
+#EXTINF:0 group-title="IN: India",IN: DONBAS TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: AUTOMOTO TV
+http://193.200.164.163:80/live/Malika/Malika2018/27188.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: AUTOMOTO TV (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27188.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: AUTOMOTO TV (2+)
+http://178.22.187.253:1935/streaming-tv/mp4:myStream1/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: BIKE CHANNELL HD
+http://193.200.164.163:80/live/Malika/Malika2018/27186.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: BIKE CHANNELL (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27192.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: BIKE CHANNELL (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27186.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: BIKE CHANNELL (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27192.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 1
+http://193.200.164.163:80/live/Malika/Malika2018/27181.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 1 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27181.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 10
+http://193.200.164.163:80/live/Malika/Malika2018/27172.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 10 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27172.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 2
+http://193.200.164.163:80/live/Malika/Malika2018/27180.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 2 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27180.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 3
+http://193.200.164.163:80/live/Malika/Malika2018/27179.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 3 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27179.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 4
+http://193.200.164.163:80/live/Malika/Malika2018/27178.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 4 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27178.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 5
+http://193.200.164.163:80/live/Malika/Malika2018/27177.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 5 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27177.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 6
+http://193.200.164.163:80/live/Malika/Malika2018/27176.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 6 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27176.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 7
+http://193.200.164.163:80/live/Malika/Malika2018/27175.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 7 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27175.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 8
+http://193.200.164.163:80/live/Malika/Malika2018/27174.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 8 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27174.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 9
+http://193.200.164.163:80/live/Malika/Malika2018/27173.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: DAZN SPORT 9 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27173.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: EUROSPORT 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/10105.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: EUROSPORT 1 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27191.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: EUROSPORT 1 (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27191.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: EUROSPORT 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/27190.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: EUROSPORT 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27190.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: FOX SPORTS HD
+http://193.200.164.163:80/live/Malika/Malika2018/27206.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: FOX SPORTS (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27207.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: FOX SPORTS (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27206.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: FOX SPORTS (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27207.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: FOX SPORTS
+http://193.200.164.163:80/live/Malika/Malika2018/27205.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: FOX SPORTS (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27205.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: FOX SPORTS 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/27204.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: FOX SPORTS 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27204.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: IRC SPORT TV
+http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: ITALIAN FISHING
+http://193.200.164.163:80/live/Malika/Malika2018/27085.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: ITALIAN FISHING (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27085.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: LAZIO CHANNEL
+http://193.200.164.163:80/live/Malika/Malika2018/27141.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: LAZIO CHANNEL (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27141.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: RAI SPORT
+http://193.200.164.163:80/live/Malika/Malika2018/27329.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: RAI SPORT (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27329.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: RAI SPORT 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/1829.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: RAI SPORT 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/1830.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: RAI SPORTS 1
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/13064.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: RAI SPORTS 2
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/13063.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: RTV SAN MARINO SPORT
+http://194.116.78.102:1935/webtv_live4/_definst_/9UXJ2BJMTMNR/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY FORMULA 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/27202.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY FORMULA 1 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27203.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY FORMULA 1 (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27202.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY FORMULA 1 (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27203.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY FORMULA 1
+http://193.200.164.163:80/live/Malika/Malika2018/27201.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY FORMULA 1 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27201.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY FORMULA 1 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/27200.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY FORMULA 1 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27200.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY MOTO GP HD
+http://193.200.164.163:80/live/Malika/Malika2018/27198.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY MOTO GP (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27199.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY MOTO GP (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27198.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY MOTO GP (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27199.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY MOTO GP
+http://193.200.164.163:80/live/Malika/Malika2018/27197.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY MOTO GP (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27197.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY MOTO GP 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/27196.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY MOTO GP 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27196.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/1387.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 1 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27216.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 1 (2+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27217.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 1 (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27216.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 1 (4+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27217.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 1
+http://193.200.164.163:80/live/Malika/Malika2018/27215.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 1 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27215.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/1388.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 2 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27213.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 2 (2+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27214.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 2 (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27213.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 2 (4+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27214.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 2
+http://193.200.164.163:80/live/Malika/Malika2018/27212.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 2 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27212.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 24 HD
+http://212.8.248.94:2103/live/nani27/nani27/7164.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 24 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27219.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 24 (2+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27220.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 24 (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27219.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 24 (4+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27220.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 24
+http://193.200.164.163:80/live/Malika/Malika2018/27218.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 24 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27218.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 3 HD
+http://212.8.248.94:2103/live/nani27/nani27/1390.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 3 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27210.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 3 (2+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27211.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 3 (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27210.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 3 (4+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27211.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 3
+http://193.200.164.163:80/live/Malika/Malika2018/27209.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 3 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27209.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT FORMULA 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/7166.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT MOTO GP HD
+http://212.8.248.94:2103/live/nani27/nani27/1819.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT PLUS HD
+http://193.200.164.163:80/live/Malika/Malika2018/27194.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT PLUS (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/27195.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT PLUS (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27194.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT PLUS (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27195.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT PLUS
+http://193.200.164.163:80/live/Malika/Malika2018/27193.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT PLUS (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27193.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORTS 1
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/13058.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORTS 2
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/13057.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORTS 24
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/13056.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORTS 3
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/13055.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SKY SPORTS PLUS HD
+http://212.8.248.94:2103/live/nani27/nani27/7159.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SPORT
+http://193.200.164.163:80/live/Malika/Malika2018/27189.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SPORT (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27189.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SUPERTENNIS
+http://193.200.164.163:80/live/Malika/Malika2018/27187.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: SUPERTENNIS (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27187.ts
+
+#EXTINF:0 group-title="IT: Italy",IT: TELEARENA ENTERTAINMENT ITALIAN
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TELEROMAGNA SPORT
+http://livetr.teleromagna.it/sport/live/playlist.m3u8
+
+#EXTINF:0 group-title="IT: Italy",IT: TV LUNA SPORT
+http://live.sloode.com:1935/out.tvluna.arju87645hf/lunasport/playlist.m3u8
+
+#EXTINF:0 group-title="MX: Mexico",MX: CLARO SPORTS HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/13985.ts
+
+#EXTINF:0 group-title="MX: Mexico",MX: CNT SPORTS
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/14221.ts
+
+#EXTINF:0 group-title="MX: Mexico",MX: FOX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
+
+#EXTINF:0 group-title="MX: Mexico",MX: FOX SPORTS 1 HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/14390.ts
+
+#EXTINF:0 group-title="MX: Mexico",MX: FOX SPORTS 2 HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/14389.ts
+
+#EXTINF:0 group-title="MX: Mexico",MX: FOX SPORTS 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE05.m3u8
+
+#EXTINF:0 group-title="MX: Mexico",MX: FOX SPORTS 3 HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/14388.ts
+
+#EXTINF:0 group-title="MX: Mexico",MX: TELEFORMULA NEW
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:0 group-title="MX: Mexico",MX: WIN SPORTS
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/13937.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: EUROSPORT 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/1094.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: EUROSPORT 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1094.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: EUROSPORT 1 HEVC HD
+http://193.200.164.163:80/live/Malika/Malika2018/6073.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: EUROSPORT 1 HEVC (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/6073.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: EUROSPORT 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/1093.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: EUROSPORT 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1093.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: EUROSPORT 2 HEVC HD
+http://193.200.164.163:80/live/Malika/Malika2018/6072.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: EUROSPORT 2 HEVC (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/6072.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: EXTREME SPORT
+http://193.200.164.163:80/live/Malika/Malika2018/1096.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: EXTREME SPORT (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1096.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORT 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/1092.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORT 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1092.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORT 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/1091.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORT 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1091.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORT 3 HD
+http://193.200.164.163:80/live/Malika/Malika2018/1090.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORT 3 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1090.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORT 4 HD
+http://193.200.164.163:80/live/Malika/Malika2018/1089.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORT 4 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1089.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORT 5 HD
+http://193.200.164.163:80/live/Malika/Malika2018/1088.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORT 5 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1088.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORT 6 HD
+http://193.200.164.163:80/live/Malika/Malika2018/1087.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORT 6 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1087.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1157.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1
+http://51.15.182.233/hls/sebn4.m3u8
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 HEVC HD
+http://193.200.164.163:80/live/Malika/Malika2018/6060.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1 HEVC (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/6060.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 2 HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1156.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 2 HEVC HD
+http://193.200.164.163:80/live/Malika/Malika2018/6059.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 2 HEVC (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/6059.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 3 HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1155.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 3 HEVC HD
+http://193.200.164.163:80/live/Malika/Malika2018/6058.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 3 HEVC (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/6058.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 4 HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1154.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 4 HEVC HD
+http://193.200.164.163:80/live/Malika/Malika2018/6057.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 4 HEVC (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/6057.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 5 HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1153.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 5 HEVC HD
+http://193.200.164.163:80/live/Malika/Malika2018/6056.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 5 HEVC (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/6056.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 6 HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1152.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 6 HEVC HD
+http://193.200.164.163:80/live/Malika/Malika2018/6055.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 6 HEVC (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/6055.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT HD
+http://193.200.164.163:80/live/Malika/Malika2018/1086.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1086.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT (2+) HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1121.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT EXTRA 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/1081.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT EXTRA 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1081.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT EXTRA 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/1080.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT EXTRA 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1080.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT GOLF HD
+http://193.200.164.163:80/live/Malika/Malika2018/1082.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT GOLF (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1082.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT GOLF
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1122.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT GOLF HEVC HD
+http://193.200.164.163:80/live/Malika/Malika2018/6063.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT GOLF HEVC (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/6063.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT HEVC HD
+http://193.200.164.163:80/live/Malika/Malika2018/6066.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT HEVC (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/6066.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT RACING HD
+http://193.200.164.163:80/live/Malika/Malika2018/1083.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT RACING (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1083.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT RACING
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1120.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT RACING HEVC HD
+http://193.200.164.163:80/live/Malika/Malika2018/6064.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT RACING HEVC (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/6064.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT SELECT HD
+http://193.200.164.163:80/live/Malika/Malika2018/1084.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT SELECT (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1084.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT SELECT
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1119.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT SELECT HEVC HD
+http://193.200.164.163:80/live/Malika/Malika2018/6065.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT SELECT HEVC (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/6065.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT VOETBAL HD
+http://193.200.164.163:80/live/Malika/Malika2018/1085.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT VOETBAL (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1085.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT VOETBAL
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1118.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT VOETBAL HEVC HD
+http://193.200.164.163:80/live/Malika/Malika2018/6062.ts
+
+#EXTINF:0 group-title="NL: Netherlands",NL: ZIGGO SPORT VOETBAL HEVC (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/6062.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: CANAL SPORT
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/803.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: CANAL SPORT 2
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/789.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: ELEVEN SPORT
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/794.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: ELEVEN SPORTS 1 HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/793.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: ELEVEN SPORTS 2 HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/792.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: ELEVEN SPORTS 3 HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/791.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: EUROSPORT 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/19299.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: EUROSPORT 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19299.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: EXTREME SPORTS HD
+http://193.200.164.163:80/live/Malika/Malika2018/19298.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: EXTREME SPORTS (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19298.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: FIGHT BOX
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/790.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: FILMBOX ACTION
+http://193.200.164.163:80/live/Malika/Malika2018/19297.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: FILMBOX EXTRA
+http://193.200.164.163:80/live/Malika/Malika2018/19296.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: FILMBOX EXTRA (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19296.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: FILMBOX PREMIUM HD
+http://193.200.164.163:80/live/Malika/Malika2018/19294.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: FILMBOX PREMIUM (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19294.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: POLSAT SPORT HD
+http://193.200.164.163:80/live/Malika/Malika2018/19331.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: POLSAT SPORT (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19331.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: POLSAT SPORT (2+) HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/749.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: POLSAT SPORT EXTRA HD
+http://193.200.164.163:80/live/Malika/Malika2018/19333.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: POLSAT SPORT EXTRA (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19333.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: POLSAT SPORT EXTRA (2+) HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/751.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: POLSAT SPORT FIGHT
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/750.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: TVP SPORT HD
+http://193.200.164.163:80/live/Malika/Malika2018/19360.ts
+
+#EXTINF:0 group-title="PL: Poland",PL: TVP SPORT (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/19360.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: 100
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:0 group-title="PT: Portugal",PT: ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:0 group-title="PT: Portugal",PT: BAND SPORTS
+http://193.200.164.163:80/live/Malika/Malika2018/20096.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: BAND SPORTS (1+)
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/13146.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26590.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26590.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26589.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26589.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 3 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26588.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 3 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26588.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 4 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26587.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 4 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26587.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 5 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26586.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 5 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26586.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 6 HD
+http://193.200.164.163:80/live/Malika/Malika2018/26585.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: ELEVEN SPORTS 6 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26585.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: ESPN HD
+http://193.200.164.163:80/live/Malika/Malika2018/20086.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: ESPN 1HD
+http://193.200.164.163:80/live/Malika/Malika2018/20085.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: ESPORTE INTERATIVO HD
+http://193.200.164.163:80/live/Malika/Malika2018/20083.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/1900.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT 1
+http://212.8.248.94:2103/live/nani27/nani27/1060.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT 1 (1+)
+http://193.200.164.163:80/live/Malika/Malika2018/2598.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT 1 (2+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2598.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT 2
+http://212.8.248.94:2103/live/nani27/nani27/1061.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT 2 (1+)
+http://193.200.164.163:80/live/Malika/Malika2018/2597.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT 2 (2+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2597.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: FOX SPORT HD
+http://193.200.164.163:80/live/Malika/Malika2018/20079.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: FOX SPORTS2
+http://193.200.164.163:80/live/Malika/Malika2018/20078.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: KOMBAT SPORT
+http://212.8.248.94:2103/live/nani27/nani27/1066.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: KOMBAT SPORT (1+)
+http://193.200.164.163:80/live/Malika/Malika2018/2592.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: KOMBAT SPORT (2+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2592.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: MOTOR VISION
+http://193.200.164.163:80/live/Malika/Malika2018/2593.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: MOTOR VISION (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2593.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: MOTORVISION
+http://212.8.248.94:2103/live/nani27/nani27/1990.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: NBA HD
+http://212.8.248.94:2103/live/nani27/nani27/1895.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: PRIME BOX
+http://maxptv.ddns.net:25461/live/MA020/0706/67.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV HD
+http://212.8.248.94:2103/live/nani27/nani27/1053.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV
+http://193.200.164.163:80/live/Malika/Malika2018/2609.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2609.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/1034.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (1+) HD
+http://212.8.248.94:2103/live/nani27/nani27/1889.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (2+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/2608.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2608.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1
+http://193.200.164.163:80/live/Malika/Malika2018/2607.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2607.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (2+)
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1237.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/1035.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 (1+) HD
+http://212.8.248.94:2103/live/nani27/nani27/1890.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 (2+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/2606.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2606.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1236.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 HD
+http://212.8.248.94:2103/live/nani27/nani27/1036.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 (1+) HD
+http://212.8.248.94:2103/live/nani27/nani27/1891.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 (2+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/2604.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2604.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3
+http://193.200.164.163:80/live/Malika/Malika2018/2603.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2603.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 (2+)
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1235.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 HD
+http://212.8.248.94:2103/live/nani27/nani27/1037.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/2602.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2602.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4
+http://193.200.164.163:80/live/Malika/Malika2018/2601.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2601.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 (2+)
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1234.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 HD
+http://212.8.248.94:2103/live/nani27/nani27/1861.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/2600.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2600.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5
+http://193.200.164.163:80/live/Malika/Malika2018/2599.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2599.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 (2+)
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1233.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV PLUS
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1238.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV UHD HD
+http://212.8.248.94:2103/live/nani27/nani27/1892.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORTING TV HD
+http://212.8.248.94:2103/live/nani27/nani27/1077.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORTING TV
+http://193.200.164.163:80/live/Malika/Malika2018/2591.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORTING TV (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2591.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORTING TV (2+)
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1181.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORTV 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/20050.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORTV 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/20049.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: SPORTV 3 HD
+http://193.200.164.163:80/live/Malika/Malika2018/20048.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP ELEVEN SPORTS 1 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34299.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP ELEVEN SPORTS 2 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34298.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP ELEVEN SPORTS 3 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34297.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP ELEVEN SPORTS 4 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34296.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP ELEVEN SPORTS 5 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34295.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP ELEVEN SPORTS 6 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34294.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP EUROSPORT 1 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34260.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP EUROSPORT 2
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34259.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP FIGHT NETWORK HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34257.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP KOMBAT SPORT
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34239.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP MOTORVISION
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34232.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORT TV HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34194.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORT TV
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34196.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORT TV 4 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34195.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORT TV 5 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34193.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORTING TV HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34191.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORTING TV
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34192.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORTTV 3 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34190.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORTV HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34189.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORTV 1 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34186.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORTV 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34187.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORTV 1
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34188.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORTV 2 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34183.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORTV 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34184.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORTV 2
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34185.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORTV 3 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34181.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORTV 3
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34182.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORTV 4 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34179.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORTV 4
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34180.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORTV 5 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34177.ts
+
+#EXTINF:0 group-title="PT: Portugal",PT: VIP SPORTV 5
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/34178.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: DIASPORA TV
+http://diasporamedia.go.ro:1935/diasporatv/live/playlist.m3u8
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/1650.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 1
+http://193.200.164.163:80/live/Malika/Malika2018/2789.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 1 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2789.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 1 (2+)
+http://higshare.higiptv.net:25461/live/loft366/daffadaqfd/9983.m3u8
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 1 (3+)
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/678.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/1651.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 2
+http://193.200.164.163:80/live/Malika/Malika2018/2788.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 2 (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2788.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 2 (2+)
+http://higshare.higiptv.net:25461/live/loft366/daffadaqfd/9982.m3u8
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 2 (3+)
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/677.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 3
+http://212.8.248.94:2103/live/nani27/nani27/1652.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 3 (1+)
+http://193.200.164.163:80/live/Malika/Malika2018/2787.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 3 (2+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2787.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 3 (3+)
+http://higshare.higiptv.net:25461/live/loft366/daffadaqfd/9981.m3u8
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 3 (4+)
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/676.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 4
+http://212.8.248.94:2103/live/nani27/nani27/1653.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 4 (1+)
+http://193.200.164.163:80/live/Malika/Malika2018/2786.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 4 (2+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2786.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 4 (3+)
+http://higshare.higiptv.net:25461/live/loft366/daffadaqfd/9980.m3u8
+
+#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 4 (4+)
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/675.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: EUROSPORT
+http://193.200.164.163:80/live/Malika/Malika2018/2784.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: EUROSPORT (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2784.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: EUROSPORT 1
+http://212.8.248.94:2103/live/nani27/nani27/1657.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: EUROSPORT 2
+http://212.8.248.94:2103/live/nani27/nani27/1658.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: EUROSPORT 2 (1+)
+http://193.200.164.163:80/live/Malika/Malika2018/2783.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: EUROSPORT 2 (2+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2783.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: FISHING & HUNTING
+http://193.200.164.163:80/live/Malika/Malika2018/2793.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: FISHING & HUNTING (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2793.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: LOOK SPORT TV HD
+http://212.8.248.94:2103/live/nani27/nani27/1669.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: SPORT
+http://193.200.164.163:80/live/Malika/Malika2018/2785.ts
+
+#EXTINF:0 group-title="RO: Romania",RO: SPORT (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/2785.ts
+
+#EXTINF:0 group-title="RU: Russia",RU: EUROSPORT 1 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21428.ts
+
+#EXTINF:0 group-title="RU: Russia",RU: EUROSPORT 2 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21427.ts
+
+#EXTINF:0 group-title="RU: Russia",RU: MATCH! ARENA HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21419.ts
+
+#EXTINF:0 group-title="RU: Russia",RU: MATCH! FOOTBALL 1 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21418.ts
+
+#EXTINF:0 group-title="RU: Russia",RU: MATCH! FOOTBALL 3 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21416.ts
+
+#EXTINF:0 group-title="RU: Russia",RU: SPORT HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+
+#EXTINF:0 group-title="RU: Russia",RU: SPORT (1+) HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+
+#EXTINF:0 group-title="RU: Russia",RU: SPORT
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: DOCUBOX
+http://193.200.164.163:80/live/Malika/Malika2018/26962.ts
+
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: DOCUBOX (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/26962.ts
+
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ESPN
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/14218.ts
+
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ESPN 2
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11704.ts
+
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ESPN 2 (1+)
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/14220.ts
+
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: ESPN 3
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/14219.ts
+
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: FOX SPORTS 1
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11710.ts
+
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: FOX SPORTS 2
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11711.ts
+
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: FOX SPORTS 2 (1+)
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/14227.ts
+
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: FOX SPORTS 3
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11712.ts
+
+#EXTINF:0 group-title="EX-YU: Slovenia",EX-YU: FOX SPORTS 3 (1+)
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/14226.ts
+
+#EXTINF:0 group-title="SP: Spain",SP: BEIN SPORTS LALIGA
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/13303.ts
+
+#EXTINF:0 group-title="SP: Spain",SP: ESPORT 3 CAT
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/13301.ts
+
+#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 1 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21320.ts
+
+#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 1 (1+)
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/13295.ts
+
+#EXTINF:0 group-title="SP: Spain",SP: EUROSPORT 2
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21318.ts
+
+#EXTINF:0 group-title="SP: Spain",SP: FIGHT TIME OPT 2
+http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
+
+#EXTINF:0 group-title="SP: Spain",SP: FORMULA 1 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21317.ts
+
+#EXTINF:0 group-title="SP: Spain",SP: M FORMULA 1
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21299.ts
+
+#EXTINF:0 group-title="SP: Spain",SP: M GOLF HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21309.ts
+
+#EXTINF:0 group-title="SP: Spain",SP: MOTOGP HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21288.ts
+
+#EXTINF:0 group-title="SP: Spain",SP: SPORTS
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/21322.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: C MORE SPORT HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1483.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: ESPORTSTV HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/29767.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: EUROSPORT 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/27532.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: EUROSPORT 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27532.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: EUROSPORT 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/27531.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: EUROSPORT 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27531.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: EUROSPORT N HD
+http://193.200.164.163:80/live/Malika/Malika2018/27530.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: EUROSPORT N (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27530.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: EUROSPORT PLUSS 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/27529.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: EUROSPORT PLUSS 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27529.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: EUROSPORT PLUSS 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/27528.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: EUROSPORT PLUSS 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27528.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: EUROSPORT PLUSS 3 HD
+http://193.200.164.163:80/live/Malika/Malika2018/27527.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: EUROSPORT PLUSS 3 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27527.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: EUROSPORT PLUSS 4 HD
+http://193.200.164.163:80/live/Malika/Malika2018/27526.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: EUROSPORT PLUSS 4 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27526.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: MOTORS TV HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/29761.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: SPORTS
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/29768.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: TV2 SPORT HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/29764.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: TV2 SPORT
+http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master.m3u8
+
+#EXTINF:0 group-title="SE: Sweden",SE: TV2 SPORTKANALEN HD
+http://193.200.164.163:80/live/Malika/Malika2018/27576.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: TV2 SPORTKANALEN (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27576.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: TV3 SPORT1 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/29763.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: TV3 SPORT2 HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/29762.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: VIASAT GOLF HD
+http://193.200.164.163:80/live/Malika/Malika2018/27537.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: VIASAT GOLF (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27537.ts
+
+#EXTINF:0 group-title="SE: Sweden",SE: VIASAT GOLF (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/29759.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: A SPOR HD
+http://212.8.248.94:2103/live/nani27/nani27/2427.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: A SPOR PLUS HD
+http://193.200.164.163:80/live/Malika/Malika2018/1819.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN BOX OFFICE 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/3789.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN BOX OFFICE 1 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/1863.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN BOX OFFICE 1 (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1863.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN BOX OFFICE 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/3790.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN BOX OFFICE 2 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/1862.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN BOX OFFICE 2 (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1862.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN BOX OFFICE 3 HD
+http://212.8.248.94:2103/live/nani27/nani27/3791.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN BOX OFFICE 3 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/1861.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN BOX OFFICE 3 (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1861.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORT 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/1834.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORT 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1834.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORT 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/1833.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORT 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1833.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORT 3 HD
+http://193.200.164.163:80/live/Malika/Malika2018/1832.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORT 3 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1832.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORT 4 HD
+http://193.200.164.163:80/live/Malika/Malika2018/1831.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORT 4 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1831.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/473.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 1 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/1838.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 1 (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1838.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 1 (1+)
+http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/25.m3u8
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/474.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 2 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/1837.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 2 (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1837.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 3 HD
+http://212.8.248.94:2103/live/nani27/nani27/2773.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 3 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/1836.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 3 (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1836.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 4 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/1835.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 4 (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1835.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: EUROSPORT 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/3864.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: EUROSPORT 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/3863.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: NTV SPOR PLUS HD
+http://193.200.164.163:80/live/Malika/Malika2018/1821.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: NTV SPOR PLUS (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1821.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: SMART SPOR HD
+http://212.8.248.94:2103/live/nani27/nani27/3787.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: SMART SPOR (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/1828.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: SMART SPOR (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1828.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: SPORTS TV
+http://193.200.164.163:80/live/Malika/Malika2018/1826.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: SPORTS TV (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1826.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: SPORTS TV (2+)
+http://sportstv.live.netdirekt.com.tr/sportstv/SportsTV3/playlist.m3u8
+
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/1804.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 1 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/1825.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 1 (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1825.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/1805.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 2 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/1824.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 2 (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1824.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 3 HD
+http://193.200.164.163:80/live/Malika/Malika2018/1823.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 3 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1823.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 4 HD
+http://212.8.248.94:2103/live/nani27/nani27/3788.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 4 (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/1822.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 4 (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1822.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPORT 3 HD
+http://212.8.248.94:2103/live/nani27/nani27/1823.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: TRT SPOR HD
+http://212.8.248.94:2103/live/nani27/nani27/1799.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: TRT SPOR PLUS HD
+http://193.200.164.163:80/live/Malika/Malika2018/1820.ts
+
+#EXTINF:0 group-title="TR: Turkey",TR: TRT SPOR PLUS (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/1820.ts
+
+#EXTINF:0 group-title="UA: Ukraine",UA: DONBAS
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
+
+#EXTINF:0 group-title="UA: Ukraine",UA: XSPORT
+http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: AR BEIN SPORTS 11 HD
+http://193.200.164.163:80/live/Malika/Malika2018/27891.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: AR BEIN SPORTS 11 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27891.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: AR BEIN SPORTS 12 HD
+http://193.200.164.163:80/live/Malika/Malika2018/27890.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: AR BEIN SPORTS 12 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/27890.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BEIN SPORTS HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11126.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BEIN SPORTS SE ARABIC
+http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOXNATION HD
+http://212.8.248.94:2103/live/nani27/nani27/2213.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOXNATION (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/17272.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BOXNATION (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17272.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/663.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/664.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 3 HD
+http://212.8.248.94:2103/live/nani27/nani27/665.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT ESPN HD
+http://212.8.248.94:2103/live/nani27/nani27/1689.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/17281.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17281.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS 1 (2+) HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1722.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/17280.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17280.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS 2 (2+) HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1721.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS 3 HD
+http://193.200.164.163:80/live/Malika/Malika2018/17279.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS 3 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17279.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS 3 (2+) HD
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1720.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS ESPN HD
+http://193.200.164.163:80/live/Malika/Malika2018/17282.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS ESPN (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17282.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORTS ESPN
+http://master1.ipfox.online:25461/live/Etronics_WGtHuDXP/yq8CXe9t/1719.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHELSEA TV HD
+http://193.200.164.163:80/live/Malika/Malika2018/17277.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHELSEA TV (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17277.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: CHELSEA TV
+http://212.8.248.94:2103/live/nani27/nani27/672.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: EIR SPORTS 1 NEW
+http://193.200.164.163:80/live/Malika/Malika2018/17276.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: EIR SPORTS 1 NEW (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17276.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: EIR SPORTS 2 NEW
+http://193.200.164.163:80/live/Malika/Malika2018/17275.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: EIR SPORTS 2 NEW (1+)
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17275.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: ELEVEN SPORT 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/2216.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: ELEVEN SPORT 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/2217.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: EUROSPORT 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/1741.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: EUROSPORT 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/1944.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: EUROSPORTS 1 HD
+http://193.200.164.163:80/live/Malika/Malika2018/17274.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: EUROSPORTS 1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17274.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: EUROSPORTS 2 HD
+http://193.200.164.163:80/live/Malika/Malika2018/17273.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: EUROSPORTS 2 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17273.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: FILMBOX
+http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/1071/index.m3u8
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: FLOW SPORTS
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: LFC TV HD
+http://212.8.248.94:2103/live/nani27/nani27/1933.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: MUTV HD
+http://212.8.248.94:2103/live/nani27/nani27/671.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: MUTV (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/17278.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: MUTV (2+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17278.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: PREMIER SPORT HD
+http://193.200.164.163:80/live/Malika/Malika2018/17271.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: PREMIER SPORT (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17271.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: RACING HD
+http://212.8.248.94:2103/live/nani27/nani27/1691.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: RACING (1+) HD
+http://193.200.164.163:80/live/Malika/Malika2018/17270.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: RACING (3+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17270.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY PREMIER SPORTS HD
+http://212.8.248.94:2103/live/nani27/nani27/1428.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORT P L HD
+http://212.8.248.94:2103/live/nani27/nani27/1466.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17292.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS ARENA HD
+http://212.8.248.94:2103/live/nani27/nani27/668.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS ARENA (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17291.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS CRICKET HD
+http://212.8.248.94:2103/live/nani27/nani27/667.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS CRICKET (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17290.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS F1 HD
+http://212.8.248.94:2103/live/nani27/nani27/666.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS F1 (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17289.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS FOOTBALL HD
+http://212.8.248.94:2103/live/nani27/nani27/670.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS FOOTBALL (1+) HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17288.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS GOLF HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17287.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS MAIN EVENT HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17286.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS PREMIER LEAGUE HD
+http://magnum-ott.net:80/live/Giuliano/Giuliano2018/17285.ts
+
+#EXTINF:0 group-title="UK: United Kingdom",UK: SPORTSNET EAST CANADA SPORTS CA
+http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8
+
+#EXTINF:0 group-title="US: United States",US: AFN PRIME HD
+http://212.8.248.94:2103/live/nani27/nani27/3099.ts
+
+#EXTINF:0 group-title="US: United States",US: AUTOMOTO TV OPT 1
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+
+#EXTINF:0 group-title="US: United States",US: BEIN SPORTS HD
+http://212.8.248.94:2103/live/nani27/nani27/2492.ts
+
+#EXTINF:0 group-title="US: United States",US: COMET SPORTS ENGLISH
+http://content.uplynk.com/channel/810bf2b47d9f4bd8a0101dd2b21afc91.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ESPN
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ESPN (1+)
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/14500.ts
+
+#EXTINF:0 group-title="US: United States",US: ESPN 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/2493.ts
+
+#EXTINF:0 group-title="US: United States",US: ESPN 2 OPT 1
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:0 group-title="US: United States",US: ESPN U HD
+http://212.8.248.94:2103/live/nani27/nani27/2495.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX COLLAGE SPORTS ATLANTIC HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11056.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX COLLAGE SPORTS CENTRAL HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11055.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX COLLAGE SPORTS PACIFIC HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11054.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SOCCER PLUS (1+) HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11111.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS 1 HD
+http://212.8.248.94:2103/live/nani27/nani27/2498.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS 2 HD
+http://212.8.248.94:2103/live/nani27/nani27/2499.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS ARIZONA HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11062.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS ARIZONA 2 HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11156.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS CAROLINA HD
+http://212.8.248.94:2103/live/nani27/nani27/3064.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS CAROLINAS HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11155.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS DETROIT HD
+http://212.8.248.94:2103/live/nani27/nani27/3061.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS DETROIT (1+) HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11053.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS FLORIDA HD
+http://212.8.248.94:2103/live/nani27/nani27/3060.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS FLORIDA (1+) HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11052.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS MIDWEST HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11154.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS NEW ORLEANS HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11153.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS NORTH HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11152.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS NORTH PLUS HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11151.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS OHIO HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11150.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS OKLAHOMA HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11149.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS PRIME TICKET (1+) HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11051.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS RACING
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS SAN DIEGO HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11091.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS SOUTH HD
+http://212.8.248.94:2103/live/nani27/nani27/3055.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS SOUTHEAST HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11148.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS SOUTHWEST HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11050.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS SOUTHWEST PLUS HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11049.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS SPORTSTIME OHIO HD
+http://212.8.248.94:2103/live/nani27/nani27/2443.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS SUN HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11048.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS WEST HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11047.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS WEST (1+) HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11090.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS WEST PUBLIC SPORTS ENGLISH HD
+http://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/4c84475f-e049-458a-83e2-ac4458b7ce84/2.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS WEST PUBLIC SPORTS ENGLISH
+https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/4c84475f-e049-458a-83e2-ac4458b7ce84/2.m3u8
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS WISCONSIN HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11147.ts
+
+#EXTINF:0 group-title="US: United States",US: FOX SPORTS WISCONSIN PLUS HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11146.ts
+
+#EXTINF:0 group-title="US: United States",US: GOLF LATIN HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11219.ts
+
+#EXTINF:0 group-title="US: United States",US: GOLF LATIN (1+) HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/14393.ts
+
+#EXTINF:0 group-title="US: United States",US: GOLF LATIN
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/14268.ts
+
+#EXTINF:0 group-title="US: United States",US: LATIN SPORTS HQ
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11388.ts
+
+#EXTINF:0 group-title="US: United States",US: MLB NETWORK HD
+http://212.8.248.94:2103/live/nani27/nani27/2584.ts
+
+#EXTINF:0 group-title="US: United States",US: MLB NETWORK OPT 1
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:0 group-title="US: United States",US: MLB NETWORK PUBLIC SPORTS ENGLISH
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20180731_1533025887059/3000K/3000_slide.m3u8
+
+#EXTINF:0 group-title="US: United States",US: NBA HD
+http://212.8.248.94:2103/live/nani27/nani27/2576.ts
+
+#EXTINF:0 group-title="US: United States",US: NBA LEAGUE PASS 3 MATCH TIME ONLY HD
+http://212.8.248.94:2103/live/nani27/nani27/3292.ts
+
+#EXTINF:0 group-title="US: United States",US: NBA LEAGUE PASS 4 MATCH TIME ONLY HD
+http://212.8.248.94:2103/live/nani27/nani27/3291.ts
+
+#EXTINF:0 group-title="US: United States",US: NBA LEAGUE PASS 6 MATCH TIME ONLY HD
+http://212.8.248.94:2103/live/nani27/nani27/3289.ts
+
+#EXTINF:0 group-title="US: United States",US: NBC GOLF CHANNEL HD
+http://212.8.248.94:2103/live/nani27/nani27/2500.ts
+
+#EXTINF:0 group-title="US: United States",US: NBC SPORTS BAY AREA HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11039.ts
+
+#EXTINF:0 group-title="US: United States",US: NBC SPORTS BOSTON HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11032.ts
+
+#EXTINF:0 group-title="US: United States",US: NBC SPORTS CALIFORNIA HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11038.ts
+
+#EXTINF:0 group-title="US: United States",US: NBC SPORTS CHICAGO HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11031.ts
+
+#EXTINF:0 group-title="US: United States",US: NBC SPORTS CHICAGO PLUS HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11158.ts
+
+#EXTINF:0 group-title="US: United States",US: NBC SPORTS NETWORK HD
+http://212.8.248.94:2103/live/nani27/nani27/2502.ts
+
+#EXTINF:0 group-title="US: United States",US: NBC SPORTS NORTHWEST HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11030.ts
+
+#EXTINF:0 group-title="US: United States",US: NBC SPORTS PHILADELPHIA HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11029.ts
+
+#EXTINF:0 group-title="US: United States",US: NBC SPORTS WASHINGTON HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11037.ts
+
+#EXTINF:0 group-title="US: United States",US: NFL HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11066.ts
+
+#EXTINF:0 group-title="US: United States",US: NFL NETWORK HD
+http://212.8.248.94:2103/live/nani27/nani27/2448.ts
+
+#EXTINF:0 group-title="US: United States",US: NFL NETWORK (1+) HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11075.ts
+
+#EXTINF:0 group-title="US: United States",US: NFL NOW HD
+http://212.8.248.94:2103/live/nani27/nani27/3032.ts
+
+#EXTINF:0 group-title="US: United States",US: NFL REDZONE HD
+http://212.8.248.94:2103/live/nani27/nani27/3036.ts
+
+#EXTINF:0 group-title="US: United States",US: NHL NETWORK HD
+http://212.8.248.94:2103/live/nani27/nani27/2449.ts
+
+#EXTINF:0 group-title="US: United States",US: ONE CHANNEL SPORTS ARABIC
+http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
+
+#EXTINF:0 group-title="US: United States",US: PAC 12 ARIZONA HD
+http://212.8.248.94:2103/live/nani27/nani27/2506.ts
+
+#EXTINF:0 group-title="US: United States",US: PAC 12 ARIZONA (1+) HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11046.ts
+
+#EXTINF:0 group-title="US: United States",US: PAC 12 BAY AREA HD
+http://212.8.248.94:2103/live/nani27/nani27/2507.ts
+
+#EXTINF:0 group-title="US: United States",US: PAC 12 BAY AREA (1+) HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11045.ts
+
+#EXTINF:0 group-title="US: United States",US: PAC 12 LOS HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11044.ts
+
+#EXTINF:0 group-title="US: United States",US: PAC 12 MOUNTAIN HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11043.ts
+
+#EXTINF:0 group-title="US: United States",US: PAC 12 NETWORKS HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11042.ts
+
+#EXTINF:0 group-title="US: United States",US: PAC 12 OREGON HD
+http://212.8.248.94:2103/live/nani27/nani27/2509.ts
+
+#EXTINF:0 group-title="US: United States",US: PAC 12 OREGON (1+) HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11041.ts
+
+#EXTINF:0 group-title="US: United States",US: PAC 12 WASHINGTON (1+) HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11040.ts
+
+#EXTINF:0 group-title="US: United States",US: PAC12 NETWORK HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11087.ts
+
+#EXTINF:0 group-title="US: United States",US: RED BULL TV OPT 1
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.ts
+
+#EXTINF:0 group-title="US: United States",US: RED BULL TV OPT 2
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:0 group-title="US: United States",US: RED BULL TV OPT 3
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:0 group-title="US: United States",US: TENNIS CHANNEL HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/14460.ts
+
+#EXTINF:0 group-title="US: United States",US: TYC SPORTS HD
+http://144.217.182.174:25461/live/Mpedreros/Morreiro1/11132.ts
+
+#EXTINF:0 group-title="US: United States",US: UFC FIGHT PASS
+http://212.8.248.94:2103/live/nani27/nani27/3019.ts
+
+#EXTINF:0 group-title="WW: World Wide",WW: FISHING NETWORK
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
+
+#EXTINF:0 group-title="WW: World Wide",WW: MLB LIVE
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
