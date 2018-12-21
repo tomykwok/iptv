@@ -172,9 +172,6 @@ http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 #EXTINF:0, group-title="ENTERTAINMENT",ZING
 http://z5ams.akamaized.net/zing/tracks-v1a1/index.m3u8
 
-#EXTINF:0, group-title="ENTERTAINMENT",CCTV4
-http://210.210.155.35/qwr9ew/s/s19/01.m3u8
-
 #EXTINF:0, group-title="KNOWLEDGE",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
 
@@ -303,9 +300,6 @@ http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
 
 #EXTINF:0, group-title="SPORT",SONY TEN1 HD
 http://163.172.211.93:8081/Ten/1/index.m3u8
-
-#EXTINF:0, group-title="SPORT",SONY TEN2 HD
-http://163.172.218.205:8081/2Ten/2/index.m3u8
 
 #EXTINF:0, group-title="SPORT",FOX SPORT 1
 http://45.58.62.92:8080
@@ -658,9 +652,6 @@ http://stream1.ninmedia.tv/live/xmedia-bmwtv.stream_nin/playlist.m3u8
 #EXTINF:0,BR FERNSEHEN S�D
 http://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
 
-#EXTINF:0,BT SPORTS 1
-http://163.172.218.205:8081/BT/1/index.m3u8
-
 #EXTINF:0,CAHAYA BANTEN
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
 
@@ -708,9 +699,6 @@ http://tv.dens.tv/live/a/a01/index.m3u8
 
 #EXTINF:0,DESI CHANNEL
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-
-#EXTINF:0,DIGITAL TV
-http://cm.hostlagarto.com:8081/tvdigitalimperial/tvdigitalHD.myStream/playlist.m3u8
 
 #EXTINF:0,DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
@@ -834,45 +822,6 @@ http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/playlist.m3u8
 
 #EXTINF:0,MAKKAH TV
 http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
-
-#EXTINF:0,MEDIASET 20
-http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch25)/index.m3u8
-
-#EXTINF:0,MEDIASET CANALE 5
-http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/index.m3u8
-
-#EXTINF:0,MEDIASET EXTRA
-http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch09)/index.m3u8
-
-#EXTINF:0,MEDIASET FOCUS PRIMA
-http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch26)/index.m3u8
-
-#EXTINF:0,MEDIASET GRANDE FRATELLO REGIA 1
-http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch15)/index.m3u8
-
-#EXTINF:0,MEDIASET GRANDE FRATELLO REGIA 2
-http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch23)/index.m3u8
-
-#EXTINF:0,MEDIASET IRIS
-http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch06)/index.m3u8
-
-#EXTINF:0,MEDIASET ITALIA 1
-http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/index.m3u8
-
-#EXTINF:0,MEDIASET ITALIA 2
-http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch05)/index.m3u8
-
-#EXTINF:0,MEDIASET LA 5
-http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch04)/index.m3u8
-
-#EXTINF:0,MEDIASET RETE 4
-http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/index.m3u8
-
-#EXTINF:0,MEDIASET TGCOM 24
-http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch10)/index.m3u8
-
-#EXTINF:0,MEDIASET TOP CRIME
-http://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch07)/index.m3u8
 
 #EXTINF:0,METRO TV
 http://rr2.dens.tv/s/s49/index.m3u8
@@ -1009,20 +958,11 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.
 #EXTINF:0,SNRT - AT-TAMAZIGHT
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 
-#EXTINF:0,SONY TEN SPORTS 1
-http://163.172.218.205:8081/Ten/1/index.m3u8
-
-#EXTINF:0,SONY TEN SPORTS 3
-http://163.172.218.205:8081/Ten/3/index.m3u8
-
 #EXTINF:0,SUNNAH NABAWIYAH
 http://rr2.dens.tv/s/s27/index.m3u8
 
 #EXTINF:0,SURAU TV
 http://119.235.249.60:1935/surautv/live/playlist.m3u8
-
-#EXTINF:0,TABALONG TV
-http://stream1.ninmedia.tv/live/xmedia-tabalongtv.stream_nin/playlist.m3u8
 
 #EXTINF:0,TAGESSCHAU 24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
@@ -1041,9 +981,6 @@ http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOK
 
 #EXTINF:0,TELEBARN
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
-
-#EXTINF:0,TELEZURI
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_hoislpiz/sd/10000/t/AFb4DZ0W2ts1a8fV5xo1VQ/master.m3u8
 
 #EXTINF:0,THE INDONESIAN CHANNEL
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/playlist.m3u8
@@ -1083,9 +1020,6 @@ http://rr2.dens.tv/s/s25/index.m3u8
 
 #EXTINF:0,TVi
 http://rtm-live.glueapi.io/smil:rtmch004.smil/playlist.m3u8
-
-#EXTINF:0,TVONE
-http://rr2.dens.tv/s/s02/index.m3u8
 
 #EXTINF:0,TVR PARLEMEN
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
@@ -1156,17 +1090,11 @@ http://z5ams.akamaized.net/zing/playlist.m3u8
 #EXTINF:0 group-title="AF: Afghanistan",AF: KTV SPORT
 http://www.elahmad.com/tv/m3u8/ktv.m3u8
 
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/1445.ts
-
 #EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 OPT 1 HD
 http://www.elahmad.com/tv/m3u8/adtv.m3u8
 
 #EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 OPT 1
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 HD
-http://212.8.248.94:2103/live/nani27/nani27/1446.ts
 
 #EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 OPT 2
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
@@ -1183,113 +1111,32 @@ http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.m3u8
 #EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORT 4 HD
 http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/5.m3u8
 
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/788.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1 (1+) HD
-http://212.8.248.94:2103/live/nani27/nani27/10081.ts
-
 #EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1 (5+) HD
 http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/2.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 1
-http://212.8.248.94:2103/live/nani27/nani27/2600.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 10 HD
-http://212.8.248.94:2103/live/nani27/nani27/797.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 10 (1+) HD
-http://212.8.248.94:2103/live/nani27/nani27/10072.ts
 
 #EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 10 (4+) HD
 http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/24.m3u8
 
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 10
-http://212.8.248.94:2103/live/nani27/nani27/2609.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2 HD
-http://212.8.248.94:2103/live/nani27/nani27/789.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2 (1+) HD
-http://212.8.248.94:2103/live/nani27/nani27/10080.ts
-
 #EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2 (5+) HD
 http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/3.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 2
-http://212.8.248.94:2103/live/nani27/nani27/2601.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3 HD
-http://212.8.248.94:2103/live/nani27/nani27/790.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3 (1+) HD
-http://212.8.248.94:2103/live/nani27/nani27/10079.ts
 
 #EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3 (5+) HD
 http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/4.m3u8
 
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 3
-http://212.8.248.94:2103/live/nani27/nani27/2602.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 4 HD
-http://212.8.248.94:2103/live/nani27/nani27/791.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 4 (1+) HD
-http://212.8.248.94:2103/live/nani27/nani27/10078.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 4
-http://212.8.248.94:2103/live/nani27/nani27/2603.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5 HD
-http://212.8.248.94:2103/live/nani27/nani27/792.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5 (1+) HD
-http://212.8.248.94:2103/live/nani27/nani27/10077.ts
-
 #EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5 (5+) HD
 http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/6.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 5
-http://212.8.248.94:2103/live/nani27/nani27/2604.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6 HD
-http://212.8.248.94:2103/live/nani27/nani27/793.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6 (1+) HD
-http://212.8.248.94:2103/live/nani27/nani27/10076.ts
 
 #EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6 (5+) HD
 http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/7.m3u8
 
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 6
-http://212.8.248.94:2103/live/nani27/nani27/2605.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7 HD
-http://212.8.248.94:2103/live/nani27/nani27/794.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7 (1+) HD
-http://212.8.248.94:2103/live/nani27/nani27/10075.ts
-
 #EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7 (5+) HD
 http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/8.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 7
-http://212.8.248.94:2103/live/nani27/nani27/2606.ts
 
 #EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 8 (5+) HD
 http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/9.m3u8
 
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9 HD
-http://212.8.248.94:2103/live/nani27/nani27/796.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9 (1+) HD
-http://212.8.248.94:2103/live/nani27/nani27/10073.ts
-
 #EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9 (5+) HD
 http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/10.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: BEIN SPORTS 9
-http://212.8.248.94:2103/live/nani27/nani27/2608.ts
 
 #EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 1 (2+) HD
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/13.m3u8
@@ -1297,17 +1144,11 @@ http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/13.m3u8
 #EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 1 (3+) HD
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/13.m3u8
 
-#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 1
-http://212.8.248.94:2103/live/nani27/nani27/2252.ts
-
 #EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 2 HD
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/14.m3u8
 
 #EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 2 (1+) HD
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/14.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: DUBAI RACING 2
-http://212.8.248.94:2103/live/nani27/nani27/2253.ts
 
 #EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORT SPORTS
 http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
@@ -1318,68 +1159,17 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 #EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS 3 HD
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/18.m3u8
 
-#EXTINF:0 group-title="AR: Arabia",AR: DUBAI SPORTS 3 (1+) HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/18.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: KUWEIT TV SPORT HD
-http://212.8.248.94:2103/live/nani27/nani27/1779.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: NILE SPORTS
-http://212.8.248.94:2103/live/nani27/nani27/725.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: OSN SPORTS ACTION 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/7058.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: OSN SPORTS ACTION 2 HD
-http://212.8.248.94:2103/live/nani27/nani27/4373.ts
-
-#EXTINF:0 group-title="AR: Arabia",AR: SPORT 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/731.ts
-
 #EXTINF:0 group-title="AR: Arabia",AR: VARZESH TV SPORTS IR
 http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
 
 #EXTINF:0 group-title="ARG: Argentina",ARG: UMAGTV 2 PUNTA ARENAS
 http://edge1.cl.grupoz.cl/itser4/tser4.sdp/chunklist_w638282256.m3u8
 
-#EXTINF:0 group-title="CA: Canada",CA: FIGHT NETWORK HD
-http://212.8.248.94:2103/live/nani27/nani27/3529.ts
-
-#EXTINF:0 group-title="CA: Canada",CA: GINX ESPORTS TV HD
-http://212.8.248.94:2103/live/nani27/nani27/3370.ts
-
-#EXTINF:0 group-title="CA: Canada",CA: GOLF
-http://212.8.248.94:2103/live/nani27/nani27/3475.ts
-
-#EXTINF:0 group-title="CA: Canada",CA: NBA TV
-http://212.8.248.94:2103/live/nani27/nani27/3458.ts
-
-#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET 360 HD
-http://212.8.248.94:2103/live/nani27/nani27/3469.ts
-
-#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET EAST
-http://212.8.248.94:2103/live/nani27/nani27/3412.ts
-
-#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET ONE HD
-http://212.8.248.94:2103/live/nani27/nani27/3468.ts
-
-#EXTINF:0 group-title="CA: Canada",CA: SPORTSNET ONTARIO HD
-http://212.8.248.94:2103/live/nani27/nani27/3467.ts
-
-#EXTINF:0 group-title="CA: Canada",CA: TVA SPORTS
-http://212.8.248.94:2103/live/nani27/nani27/3493.ts
-
 #EXTINF:0 group-title="FR: France",FR: EUROSPORT SPORTS
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 
 #EXTINF:0 group-title="DE: Germany",DE: DRF1
 http://62.67.13.54:1935/drf1/drf1_livestream_1/playlist.m3u8
-
-#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/2095.ts
-
-#EXTINF:0 group-title="DE: Germany",DE: EUROSPORT 2 XTRA HD
-http://212.8.248.94:2103/live/nani27/nani27/2094.ts
 
 #EXTINF:0 group-title="DE: Germany",DE: ORF SPORT
 http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
@@ -1441,41 +1231,11 @@ http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
 #EXTINF:0 group-title="IT: Italy",IT: AUTOMOTO TV (2+)
 http://178.22.187.253:1935/streaming-tv/mp4:myStream1/playlist.m3u8
 
-#EXTINF:0 group-title="IT: Italy",IT: EUROSPORT 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/10105.ts
-
 #EXTINF:0 group-title="IT: Italy",IT: IRC SPORT TV
 http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
 
-#EXTINF:0 group-title="IT: Italy",IT: RAI SPORT 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/1829.ts
-
-#EXTINF:0 group-title="IT: Italy",IT: RAI SPORT 2 HD
-http://212.8.248.94:2103/live/nani27/nani27/1830.ts
-
 #EXTINF:0 group-title="IT: Italy",IT: RTV SAN MARINO SPORT
 http://194.116.78.102:1935/webtv_live4/_definst_/9UXJ2BJMTMNR/playlist.m3u8
-
-#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/1387.ts
-
-#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 2 HD
-http://212.8.248.94:2103/live/nani27/nani27/1388.ts
-
-#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 24 HD
-http://212.8.248.94:2103/live/nani27/nani27/7164.ts
-
-#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT 3 HD
-http://212.8.248.94:2103/live/nani27/nani27/1390.ts
-
-#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT FORMULA 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/7166.ts
-
-#EXTINF:0 group-title="IT: Italy",IT: SKY SPORT MOTO GP HD
-http://212.8.248.94:2103/live/nani27/nani27/1819.ts
-
-#EXTINF:0 group-title="IT: Italy",IT: SKY SPORTS PLUS HD
-http://212.8.248.94:2103/live/nani27/nani27/7159.ts
 
 #EXTINF:0 group-title="IT: Italy",IT: TELEARENA ENTERTAINMENT ITALIAN
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
@@ -1495,92 +1255,17 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE05.m3u8
 #EXTINF:0 group-title="MX: Mexico",MX: TELEFORMULA NEW
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1
-http://51.15.182.233/hls/sebn4.m3u8
-
 #EXTINF:0 group-title="PT: Portugal",PT: 100
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 #EXTINF:0 group-title="PT: Portugal",PT: ALL SPORTS
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/1900.ts
-
-#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT 1
-http://212.8.248.94:2103/live/nani27/nani27/1060.ts
-
-#EXTINF:0 group-title="PT: Portugal",PT: EUROSPORT 2
-http://212.8.248.94:2103/live/nani27/nani27/1061.ts
-
-#EXTINF:0 group-title="PT: Portugal",PT: KOMBAT SPORT
-http://212.8.248.94:2103/live/nani27/nani27/1066.ts
-
-#EXTINF:0 group-title="PT: Portugal",PT: MOTORVISION
-http://212.8.248.94:2103/live/nani27/nani27/1990.ts
-
-#EXTINF:0 group-title="PT: Portugal",PT: NBA HD
-http://212.8.248.94:2103/live/nani27/nani27/1895.ts
-
 #EXTINF:0 group-title="PT: Portugal",PT: PRIME BOX
 http://maxptv.ddns.net:25461/live/MA020/0706/67.ts
 
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV HD
-http://212.8.248.94:2103/live/nani27/nani27/1053.ts
-
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/1034.ts
-
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 1 (1+) HD
-http://212.8.248.94:2103/live/nani27/nani27/1889.ts
-
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 HD
-http://212.8.248.94:2103/live/nani27/nani27/1035.ts
-
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 2 (1+) HD
-http://212.8.248.94:2103/live/nani27/nani27/1890.ts
-
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 HD
-http://212.8.248.94:2103/live/nani27/nani27/1036.ts
-
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 3 (1+) HD
-http://212.8.248.94:2103/live/nani27/nani27/1891.ts
-
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 4 HD
-http://212.8.248.94:2103/live/nani27/nani27/1037.ts
-
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV 5 HD
-http://212.8.248.94:2103/live/nani27/nani27/1861.ts
-
-#EXTINF:0 group-title="PT: Portugal",PT: SPORT TV UHD HD
-http://212.8.248.94:2103/live/nani27/nani27/1892.ts
-
-#EXTINF:0 group-title="PT: Portugal",PT: SPORTING TV HD
-http://212.8.248.94:2103/live/nani27/nani27/1077.ts
-
 #EXTINF:0 group-title="RO: Romania",RO: DIASPORA TV
 http://diasporamedia.go.ro:1935/diasporatv/live/playlist.m3u8
-
-#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/1650.ts
-
-#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 2 HD
-http://212.8.248.94:2103/live/nani27/nani27/1651.ts
-
-#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 3
-http://212.8.248.94:2103/live/nani27/nani27/1652.ts
-
-#EXTINF:0 group-title="RO: Romania",RO: DIGI SPORT 4
-http://212.8.248.94:2103/live/nani27/nani27/1653.ts
-
-#EXTINF:0 group-title="RO: Romania",RO: EUROSPORT 1
-http://212.8.248.94:2103/live/nani27/nani27/1657.ts
-
-#EXTINF:0 group-title="RO: Romania",RO: EUROSPORT 2
-http://212.8.248.94:2103/live/nani27/nani27/1658.ts
-
-#EXTINF:0 group-title="RO: Romania",RO: LOOK SPORT TV HD
-http://212.8.248.94:2103/live/nani27/nani27/1669.ts
 
 #EXTINF:0 group-title="RU: Russia",RU: SPORT HD
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
@@ -1597,53 +1282,11 @@ http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
 #EXTINF:0 group-title="SE: Sweden",SE: TV2 SPORT
 http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master.m3u8
 
-#EXTINF:0 group-title="TR: Turkey",TR: A SPOR HD
-http://212.8.248.94:2103/live/nani27/nani27/2427.ts
-
-#EXTINF:0 group-title="TR: Turkey",TR: BEIN BOX OFFICE 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/3789.ts
-
-#EXTINF:0 group-title="TR: Turkey",TR: BEIN BOX OFFICE 2 HD
-http://212.8.248.94:2103/live/nani27/nani27/3790.ts
-
-#EXTINF:0 group-title="TR: Turkey",TR: BEIN BOX OFFICE 3 HD
-http://212.8.248.94:2103/live/nani27/nani27/3791.ts
-
-#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/473.ts
-
 #EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 1 (1+)
 http://68.183.29.174:8000/live/8ub2YaXi0X/freeiptvdaily.tv/25.m3u8
 
-#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 2 HD
-http://212.8.248.94:2103/live/nani27/nani27/474.ts
-
-#EXTINF:0 group-title="TR: Turkey",TR: BEIN SPORTS 3 HD
-http://212.8.248.94:2103/live/nani27/nani27/2773.ts
-
-#EXTINF:0 group-title="TR: Turkey",TR: EUROSPORT 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/3864.ts
-
-#EXTINF:0 group-title="TR: Turkey",TR: SMART SPOR HD
-http://212.8.248.94:2103/live/nani27/nani27/3787.ts
-
 #EXTINF:0 group-title="TR: Turkey",TR: SPORTS TV (2+)
 http://sportstv.live.netdirekt.com.tr/sportstv/SportsTV3/playlist.m3u8
-
-#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/1804.ts
-
-#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 2 HD
-http://212.8.248.94:2103/live/nani27/nani27/1805.ts
-
-#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPOR 4 HD
-http://212.8.248.94:2103/live/nani27/nani27/3788.ts
-
-#EXTINF:0 group-title="TR: Turkey",TR: TIVIBU SPORT 3 HD
-http://212.8.248.94:2103/live/nani27/nani27/1823.ts
-
-#EXTINF:0 group-title="TR: Turkey",TR: TRT SPOR HD
-http://212.8.248.94:2103/live/nani27/nani27/1799.ts
 
 #EXTINF:0 group-title="UA: Ukraine",UA: DONBAS
 http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
@@ -1657,101 +1300,14 @@ http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedi
 #EXTINF:0 group-title="UK: United Kingdom",UK: BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8
 
-#EXTINF:0 group-title="UK: United Kingdom",UK: BOXNATION HD
-http://212.8.248.94:2103/live/nani27/nani27/2213.ts
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/663.ts
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 2 HD
-http://212.8.248.94:2103/live/nani27/nani27/664.ts
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT 3 HD
-http://212.8.248.94:2103/live/nani27/nani27/665.ts
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: BT SPORT ESPN HD
-http://212.8.248.94:2103/live/nani27/nani27/1689.ts
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: CHELSEA TV
-http://212.8.248.94:2103/live/nani27/nani27/672.ts
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: ELEVEN SPORT 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/2216.ts
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: ELEVEN SPORT 2 HD
-http://212.8.248.94:2103/live/nani27/nani27/2217.ts
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: EUROSPORT 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/1741.ts
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: EUROSPORT 2 HD
-http://212.8.248.94:2103/live/nani27/nani27/1944.ts
-
 #EXTINF:0 group-title="UK: United Kingdom",UK: FILMBOX
 http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/1071/index.m3u8
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: LFC TV HD
-http://212.8.248.94:2103/live/nani27/nani27/1933.ts
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: MUTV HD
-http://212.8.248.94:2103/live/nani27/nani27/671.ts
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: RACING HD
-http://212.8.248.94:2103/live/nani27/nani27/1691.ts
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: SKY PREMIER SPORTS HD
-http://212.8.248.94:2103/live/nani27/nani27/1428.ts
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORT P L HD
-http://212.8.248.94:2103/live/nani27/nani27/1466.ts
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS ARENA HD
-http://212.8.248.94:2103/live/nani27/nani27/668.ts
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS CRICKET HD
-http://212.8.248.94:2103/live/nani27/nani27/667.ts
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS F1 HD
-http://212.8.248.94:2103/live/nani27/nani27/666.ts
-
-#EXTINF:0 group-title="UK: United Kingdom",UK: SKY SPORTS FOOTBALL HD
-http://212.8.248.94:2103/live/nani27/nani27/670.ts
 
 #EXTINF:0 group-title="UK: United Kingdom",UK: SPORTSNET EAST CANADA SPORTS CA
 http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8
 
-#EXTINF:0 group-title="US: United States",US: BEIN SPORTS HD
-http://212.8.248.94:2103/live/nani27/nani27/2492.ts
-
 #EXTINF:0 group-title="US: United States",US: COMET SPORTS ENGLISH
 http://content.uplynk.com/channel/810bf2b47d9f4bd8a0101dd2b21afc91.m3u8
-
-#EXTINF:0 group-title="US: United States",US: ESPN 2 HD
-http://212.8.248.94:2103/live/nani27/nani27/2493.ts
-
-#EXTINF:0 group-title="US: United States",US: ESPN U HD
-http://212.8.248.94:2103/live/nani27/nani27/2495.ts
-
-#EXTINF:0 group-title="US: United States",US: FOX SPORTS 1 HD
-http://212.8.248.94:2103/live/nani27/nani27/2498.ts
-
-#EXTINF:0 group-title="US: United States",US: FOX SPORTS 2 HD
-http://212.8.248.94:2103/live/nani27/nani27/2499.ts
-
-#EXTINF:0 group-title="US: United States",US: FOX SPORTS CAROLINA HD
-http://212.8.248.94:2103/live/nani27/nani27/3064.ts
-
-#EXTINF:0 group-title="US: United States",US: FOX SPORTS DETROIT HD
-http://212.8.248.94:2103/live/nani27/nani27/3061.ts
-
-#EXTINF:0 group-title="US: United States",US: FOX SPORTS FLORIDA HD
-http://212.8.248.94:2103/live/nani27/nani27/3060.ts
-
-#EXTINF:0 group-title="US: United States",US: FOX SPORTS SOUTH HD
-http://212.8.248.94:2103/live/nani27/nani27/3055.ts
-
-#EXTINF:0 group-title="US: United States",US: FOX SPORTS SPORTSTIME OHIO HD
-http://212.8.248.94:2103/live/nani27/nani27/2443.ts
 
 #EXTINF:0 group-title="US: United States",US: FOX SPORTS WEST PUBLIC SPORTS ENGLISH HD
 http://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/4c84475f-e049-458a-83e2-ac4458b7ce84/2.m3u8
@@ -1759,50 +1315,20 @@ http://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/produc
 #EXTINF:0 group-title="US: United States",US: FOX SPORTS WEST PUBLIC SPORTS ENGLISH
 https://midas.fubo.tv/v1/manifest/6c9193257c0eed8ca3f1eabccc4444f9477500f1/production/4c84475f-e049-458a-83e2-ac4458b7ce84/2.m3u8
 
-#EXTINF:0 group-title="US: United States",US: MLB NETWORK HD
-http://212.8.248.94:2103/live/nani27/nani27/2584.ts
-
 #EXTINF:0 group-title="US: United States",US: MLB NETWORK OPT 1
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
 #EXTINF:0 group-title="US: United States",US: MLB NETWORK PUBLIC SPORTS ENGLISH
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20180731_1533025887059/3000K/3000_slide.m3u8
 
-#EXTINF:0 group-title="US: United States",US: NBA HD
-http://212.8.248.94:2103/live/nani27/nani27/2576.ts
-
-#EXTINF:0 group-title="US: United States",US: NBA LEAGUE PASS 3 MATCH TIME ONLY HD
-http://212.8.248.94:2103/live/nani27/nani27/3292.ts
-
-#EXTINF:0 group-title="US: United States",US: NBA LEAGUE PASS 4 MATCH TIME ONLY HD
-http://212.8.248.94:2103/live/nani27/nani27/3291.ts
-
-#EXTINF:0 group-title="US: United States",US: NBC GOLF CHANNEL HD
-http://212.8.248.94:2103/live/nani27/nani27/2500.ts
-
-#EXTINF:0 group-title="US: United States",US: NFL NOW HD
-http://212.8.248.94:2103/live/nani27/nani27/3032.ts
-
-#EXTINF:0 group-title="US: United States",US: NHL NETWORK HD
-http://212.8.248.94:2103/live/nani27/nani27/2449.ts
-
 #EXTINF:0 group-title="US: United States",US: ONE CHANNEL SPORTS ARABIC
 http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
-
-#EXTINF:0 group-title="US: United States",US: PAC 12 ARIZONA HD
-http://212.8.248.94:2103/live/nani27/nani27/2506.ts
-
-#EXTINF:0 group-title="US: United States",US: PAC 12 OREGON HD
-http://212.8.248.94:2103/live/nani27/nani27/2509.ts
 
 #EXTINF:0 group-title="US: United States",US: RED BULL TV OPT 1
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.ts
 
 #EXTINF:0 group-title="US: United States",US: RED BULL TV OPT 2
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
-#EXTINF:0 group-title="US: United States",US: UFC FIGHT PASS
-http://212.8.248.94:2103/live/nani27/nani27/3019.ts
 
 #EXTINF:-1,mousssa_AR - QHD BEIN SPORTS HD
 http://193.200.164.163:80/live/nabil/nabil123/27923.ts
@@ -1857,9 +1383,6 @@ http://193.200.164.163:80/live/nabil/nabil123/27900.ts
 
 #EXTINF:-1,mousssa_AR - BEIN SPORTS 3 HD
 http://193.200.164.163:80/live/nabil/nabil123/27899.ts
-
-#EXTINF:-1,mousssa_AR - BEIN SPORTS 4 HD
-http://193.200.164.163:80/live/nabil/nabil123/27898.ts
 
 #EXTINF:-1,mousssa_AR - BEIN SPORTS 5 HD
 http://193.200.164.163:80/live/nabil/nabil123/27897.ts
