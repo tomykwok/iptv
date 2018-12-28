@@ -73,6 +73,9 @@ http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=0
 #EXTINF:0,KITANESIA
 http://stream1.ninmedia.tv/live/xmedia-kitanesiatv.stream_nin/playlist.m3u8
 
+#EXTINF:0,INSPIRA TV
+http://stream1.ninmedia.tv/live/xmedia-inspiratv.stream_nin/playlist.m3u8
+
 #EXTINF:0,SALURAN FILM INDONESIA
 http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3u8
 
@@ -522,6 +525,9 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 
 #EXTINF:0, group-title="ASIA",VASANTHAM
 http://ftavasantham.akamaized.net/out/v1/a5491e2b2a7042b3a055013f4f3017f8/index.m3u8
+
+#EXTINF:0, group-title="ASIA",AMARINTV HD
+http://210.4.150.104/stream/5195e80fe1ed0/chunklist_w692534659.m3u8
 
 #EXTINF:-1,MOTOR SPORT
 http://45.58.62.92:8084
