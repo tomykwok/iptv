@@ -1,4 +1,670 @@
 #EXTM3U
+#EXTINF:-1,BEIN SPORTS 1
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/11.ts
+
+#EXTINF:-1,BEIN SPORTS 2
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/12.ts
+
+#EXTINF:-1,BEIN SPORTS 3
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/13.ts
+
+#EXTINF:-1,BEIN SPORTS 4
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/14.ts
+
+#EXTINF:-1,BEIN SPORTS 5
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/15.ts
+
+#EXTINF:-1,BEIN SPORTS 6
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/16.ts
+
+#EXTINF:-1,BEIN SPORTS 8
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/18.ts
+
+#EXTINF:-1,BEIN SPORTS 7
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/17.ts
+
+#EXTINF:-1,BEIN SPORTS 9
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/19.ts
+
+#EXTINF:-1,BEIN SPORTS 10
+http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/20.ts
+
+#EXTINF:-1,Bein Sport Max HD1
+http://linux-app.tv:6204/said/123/7048
+
+#EXTINF:-1,Bein Sport Max HD2
+http://linux-app.tv:6204/said/123/7049
+
+#EXTINF:-1,Bein Sport Max HD1 Backup
+http://linux-app.tv:6204/said/123/14404
+
+#EXTINF:-1,Bein Sport Max HD2 Backup
+http://linux-app.tv:6204/said/123/14403
+
+#EXTINF:-1,Bein Sport Max SD1
+http://linux-app.tv:6204/said/123/14402
+
+#EXTINF:-1,Bein Sport Max SD2
+http://linux-app.tv:6204/said/123/14401
+
+#EXTINF:-1,Bein Sport HD
+http://linux-app.tv:6204/said/123/2568
+
+#EXTINF:-1,Bein Sport News HD
+http://linux-app.tv:6204/said/123/2567
+
+#EXTINF:-1,Bein Sport HD1 1080i
+http://linux-app.tv:6204/said/123/127
+
+#EXTINF:-1,Bein Sport HD2 1080i
+http://linux-app.tv:6204/said/123/128
+
+#EXTINF:-1,Bein Sport HD3 1080i
+http://linux-app.tv:6204/said/123/129
+
+#EXTINF:-1,Bein Sport HD4 1080i
+http://linux-app.tv:6204/said/123/130
+
+#EXTINF:-1,Bein Sport HD5 1080i
+http://linux-app.tv:6204/said/123/132
+
+#EXTINF:-1,Bein Sport HD6 1080i
+http://linux-app.tv:6204/said/123/133
+
+#EXTINF:-1,Bein Sport HD8 1080i
+http://linux-app.tv:6204/said/123/135
+
+#EXTINF:-1,Bein Sport HD7 1080i
+http://linux-app.tv:6204/said/123/134
+
+#EXTINF:-1,Bein Sport HD9 1080i
+http://linux-app.tv:6204/said/123/186
+
+#EXTINF:-1,Bein Sport HD10 1080i
+http://linux-app.tv:6204/said/123/187
+
+#EXTINF:-1,Bein Sport HD11 EN 1080i
+http://linux-app.tv:6204/said/123/188
+
+#EXTINF:-1,Bein Sport HD12 EN 1080i
+http://linux-app.tv:6204/said/123/189
+
+#EXTINF:-1,Bein Sport HD13 EN 1080i
+http://linux-app.tv:6204/said/123/1694
+
+#EXTINF:-1,Bein Sport HD14 Fr 1080i
+http://linux-app.tv:6204/said/123/2555
+
+#EXTINF:-1,Bein Sport HD15 Fr 1080i
+http://linux-app.tv:6204/said/123/4763
+
+#EXTINF:-1,Bein Sport HD16 Fr 1080i
+http://linux-app.tv:6204/said/123/4762
+
+#EXTINF:-1,Bein Sport NBA HD
+http://linux-app.tv:6204/said/123/6434
+
+#EXTINF:-1,Bein Sport HD1 720P
+http://linux-app.tv:6204/said/123/9022
+
+#EXTINF:-1,Bein Sport HD2 720P
+http://linux-app.tv:6204/said/123/9021
+
+#EXTINF:-1,Bein Sport HD3 720P
+http://linux-app.tv:6204/said/123/9020
+
+#EXTINF:-1,Bein Sport HD4 720P
+http://linux-app.tv:6204/said/123/9019
+
+#EXTINF:-1,Bein Sport HD5 720P
+http://linux-app.tv:6204/said/123/9018
+
+#EXTINF:-1,Bein Sport HD6 720P
+http://linux-app.tv:6204/said/123/9017
+
+#EXTINF:-1,Bein Sport HD7 720P
+http://linux-app.tv:6204/said/123/9016
+
+#EXTINF:-1,Bein Sport HD8 720P
+http://linux-app.tv:6204/said/123/9015
+
+#EXTINF:-1,Bein Sport HD9 720P
+http://linux-app.tv:6204/said/123/9014
+
+#EXTINF:-1,Bein Sport HD10 720P
+http://linux-app.tv:6204/said/123/9013
+
+#EXTINF:-1,Bein Sport HD11 EN 720P
+http://linux-app.tv:6204/said/123/9012
+
+#EXTINF:-1,bein Sport SD1
+http://linux-app.tv:6204/said/123/1913
+
+#EXTINF:-1,Bein Sport SD2
+http://linux-app.tv:6204/said/123/1914
+
+#EXTINF:-1,Bein Sport SD3
+http://linux-app.tv:6204/said/123/1915
+
+#EXTINF:-1,Bein Sport SD4
+http://linux-app.tv:6204/said/123/1916
+
+#EXTINF:-1,Bein Sport SD5
+http://linux-app.tv:6204/said/123/1917
+
+#EXTINF:-1,Bein Sport SD6
+http://linux-app.tv:6204/said/123/1918
+
+#EXTINF:-1,Bein Sport SD7
+http://linux-app.tv:6204/said/123/1919
+
+#EXTINF:-1,Bein Sport SD8
+http://linux-app.tv:6204/said/123/1920
+
+#EXTINF:-1,Bein Sport SD9
+http://linux-app.tv:6204/said/123/1921
+
+#EXTINF:-1,Bein Sport SD10
+http://linux-app.tv:6204/said/123/1922
+
+#EXTINF:-1,Bein Sport SD11
+http://linux-app.tv:6204/said/123/1923
+
+#EXTINF:-1,Bein Alkass 1 HD
+http://linux-app.tv:6204/said/123/7045
+
+#EXTINF:-1,Bein Alkass 2 HD
+http://linux-app.tv:6204/said/123/7046
+
+#EXTINF:-1,Bein Alkass 3 HD
+http://linux-app.tv:6204/said/123/7047
+
+#EXTINF:-1,Bein Alkass 6 HD
+http://linux-app.tv:6204/said/123/7050
+
+#EXTINF:-1,Ar- AD Sport1 HD
+http://linux-app.tv:6204/said/123/2582
+
+#EXTINF:-1,Ar- AD Sport2 HD
+http://linux-app.tv:6204/said/123/2581
+
+#EXTINF:-1,Ar- AD Sport3 HD
+http://linux-app.tv:6204/said/123/2718
+
+#EXTINF:-1,Ar- AD Sport4 HD
+http://linux-app.tv:6204/said/123/2719
+
+#EXTINF:-1,Ar- Dawri Plus 1 HD
+http://linux-app.tv:6204/said/123/11206
+
+#EXTINF:-1,Ar- Dawri Plus 2 HD
+http://linux-app.tv:6204/said/123/11205
+
+#EXTINF:-1,Ar- Dawri Plus 3 HD
+http://linux-app.tv:6204/said/123/11208
+
+#EXTINF:-1,Ar- Dawri Plus 4 HD
+http://linux-app.tv:6204/said/123/11207
+
+#EXTINF:-1,Ar- KSA Sport 1 HD
+http://linux-app.tv:6204/said/123/3039
+
+#EXTINF:-1,Ar- KSA Sport 2 HD
+http://linux-app.tv:6204/said/123/6432
+
+#EXTINF:-1,Ar- KSA Sport +1 HD
+http://linux-app.tv:6204/said/123/13738
+
+#EXTINF:-1,Ar- KSA Sport +2 HD
+http://linux-app.tv:6204/said/123/13739
+
+#EXTINF:-1,Ar- Saudia Sport 24 HD
+http://linux-app.tv:6204/said/123/10624
+
+#EXTINF:-1,Ar- Dubai Sport 1 HD
+http://linux-app.tv:6204/said/123/2583
+
+#EXTINF:-1,Ar- Dubai Sport 2 HD
+http://linux-app.tv:6204/said/123/10626
+
+#EXTINF:-1,Ar- Dubai Sport 3 HD
+http://linux-app.tv:6204/said/123/10625
+
+#EXTINF:-1,Ar- Dubai Racing 1 HD
+http://linux-app.tv:6204/said/123/2584
+
+#EXTINF:-1,Ar- Dubai Racing 2 HD
+http://linux-app.tv:6204/said/123/10628
+
+#EXTINF:-1,Ar- Dubai Racing 3 HD
+http://linux-app.tv:6204/said/123/10627
+
+#EXTINF:-1,Ar- ON Sport HD
+http://linux-app.tv:6204/said/123/6556
+
+#EXTINF:-1,Ar- Nile Sport
+http://linux-app.tv:6204/said/123/4133
+
+#EXTINF:-1,Ar- DMC Sport HD
+http://linux-app.tv:6204/said/123/6890
+
+#EXTINF:-1,Ar- KTV Sport HD
+http://linux-app.tv:6204/said/123/2733
+
+#EXTINF:-1,Ar- KTV Sport Plus HD
+http://linux-app.tv:6204/said/123/2732
+
+#EXTINF:-1,Ar- Iraqiya Sport
+http://linux-app.tv:6204/said/123/2740
+
+#EXTINF:-1,Ar- Omman Sport HD
+http://linux-app.tv:6204/said/123/2676
+
+#EXTINF:-1,Uk- Sky Sports Main Event HD
+http://m-iptv.net:6204/said/123/8517
+
+#EXTINF:-1,Uk- Sky Sports Cricket HD
+http://m-iptv.net:6204/said/123/8516
+
+#EXTINF:-1,Uk- Sky Sports Action HD
+http://m-iptv.net:6204/said/123/8515
+
+#EXTINF:-1,Uk- Sky Sports Golf HD
+http://m-iptv.net:6204/said/123/8514
+
+#EXTINF:-1,Uk- Sky Sports Premier League HD
+http://m-iptv.net:6204/said/123/8513
+
+#EXTINF:-1,UK- Sky Sports Arena HD
+http://m-iptv.net:6204/said/123/9059
+
+#EXTINF:-1,Uk- Sky Sport Football
+http://m-iptv.net:6204/said/123/8523
+
+#EXTINF:-1,Uk- Sky Sports MixHD
+http://m-iptv.net:6204/said/123/8511
+
+#EXTINF:-1,Uk- Sky BoxNation
+http://m-iptv.net:6204/said/123/8583
+
+#EXTINF:-1,Uk- Sky Sports F1 HD
+http://m-iptv.net:6204/said/123/8512
+
+#EXTINF:-1,Uk- Sky Sports F1 HD Backup S
+http://m-iptv.net:6204/said/123/11099
+
+#EXTINF:-1,Uk- Sky BT Sport 1 HD
+http://m-iptv.net:6204/said/123/8582
+
+#EXTINF:-1,Uk- Sky BT Sport 2 HD
+http://m-iptv.net:6204/said/123/8580
+
+#EXTINF:-1,Uk- Sky BT Sport 3 HD
+http://m-iptv.net:6204/said/123/10166
+
+#EXTINF:-1,Uk- Sky BT Sports Extra 1
+http://m-iptv.net:6204/said/123/8581
+
+#EXTINF:-1,Uk- Sky BT Sports Extra 2
+http://m-iptv.net:6204/said/123/8579
+
+#EXTINF:-1,Uk- Sky BT Sports Extra 3
+http://m-iptv.net:6204/said/123/8578
+
+#EXTINF:-1,Uk- Uk- Sky BT Sport ESPN HD
+http://m-iptv.net:6204/said/123/8577
+
+#EXTINF:-1,Uk- Sky Eurosport 1 HD
+http://m-iptv.net:6204/said/123/8560
+
+#EXTINF:-1,Uk- Sky Eurosport 2 HD
+http://m-iptv.net:6204/said/123/8559
+
+#EXTINF:-1,Uk- Sky Eir Sport 1
+http://m-iptv.net:6204/said/123/11118
+
+#EXTINF:-1,Uk- Sky Eir Sport 2
+http://m-iptv.net:6204/said/123/11117
+
+#EXTINF:-1,De- Sky Sport News FHD
+http://m-iptv.net:6204/said/123/12352
+
+#EXTINF:-1,De- Sky Sport News HD.
+http://m-iptv.net:6204/said/123/12351
+
+#EXTINF:-1,De- Sky Sport  Austria FHD
+http://m-iptv.net:6204/said/123/12354
+
+#EXTINF:-1,De- Sky Sport Austria SD
+http://m-iptv.net:6204/said/123/12353
+
+#EXTINF:-1,De- Auto Motor Sport HD
+http://m-iptv.net:6204/said/123/12356
+
+#EXTINF:-1,De- ORF Sport  HD
+http://m-iptv.net:6204/said/123/12194
+
+#EXTINF:-1,De- Motorvision HD
+http://m-iptv.net:6204/said/123/12355
+
+#EXTINF:-1,De- Sport 1 HD.
+http://m-iptv.net:6204/said/123/12360
+
+#EXTINF:-1,De- Sport1  HD
+http://m-iptv.net:6204/said/123/12359
+
+#EXTINF:-1,De- Sport1 US FHD
+http://m-iptv.net:6204/said/123/12358
+
+#EXTINF:-1,De- Sportdigital HD
+http://m-iptv.net:6204/said/123/12357
+
+#EXTINF:-1,De- DAZN  1 FHD
+http://m-iptv.net:6204/said/123/12339
+
+#EXTINF:-1,De- DAZN  2 FHD
+http://m-iptv.net:6204/said/123/12338
+
+#EXTINF:-1,De- EuroSport 1 FHD
+http://m-iptv.net:6204/said/123/12350
+
+#EXTINF:-1,De- EuroSport 1 HD.
+http://m-iptv.net:6204/said/123/12349
+
+#EXTINF:-1,De- EuroSport 2 FHD
+http://m-iptv.net:6204/said/123/12348
+
+#EXTINF:-1,De- EuroSport 2 HD.
+http://m-iptv.net:6204/said/123/12347
+
+#EXTINF:-1,De- EuroSport 2 Xtra FHD
+http://m-iptv.net:6204/said/123/12346
+
+#EXTINF:-1,De- EuroSport 2 Xtra HD
+http://m-iptv.net:6204/said/123/12345
+
+#EXTINF:-1,De- EuroSport360 1 FHD
+http://m-iptv.net:6204/said/123/12344
+
+#EXTINF:-1,De- Eurosport360 2 FHD
+http://m-iptv.net:6204/said/123/12343
+
+#EXTINF:-1,De- EuroSport360 3 FHD
+http://m-iptv.net:6204/said/123/12342
+
+#EXTINF:-1,De- EuroSport360 4 FHD
+http://m-iptv.net:6204/said/123/12341
+
+#EXTINF:-1,De- Eurosport360 5 FHD
+http://m-iptv.net:6204/said/123/12340
+
+#EXTINF:-1,De- Sky Sport 1
+http://m-iptv.net:6204/said/123/12335
+
+#EXTINF:-1,De- Sky Sport 1 FHD
+http://m-iptv.net:6204/said/123/12337
+
+#EXTINF:-1,De- Sky Sport 1 HD
+http://m-iptv.net:6204/said/123/12336
+
+#EXTINF:-1,De- Sky Sport 2
+http://m-iptv.net:6204/said/123/12332
+
+#EXTINF:-1,De- Sky Sport 2 FHD
+http://m-iptv.net:6204/said/123/12334
+
+#EXTINF:-1,De- Sky Sport 2 HD
+http://m-iptv.net:6204/said/123/12333
+
+#EXTINF:-1,De- Sky Sport 3
+http://m-iptv.net:6204/said/123/12329
+
+#EXTINF:-1,De- Sky Sport 3 FHD
+http://m-iptv.net:6204/said/123/12331
+
+#EXTINF:-1,De- Sky Sport 3 HD
+http://m-iptv.net:6204/said/123/12330
+
+#EXTINF:-1,De- Sky Sport 4
+http://m-iptv.net:6204/said/123/12326
+
+#EXTINF:-1,De- Sky Sport 4 FHD
+http://m-iptv.net:6204/said/123/12328
+
+#EXTINF:-1,De- Sky Sport 4 HD
+http://m-iptv.net:6204/said/123/12327
+
+#EXTINF:-1,De- Sky Sport 5
+http://m-iptv.net:6204/said/123/12323
+
+#EXTINF:-1,De- Sky Sport 5 FHD
+http://m-iptv.net:6204/said/123/12325
+
+#EXTINF:-1,De- Sky Sport 5 HD
+http://m-iptv.net:6204/said/123/12324
+
+#EXTINF:-1,De- Sky Sport 6
+http://m-iptv.net:6204/said/123/12320
+
+#EXTINF:-1,De- Sky Sport 6 FHD
+http://m-iptv.net:6204/said/123/12322
+
+#EXTINF:-1,De- Sky Sport 6 HD
+http://m-iptv.net:6204/said/123/12321
+
+#EXTINF:-1,De- Sky Sport 7
+http://m-iptv.net:6204/said/123/12317
+
+#EXTINF:-1,De- Sky Sport 7 FHD
+http://m-iptv.net:6204/said/123/12319
+
+#EXTINF:-1,De- Sky Sport 7 HD
+http://m-iptv.net:6204/said/123/12318
+
+#EXTINF:-1,De- Sky Sport 8 FHD
+http://m-iptv.net:6204/said/123/12316
+
+#EXTINF:-1,De- Sky Sport 8 HD
+http://m-iptv.net:6204/said/123/12315
+
+#EXTINF:-1,De- Sky Sport 9 FHD
+http://m-iptv.net:6204/said/123/12314
+
+#EXTINF:-1,De- Sky Sport 9 HD
+http://m-iptv.net:6204/said/123/12313
+
+#EXTINF:-1,De- Sky Sport 10 FHD
+http://m-iptv.net:6204/said/123/12312
+
+#EXTINF:-1,De- Sky Sport 10 HD
+http://m-iptv.net:6204/said/123/12311
+
+#EXTINF:-1,De- Sky Sport 11 FHD
+http://m-iptv.net:6204/said/123/12310
+
+#EXTINF:-1,De- Sky Sport 11 HD
+http://m-iptv.net:6204/said/123/12309
+
+#EXTINF:-1,De- Sky Sport Bundesliga 1 FHD
+http://m-iptv.net:6204/said/123/12308
+
+#EXTINF:-1,De- Sky Sport Bundesliga 1 HD
+http://m-iptv.net:6204/said/123/12307
+
+#EXTINF:-1,De- Sky Sport Bundesliga 10 FHD
+http://m-iptv.net:6204/said/123/12290
+
+#EXTINF:-1,De- Sky Sport Bundesliga 10 HD
+http://m-iptv.net:6204/said/123/12289
+
+#EXTINF:-1,De- Sky Sport Bundesliga 2 FHD
+http://m-iptv.net:6204/said/123/12306
+
+#EXTINF:-1,De- Sky Sport Bundesliga 2 HD
+http://m-iptv.net:6204/said/123/12305
+
+#EXTINF:-1,De- Sky Sport Bundesliga 3 FHD
+http://m-iptv.net:6204/said/123/12304
+
+#EXTINF:-1,De- Sky Sport Bundesliga 3 HD
+http://m-iptv.net:6204/said/123/12303
+
+#EXTINF:-1,De- Sky Sport Bundesliga 4 FHD
+http://m-iptv.net:6204/said/123/12302
+
+#EXTINF:-1,De- Sky Sport Bundesliga 4 HD
+http://m-iptv.net:6204/said/123/12301
+
+#EXTINF:-1,De- Sky Sport Bundesliga 5 FHD
+http://m-iptv.net:6204/said/123/12300
+
+#EXTINF:-1,De- Sky Sport Bundesliga 5 HD
+http://m-iptv.net:6204/said/123/12299
+
+#EXTINF:-1,De- Sky Sport Bundesliga 6 FHD
+http://m-iptv.net:6204/said/123/12298
+
+#EXTINF:-1,De- Sky Sport Bundesliga 6 HD
+http://m-iptv.net:6204/said/123/12297
+
+#EXTINF:-1,De- Sky Sport Bundesliga 7 FHD
+http://m-iptv.net:6204/said/123/12296
+
+#EXTINF:-1,De- Sky Sport Bundesliga 7 HD
+http://m-iptv.net:6204/said/123/12295
+
+#EXTINF:-1,De- Sky Sport Bundesliga 8 FHD
+http://m-iptv.net:6204/said/123/12294
+
+#EXTINF:-1,De- Sky Sport Bundesliga 8 HD
+http://m-iptv.net:6204/said/123/12293
+
+#EXTINF:-1,De- Sky Sport Bundesliga 9 FHD
+http://m-iptv.net:6204/said/123/12292
+
+#EXTINF:-1,De- Sky Sport Bundesliga 9 HD
+http://m-iptv.net:6204/said/123/12291
+
+#EXTINF:-1,Fr: Eurosport 1 Fr
+http://m-iptv.net:6204/said/123/8046
+
+#EXTINF:-1,Fr: InfoSport
+http://m-iptv.net:6204/said/123/8033
+
+#EXTINF:-1,Fr- SFR SPORT 1 FHD
+http://m-iptv.net:6204/said/123/14046
+
+#EXTINF:-1,Fr- SFR SPORT 2 FHD
+http://m-iptv.net:6204/said/123/14045
+
+#EXTINF:-1,Fr- SFR SPORT 3 FHD
+http://m-iptv.net:6204/said/123/14044
+
+#EXTINF:-1,Fr- SFR SPORT 4 FHD
+http://m-iptv.net:6204/said/123/14043
+
+#EXTINF:-1,Fr- SFR SPORT 5 FHD
+http://m-iptv.net:6204/said/123/14042
+
+#EXTINF:-1,Fr- BEIN SPORT 1 HD
+http://m-iptv.net:6204/said/123/14041
+
+#EXTINF:-1,Fr- BEIN SPORT 2 HD
+http://m-iptv.net:6204/said/123/14040
+
+#EXTINF:-1,Fr- BEIN SPORT 3 HD
+http://m-iptv.net:6204/said/123/14039
+
+#EXTINF:-1,Fr- BEIN MAX 4 HD
+http://m-iptv.net:6204/said/123/14038
+
+#EXTINF:-1,Fr- BEIN MAX 5 HD
+http://m-iptv.net:6204/said/123/14037
+
+#EXTINF:-1,Fr- BEIN MAX 6 HD
+http://m-iptv.net:6204/said/123/14036
+
+#EXTINF:-1,Fr- BEIN MAX 7 HD
+http://m-iptv.net:6204/said/123/14035
+
+#EXTINF:-1,Fr- BEIN MAX 8 HD
+http://m-iptv.net:6204/said/123/14034
+
+#EXTINF:-1,Fr- BEIN MAX 9 HD
+http://m-iptv.net:6204/said/123/14033
+
+#EXTINF:-1,Fr- BEIN MAX 10 HD
+http://m-iptv.net:6204/said/123/14032
+
+#EXTINF:-1,It- Sky Sport MotoGP HD
+http://m-iptv.net:6204/said/123/9420
+
+#EXTINF:-1,It- Sky Calcio 1 HD
+http://m-iptv.net:6204/said/123/9439
+
+#EXTINF:-1,It- Sky Calcio 2 HD
+http://m-iptv.net:6204/said/123/9438
+
+#EXTINF:-1,It- Sky Calcio 3 HD
+http://m-iptv.net:6204/said/123/9437
+
+#EXTINF:-1,It- Sky Calcio 4 HD
+http://m-iptv.net:6204/said/123/9436
+
+#EXTINF:-1,It- Sky Sport F1 HD
+http://m-iptv.net:6204/said/123/9421
+
+#EXTINF:-1,It- Sky Sport 1 HD
+http://m-iptv.net:6204/said/123/9425
+
+#EXTINF:-1,It- Sky Sport 2 HD
+http://m-iptv.net:6204/said/123/9424
+
+#EXTINF:-1,It- Sky Sport 3 HD
+http://m-iptv.net:6204/said/123/9422
+
+#EXTINF:-1,It- Sky Sport 24 HD
+http://m-iptv.net:6204/said/123/9423
+
+#EXTINF:-1,It- Eurosport
+http://m-iptv.net:6204/said/123/9464
+
+#EXTINF:-1,It- Eurosport 2 HD
+http://m-iptv.net:6204/said/123/9463
+
+#EXTINF:-1,It- Premium Calcio
+http://m-iptv.net:6204/said/123/9458
+
+#EXTINF:-1,It- Premium Calcio 2 HD
+http://m-iptv.net:6204/said/123/9457
+
+#EXTINF:-1,It- Premium Fox Sport HD
+http://m-iptv.net:6204/said/123/9452
+
+#EXTINF:-1,It- Premium Sport 2
+http://m-iptv.net:6204/said/123/9451
+
+#EXTINF:-1,It- Premium Sport HD
+http://m-iptv.net:6204/said/123/9450
+
+#EXTINF:-1,It- Premium Sport HD 2
+http://m-iptv.net:6204/said/123/9449
+
+#EXTINF:-1,It- Rai Sports 1
+http://m-iptv.net:6204/said/123/9441
+
+#EXTINF:-1,It- Rai Sports 2
+http://m-iptv.net:6204/said/123/9440
+
+#EXTINF:-1,It- Sky Supercalcio
+http://m-iptv.net:6204/said/123/9419
+
+#EXTINF:-1,It- Sky Supertennis
+http://m-iptv.net:6204/said/123/9418
+
+#EXTINF:-1,It- Sport Italia
+http://m-iptv.net:6204/said/123/9416
+
 #EXTINF:-1,Bein Sport Max HD1
 http://smart-hdip.com:6204/atef/123/7048
 #EXTINF:-1,Bein Sport Max HD2
