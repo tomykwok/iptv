@@ -1,33 +1,11 @@
-#EXTM3U
 #EXTINF:-1,BEIN SPORTS 1
 http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/11.ts
 
 #EXTINF:-1,BEIN SPORTS 2
 http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/12.ts
 
-#EXTINF:-1,BEIN SPORTS 3
-http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/13.ts
-
-#EXTINF:-1,BEIN SPORTS 4
-http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/14.ts
-
-#EXTINF:-1,BEIN SPORTS 5
-http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/15.ts
-
-#EXTINF:-1,BEIN SPORTS 6
-http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/16.ts
-
 #EXTINF:-1,BEIN SPORTS 8
 http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/18.ts
-
-#EXTINF:-1,BEIN SPORTS 7
-http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/17.ts
-
-#EXTINF:-1,BEIN SPORTS 9
-http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/19.ts
-
-#EXTINF:-1,BEIN SPORTS 10
-http://mantechnologyiptv.ddns.net:8080/live/mantech201944/120158799/20.ts
 
 #EXTINF:-1,FR: BeinSport1 HD
 http://ip.avov4.us:8000/tunaabi/13122018/217
@@ -52,9 +30,6 @@ http://ip.avov4.us:8000/tunaabi/13122018/140
 
 #EXTINF:-1,AR: BeinSport5 HD
 http://ip.avov4.us:8000/tunaabi/13122018/141
-
-#EXTINF:-1,AR: BeinSport6 HD
-http://ip.avov4.us:8000/tunaabi/13122018/142
 
 #EXTINF:-1,AR: BeinSport7 HD
 http://ip.avov4.us:8000/tunaabi/13122018/143
@@ -86,9 +61,6 @@ http://ip.avov4.us:8000/tunaabi/13122018/164
 #EXTINF:-1,US: Fox Sports 1 HD
 http://ip.avov4.us:8000/tunaabi/13122018/112
 
-#EXTINF:-1,US: Fox Sports 2 HD
-http://ip.avov4.us:8000/tunaabi/13122018/113
-
 #EXTINF:-1,DE: Sky Sport 1 HQ
 http://ip.avov4.us:8000/tunaabi/13122018/159
 
@@ -104,38 +76,281 @@ http://ip.avov4.us:8000/tunaabi/13122018/4624
 #EXTINF:-1,DE: SKY BUNDESLIGA 2 HD ( During Games only )
 http://ip.avov4.us:8000/tunaabi/13122018/1286
 
-#EXTINF:-1,TR: beIN Sports 1 SD
-http://ip.avov4.us:8000/tunaabi/13122018/1
-
-#EXTINF:-1,TR: beIN Sports 1 HQ
-http://ip.avov4.us:8000/tunaabi/13122018/447
-
-#EXTINF:-1,TR: beIN Sports 1 HD
-http://ip.avov4.us:8000/tunaabi/13122018/2
-
-#EXTINF:-1,TR: beIN Sports 1 UHD
-http://ip.avov4.us:8000/tunaabi/13122018/8903
-
-#EXTINF:-1,TR: beIN Sports 1 HD 1080P
-http://ip.avov4.us:8000/tunaabi/13122018/4614
-
-#EXTINF:-1,TR: beIN Sports 2 HD
-http://ip.avov4.us:8000/tunaabi/13122018/3
-
-#EXTINF:-1,TR: beIN Sports 3 HD
-http://ip.avov4.us:8000/tunaabi/13122018/4
-
-#EXTINF:-1,TR: beIN Sports 4 HD
-http://ip.avov4.us:8000/tunaabi/13122018/630
-
-#EXTINF:-1,TR: beIN Sports 5 HD
-http://ip.avov4.us:8000/tunaabi/13122018/33
-
-#EXTINF:-1,TR: beIN Sports Max 1
-http://ip.avov4.us:8000/tunaabi/13122018/4553
-
-#EXTINF:-1,TR: beIN Sports Max 2
-http://ip.avov4.us:8000/tunaabi/13122018/4557
-
 #EXTINF:-1,TR: beIN Sport Haber HQ
 http://ip.avov4.us:8000/tunaabi/13122018/5675
+
+#EXTINF:-1 tvg-ID="Sky Sport24HD" tvg-name="Sky Sport 24 HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sport24.png" group-title="SPORT HD",Sky Sport 24 HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2159
+
+#EXTINF:-1 tvg-ID="Sky Sport24FHD" tvg-name="Sky Sport 24 Full HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sport24.png" group-title="SPORT HD",Sky Sport 24 Full HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/24105
+
+#EXTINF:-1 tvg-ID="Sky Sport24SD" tvg-name="Sky Sport 24 SD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sport24.png" group-title="SPORT HD",Sky Sport 24 SD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/5579
+
+#EXTINF:-1 tvg-ID="Sky Sport Uno HD" tvg-name="Sky Sport Uno HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportuno.png" group-title="SPORT HD",Sky Sport Uno HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/164
+
+#EXTINF:-1 tvg-ID="Sky Sport Uno FHD" tvg-name="Sky Sport Uno Full HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportuno.png" group-title="SPORT HD",Sky Sport Uno Full HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/48312
+
+#EXTINF:-1 tvg-ID="Sky Sport Uno SD" tvg-name="Sky Sport Uno SD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportuno.png" group-title="SPORT HD",Sky Sport Uno SD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/8585
+
+#EXTINF:-1 tvg-ID="Sky Sport Football HD" tvg-name="Sky Sport Football HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportfootball.png" group-title="SPORT HD",Sky Sport Football HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/11
+
+#EXTINF:-1 tvg-ID="Sky Sport Football FHD" tvg-name="Sky Sport Football Full HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportfootball.png" group-title="SPORT HD",Sky Sport Football Full HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/106
+
+#EXTINF:-1 tvg-ID="Sky Sport Football SD" tvg-name="Sky Sport Football SD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportfootball.png" group-title="SPORT HD",Sky Sport Football SD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/812
+
+#EXTINF:-1 tvg-ID="Sky Sport Arena HD" tvg-name="Sky Sport Arena HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportarena.png" group-title="SPORT HD",Sky Sport Arena HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2106
+
+#EXTINF:-1 tvg-ID="Sky Sport Arena FHD" tvg-name="Sky Sport Arena Full HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportarena.png" group-title="SPORT HD",Sky Sport Arena Full HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/24107
+
+#EXTINF:-1 tvg-ID="Sky Sport Arena SD" tvg-name="Sky Sport Arena SD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportarena.png" group-title="SPORT HD",Sky Sport Arena SD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/5581
+
+#EXTINF:-1 tvg-ID="Sky Sport Golf HD" tvg-name="Sky Sport Golf HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportgolf.png" group-title="SPORT HD",Sky Sport Golf HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2175
+
+#EXTINF:-1 tvg-ID="Sky Sport Golf FHD" tvg-name="Sky Sport Golf Full HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportgolf.png" group-title="SPORT HD",Sky Sport Golf Full HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/24153
+
+#EXTINF:-1 tvg-ID="Sky Sport Golf SD" tvg-name="Sky Sport Golf SD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportgolf.png" group-title="SPORT HD",Sky Sport Golf SD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/9418
+
+#EXTINF:-1 tvg-ID="Sky Sport NBA HD" tvg-name="Sky Sport NBA HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportnba.png" group-title="SPORT HD",Sky Sport NBA HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2160
+
+#EXTINF:-1 tvg-ID="Sky Sport NBA FHD" tvg-name="Sky Sport NBA Full HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportnba.png" group-title="SPORT HD",Sky Sport NBA Full HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/24149
+
+#EXTINF:-1 tvg-ID="Sky Sport NBA SD" tvg-name="Sky Sport NBA SD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportnba.png" group-title="SPORT HD",Sky Sport NBA SD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/9520
+
+#EXTINF:-1 tvg-ID="Sky Sport F1 HD" tvg-name="Sky Sport F1 HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/f1.png" group-title="SPORT HD",Sky Sport F1 HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2109
+
+#EXTINF:-1 tvg-ID="Sky Sport F1 FHD" tvg-name="Sky Sport F1 Full HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/f1.png" group-title="SPORT HD",Sky Sport F1 Full HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/24151
+
+#EXTINF:-1 tvg-ID="Sky Sport F1 SD" tvg-name="Sky Sport F1 SD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/f1.png" group-title="SPORT HD",Sky Sport F1 SD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/5583
+
+#EXTINF:-1 tvg-ID="Sky Sport MotoGP HD" tvg-name="Sky Sport Moto GP HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/motogp.png" group-title="SPORT HD",Sky Sport Moto GP HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2161
+
+#EXTINF:-1 tvg-ID="Sky Sport MotoGP FHD" tvg-name="Sky Sport MotoGP Full HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/motogp.png" group-title="SPORT HD",Sky Sport MotoGP Full HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/24150
+
+#EXTINF:-1 tvg-ID="Sky Sport MotoGP SD" tvg-name="Sky Sport Moto GP SD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/motogp.png" group-title="SPORT HD",Sky Sport Moto GP SD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/5584
+
+#EXTINF:-1 tvg-ID="Eurosport 1" tvg-name="EuroSport 1" tvg-logo="http://anonymouswebtv.live/webtv/loghi/eurosport.png" group-title="SPORT HD",EuroSport 1
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2125
+
+#EXTINF:-1 tvg-ID="Eurosport 2" tvg-name="EuroSport 2" tvg-logo="http://anonymouswebtv.live/webtv/loghi/eurosport2.png" group-title="SPORT HD",EuroSport 2
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2126
+
+#EXTINF:-1 tvg-ID="Bike Channel HD" tvg-name="Bike Channell" tvg-logo="http://anonymouswebtv.live/webtv/loghi/bike.png" group-title="SPORT HD",Bike Channell
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2162
+
+#EXTINF:-1 tvg-ID="Class Horse TV" tvg-name="Class Horse TV" tvg-logo="http://anonymouswebtv.live/webtv/loghi/classhorsetv.png" group-title="SPORT HD",Class Horse TV
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/4406
+
+#EXTINF:-1 tvg-ID="UnireSatHD" tvg-name="UnireSat" tvg-logo="http://anonymouswebtv.live/webtv/loghi/uniresat.png" group-title="SPORT HD",UnireSat
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/6665
+
+#EXTINF:-1 tvg-ID="SuperTennis HD" tvg-name="SuperTennis" tvg-logo="http://anonymouswebtv.live/webtv/loghi/supertennis.png" group-title="SPORT HD",SuperTennis
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2110
+
+#EXTINF:-1 tvg-ID="Rai Sport 1" tvg-name="Rai Sport + HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/raisport.png" group-title="SPORT HD",Rai Sport + HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/1899
+
+#EXTINF:-1 tvg-ID="Sportitalia" tvg-name="Sport Italia" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportitalia.png" group-title="SPORT HD",Sport Italia
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/3052
+
+#EXTINF:-1 tvg-ID="Roma TV" tvg-name="Roma TV" tvg-logo="http://anonymouswebtv.live/webtv/loghi/roma.png" group-title="SPORT HD",Roma TV
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/6009
+
+#EXTINF:-1 tvg-ID="Milan TV HD" tvg-name="Milan TV" tvg-logo="http://anonymouswebtv.live/webtv/loghi/milan.png" group-title="SPORT HD",Milan TV
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/6660
+
+#EXTINF:-1 tvg-ID="Inter Channel" tvg-name="Inter TV" tvg-logo="http://anonymouswebtv.live/webtv/loghi/inter.png" group-title="SPORT HD",Inter TV
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/4180
+
+#EXTINF:-1 tvg-ID="Lazio Style Channel" tvg-name="Lazio Style Ch" tvg-logo="http://anonymouswebtv.live/webtv/loghi/lazio.png" group-title="SPORT HD",Lazio Style Ch
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/8420
+
+#EXTINF:-1 tvg-ID="TorinoChannel.it" tvg-name="Torino Channel" tvg-logo="http://anonymouswebtv.live/webtv/loghi/torino.png" group-title="SPORT HD",Torino Channel
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/18112
+
+#EXTINF:-1 tvg-ID="Caccia e Pesca" tvg-name="Caccia" tvg-logo="http://anonymouswebtv.live/webtv/loghi/caccia.png" group-title="SPORT HD",Caccia
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2219
+
+#EXTINF:-1 tvg-ID="Pesca e Caccia" tvg-name="Pesca" tvg-logo="http://anonymouswebtv.live/webtv/loghi/pesca.png" group-title="SPORT HD",Pesca
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2218
+
+#EXTINF:-1 tvg-ID="" tvg-name="Italian Fishing TV" tvg-logo="http://anonymouswebtv.live/webtv/loghi/fishing.png" group-title="SPORT HD",Italian Fishing TV
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/5339
+
+#EXTINF:-1 tvg-ID="Motortrend" tvg-name="Motor Trend" tvg-logo="http://anonymouswebtv.live/webtv/loghi/motortrend.png" group-title="SPORT HD",Motor Trend
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/40276
+
+#EXTINF:-1 tvg-ID="" tvg-name="Red Bull TV" tvg-logo="" group-title="SPORT HD",Red Bull TV
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/52407
+
+#EXTINF:-1 tvg-ID="" tvg-name="WWE Wrestling HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/wwe.png" group-title="SPORT HD",WWE Wrestling HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/15141
+
+#EXTINF:-1 tvg-ID="" tvg-name="Fight Network Italia" tvg-logo="" group-title="SPORT HD",Fight Network Italia
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/41329
+
+#EXTINF:-1 tvg-ID="" tvg-name="Guida Sky Calcio" tvg-logo="http://anonymouswebtv.live/webtv/loghi/mosaicocalcio.png" group-title="SKY CALCIO HD",Guida Sky Calcio
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/29317
+
+#EXTINF:-1 tvg-ID="Sky Sport Serie A HD" tvg-name="Sky Sport Serie A HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportseriea.png" group-title="SKY CALCIO HD",Sky Sport Serie A HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2108
+
+#EXTINF:-1 tvg-ID="Sky Sport Serie A FHD" tvg-name="Sky Sport Serie A Full HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportseriea.png" group-title="SKY CALCIO HD",Sky Sport Serie A Full HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/29258
+
+#EXTINF:-1 tvg-ID="Sky Sport Serie A SD" tvg-name="Sky Sport Serie A SD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/sportseriea.png" group-title="SKY CALCIO HD",Sky Sport Serie A SD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/5571
+
+#EXTINF:-1 tvg-ID="Sky Calcio 1 HD" tvg-name="Sky Calcio 1 HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio1.png" group-title="SKY CALCIO HD",Sky Calcio 1 HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2163
+
+#EXTINF:-1 tvg-ID="Sky Calcio 1 FHD" tvg-name="Sky Calcio 1 Full HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio1.png" group-title="SKY CALCIO HD",Sky Calcio 1 Full HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/24301
+
+#EXTINF:-1 tvg-ID="Sky Calcio 1 SD" tvg-name="Sky Calcio 1 SD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio1.png" group-title="SKY CALCIO HD",Sky Calcio 1 SD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/8311
+
+#EXTINF:-1 tvg-ID="Sky Calcio 2 HD" tvg-name="Sky Calcio 2 HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio2.png" group-title="SKY CALCIO HD",Sky Calcio 2 HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2164
+
+#EXTINF:-1 tvg-ID="Sky Calcio 2 FHD" tvg-name="Sky Calcio 2 Full HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio2.png" group-title="SKY CALCIO HD",Sky Calcio 2 Full HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/24300
+
+#EXTINF:-1 tvg-ID="Sky Calcio 2 SD" tvg-name="Sky Calcio 2 SD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio2.png" group-title="SKY CALCIO HD",Sky Calcio 2 SD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/9523
+
+#EXTINF:-1 tvg-ID="Sky Calcio 3 HD" tvg-name="Sky Calcio 3 HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio3.png" group-title="SKY CALCIO HD",Sky Calcio 3 HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2168
+
+#EXTINF:-1 tvg-ID="Sky Calcio 3 FHD" tvg-name="Sky Calcio 3 Full HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio3.png" group-title="SKY CALCIO HD",Sky Calcio 3 Full HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/24299
+
+#EXTINF:-1 tvg-ID="Sky Calcio 3 SD" tvg-name="Sky Calcio 3 SD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio3.png" group-title="SKY CALCIO HD",Sky Calcio 3 SD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/24362
+
+#EXTINF:-1 tvg-ID="Sky Calcio 4 HD" tvg-name="Sky Calcio 4 HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio4.png" group-title="SKY CALCIO HD",Sky Calcio 4 HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2169
+
+#EXTINF:-1 tvg-ID="Sky Calcio 4 FHD" tvg-name="Sky Calcio 4 Full HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio4.png" group-title="SKY CALCIO HD",Sky Calcio 4 Full HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/29250
+
+#EXTINF:-1 tvg-ID="Sky Calcio 5 HD" tvg-name="Sky Calcio 5 HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio5.png" group-title="SKY CALCIO HD",Sky Calcio 5 HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2170
+
+#EXTINF:-1 tvg-ID="Sky Calcio 5 FHD" tvg-name="Sky Calcio 5 Full HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio5.png" group-title="SKY CALCIO HD",Sky Calcio 5 Full HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/29251
+
+#EXTINF:-1 tvg-ID="Sky Calcio 6 HD" tvg-name="Sky Calcio 6 HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio6.png" group-title="SKY CALCIO HD",Sky Calcio 6 HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2172
+
+#EXTINF:-1 tvg-ID="Sky Calcio 6 FHD" tvg-name="Sky Calcio 6 Full HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio6.png" group-title="SKY CALCIO HD",Sky Calcio 6 Full HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/29252
+
+#EXTINF:-1 tvg-ID="Sky Calcio 7 HD" tvg-name="Sky Calcio 7 HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio7.png" group-title="SKY CALCIO HD",Sky Calcio 7 HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2173
+
+#EXTINF:-1 tvg-ID="Sky Calcio 7 FHD" tvg-name="Sky Calcio 7 Full HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio7.png" group-title="SKY CALCIO HD",Sky Calcio 7 Full HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/29253
+
+#EXTINF:-1 tvg-ID="Sky Calcio 8 HD" tvg-name="Sky Calcio 8 HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio8.png" group-title="SKY CALCIO HD",Sky Calcio 8 HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2174
+
+#EXTINF:-1 tvg-ID="Sky Calcio 9" tvg-name="Sky Calcio 9 HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio9.png" group-title="SKY CALCIO HD",Sky Calcio 9 HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/3064
+
+#EXTINF:-1 tvg-ID="Sky Calcio 10" tvg-name="Sky Calcio 10 HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio10.png" group-title="SKY CALCIO HD",Sky Calcio 10 HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/6661
+
+#EXTINF:-1 tvg-ID="Sky Calcio 11" tvg-name="Sky Calcio 11 HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/skycalcio11.png" group-title="SKY CALCIO HD",Sky Calcio 11 HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/39619
+
+#EXTINF:-1 tvg-ID="" tvg-name="VETRINA EVENTI DAZN SPORT" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",VETRINA EVENTI DAZN SPORT
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/18130
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN SERIE-A 1 (DVB-S) HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN SERIE-A 1 (DVB-S) HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/41337
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN SERIE-A 1 (DVB-S) Full HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN SERIE-A 1 (DVB-S) Full HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/41336
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN SERIE-A 1 (DVB-S) SD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN SERIE-A 1 (DVB-S) SD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/41338
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN SERIE-A 2 (DVB-S) HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN SERIE-A 2 (DVB-S) HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/41335
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN SERIE-A 2 (DVB-S) Full HD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN SERIE-A 2 (DVB-S) Full HD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/41334
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN SERIE-A 2 (DVB-S) SD" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN SERIE-A 2 (DVB-S) SD
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/41339
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN Sport 1" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN Sport 1
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2118
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN Sport 2" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN Sport 2
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2119
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN Sport 3" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN Sport 3
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2120
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN Sport 4" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN Sport 4
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2121
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN Sport 5" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN Sport 5
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2122
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN Sport 6" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN Sport 6
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2123
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN Sport 7" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN Sport 7
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/2114
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN Sport 8" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN Sport 8
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/38150
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN Sport 9" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN Sport 9
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/24374
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN Sport 10" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN Sport 10
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/36861
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN SPORT 11" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN SPORT 11
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/41333
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN SPORT 12" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN SPORT 12
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/41332
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN SPORT 13" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN SPORT 13
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/41331
+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN SPORT 14" tvg-logo="http://anonymouswebtv.live/webtv/loghi/dazn.png" group-title="DAZN SPORT",DAZN SPORT 14
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/41330
+
+#EXTINF:-1 tvg-ID="" tvg-name="Serie-C GOL COLLECTION GIRONE A" tvg-logo="" group-title="LEGA PRO",Serie-C GOL COLLECTION GIRONE A
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/37553
+
+#EXTINF:-1 tvg-ID="" tvg-name="Serie-C GOL COLLECTION GIRONE B" tvg-logo="" group-title="LEGA PRO",Serie-C GOL COLLECTION GIRONE B
+http://esuntv.ddns.net:80/10x0114zx5/LC84gFTkVF/37552
