@@ -175,6 +175,9 @@ http://210.210.155.35/session/2892c0cc-30c4-11e9-af8c-c81f66f89318/dr9445/h/h16/
 #EXTINF:0, Blue Ant EXTREME
 http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
 
+#EXTINF:0, ZEE NEWS
+https://z5ams.akamaized.net/zeenews/tracks-v1a1/exp=1550282537~acl=%2f*~data=hdntl~hmac=63f8ae439acab84b709b18e3623d87082e87f2c9a6e06a6a0ae02a3fe0f310a3/mono.m3u8
+
 #EXTINF:0, group-title="ENTERTAINMENT",ZEE MAGIC
 http://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
 
