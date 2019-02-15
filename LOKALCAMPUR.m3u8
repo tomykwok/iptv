@@ -169,6 +169,12 @@ http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
 #EXTINF:0, group-title="ENTERTAINMENT",ZEE CAFE HD
 http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 
+#EXTINF:0, Blue Ant Entertaintment
+http://210.210.155.35/session/2892c0cc-30c4-11e9-af8c-c81f66f89318/dr9445/h/h16/02.m3u8
+
+#EXTINF:0, Blue Ant EXTREME
+http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
+
 #EXTINF:0, group-title="ENTERTAINMENT",ZEE MAGIC
 http://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
 
