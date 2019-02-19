@@ -209,7 +209,7 @@ http://80.80.160.168/live/9/live.m3u8
 http://80.80.160.168/live/5/live.m3u8
 
 #EXTINF:0 group-title="KNOWLEDGE",NASA TV
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+http://iphone-streaming.SPORTtream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
 #EXTINF:0 group-title="LIFESTYLE",FOODIE
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
@@ -232,64 +232,64 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #EXTINF:0 group-title="LIFESTYLE",HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
-#EXTINF:0 group-title="MOVIE",CELESTIAL MOVIES ID
+#EXTINF:0 group-title="MOVIES",CELESTIAL MOVIESS ID
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT",E
 http://210.210.155.35/session/d63bb414-30c3-11e9-b5a0-c81f66f89318/uq2663/h/h10/01.m3u8
 
-#EXTINF:0 group-title="MOVIE",THRILL TV ID
+#EXTINF:0 group-title="MOVIES",THRILL TV ID
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
 
-#EXTINF:0 group-title="MOVIE",KIX ID
+#EXTINF:0 group-title="MOVIES",KIX ID
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 
-#EXTINF:0 group-title="MOVIE",JGO ID
+#EXTINF:0 group-title="MOVIES",JGO ID
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
-#EXTINF:0 group-title="MOVIE",MY CINEMA ID
+#EXTINF:0 group-title="MOVIES",MY CINEMA ID
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
-#EXTINF:0 group-title="MOVIE",&FLIX HD
+#EXTINF:0 group-title="MOVIES",&FLIX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:0 group-title="MOVIE",&PICTURES HD
+#EXTINF:0 group-title="MOVIES",&PICTURES HD
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 
-#EXTINF:0 group-title="MOVIE",&PRIVE HD
+#EXTINF:0 group-title="MOVIES",&PRIVE HD
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:0 group-title="MOVIE",FOX MOVIES
+#EXTINF:0 group-title="MOVIES",FOX MOVIESS
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
-#EXTINF:0 group-title="MOVIE",FOX MOVIES PREMIUM
+#EXTINF:0 group-title="MOVIES",FOX MOVIESS PREMIUM
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
-#EXTINF:0 group-title="MOVIE",FOX MOVIES COMEDY
+#EXTINF:0 group-title="MOVIES",FOX MOVIESS COMEDY
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 
-#EXTINF:0 group-title="MOVIE",RAI MOVIE
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0 group-title="MOVIES",RAI MOVIES
+http://b2everyrai-lh.akamaihd.net/i/raiMOVIES_1@67348/master.m3u8
 
-#EXTINF:0 group-title="MOVIE",HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:0 group-title="MOVIES",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxSPORTtv.m3u8
 
-#EXTINF:0 group-title="MOVIE",SHOWTIME HD
+#EXTINF:0 group-title="MOVIES",SHOWTIME HD
 http://80.80.160.168/live/7/live.m3u8
 
-#EXTINF:0 group-title="MOVIE",SONY MOVIE
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 group-title="MOVIES",SONY MOVIES
+http://yipcontent-lh.akamaihd.net/i/sonyMOVIESchannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0 group-title="MOVIE",WOWOW MOVIES
+#EXTINF:0 group-title="MOVIES",WOWOW MOVIESS
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
-#EXTINF:0 group-title="MOVIE",ZEE BOLLYWOOD
+#EXTINF:0 group-title="MOVIES",ZEE BOLLYWOOD
 http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
 
-#EXTINF:0 group-title="MOVIE",ZEE CINEMA HD
+#EXTINF:0 group-title="MOVIES",ZEE CINEMA HD
 http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 
-#EXTINF:0 group-title="MOVIE",A1 CINEMA
+#EXTINF:0 group-title="MOVIES",A1 CINEMA
 http://178.132.6.97:8080/A1Cinema1/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="SPORT",[PL] POLSAT SPORT NEWS HD
@@ -338,7 +338,7 @@ http://31.220.0.196:8081/live/ctvb4/playlist.m3u8
 https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
 
 #EXTINF:0 group-title="SPORT",DUBAI SPORT HD
-http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
+http://dmiftvll.mangomolo.com/dubaiSPORThd/smil:dubaiSPORThd.smil/chunklist_b2000000.m3u8
 
 #EXTINF:0 DO-TV", group-title="SPORT",FISHING NETWORK
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
@@ -367,43 +367,43 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:0 group-title="SPORT",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:0 group-title="SPORT",RUSIA EXTREAM
-http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="SPORT",SPORT EXTREAM
+http://media2.strekalovskiy.com/rSPORTextrimretro/tracks-v1a1/index.m3u8
 
 #EXTINF:0 group-title="SPORT",SKY SPORT F1
 http://31.220.0.134:8081/live/jtvf1/playlist.m3u8
 
 #EXTINF:0 group-title="SPORT",TILES SPORT
-http://78.47.151.116:1935/tilesport/movie1/chunklist_w464730088.m3u8
+http://78.47.151.116:1935/tilesport/MOVIES1/chunklist_w464730088.m3u8
 
 #EXTINF:0 group-title="SPORT",TVA SPORT
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8
 
-#EXTINF:0 group-title="SPORT",BTN SPORTS
+#EXTINF:0 group-title="SPORT",BTN SPORT
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
 
-#EXTINF:0 group-title="MUSIC",1HD MUSIC TV
-http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="MSPORTIC",1HD MSPORTIC TV
+http://cdn-01.bonSPORT-tv.ru:8080/1HDmSPORTic/tracks-v1a1/index.m3u8
 
-#EXTINF:0 group-title="MUSIC",BOX HITS
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:0 group-title="MSPORTIC",BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplSPORT01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:0 group-title="MUSIC",CALIFORNIA MUSIC CHANNEL
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0 group-title="MSPORTIC",CALIFORNIA MSPORTIC CHANNEL
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCSPORTA/CCURstream0.m3u8
 
-#EXTINF:0 group-title="MUSIC",M2O TV
+#EXTINF:0 group-title="MSPORTIC",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
-#EXTINF:0 group-title="MUSIC",MUSIC CHOICE
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0 group-title="MSPORTIC",MSPORTIC CHOICE
+http://edge.mSPORTic-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-#EXTINF:0 group-title="MUSIC",MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:0 group-title="MSPORTIC",MSPORTIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:mSPORTictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
-#EXTINF:0 group-title="MUSIC",XLITE MUSIC
+#EXTINF:0 group-title="MSPORTIC",XLITE MSPORTIC
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 
-#EXTINF:0 group-title="MUSIC",ZOOM
+#EXTINF:0 group-title="MSPORTIC",ZOOM
 http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
 
 #EXTINF:0 group-title="NEWS",ABC NEWS
@@ -425,7 +425,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 
 #EXTINF:0 group-title="NEWS",BLOOMBERG 2
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+https://liveprodSPORTeast.global.ssl.fastly.net/btv/desktop/SPORT_live.m3u8
 
 #EXTINF:0 group-title="NEWS",CHANNEL NEWS ASIA
 http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
@@ -496,7 +496,7 @@ http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/chunklist_w146491720_
 #EXTINF:0 group-title="RELIGION",TAHFIDZ TV
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 
-#EXTINF:0 group-title="RELIGION",TV 9 Nusantara SURABAYA
+#EXTINF:0 group-title="RELIGION",TV 9 NSPORTantara SURABAYA
 http://videostream.indostreamserver.com:1935/tv9/live/chunklist_w139966722.m3u8
 
 #EXTINF:0 group-title="ASIA",SBS IN ID
@@ -565,10 +565,10 @@ http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master
 #EXTINF:0 group-title="INDO-TV",ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 
-#EXTINF:0 group-title="SPORT",ADSPORTS 1
+#EXTINF:0 group-title="SPORT",ADSPORT 1
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
 
-#EXTINF:0 group-title="SPORT",ADSPORTS 2
+#EXTINF:0 group-title="SPORT",ADSPORT 2
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT",ADULT SWIM
@@ -580,19 +580,19 @@ http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:0 group-title="INDO-TV",AKHYAR
 http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/playlist.m3u8
 
-#EXTINF:0 group-title="SPORT",AL KASS SPORTS 1
+#EXTINF:0 group-title="SPORT",AL KASS SPORT 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 
-#EXTINF:0 group-title="SPORT",AL KASS SPORTS 2
+#EXTINF:0 group-title="SPORT",AL KASS SPORT 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 
-#EXTINF:0 group-title="SPORT",AL KASS SPORTS 3
+#EXTINF:0 group-title="SPORT",AL KASS SPORT 3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 
-#EXTINF:0 group-title="SPORT",AL KASS SPORTS 4
+#EXTINF:0 group-title="SPORT",AL KASS SPORT 4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 
-#EXTINF:0 group-title="SPORT",AL KASS SPORTS 5
+#EXTINF:0 group-title="SPORT",AL KASS SPORT 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
 #EXTINF:0 group-title="RELIGION",AL-AQSA PALESTINE TV
@@ -607,7 +607,7 @@ http://rr2.dens.tv/s/s17/index.m3u8
 #EXTINF:0 group-title="RELIGION",AL-QUR'AN KARIM
 http://rr2.dens.tv/s/s28/index.m3u8
 
-#EXTINF:0 group-title="INDO-TV",ANIPLUS
+#EXTINF:0 group-title="INDO-TV",ANIPLSPORT
 http://rr1.dens.tv/h/h02/index.m3u8
 
 #EXTINF:0 group-title="INDO-TV",ANTV
@@ -616,11 +616,11 @@ http://rr2.dens.tv/s/s07/index.m3u8
 #EXTINF:0 group-title="INDO-TV",ASHIIL
 http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8
 
-#EXTINF:0 group-title="MOVIES",B4U MOVIES
-http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
+#EXTINF:0 group-title="MOVIESS",B4U MOVIESS
+http://103.199.161.254/Content/B4UMOVIESs/Live/Channel(B4UMOVIESs)/index.m3u8
 
-#EXTINF:0 group-title="MUSIC",B4U MUSIC
-http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:0 group-title="MSPORTIC",B4U MSPORTIC
+http://103.199.161.254/Content/B4UmSPORTic/Live/Channel(B4UmSPORTic)/index.m3u8
 
 #EXTINF:0 group-title="INDO-TV",BBS TV
 http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
@@ -631,19 +631,19 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg1production/ch360/index.m3
 #EXTINF:0 group-title="INDO-TV",BERNAMA
 http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 
-#EXTINF:0 group-title="NEWS",BLOOMBERG US
-http://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:0 group-title="NEWS",BLOOMBERG SPORT
+http://liveprodSPORTeast.akamaized.net/btv/desktop/SPORT_live.m3u8
 
 #EXTINF:0 group-title="INDO-TV",BMW TV
 http://stream1.ninmedia.tv/live/xmedia-bmwtv.stream_nin/playlist.m3u8
 
 #EXTINF:0 group-title="NEWS",BR FERNSEHEN S�D
-http://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
+http://brlive-lh.akamaihd.net/i/bfssued_SPORT@119890/master.m3u8
 
 #EXTINF:0 group-title="INDO-TV",CAHAYA BANTEN
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
 
-#EXTINF:0 group-title="MOVIES",CANAIS FILMES GOSPELS
+#EXTINF:0 group-title="MOVIESS",CANAIS FILMES GOSPELS
 http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
 
 #EXTINF:0 group-title="RELIGION",CAN��O NOVA
@@ -658,20 +658,20 @@ http://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master.m3u8
 #EXTINF:0 group-title="NEWS",CCTV 4
 http://rr2.dens.tv/s/s19/index.m3u8
 
-#EXTINF:0 group-title="NEWS,CCTV PLUS LD
-http://cd-live-stream.news.cctvplus.com/live/CHANNEL1_360p/playlist.m3u8
+#EXTINF:0 group-title="NEWS",CCTV PLSPORT LD
+http://cd-live-stream.news.cctvplSPORT.com/live/CHANNEL1_360p/playlist.m3u8
 
-#EXTINF:0 group-title="MOVIES",CELESTIAL MOVIES
+#EXTINF:0 group-title="MOVIESS",CELESTIAL MOVIESS
 http://rr2.dens.tv/s/s33/index.m3u8
 
 #EXTINF:0 group-title="NEWS",CGTN
 http://rr2.dens.tv/s/s20/index.m3u8
 
-#EXTINF:0 group-title="MOVIES",CINEMA WORLD
+#EXTINF:0 group-title="MOVIESS",CINEMA WORLD
 http://rr.dens.tv/h/h04/index.m3u8
 
-#EXTINF:0 group-title="MUSIC",CMC USA
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CMCUSA.m3u8
+#EXTINF:0 group-title="MSPORTIC",CMC SPORTA
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCSPORTA/CMCSPORTA.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT",CULTURA
 http://srv3.zoeweb.tv:1935/z01-live/stream/playlist.m3u8
@@ -691,7 +691,7 @@ http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist
 #EXTINF:0 group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 
-#EXTINF:0 group-title="MOVIE",DRAGON
+#EXTINF:0 group-title="MOVIES",DRAGON
 http://rr2.dens.tv/s/s29/index.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT",DUBAI ONE
@@ -718,7 +718,7 @@ http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
 #EXTINF:0 group-title="LIFESTYLE",FASHION BRIDAL
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_bridal_adaptive.smil/media.m3u8
 
-#EXTINF:0 group-title="MOVIES",FASHION FILMS
+#EXTINF:0 group-title="MOVIESS",FASHION FILMS
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_fashion_films_adaptive.smil/media.m3u8
 
 #EXTINF:0 group-title="LIFESTYLE",FASHION FITNESS
@@ -751,7 +751,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_photoshoots_adaptive.smil
 #EXTINF:0 group-title="LIFESTYLE",FASHION WEEKS
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_fashion_weeks_adaptive.smil/media.m3u8
 
-#EXTINF:0 group-title="SPORT",FIGHT SPORTS
+#EXTINF:0 group-title="SPORT",FIGHT SPORT
 http://rr.dens.tv/h/h05/index.m3u8
 
 #EXTINF:0 group-title="NEWS",FRANCE 24
@@ -811,8 +811,8 @@ http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
 #EXTINF:0 group-title="INDO-TV",METRO TV
 http://rr2.dens.tv/s/s49/index.m3u8
 
-#EXTINF:0 group-title="MUSIC",MIAMI TV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0 group-title="MSPORTIC",MIAMI TV
+http://SPORTaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT",MTA ORIGIN
 http://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
@@ -820,8 +820,8 @@ http://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
 #EXTINF:0 group-title="INDO-TV",MUGOS TV
 http://203.153.218.156:1935/live/myStream/playlist.m3u8
 
-#EXTINF:0 group-title="INDO-TV",MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:0 group-title="INDO-TV",MSPORTIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:mSPORTictop.smil/playlist.m3u8
 
 #EXTINF:0 group-title="KIDS",MY KIDS
 http://210.210.155.35/x6bnqe/s/s30/S4/mnf.m3u8
@@ -988,7 +988,7 @@ http://rtm-live.glueapi.io/smil:rtmch002.smil/playlist.m3u8
 #EXTINF:0 group-title="INDO-TV",TV5 MONDE
 http://rr2.dens.tv/s/s24/index.m3u8
 
-#EXTINF:0 group-title="INDO-TV",TV9 NUSANTARA
+#EXTINF:0 group-title="INDO-TV",TV9 NSPORTANTARA
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 
 #EXTINF:0 group-title="INDO-TV",TVE
@@ -1042,7 +1042,7 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT",ZEE ACTION
 http://z5ams.akamaized.net/action/playlist.m3u8
 
-#EXTINF:0 group-title="MOVIES",ZEE BIOSKOP
+#EXTINF:0 group-title="MOVIESS",ZEE BIOSKOP
 http://rr2.dens.tv/s/s32/index.m3u8
 
 #EXTINF:0 group-title="INDO-TV",ZEE BOLLYWOOD
@@ -1051,37 +1051,37 @@ http://z5ams.akamaized.net/classic/playlist.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT",ZEE CAF�
 http://z5ams.akamaized.net/zeecafehd/playlist.m3u8
 
-#EXTINF:0 group-title="MOVIES",ZEE CINEMA HD
+#EXTINF:0 group-title="MOVIESS",ZEE CINEMA HD
 http://z5ams.akamaized.net/zcinemahd/playlist.m3u8
 
-#EXTINF:0 group-title="MOVIES",ZEE CINEMA
+#EXTINF:0 group-title="MOVIESS",ZEE CINEMA
 http://z5ams.akamaized.net/zcinemasd/playlist.m3u8
 
-#EXTINF:0 group-title="MOVIES",ZEE WORLD
+#EXTINF:0 group-title="MOVIESS",ZEE WORLD
 http://z5ams.akamaized.net/world/playlist.m3u8
 
-#EXTINF:0 group-title="MOVIES",ZING
+#EXTINF:0 group-title="MOVIESS",ZING
 http://z5ams.akamaized.net/zing/playlist.m3u8
 
 #EXTINF:0 group-title="SPORT",AF: KTV SPORT
 http://www.elahmad.com/tv/m3u8/ktv.m3u8
 
-#EXTINF:0 group-title="ARABIC",ABU DHABI SPORTS 1 OPT 1 HD
+#EXTINF:0 group-title="ARAB",ABU DHABI SPORT 1 OPT 1 HD
 http://www.elahmad.com/tv/m3u8/adtv.m3u8
 
-#EXTINF:0 group-title="ARAB",ABU DHABI SPORTS 1 OPT 1
+#EXTINF:0 group-title="ARAB",ABU DHABI SPORT 1 OPT 1
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 
-#EXTINF:0 group-title="ARAB",ABU DHABI SPORTS 2 OPT 2
+#EXTINF:0 group-title="ARAB",ABU DHABI SPORT 2 OPT 2
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 
-#EXTINF:0 group-title="ARAB",AL KASS SPORTS 1
+#EXTINF:0 group-title="ARAB",AL KASS SPORT 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8
 
-#EXTINF:0 group-title="ARAB",BAHRAIN SPORTS
+#EXTINF:0 group-title="ARAB",BAHRAIN SPORT
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/140.m3u8
 
-#EXTINF:0 group-title="ARAB",: BAHRAIN SPORTS (1+)
+#EXTINF:0 group-title="ARAB",: BAHRAIN SPORT (1+)
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.m3u8
 
 #EXTINF:0 group-title="ARAB",: DUBAI RACING 1 (2+) HD
@@ -1093,157 +1093,157 @@ http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/14.m3u8
 #EXTINF:0 group-title="ARAB",: DUBAI RACING 2 (1+) HD
 http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/14.m3u8
 
-#EXTINF:0 group-title="ARAB",: DUBAI SPORT SPORTS
-http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:0 group-title="ARAB",: DUBAI SPORT SPORT
+http://dmivll.mangomolo.com/dubaiSPORT/smil:dubaiSPORT.smil/playlist.m3u8
 
-#EXTINF:0 group-title="ARAB",: DUBAI SPORTS HD
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:0 group-title="ARAB",: DUBAI SPORT HD
+http://dmi.mangomolo.com:1935/dubaiSPORT/smil:dubaiSPORT.smil/master.m3u8
 
-#EXTINF:0 group-title="ARAB",: DUBAI SPORTS 3 HD
+#EXTINF:0 group-title="ARAB",: DUBAI SPORT 3 HD
 http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/18.m3u8
 
-#EXTINF:0 group-title="ARAB",: VARZESH TV SPORTS IR
+#EXTINF:0 group-title="ARAB",: VARZESH TV SPORT IR
 http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
 
-#EXTINF:0 group-title="ARGENTINA", UMAGTV 2 PUNTA ARENAS
+#EXTINF:0 group-title="ENTERTAINMENT", UMAGTV 2 PUNTA ARENAS
 http://edge1.cl.grupoz.cl/itser4/tser4.sdp/chunklist_w638282256.m3u8
 
-#EXTINF:0 group-title="FRANCE", EUROSPORT SPORTS
+#EXTINF:0 group-title="SPORT", EUROSPORT SPORT
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 
-#EXTINF:0 group-title="GERMANY", DRF1
+#EXTINF:0 group-title="SPORT", DRF1
 http://62.67.13.54:1935/drf1/drf1_livestream_1/playlist.m3u8
 
-#EXTINF:0 group-title="GERMANY", ORF SPORT
+#EXTINF:0 group-title="SPORT", ORF SPORT
 http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
 
-#EXTINF:0 group-title="GERMANY", PL CANAL SPORT HD
+#EXTINF:0 group-title="SPORT", PL CANAL SPORT HD
 http://stars.managercw.com:8000/live/POLAND/POLAND/1992.ts
 
-#EXTINF:0 group-title="GERMANY", PL EUROSPORT 1 HD
+#EXTINF:0 group-title="SPORT", PL EUROSPORT 1 HD
 http://stars.managercw.com:8000/live/POLAND/POLAND/2005.ts
 
-#EXTINF:0 group-title="GERMANY", PL EUROSPORT 2 HD
+#EXTINF:0 group-title="SPORT", PL EUROSPORT 2 HD
 http://stars.managercw.com:8000/live/POLAND/POLAND/2006.ts
 
-#EXTINF:0 group-title="GERMANY", PL EXTREME SPORTS HD
+#EXTINF:0 group-title="SPORT", PL EXTREME SPORT HD
 http://stars.managercw.com:8000/live/POLAND/POLAND/2007.ts
 
-#EXTINF:0 group-title="GERMANY", PL FIGHTBOX HD
+#EXTINF:0 group-title="SPORT", PL FIGHTBOX HD
 http://stars.managercw.com:8000/live/POLAND/POLAND/2008.ts
 
-#EXTINF:0 group-title="GERMANY", PL POLSAT SPORT HD
+#EXTINF:0 group-title="SPORT", PL POLSAT SPORT HD
 http://37.59.34.182:8000/live/POLAND/POLAND/2053.ts
 
-#EXTINF:0 group-title="GERMANY", PL POLSAT SPORT (1+) HD
+#EXTINF:0 group-title="SPORT", PL POLSAT SPORT (1+) HD
 http://stars.managercw.com:8000/live/POLAND/POLAND/2053.ts
 
-#EXTINF:0 group-title="GERMANY", PL POLSAT SPORT EXTRA HD
+#EXTINF:0 group-title="SPORT", PL POLSAT SPORT EXTRA HD
 http://37.59.34.182:8000/live/POLAND/POLAND/2051.ts
 
-#EXTINF:0 group-title="GERMANY", PL POLSAT SPORT EXTRA
+#EXTINF:0 group-title="SPORT", PL POLSAT SPORT EXTRA
 http://37.59.34.182:8000/live/POLAND/POLAND/2050.ts
 
-#EXTINF:0 group-title="GERMANY", PL POLSAT SPORT EXTRA 1
+#EXTINF:0 group-title="SPORT", PL POLSAT SPORT EXTRA 1
 http://stars.managercw.com:8000/live/POLAND/POLAND/2050.ts
 
-#EXTINF:0 group-title="GERMANY", RED BULL TV HD
+#EXTINF:0 group-title="SPORT", RED BULL TV HD
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:0 group-title="INDIA",DONBAS TV
 http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
 
-#EXTINF:0 group-title=""ITALY", AUTOMOTO TV (2+)
+#EXTINF:0 group-title=""SPORT", AUTOMOTO TV (2+)
 http://178.22.187.253:1935/streaming-tv/mp4:myStream1/playlist.m3u8
 
-#EXTINF:0 group-title=""ITALY", IRC SPORT TV
+#EXTINF:0 group-title=""SPORT", IRC SPORT TV
 http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
 
-#EXTINF:0 group-title=""ITALY", RTV SAN MARINO SPORT
+#EXTINF:0 group-title=""SPORT", RTV SAN MARINO SPORT
 http://194.116.78.102:1935/webtv_live4/_definst_/9UXJ2BJMTMNR/playlist.m3u8
 
-#EXTINF:0 group-title=""ITALY", TELEARENA ENTERTAINMENT ITALIAN
+#EXTINF:0 group-title=""SPORT", TELEARENA ENTERTAINMENT ITALIAN
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 
-#EXTINF:0 group-title=""ITALY", TELEROMAGNA SPORT
+#EXTINF:0 group-title=""SPORT", TELEROMAGNA SPORT
 http://livetr.teleromagna.it/sport/live/playlist.m3u8
 
-#EXTINF:0 group-title=""ITALY", TV LUNA SPORT
+#EXTINF:0 group-title=""SPORT", TV LUNA SPORT
 http://live.sloode.com:1935/out.tvluna.arju87645hf/lunasport/playlist.m3u8
 
-#EXTINF:0 group-title=""MEXICO", FOX SPORTS
+#EXTINF:0 group-title=""MEXICO", FOX SPORT
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
 
-#EXTINF:0 group-title=""MEXICO", FOX SPORTS 2
+#EXTINF:0 group-title=""MEXICO", FOX SPORT 2
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE05.m3u8
 
 #EXTINF:0 group-title=""MEXICO", TELEFORMULA NEW
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
-#EXTINF:0 group-title="PORTUGAL", 100
+#EXTINF:0 group-title="SPORT", 100
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
-#EXTINF:0 group-title="PORTUGAL", ALL SPORTS
+#EXTINF:0 group-title="SPORT", ALL SPORT
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:0 group-title="PORTUGAL", PRIME BOX
+#EXTINF:0 group-title="SPORT", PRIME BOX
 http://maxptv.ddns.net:25461/live/MA020/0706/67.ts
 
-#EXTINF:0 group-title="ROMANIA", DIASPORA TV
+#EXTINF:0 group-title="ENTERTAINMENT", DIASPORA TV
 http://diasporamedia.go.ro:1935/diasporatv/live/playlist.m3u8
 
-#EXTINF:0 group-title="RUSIA", SPORT HD
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="SPORT", SPORT HD
+http://streaming.astrakhan.ru/astrakhanrSPORTporthd/tracks-v1a1/index.m3u8
 
-#EXTINF:0 group-title="RUSIA", SPORT (1+) HD
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:0 group-title="SPORT", SPORT (1+) HD
+http://streaming.astrakhan.ru/astrakhanrSPORTporthd/tracks-v2a1/index.m3u8
 
-#EXTINF:0 group-title="RUSIA", SPORT
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:0 group-title="SPORT", SPORT
+http://streaming.astrakhan.ru/astrakhanrSPORTporthd/tracks-v3a1/index.m3u8
 
-#EXTINF:0 group-title="SPAIN", FIGHT TIME OPT 2
+#EXTINF:0 group-title="SPORT", FIGHT TIME OPT 2
 http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
 
-#EXTINF:0 group-title="SWEDEN", TV2 SPORT
+#EXTINF:0 group-title="SPORT", TV2 SPORT
 http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master.m3u8
 
-#EXTINF:0 group-title="TURKEY",SPORTS TV (2+)
-http://sportstv.live.netdirekt.com.tr/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:0 group-title="SPORT",SPORT TV (2+)
+http://SPORTtv.live.netdirekt.com.tr/SPORTtv/SPORTTV3/playlist.m3u8
 
-#EXTINF:0 group-title="UKRAINE",DONBAS
+#EXTINF:0 group-title="SPORT",DONBAS
 http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
 
-#EXTINF:0 group-title="UK", BEIN SPORTS SE ARABIC
+#EXTINF:0 group-title="SPORT", BEIN SPORT SE ARAB
 http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
 
-#EXTINF:0 group-title="UK", BOX HITS
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8
+#EXTINF:0 group-title="MOVIES", BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplSPORT01,boxhits-desktop.m3u8
 
-#EXTINF:0 group-title="UK", FILMBOX
+#EXTINF:0 group-title="MOVIES", FILMBOX
 http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/1071/index.m3u8
 
-#EXTINF:0 group-title="UK", SPORTSNET EAST CANADA SPORTS CA
+#EXTINF:0 group-title="SPORT", SPORTNET EAST CANADA SPORT CA
 http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8
 
-#EXTINF:0 group-title="US", COMET SPORTS ENGLISH
+#EXTINF:0 group-title="SPORT", COMET SPORT ENGLISH
 http://content.uplynk.com/channel/810bf2b47d9f4bd8a0101dd2b21afc91.m3u8
 
-#EXTINF:0 group-title="US", MLB NETWORK OPT 1
+#EXTINF:0 group-title="SPORT", MLB NETWORK OPT 1
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:0 group-title="US", MLB NETWORK PUBLIC SPORTS ENGLISH
+#EXTINF:0 group-title="SPORT", MLB NETWORK PUBLIC SPORT ENGLISH
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20180731_1533025887059/3000K/3000_slide.m3u8
 
-#EXTINF:0 group-title="US", ONE CHANNEL SPORTS ARABIC
+#EXTINF:0 group-title="SPORT", ONE CHANNEL SPORT ARAB
 http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
 
-#EXTINF:0 group-title="US", RED BULL TV OPT 1
+#EXTINF:0 group-title="SPORT", RED BULL TV OPT 1
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.ts
 
-#EXTINF:0 group-title="US", RED BULL TV OPT 2
+#EXTINF:0 group-title="SPORT", RED BULL TV OPT 2
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:0 group-title="US", BACKUP
+#EXTINF:0 group-title="SPORT", BACKUP
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 ------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -1319,13 +1319,13 @@ http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=0
 #EXTINF:-1 group-title="INDO-TV",SINDO TV
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="MOVIES",CELESTIAL MOVIE
+#EXTINF:-1 group-title="MOVIESS",CELESTIAL MOVIES
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 
-#EXTINF:-1 group-title="MOVIES",KIX
+#EXTINF:-1 group-title="MOVIESS",KIX
 http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
 
-#EXTINF:-1 group-title="MOVIES",MY CINEMA
+#EXTINF:-1 group-title="MOVIESS",MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="KIDS",MY KIDS VOD
@@ -1334,22 +1334,22 @@ http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/
 #EXTINF:-1 group-title="ENTERTAINMENT",THRILL
 http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
 
-#EXTINF:-1 group-title="MOVIES",ZEE BIOSKOP
+#EXTINF:-1 group-title="MOVIESS",ZEE BIOSKOP
 http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
 
-#EXTINF:-1 group-title="SPORT",FOX SPORTS HD
+#EXTINF:-1 group-title="SPORT",FOX SPORT HD
 http://103.242.13.90:5555/udp/239.4.1.47:10000
 
-#EXTINF:-1 group-title="SPORTS",FOX SPORT 3
+#EXTINF:-1 group-title="SPORT",FOX SPORT 3
 http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS",FOX SPORT 2
+#EXTINF:-1 group-title="SPORT",FOX SPORT 2
 http://cdn2.bear-tv.com/freetv/TOT_foxsport2/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS",FOX SPORT 1
+#EXTINF:-1 group-title="SPORT",FOX SPORT 1
 http://45.58.62.92:8080
 
-#EXTINF:-1 group-title="SPORTS",Fox Sports 2 OTT
+#EXTINF:-1 group-title="SPORT",Fox SPORT 2 OTT
 http://103.242.13.90:5555/udp/239.4.1.48:10000
 
 #EXTINF:-1 group-title="NEWS",CCTV News
@@ -1439,13 +1439,13 @@ http://103.242.13.90:5555/udp/239.4.1.33:10000
 #EXTINF:-1 group-title="ASIA",TV5 Monde OTT
 http://103.242.13.90:5555/udp/239.4.1.38:10000
 
-#EXTINF:-1 group-title="ASIA",8-1 LOTUS
+#EXTINF:-1 group-title="ASIA",8-1 LOTSPORT
 http://103.242.13.90:5555/udp/239.4.1.39:10000
 
 #EXTINF:-1 group-title="ASIA",Phx Chinese Channel-OTT
 http://103.242.13.90:5555/udp/239.4.1.35:10000
 
-#EXTINF:-1 group-title="ASIA",Fox Sports 3 H HD
+#EXTINF:-1 group-title="ASIA",Fox SPORT 3 H HD
 http://103.242.13.90:5555/udp/239.4.1.44:10000
 
 #EXTINF:-1 group-title="NEWS",Al Jazeera English OTT
@@ -1475,13 +1475,13 @@ http://103.242.13.90:5555/udp/239.4.1.61:10000
 #EXTINF:-1 group-title="KNOWLEDGE", NG Wild
 http://103.242.13.90:5555/udp/239.4.1.62:10000
 
-#EXTINF:-1 group-title="AISA",CTN OTT
+#EXTINF:-1 group-title="ASIA",CTN OTT
 http://103.242.13.90:5555/udp/239.4.1.57:10000
 
 #EXTINF:-1 group-title="ASIA",CNC OTT
 http://103.242.13.90:5555/udp/239.4.1.55:10000
 
-#EXTINF:-1 group-title="ASIA",ARYMusik OTT
+#EXTINF:-1 group-title="ASIA",ARYMSPORTik OTT
 http://103.242.13.90:5555/udp/239.4.1.65:10000
 
 #EXTINF:-1 group-title="ASIA",NHK WORLD HD
@@ -1490,7 +1490,7 @@ http://103.242.13.90:5555/udp/239.4.1.68:10000
 #EXTINF:-1 group-title="ASIA",New
 http://103.242.13.90:5555/udp/239.4.1.66:10000
 
-#EXTINF:-1 group-title="MOVIES",Fox Action Movies OTT
+#EXTINF:-1 group-title="MOVIESS",Fox Action MOVIESs OTT
 http://103.242.13.90:5555/udp/239.4.1.72:10000
 
 #EXTINF:-1 group-title="ASIA",New
@@ -1514,10 +1514,10 @@ http://103.242.13.90:5555/udp/239.4.1.74:10000
 #EXTINF:-1 group-title="ASIA",BBC_AV
 http://103.242.13.90:5555/udp/239.4.1.70:10000
 
-#EXTINF:-1 group-title="ASIA",FOX MOVIES PRE OTT
+#EXTINF:-1 group-title="ASIA",FOX MOVIESS PRE OTT
 http://103.242.13.90:5555/udp/239.4.1.84:10000
 
-#EXTINF:-1 group-title="NEWS",Australia Plus
+#EXTINF:-1 group-title="NEWS",ASPORTtralia PlSPORT
 http://103.242.13.90:5555/udp/239.4.1.79:10000
 
 #EXTINF:-1 group-title="NEWS",France 24 (en Francais) OTT
@@ -1571,7 +1571,7 @@ http://103.242.13.90:5555/udp/239.4.1.149:10000
 #EXTINF:-1 group-title="ASIA",Setanta TV-OTT HD
 http://103.242.13.90:5555/udp/239.4.1.132:10000
 
-#EXTINF:-1 group-title="MUSIC",MUSIC 1 HD KHMER
+#EXTINF:-1 group-title="MSPORTIC",MSPORTIC 1 HD KHMER
 http://103.242.13.90:5555/udp/239.4.1.199:10000
 
 #EXTINF:-1 group-title="ASIA",5 TV5 OTT
@@ -1673,7 +1673,7 @@ http://103.242.13.90:5555/udp/239.4.2.10:10000
 #EXTINF:-1 group-title="ASIA",CCTV 1
 http://103.242.13.90:5555/udp/239.4.2.9:10000
 
-#EXTINF:-1 group-title="SPORT",FOX SPORTS
+#EXTINF:-1 group-title="SPORT",FOX SPORT
 http://103.242.13.90:5555/udp/239.4.2.13:10000
 
 #EXTINF:-1 group-title="ASIA",YTN
@@ -1742,44 +1742,44 @@ http://103.242.13.90:5555/udp/239.4.2.88:10000
 #EXTINF:-1 group-title="ASIA",New
 http://103.242.13.90:5555/udp/239.4.2.91:10000
 
-#EXTINF:-1 group-title="MUSIC",ARY MUSIK
+#EXTINF:-1 group-title="MSPORTIC",ARY MSPORTIK
 http://103.242.13.90:5555/udp/239.4.2.104:10000
 
-#EXTINF:-1 group-title="MUSIC",MUSIC 1 KHMER
+#EXTINF:-1 group-title="MSPORTIC",MSPORTIC 1 KHMER
 http://103.242.13.90:5555/udp/239.4.2.199:10000
 
-#EXTINF:-1 group-title="AISA",9
+#EXTINF:-1 group-title="ASIA",9
 http://103.242.13.90:5555/udp/239.4.2.200:10000
 
-#EXTINF:-1 group-title="AISA",New
+#EXTINF:-1 group-title="ASIA",New
 http://103.242.13.90:5555/udp/239.4.2.201:10000
 
-#EXTINF:-1 group-title="AISA",APSARA
+#EXTINF:-1 group-title="ASIA",APSARA
 http://103.242.13.90:5555/udp/239.4.2.202:10000
 
-#EXTINF:-1 group-title="AISA",DW
+#EXTINF:-1 group-title="ASIA",DW
 http://103.242.13.90:5555/udp/239.4.2.203:10000
 
-#EXTINF:-1 group-title="AISA",TV5 Cambodia
+#EXTINF:-1 group-title="ASIA",TV5 Cambodia
 http://103.242.13.90:5555/udp/239.4.2.204:10000
 
-#EXTINF:-1 group-title="AISA",SEATV
+#EXTINF:-1 group-title="ASIA",SEATV
 http://103.242.13.90:5555/udp/239.4.2.206:10000
 
-#EXTINF:-1 group-title="AISA",BAYON TV
+#EXTINF:-1 group-title="ASIA",BAYON TV
 http://103.242.13.90:5555/udp/239.4.2.208:10000
 
-#EXTINF:-1 group-title="AISA",ETV
+#EXTINF:-1 group-title="ASIA",ETV
 http://103.242.13.90:5555/udp/239.4.2.209:10000
 
-#EXTINF:-1 group-title="AISA",BTV
+#EXTINF:-1 group-title="ASIA",BTV
 http://103.242.13.90:5555/udp/239.4.2.210:10000
 
-#EXTINF:-1 group-title="AISA",New
+#EXTINF:-1 group-title="ASIA",New
 http://103.242.13.90:5555/udp/239.4.2.211:10000
 
-#EXTINF:-1 group-title="AISA",RHM TV
+#EXTINF:-1 group-title="ASIA",RHM TV
 http://103.242.13.90:5555/udp/239.4.2.216:10000
 
-#EXTINF:-1 group-title="AISA",NICE HD
+#EXTINF:-1 group-title="ASIA",NICE HD
 http://103.242.13.90:5555/udp/239.4.2.218:10000
