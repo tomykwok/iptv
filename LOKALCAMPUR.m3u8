@@ -382,28 +382,28 @@ https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chun
 #EXTINF:0 group-title="SPORT",BTN SPORT
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
 
-#EXTINF:0 group-title="MSPORTIC",1HD MSPORTIC TV
-http://cdn-01.bonSPORT-tv.ru:8080/1HDmSPORTic/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="SPORT",1HD SPORT TV
+http://cdn-01.bonSPORT-tv.ru:8080/1HDSPORT/tracks-v1a1/index.m3u8
 
-#EXTINF:0 group-title="MSPORTIC",BOX HITS
+#EXTINF:0 group-title="SPORT",BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplSPORT01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:0 group-title="MSPORTIC",CALIFORNIA MSPORTIC CHANNEL
+#EXTINF:0 group-title="SPORT",CALIFORNIA SPORT CHANNEL
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCSPORTA/CCURstream0.m3u8
 
-#EXTINF:0 group-title="MSPORTIC",M2O TV
+#EXTINF:0 group-title="SPORT",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
-#EXTINF:0 group-title="MSPORTIC",MSPORTIC CHOICE
-http://edge.mSPORTic-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0 group-title="SPORT",SPORT CHOICE
+http://edge.SPORT-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-#EXTINF:0 group-title="MSPORTIC",MSPORTIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:mSPORTictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:0 group-title="SPORT",SPORT TOP
+http://live-edge01.telecentro.net.ar/live/smil:SPORTtop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 
-#EXTINF:0 group-title="MSPORTIC",XLITE MSPORTIC
+#EXTINF:0 group-title="SPORT",XLITE SPORT
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 
-#EXTINF:0 group-title="MSPORTIC",ZOOM
+#EXTINF:0 group-title="SPORT",ZOOM
 http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
 
 #EXTINF:0 group-title="NEWS",ABC NEWS
@@ -619,8 +619,8 @@ http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8
 #EXTINF:0 group-title="MOVIESS",B4U MOVIESS
 http://103.199.161.254/Content/B4UMOVIESs/Live/Channel(B4UMOVIESs)/index.m3u8
 
-#EXTINF:0 group-title="MSPORTIC",B4U MSPORTIC
-http://103.199.161.254/Content/B4UmSPORTic/Live/Channel(B4UmSPORTic)/index.m3u8
+#EXTINF:0 group-title="SPORT",B4U SPORT
+http://103.199.161.254/Content/B4USPORT/Live/Channel(B4USPORT)/index.m3u8
 
 #EXTINF:0 group-title="INDO-TV",BBS TV
 http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
@@ -670,7 +670,7 @@ http://rr2.dens.tv/s/s20/index.m3u8
 #EXTINF:0 group-title="MOVIESS",CINEMA WORLD
 http://rr.dens.tv/h/h04/index.m3u8
 
-#EXTINF:0 group-title="MSPORTIC",CMC SPORTA
+#EXTINF:0 group-title="SPORT",CMC SPORTA
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCSPORTA/CMCSPORTA.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT",CULTURA
@@ -811,7 +811,7 @@ http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
 #EXTINF:0 group-title="INDO-TV",METRO TV
 http://rr2.dens.tv/s/s49/index.m3u8
 
-#EXTINF:0 group-title="MSPORTIC",MIAMI TV
+#EXTINF:0 group-title="SPORT",MIAMI TV
 http://SPORTaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
 #EXTINF:0 group-title="ENTERTAINMENT",MTA ORIGIN
@@ -820,8 +820,8 @@ http://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
 #EXTINF:0 group-title="INDO-TV",MUGOS TV
 http://203.153.218.156:1935/live/myStream/playlist.m3u8
 
-#EXTINF:0 group-title="INDO-TV",MSPORTIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:mSPORTictop.smil/playlist.m3u8
+#EXTINF:0 group-title="INDO-TV",SPORT TOP
+http://live-edge01.telecentro.net.ar/live/smil:SPORTtop.smil/playlist.m3u8
 
 #EXTINF:0 group-title="KIDS",MY KIDS
 http://210.210.155.35/x6bnqe/s/s30/S4/mnf.m3u8
@@ -1571,7 +1571,7 @@ http://103.242.13.90:5555/udp/239.4.1.149:10000
 #EXTINF:-1 group-title="ASIA",Setanta TV-OTT HD
 http://103.242.13.90:5555/udp/239.4.1.132:10000
 
-#EXTINF:-1 group-title="MSPORTIC",MSPORTIC 1 HD KHMER
+#EXTINF:-1 group-title="SPORT",SPORT 1 HD KHMER
 http://103.242.13.90:5555/udp/239.4.1.199:10000
 
 #EXTINF:-1 group-title="ASIA",5 TV5 OTT
@@ -1742,10 +1742,10 @@ http://103.242.13.90:5555/udp/239.4.2.88:10000
 #EXTINF:-1 group-title="ASIA",New
 http://103.242.13.90:5555/udp/239.4.2.91:10000
 
-#EXTINF:-1 group-title="MSPORTIC",ARY MSPORTIK
+#EXTINF:-1 group-title="SPORT",ARY MSPORTIK
 http://103.242.13.90:5555/udp/239.4.2.104:10000
 
-#EXTINF:-1 group-title="MSPORTIC",MSPORTIC 1 KHMER
+#EXTINF:-1 group-title="SPORT",SPORT 1 KHMER
 http://103.242.13.90:5555/udp/239.4.2.199:10000
 
 #EXTINF:-1 group-title="ASIA",9
