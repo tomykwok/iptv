@@ -235,6 +235,9 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:0 group-title="MOVIES",CELESTIAL MOVIESS ID
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
 
+#EXTINF:0 group-title="MOVIES",MAX PRIME
+http://161.0.157.9/PLTV/88888888/224/3221226834/03.m3u8
+
 #EXTINF:0 group-title="ENTERTAINMENT",E
 http://210.210.155.35/session/d63bb414-30c3-11e9-b5a0-c81f66f89318/uq2663/h/h10/01.m3u8
 
@@ -297,6 +300,9 @@ http://178.132.6.97:8080/A1Cinema1/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="SPORT",[PL] POLSAT SPORT NEWS HD
 http://stars.managercw.com:8000/live/POLAND/POLAND/2054.ts
+
+#EXTINF:0 group-title="SPORT",GOLF
+http://161.0.157.9/PLTV/88888888/224/3221226812/03.m3u8
 
 #EXTINF:0 group-title="SPORT",ESPN
 http://80.80.160.168/live/6/live.m3u8
