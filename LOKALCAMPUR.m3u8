@@ -146,7 +146,7 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 http://persik.by/stream/2944/263250/32.m3u8
 
 #EXTINF:0 group-title="KIDS",DISNEY CHANNEL
-http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+http://31.220.1.190:8080/11223344/44332211/63634
 
 #EXTINF:0 group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -232,8 +232,14 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 #EXTINF:0 group-title="LIFESTYLE",HD FASHION
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
+#EXTINF:0 group-title="LIFESTYLE",ONE1 HD
+http://217.240.95.79:9981/stream/channelid/1606162250
+
 #EXTINF:0 group-title="MOVIES",CELESTIAL MOVIESS ID
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+
+#EXTINF:0 group-title="MOVIES",FILM BOX PREMIUM
+http://195.38.105.67:9000/play/filmboxpremium
 
 #EXTINF:0 group-title="MOVIES",MAX PRIME
 http://161.0.157.9/PLTV/88888888/224/3221226834/03.m3u8
