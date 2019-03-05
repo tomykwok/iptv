@@ -139,6 +139,9 @@ http://210.210.155.35/session/80bffd4c-30c3-11e9-81a6-c81f66f89318/uq2663/h/h11/
 #EXTINF:0 group-title="KIDS",ANIMAX ID
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
 
+#EXTINF:0 group-title="KIDS",ANIMAX KR
+http://175.208.203.52:9981/stream/channelid/49
+
 #EXTINF:0 group-title="KIDS",CARTOON NETWORK 1
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
