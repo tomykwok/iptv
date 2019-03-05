@@ -4,10 +4,10 @@ http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=0
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="INDO-TV",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" group-title="INDO-TV",RCTI HD
+#EXTINF:0 tvg-logo="" group-title="INDO-TV",RCTI HD
 http://202.80.222.130/000001/2/ch14041511532707866226/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" group-title="INDO-TV",SCTV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" group-title="INDO-TV",SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-logo="" group-title="INDO-TV",INDOSIAR
@@ -2125,92 +2125,3 @@ http://163.172.211.229:8000/live/itdythfitspo/spfrhgspit/47.ts
 
 #EXTINF:-1 group-title="SPORT",ELEVEN SPORT 1 HD
 http://cdn7.woideas.com/tv11.m3u8
------------------------------------------------------------
-------------
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png" tvg-name="TesOGO"  group-title="TESOG",TRANS TV
-http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" tvg-name="TRANS TV"  group-title="contoh",TRANS TV
-http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti_id.png" tvg-name="RCTI"  group-title="INDO-TV",RCTI
-http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti_id.png" tvg-name="RCTI HD"  group-title="INDO-TV",RCTI HD
-http://202.80.222.130/000001/2/ch14041511532707866226/1000.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" tvg-name="SCTV"  group-title="INDO-TV",SCTV
-http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar.png" tvg-name="INDOSIAR"  group-title="INDO-TV",INDOSIAR
-http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/aa/antv.png" tvg-name="ANTV"  group-title="INDO-TV",ANTV
-http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png" tvg-name="GTV"  group-title="INDO-TV",GTV
-http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net_tv_id.png" tvg-name="NET TV HD"  group-title="INDO-TV",NET TV HD
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" tvg-name="MNC TV"  group-title="INDO-TV",MNC TV
-http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" tvg-name="RAJAWALI TV (RTV)"  group-title="INDO-TV",RAJAWALI TV (RTV)
-http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" tvg-name="KOMPAS TV"  group-title="INDO-TV",KOMPAS TV
-http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png" tvg-name="METRO TV"  group-title="INDO-TV",METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_one_id.png" tvg-name="TV ONE"  group-title="INDO-TV",TV ONE
-http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita_satu_id_hd.png" tvg-name="BERITA SATU"  group-title="INDO-TV",BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_id.png" tvg-name="CNN INDONESIA"  group-title="INDO-TV",CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inews-id.png" tvg-name="INEWS"  group-title="INDO-TV",INEWS
-http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri_id.png" tvg-name="TVRI"  group-title="INDO-TV",TVRI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="INTV"  group-title="INDO-TV",INTV
-http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jak-tv-id.png" tvg-name="JAK TV"  group-title="INDO-TV",JAK TV
-http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bali_tv_id.png" tvg-name="BALI TV"  group-title="INDO-TV",BALI TV
-http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rri-net-id.png" tvg-name="RRI NET"  group-title="INDO-TV",RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dangdut_channel_id.png" tvg-name="DANGDUT"  group-title="INDO-TV",DANGDUT
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/ee/elshinta_tv_id.png" tvg-name="ELSHINTA"  group-title="INDO-TV",ELSHINTA
-http://210.210.155.35/qwr9ew/s/s10/01.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png" tvg-name="JTV SURABAYA"  group-title="INDO-TV",JTV SURABAYA
-http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kitanesia_id.png" tvg-name="KITANESIA"  group-title="INDO-TV",KITANESIA
-http://stream1.ninmedia.tv/live/xmedia-kitanesiatv.stream_nin/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inspira_tv_id.png" tvg-name="INSPIRA TV"  group-title="INDO-TV",INSPIRA TV
-http://stream1.ninmedia.tv/live/xmedia-inspiratv.stream_nin/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVl4nW99UkiNLimupbj-I1jr4lPzQt_kVvva8py5lnUeUtOC34uA" tvg-name="SALURAN FILM INDONESIA"  group-title="INDO-TV",SALURAN FILM INDONESIA
-http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="ADULTO", Jasmin Channel 720P
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
