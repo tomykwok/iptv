@@ -2212,5 +2212,5 @@ http://stream1.ninmedia.tv/live/xmedia-inspiratv.stream_nin/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVl4nW99UkiNLimupbj-I1jr4lPzQt_kVvva8py5lnUeUtOC34uA" tvg-name="SALURAN FILM INDONESIA"  group-title="INDO-TV",SALURAN FILM INDONESIA
 http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3u8
 
-#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" group-title="ADULTO", Jasmin Channel 720P
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="ADULTO", Jasmin Channel 720P
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
