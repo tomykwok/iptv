@@ -2131,7 +2131,7 @@ http://cdn7.woideas.com/tv11.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png" tvg-name="TesOGO"  group-title="TESOG",TRANS TV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png" tvg-name="TRANS TV"  group-title="INDO-TV",TRANS TV
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" tvg-name="TRANS TV"  group-title="contoh",TRANS TV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti_id.png" tvg-name="RCTI"  group-title="INDO-TV",RCTI
