@@ -2133,3 +2133,5 @@ http://163.172.211.229:8000/live/itdythfitspo/spfrhgspit/47.ts
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/897484_logo_tring_sport_1.png" tvg-name="ELEVEN SPORT 1 HD"  group-title="SPORT",ELEVEN SPORT 1 HD
 http://cdn7.woideas.com/tv11.m3u8
 
+#EXTINF:-1 tvg-logo="http://allfootballvideo.com/images/channel-logo/Bein-Sports-7-300x175.png" tvg-name="BEINSPORT 7"  group-title="SPORT",BEINSPORT 7
+http://zerolive.ddns.net:5445/mercury/beinsports7/playlist.m3u8
