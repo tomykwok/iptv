@@ -2209,3 +2209,6 @@ http://boonniyomtv-xefg3d.cdn.byteark.com/live/13wDt2b6g4/media_w347232082.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch108.gif" tvg-name="SENATE HD"  group-title="THAILAND",SENATE HD
 http://202.122.40.36/livestream/encoder3/media_w2122111964.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch108.gif" tvg-name="SENATE HD"  group-title="THAILAND",coba
+http://51.15.201.17:8081/live/bluehustler/chunks.m3u8?nimblesessionid=719125&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMTkgMzoxNjoyMCBQTSZoYXNoX3ZhbHVlPUx1eXNSMGoyKytXc29xanhSeEMwNUE9PSZ2YWxpZG1pbnV0ZXM9MTgw
