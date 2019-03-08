@@ -582,10 +582,10 @@ http://ott-cdn.ucom.am/s82/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" tvg-name="SENTANA SPORT"  group-title="SPORT",SENTANA SPORT
 http://ott-cdn.ucom.am/s81/03.m3u8
 
-#EXTINF:-1 tvg-logo="data:image/png;base64,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" tvg-name="BTV NEWS"  group-title="THAI",BTV NEWS
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" tvg-name="BTV NEWS"  group-title="THAILAND",BTV NEWS
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-qv0SvNjn8KY/WFYu_LRQPhI/AAAAAAAAALI/WOAlo_FZ_jAACYB9THoHlQkB6uY8YegkgCLcB/s1600/PPTV_HD_36_Logo.svg.png" tvg-name="PPTV HD"  group-title="THAI",PPTV HD
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-qv0SvNjn8KY/WFYu_LRQPhI/AAAAAAAAALI/WOAlo_FZ_jAACYB9THoHlQkB6uY8YegkgCLcB/s1600/PPTV_HD_36_Logo.svg.png" tvg-name="PPTV HD"  group-title="ASIA",PPTV HD
 http://49.231.4.246:9981/stream/channelid/124747937
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/1_News_%28New_Zealand%29.svg/1200px-1_News_%28New_Zealand%29.svg.png" tvg-name="1NEWS"  group-title="NEWS",1NEWS
@@ -1569,7 +1569,7 @@ http://103.242.13.90:5555/udp/239.4.1.125:10000
 #EXTINF:-1 tvg-logo="Logo N/A" tvg-name="Astro"  group-title="ASIA",Astro
 http://103.242.13.90:5555/udp/239.4.1.148:10000
 
-#EXTINF:-1 tvg-logo="Logo N/A" tvg-name="True"  group-title="THAI",True
+#EXTINF:-1 tvg-logo="Logo N/A" tvg-name="True"  group-title="THAILAND",True
 http://103.242.13.90:5555/udp/239.4.1.149:10000
 
 #EXTINF:-1 tvg-logo="Logo N/A" tvg-name="Setanta TV-OTT HD"  group-title="ASIA",Setanta TV-OTT HD
@@ -2141,3 +2141,71 @@ http://cdn7.woideas.com/tv11.m3u8
 
 #EXTINF:-1 tvg-logo="http://allfootballvideo.com/images/channel-logo/Bein-Sports-7-300x175.png" tvg-name="BEINSPORT 7"  group-title="SPORT",BEINSPORT 7
 http://zerolive.ddns.net:5445/mercury/beinsports7/playlist.m3u8
+
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1024.gif" tvg-name="PPTV HD"  group-title="THAILAND",PPTV HD
+http://183.182.100.184/live/pptvthai/index.m3u
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch2.gif" tvg-name="TV5 HD"  group-title="THAILAND",TV5 HD
+http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch4.gif" tvg-name="MCOT HD"  group-title="THAILAND",MCOT HD
+http://183.182.100.184/live/mcothd/index.m3u
+
+#EXTINF:-1 tvg-id="New EPG" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch6.gif" tvg-name="THAI PBS HD"  group-title="THAILAND",THAI PBS HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1018.gif" tvg-name="THAIRATH TV HD"  group-title="THAILAND",THAIRATH TV HD
+https://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1021.gif" tvg-name="NEW TV HD"  group-title="THAILAND",NEW TV HD
+http://newtv.cdn.byteark.com/live/playlist_360p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch51.gif" tvg-name="NATION TV HD"  group-title="THAILAND",NATION TV HD
+http://live.nationtv.tv/hls/ntv_th.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch70.gif" tvg-name="VOICE TV HD"  group-title="THAILAND",VOICE TV HD
+https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/Cp8EW9EM16ZpAp1suoOnBr03aAo15Ja5yzNqMhJlkL_rAWgvCVfAQ7xOZ6HLbWaRCmIXXEtu4UUaf0YXhKYiuxuYDTl8W4zwEZYrqZfuSFSEdpEOBDStxWgyVm-I6ngKZnFI7ed4Pwv4T3w_1bm5kCOc0b3SIQo7xbiM5HYTFb86JwW8CSGcaj5zlPaYQ-iaZ5X34_LvnEFOp9jQAfMYQk5c9U7QYMw1LwLT9qUYJxE4yvKvg8ZgaZz4CcNVJ6qYK9OUBpPvCNT-HFs3xQuhB7fdvgWoIl_czVV0-fpp92LSowHTKj6fpVdJpG-yP42Ohms3-Rx45D9doaT-yrTMciTAzsbfpJClCUK9cALsPFWEcyaZLuYEnHWm7cUNF31GQO_MgrclXPGK6XjRK2S_yg_O5CAajyTA-y4zo_iM4GTspco0WdSnFnF0vtOzTt-EU1pBZYmCKkha-NHT3E1RIMB1sPTChsg-GHrP-anrj4pU42FJMMkG7Ujc2s79ql7jL6x_e335Y41uCHUPVER_FxEOnBJuFUGwrw5fFeJGC5rNxgKRBfj6pN3DV_4ShNc3B2VujJySBCIZ6ga-A9I9XaPHPCY5n5dtDls-sHeNzsx-Zy8krBrsp_h2iMzon8VRBxH-HQJqbmsbuHFyPsC49SB4RSgdY3UNYdz5MR7eWfcBupcTvHQKiaW3u1JOHxOnQKYtN25kenWLueVxLY5Y5iinEhDiReY8tySFih2N_xkhRXYlGgzdC6TTUQWsV3zzFjo.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1019.gif" tvg-name="WORKPOINT TV HD"  group-title="THAILAND",WORKPOINT TV HD
+http://122.155.205.9/live/workpoint.stream/chunklist_w1998776218.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1038.gif" tvg-name="TRUE4U HD"  group-title="THAILAND",TRUE4U HD
+http://183.182.100.184/live/true4u/index.m3u
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif" tvg-name="GMM25 HD"  group-title="THAILAND",GMM25 HD
+http://gmmservice.radical-enlighten.com/gmm/smil:gmm25.smil/chunklist_w240824316_b1128000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1046.gif" tvg-name="MONO29 HD"  group-title="THAILAND",MONO29 HD
+http://183.182.100.184/live/mono29/index.m3u
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch91.gif" tvg-name="CHANNEL 8 HD"  group-title="THAILAND",CHANNEL 8 HD
+http://stream.rs.co.th/ch8-hi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1026.gif" tvg-name="AMARIN TV HD"  group-title="THAILAND",AMARIN TV HD
+http://210.4.150.104/stream/5195e80fe1ed0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1047.gif" tvg-name="BRIGHT TV HD"  group-title="THAILAND",BRIGHT TV HD
+http://live4.netdesignhost.com/brighttvlive/brighttvlive/chunklist_w112679112.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1049.gif" tvg-name="MCOT FAMMILY HD"  group-title="THAILAND",MCOT FAMMILY HD
+http://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/chunklist_w319792887_b2000000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch83.gif" tvg-name="CHANNEL 2 HD"  group-title="THAILAND",CHANNEL 2 HD
+http://stream.rs.co.th/ch2-hi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch111.gif" tvg-name="SABAIDEETV HD"  group-title="THAILAND",SABAIDEETV HD
+http://stream.rs.co.th/sbd-hi/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif" tvg-name="CARTOON CLUB HD"  group-title="THAILAND",CARTOON CLUB HD
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch104.gif" tvg-name="ONE HD"  group-title="THAILAND",ONE HD
+http://live.seesantv.com/live/chone1/chunklist_w981952123.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch107.gif" tvg-name="13 SIAM HD"  group-title="THAILAND",13 SIAM HD
+http://boonniyomtv-xefg3d.cdn.byteark.com/live/13wDt2b6g4/media_w347232082.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch108.gif" tvg-name="SENATE HD"  group-title="THAILAND",SENATE HD
+http://202.122.40.36/livestream/encoder3/media_w2122111964.m3u8
