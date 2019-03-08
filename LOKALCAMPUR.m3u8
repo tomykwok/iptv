@@ -2145,13 +2145,13 @@ http://zerolive.ddns.net:5445/mercury/beinsports7/playlist.m3u8
 ﻿#EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1024.gif" tvg-name="PPTV HD"  group-title="THAILAND",PPTV HD
-http://183.182.100.184/live/pptvthai/index.m3u
+http://183.182.100.184/live/pptvthai/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch2.gif" tvg-name="TV5 HD"  group-title="THAILAND",TV5 HD
 http://27.254.62.62:8081/live/tv5stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch4.gif" tvg-name="MCOT HD"  group-title="THAILAND",MCOT HD
-http://183.182.100.184/live/mcothd/index.m3u
+http://183.182.100.184/live/mcothd/index.m3u8
 
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch6.gif" tvg-name="THAI PBS HD"  group-title="THAILAND",THAI PBS HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
@@ -2172,13 +2172,13 @@ https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/Cp8EW9EM16ZpAp1suoOnBr03aAo
 http://122.155.205.9/live/workpoint.stream/chunklist_w1998776218.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1038.gif" tvg-name="TRUE4U HD"  group-title="THAILAND",TRUE4U HD
-http://183.182.100.184/live/true4u/index.m3u
+http://183.182.100.184/live/true4u/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1045.gif" tvg-name="GMM25 HD"  group-title="THAILAND",GMM25 HD
 http://gmmservice.radical-enlighten.com/gmm/smil:gmm25.smil/chunklist_w240824316_b1128000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1046.gif" tvg-name="MONO29 HD"  group-title="THAILAND",MONO29 HD
-http://183.182.100.184/live/mono29/index.m3u
+http://183.182.100.184/live/mono29/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch91.gif" tvg-name="CHANNEL 8 HD"  group-title="THAILAND",CHANNEL 8 HD
 http://stream.rs.co.th/ch8-hi/index.m3u8
