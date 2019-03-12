@@ -196,7 +196,7 @@ http://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" tvg-name="ZING"  group-title="ENTERTAINMENT",ZING
-http://z5ams.akamaized.net/zing/tracks-v1a1/index.m3u8
+http://103.205.133.19/hls/zing.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/1/1c/Logo-Animal-Planet.png/revision/latest?cb=20130317082151" tvg-name="ANIMAL PLANET"  group-title="KNOWLEDGE",ANIMAL PLANET
 http://80.80.160.168/live/1/live.m3u8
@@ -1093,7 +1093,7 @@ http://z5ams.akamaized.net/zcinemasd/playlist.m3u8
 http://z5ams.akamaized.net/world/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Logo N/A" tvg-name="ZING"  group-title="MOVIES",ZING
-http://z5ams.akamaized.net/zing/playlist.m3u8
+http://103.205.133.19/hls/zing.m3u8
 
 #EXTINF:-1 tvg-logo="Logo N/A" tvg-name="AF: KTV SPORT"  group-title="SPORT",AF: KTV SPORT
 http://www.elahmad.com/tv/m3u8/ktv.m3u8
