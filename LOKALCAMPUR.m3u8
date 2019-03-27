@@ -222,6 +222,9 @@ http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",MK TV
 http://stream1.ninmedia.tv/mktv/udp.stream_360p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png" group-title="SPORT",SUPER SOCCER TV
+http://210.210.155.35/session/f00a19c2-5048-11e9-b11f-b82a72d63267/uq2663/h/h20/02.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.k-vision.tv/uploads/2018/08/xzeebioskop.png.pagespeed.ic.jUSkZudEpF.png" tvg-name="ZEE BIOSKOP"  group-title="ENTERTAINMENT",ZEE BIOSKOP
 http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
 
