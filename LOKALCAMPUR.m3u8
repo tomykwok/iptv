@@ -236,13 +236,13 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" tvg-name="DISNEY CHANNEL"  group-title="KIDS",DISNEY CHANNEL
-http://kimbogrupol.com:25461/julian/julian1/17296
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/204928
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" tvg-name="DISNEY CHANNEL"  group-title="KIDS",DISNEY CHANNEL
-http://kimbogrupol.com:25461/julian/julian1/17385
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/149953
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" tvg-name="DISNEY CHANNEL"  group-title="KIDS",NICK JR
-http://kimbogrupol.com:25461/julian/julian1/17392
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/208671
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" tvg-name="DISNEY CHANNEL"  group-title="KIDS",NICK ASIA
 http://203.153.218.26:9981/stream/channelid/1474669592?ticket=34A2B30F83B9510A225AD259DCF94B2DFB4E4EE3&profile=pass
@@ -379,41 +379,14 @@ http://203.153.218.26:9981/stream/channelid/960201661
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO"  group-title="MOVIES",HBO HD
 http://125.227.210.37:8895/VideoInput/play.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="MOVIES",HBO FHD
-http://kimbogrupol.com:25461/julian/julian1/16171
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO"  group-title="MOVIES",HBO 1 HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198510
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="MOVIES",HBO HD SUB |UHD
-http://kimbogrupol.com:25461/julian/julian1/17352
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO"  group-title="MOVIES",HBO Comedy HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198509
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="MOVIES",HBO | UHD
-http://kimbogrupol.com:25461/julian/julian1/17135
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="MOVIES",HBO 2 FHD
-http://kimbogrupol.com:25461/julian/julian1/16170
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="MOVIES",HBO 2 |UHD
-http://kimbogrupol.com:25461/julian/julian1/17213
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="MOVIES",HBO 2 FHD - USA
-http://kimbogrupol.com:25461/julian/julian1/15971
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="MOVIES",HBO Plus FHD
-http://kimbogrupol.com:25461/julian/julian1/16168
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="MOVIES",HBO PLUS |UHD
-http://kimbogrupol.com:25461/julian/julian1/17234
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="MOVIES",HBO Family FHD
-http://kimbogrupol.com:25461/julian/julian1/16169
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="MOVIES",HBO FAMILY |UHD
-http://kimbogrupol.com:25461/julian/julian1/17227
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="MOVIES",HBO Signature FHD
-http://kimbogrupol.com:25461/julian/julian1/16167
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="MOVIES",HBO SIGNATURE |UHD
-http://kimbogrupol.com:25461/julian/julian1/17204
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO"  group-title="MOVIES",HBO HD
+http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198508
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/2000px-Showtime.svg.png" tvg-name="SHOWTIME HD"  group-title="MOVIES",SHOWTIME HD
 http://80.80.160.168/live/7/live.m3u8
