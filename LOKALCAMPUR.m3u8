@@ -124,6 +124,9 @@ http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eUh6YJTrGv8/V3SZquKBatI/AAAAAAAACHI/myAYFQyiIOYkUVXQvRfP3F35DIuZ0u9xwCLcB/s1600/i-am-channel.jpg" tvg-name="I AM CHANNEL"  group-title="INDO-TV",I AM CHANNEL
 http://iamchannel.org:1935/tes/1/chunklist_w517367057.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png" tvg-name="SINEMA INDONESIA"  group-title="INDO-TV",SINEMA INDONESIA
+http://210.210.155.35/x6bnqe/s/s71/index2.m3u8
+
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",MALEO
 http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
 
@@ -219,6 +222,9 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b22
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Diva_logo.svg/500px-Diva_logo.svg.png" tvg-name="DIVA"  group-title="ENTERTAINMENT",DIVA
 http://210.210.155.35/session/80bffd4c-30c3-11e9-81a6-c81f66f89318/uq2663/h/h11/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" tvg-name="SPACETOON"  group-title="KIDS",SPACETOON
+http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" tvg-name="ANIMAX ID"  group-title="KIDS",ANIMAX ID
 http://210.210.155.35/dr9445/h/h144/index2.m3u8
