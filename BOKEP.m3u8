@@ -3043,6 +3043,32 @@ http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BGirlsDoP
 
 #EXTINF:-1,============================================================================================================================
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kBoaqFaeQDM/hqdefault.jpg" group-title="JAV-AU03-5",BLK-258-C
+https://video.feimanzb.com:8091/20171110/BLK-258-C/550kb/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kBoaqFaeQDM/hqdefault.jpg" group-title="JAV-AU03-5",ABP-420-C
+https://video.feimanzb.com:8091/20171109/ABP-420-C/550kb/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kBoaqFaeQDM/hqdefault.jpg" group-title="JAV-AU03-5",JUFD-555-C
+https://video.feimanzb.com:8091/20171110/JUFD-555-C/550kb/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kBoaqFaeQDM/hqdefault.jpg" group-title="JAV-AU03-5",BBI-202-C
+https://video.feimanzb.com:8091/20171109/BBI-202-C/550kb/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kBoaqFaeQDM/hqdefault.jpg" group-title="JAV-AU03-5",ABP-376-C
+https://video.feimanzb.com:8091/20171107/ABP-376-C/550kb/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kBoaqFaeQDM/hqdefault.jpg" group-title="JAV-AU03-5",BLK-256-C
+https://video.feimanzb.com:8091/20171110/BLK-256-C/550kb/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kBoaqFaeQDM/hqdefault.jpg" group-title="JAV-AU03-5",ADN-088-C
+https://video.feimanzb.com:8091/20171107/ADN-088-C/550kb/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kBoaqFaeQDM/hqdefault.jpg" group-title="JAV-AU03-5",BBI-203-C
+https://video.feimanzb.com:8091/20171109/BBI-203-C/550kb/hls/index.m3u8
+
+#EXTINF:-1,============================================================================================================================
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-1" ,VIP-1-0
 http://vl01.stream4.me/vlxx/00001-00099/00001_720p.mp4
 
