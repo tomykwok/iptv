@@ -1,5 +1,3 @@
-#EXTM3U
-
 #EXTINF:-1,And TV
 http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
 
@@ -23,9 +21,6 @@ http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
 
 #EXTINF:-1,CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-
-#EXTINF:-1,FOX
-http://161.0.157.51/PLTV/88888888/224/3221227042/03.m3u8
 
 #EXTINF:-1,NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
@@ -87,9 +82,6 @@ http://161.0.157.5/PLTV/88888888/224/3221226321/index.m3u8
 #EXTINF:-1,311
 http://161.0.157.5/PLTV/88888888/224/3221226311/index.m3u8
 
-#EXTINF:-1,DISNEY
-http://161.0.157.5/PLTV/88888888/224/3221226299/index.m3u8
-
 #EXTINF:-1,B4U MOVIES
 http://161.0.157.5/PLTV/88888888/224/3221226255/index.m3u8
 
@@ -134,9 +126,6 @@ http://161.0.157.5/PLTV/88888888/224/3221226729/index.m3u8
 
 #EXTINF:-1,SPORTMAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/index.m3u8
-
-#EXTINF:-1,SPORTMAX2
-http://161.0.157.5/PLTV/88888888/224/3221226777/index.m3u8
 
 #EXTINF:-1,CNN
 http://161.0.157.5/PLTV/88888888/224/3221226781/index.m3u8
@@ -222,12 +211,6 @@ http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:-1,CBS
 http://161.0.157.5/PLTV/88888888/224/3221227041/03.m3u8
 
-#EXTINF:-1,FOX
-http://161.0.157.5/PLTV/88888888/224/3221227042/03.m3u8
-
-#EXTINF:-1,FOX
-http://161.0.157.5/PLTV/88888888/224/3221227042/index.m3u8
-
 #EXTINF:-1,TV
 http://161.0.157.5/PLTV/88888888/224/3221227097/index.m3u8
 
@@ -239,9 +222,6 @@ http://161.0.157.5/PLTV/88888888/224/3221226078/index.m3u8
 
 #EXTINF:-1,HBO
 http://161.0.157.5/PLTV/88888888/224/3221226122/index.m3u8
-
-#EXTINF:-1,SPORTSMAX 2
-http://161.0.157.5/PLTV/88888888/224/3221226777/03.m3u8
 
 #EXTINF:-1,ANIMAL PLANET
 http://161.0.157.5/PLTV/88888888/224/3221226253/01.m3u8
@@ -281,66 +261,6 @@ http://livetr.teleromagna.it/sport/live/playlist.m3u8
 
 #EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-
-#EXTINF:-1,SPORT TV 5
-https://livebar.pw/lba/123/g9/ptsport5.m3u8
-
-#EXTINF:-1,SPORT TV 4
-https://vip7stream.pw/lba/123/g4/portugalsport4.m3u8
-
-#EXTINF:-1,Supersport 4
-https://livebar.pw/lba/123/g7/super4sport.m3u8
-
-#EXTINF:-1,Supersport 4
-https://vip7stream.pw/lba/123/g7/super4sport.m3u8
-
-#EXTINF:-1,Digi Sport 1
-https://livebar.pw/lba/123/g4/ds1ro.m3u8
-
-#EXTINF:-1,ARENA SPORT 2
-https://livebar.pw/lba/123/g10/arena2sport.m3u8
-
-#EXTINF:-1,ARENA SPORT 4
-https://livebar.pw/lba/123/g3/arenaserbia4.m3u8
-
-#EXTINF:-1,ARENA SPORT 5
-https://livebar.pw/lba/123/g7/ar5sport.m3u8
-
-#EXTINF:-1,ARENA SPORT 2
-https://vip7stream.pw/lba/123/g10/arena2sport.m3u8
-
-#EXTINF:-1,ARENA SPORT 4
-https://vip7stream.pw/lba/123/g3/arenaserbia4.m3u8
-
-#EXTINF:-1,ARENA SPORT 5
-https://vip7stream.pw/lba/123/g7/ar5sport.m3u8
-
-#EXTINF:-1,sportklub 2
-https://livebar.pw/lba/123/g3/sk2serbia.m3u8
-
-#EXTINF:-1,sportklub 2
-https://vip7stream.pw/lba/123/g3/sk2serbia.m3u8
-
-#EXTINF:-1,VIASAT FOOTBALL
-https://livebar.pw/lba/123/g1/sweviafootball.m3u8
-
-#EXTINF:-1,Match Fudbal 3
-https://livebar.pw/lba/123/g4/matfoot3.m3u8
-
-#EXTINF:-1,Match
-https://vip7stream.pw/lba/123/g1/rusmatchtv.m3u8
-
-#EXTINF:-1,Match Fudbal 1
-https://vip7stream.pw/lba/123/g2/mfootball1.m3u8
-
-#EXTINF:-1,Match Fudbal 2
-https://vip7stream.pw/lba/123/g5/rumatchf2.m3u8
-
-#EXTINF:-1,Match Fudbal 3
-https://vip7stream.pw/lba/123/g4/matfoot3.m3u8
-
-#EXTINF:-1,Digi Sport 1
-https://vip7stream.pw/lba/123/g4/ds1ro.m3u8
 
 #EXTINF:-1,SETANTA SPORTS +
 http://ott-cdn.ucom.am/s81/index.m3u8
@@ -387,20 +307,11 @@ http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
 #EXTINF:0 group-title="MX: Mexico",MX: TELEFORMULA NEW
 http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
-#EXTINF:0 group-title="NL: Netherlands",NL: FOX SPORTS 1
-http://51.15.182.233/hls/sebn4.m3u8
-
-#EXTINF:0 group-title="SP: Spain",SP: FIGHT TIME
-http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
-
 #EXTINF:0 group-title="SP: Spain",SP: FIGHT TIME (1+)
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 
 #EXTINF:0 group-title="UA: Ukraine",UA: DONBAS
 http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
-
-#EXTINF:0 group-title="UA: Ukraine",UA: XSPORT
-http://95.67.103.251/hls/xsport_ua_hi/index.m3u8
 
 #EXTINF:0 group-title="US: United States",US: ESPN
 http://80.80.160.168/live/6/live.m3u8
@@ -426,38 +337,14 @@ http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
 #EXTINF:0 group-title="US: United States",US: RED BULL TV (2+)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:0 group-title="US: United States",US: SPORTS
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-
 #EXTINF:0 group-title="WW: World Wide",WW: FISHING NETWORK
 http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 
 #EXTINF:0 group-title="WW: World Wide",WW: MLB LIVE
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Smash Sports" tvg-logo="http://136.243.80.153/evotv%20icons/maltese/smash%20sports.png" group-title="Smash Communications",Smash Sports
-http://144.76.182.50:25461/live/smash/smash/4.ts
-
 #EXTINF:-1,USA: Epix Hits
 http://4ever.biz:80/20192/20192/25498
-
-#EXTINF:-1,USA: NBC GOLD GOAL RUSH {LIVE ONLY}
-http://4ever.biz:80/20192/20192/23734
-
-#EXTINF:-1,USA: NBC GOLD Premier League 1 {LIVE ONLY}
-http://4ever.biz:80/20192/20192/23733
-
-#EXTINF:-1,USA: NBC GOLD Premier League 2 {LIVE ONLY}
-http://4ever.biz:80/20192/20192/23732
-
-#EXTINF:-1,USA: NBC GOLD Premier League 3 {LIVE ONLY}
-http://4ever.biz:80/20192/20192/23731
-
-#EXTINF:-1,USA: NBC GOLD Premier League 4 {LIVE ONLY}
-http://4ever.biz:80/20192/20192/23730
-
-#EXTINF:-1,USA: NBC GOLD Premier League 5 {LIVE ONLY}
-http://4ever.biz:80/20192/20192/23729
 
 #EXTINF:-1,USA: ♫ MCM
 http://4ever.biz:80/20192/20192/23783
@@ -471,9 +358,6 @@ http://4ever.biz:80/20192/20192/23774
 #EXTINF:-1,USA: ♫ MTV Dance ʜᴅ
 http://4ever.biz:80/20192/20192/23773
 
-#EXTINF:-1,USA: ♫ MTV Hits ʜᴅ*
-http://4ever.biz:80/20192/20192/23772
-
 #EXTINF:-1,USA: ♫ MTV Music
 http://4ever.biz:80/20192/20192/23771
 
@@ -482,9 +366,6 @@ http://4ever.biz:80/20192/20192/23770
 
 #EXTINF:-1,USA: ♫ XITE ʜᴅ
 http://4ever.biz:80/20192/20192/23594
-
-#EXTINF:-1,USA: 360 North
-http://4ever.biz:80/20192/20192/23592
 
 #EXTINF:-1,USA:A&E
 http://4ever.biz:80/20192/20192/23950
@@ -504,9 +385,6 @@ http://4ever.biz:80/20192/20192/23966
 #EXTINF:-1,USA: ABC WEST UHD
 http://4ever.biz:80/20192/20192/23970
 
-#EXTINF:-1,USA: ACTIONMAX UHD
-http://4ever.biz:80/20192/20192/23965
-
 #EXTINF:-1,USA: AFN Movie
 http://4ever.biz:80/20192/20192/23964
 
@@ -519,14 +397,8 @@ http://4ever.biz:80/20192/20192/23962
 #EXTINF:-1,USA: AFN Prime Pacific
 http://4ever.biz:80/20192/20192/23961
 
-#EXTINF:-1,USA: AFN Pulse
-http://4ever.biz:80/20192/20192/23960
-
 #EXTINF:-1,USA: AFN Spectrum
 http://4ever.biz:80/20192/20192/23959
-
-#EXTINF:-1,USA: AFN Sports
-http://4ever.biz:80/20192/20192/23958
 
 #EXTINF:-1,USA: AFN Sports 1
 http://4ever.biz:80/20192/20192/23956
@@ -561,47 +433,23 @@ http://4ever.biz:80/20192/20192/23947
 #EXTINF:-1,USA: BET
 http://4ever.biz:80/20192/20192/23943
 
-#EXTINF:-1,USA: BET (WEST)
-http://4ever.biz:80/20192/20192/23942
-
 #EXTINF:-1,USA: BET HER
 http://4ever.biz:80/20192/20192/23944
 
 #EXTINF:-1,USA: BET HER UHD
 http://4ever.biz:80/20192/20192/23946
 
-#EXTINF:-1,USA: BET UHD
-http://4ever.biz:80/20192/20192/23945
-
 #EXTINF:-1,USA: BLOOMBERG  UHD
 http://4ever.biz:80/20192/20192/23940
-
-#EXTINF:-1,USA: Boomerang TV
-http://4ever.biz:80/20192/20192/23934
 
 #EXTINF:-1,USA: Bravo
 http://4ever.biz:80/20192/20192/23938
 
-#EXTINF:-1,USA: BRAVO UHD
-http://4ever.biz:80/20192/20192/23939
-
-#EXTINF:-1,USA: BT SPORT ESPN
-http://4ever.biz:80/20192/20192/23937
-
 #EXTINF:-1,USA: BTN Sport
 http://4ever.biz:80/20192/20192/23936
 
-#EXTINF:-1,USA: BYU Sports TV
-http://4ever.biz:80/20192/20192/23935
-
-#EXTINF:-1,USA: C Toon Kids
-http://4ever.biz:80/20192/20192/23896
-
 #EXTINF:-1,USA: C-SPAN 1
 http://4ever.biz:80/20192/20192/23900
-
-#EXTINF:-1,USA: C-SPAN 1 HD UHD
-http://4ever.biz:80/20192/20192/23903
 
 #EXTINF:-1,USA: C-SPAN 2
 http://4ever.biz:80/20192/20192/23899
@@ -615,32 +463,17 @@ http://4ever.biz:80/20192/20192/23898
 #EXTINF:-1,USA: C-SPAN 3 HD UHD
 http://4ever.biz:80/20192/20192/23901
 
-#EXTINF:-1,USA: Capital TV
-http://4ever.biz:80/20192/20192/23932
-
-#EXTINF:-1,USA: CARTOON NETWORK UHD
-http://4ever.biz:80/20192/20192/23933
-
 #EXTINF:-1,USA: CBN
 http://4ever.biz:80/20192/20192/23928
 
 #EXTINF:-1,USA: CBS
 http://4ever.biz:80/20192/20192/23927
 
-#EXTINF:-1,USA: CBS EAST UHD
-http://4ever.biz:80/20192/20192/23930
-
-#EXTINF:-1,USA: CBS EAST UHD.
-http://4ever.biz:80/20192/20192/23931
-
 #EXTINF:-1,USA: CBS Sports
 http://4ever.biz:80/20192/20192/23926
 
 #EXTINF:-1,USA: CBS Sports ʜᴅ
 http://4ever.biz:80/20192/20192/23924
-
-#EXTINF:-1,USA: CBS WEST UHD
-http://4ever.biz:80/20192/20192/23929
 
 #EXTINF:-1,USA: CBSN
 http://4ever.biz:80/20192/20192/23925
@@ -654,17 +487,8 @@ http://4ever.biz:80/20192/20192/23922
 #EXTINF:-1,USA: Cinemax 5 Starmax
 http://4ever.biz:80/20192/20192/23921
 
-#EXTINF:-1,USA: CINEMAX ACTIONMAX
-http://4ever.biz:80/20192/20192/23920
-
 #EXTINF:-1,USA: Cinemax East
 http://4ever.biz:80/20192/20192/23919
-
-#EXTINF:-1,USA: Cinemax Moremax
-http://4ever.biz:80/20192/20192/23918
-
-#EXTINF:-1,USA: CINEMAX UHD
-http://4ever.biz:80/20192/20192/23917
 
 #EXTINF:-1,USA: CNBC World.
 http://4ever.biz:80/20192/20192/23914
@@ -675,23 +499,14 @@ http://4ever.biz:80/20192/20192/23913
 #EXTINF:-1,USA:CNN
 http://4ever.biz:80/20192/20192/23912
 
-#EXTINF:-1,USA: CNN UHD
-http://4ever.biz:80/20192/20192/23915
-
 #EXTINF:-1,USA: Comedy Central (East)
 http://4ever.biz:80/20192/20192/23910
 
 #EXTINF:-1,USA: Comedy Central (West)
 http://4ever.biz:80/20192/20192/23909
 
-#EXTINF:-1,USA: COMEDY CENTRAL EAST UHD
-http://4ever.biz:80/20192/20192/23908
-
 #EXTINF:-1,USA: COOKING CHANNEL
 http://4ever.biz:80/20192/20192/23911
-
-#EXTINF:-1,USA: COOKING CHANNEL UHD
-http://4ever.biz:80/20192/20192/23907
 
 #EXTINF:-1,USA: COOKING CHANNEL.
 http://4ever.biz:80/20192/20192/23905
@@ -702,29 +517,14 @@ http://4ever.biz:80/20192/20192/23906
 #EXTINF:-1,USA: Cozi
 http://4ever.biz:80/20192/20192/23904
 
-#EXTINF:-1,USA: CRIME & INVESTIGATION NETWORK UHD
-http://4ever.biz:80/20192/20192/23897
-
-#EXTINF:-1,USA: CW
-http://4ever.biz:80/20192/20192/23894
-
-#EXTINF:-1,USA: CW 11
-http://4ever.biz:80/20192/20192/23893
-
 #EXTINF:-1,USA: CW Network
 http://4ever.biz:80/20192/20192/23892
 
 #EXTINF:-1,USA: CW NETWORK UHD
 http://4ever.biz:80/20192/20192/23895
 
-#EXTINF:-1,USA: DayStar
-http://4ever.biz:80/20192/20192/23891
-
 #EXTINF:-1,USA: Destination America
 http://4ever.biz:80/20192/20192/23889
-
-#EXTINF:-1,USA: DESTINATION AMERICA UHD
-http://4ever.biz:80/20192/20192/23890
 
 #EXTINF:-1,USA: DISCOVERY LIFE  UHD
 http://4ever.biz:80/20192/20192/23888
@@ -732,14 +532,8 @@ http://4ever.biz:80/20192/20192/23888
 #EXTINF:-1,USA: DISCOVERY SCIENCE CHANNEL
 http://4ever.biz:80/20192/20192/23884
 
-#EXTINF:-1,USA: Discovery Showcase
-http://4ever.biz:80/20192/20192/23883
-
 #EXTINF:-1,USA: DISNEY CHANNEL UHD
 http://4ever.biz:80/20192/20192/23887
-
-#EXTINF:-1,USA: DISNEY JR  UHD
-http://4ever.biz:80/20192/20192/23886
 
 #EXTINF:-1,USA: DISNEY XD  UHD
 http://4ever.biz:80/20192/20192/23885
@@ -750,29 +544,14 @@ http://4ever.biz:80/20192/20192/23882
 #EXTINF:-1,USA: E!
 http://4ever.biz:80/20192/20192/23879
 
-#EXTINF:-1,USA: E! FHD
-http://4ever.biz:80/20192/20192/23880
-
-#EXTINF:-1,USA: E! UHD
-http://4ever.biz:80/20192/20192/23881
-
 #EXTINF:-1,USA: El Rey Network
 http://4ever.biz:80/20192/20192/23877
-
-#EXTINF:-1,USA: EL REY NETWORK UHD
-http://4ever.biz:80/20192/20192/23878
 
 #EXTINF:-1,USA: Epix
 http://4ever.biz:80/20192/20192/23870
 
 #EXTINF:-1,USA: Escape
 http://4ever.biz:80/20192/20192/23871
-
-#EXTINF:-1,USA: ESPN us
-http://4ever.biz:80/20192/20192/23875
-
-#EXTINF:-1,USA: ESPN 2
-http://4ever.biz:80/20192/20192/23874
 
 #EXTINF:-1,USA: ESPN 3
 http://4ever.biz:80/20192/20192/23873
@@ -782,12 +561,6 @@ http://4ever.biz:80/20192/20192/23876
 
 #EXTINF:-1,USA: ESPN News
 http://4ever.biz:80/20192/20192/23872
-
-#EXTINF:-1,USA: Fight Sport 1
-http://4ever.biz:80/20192/20192/23869
-
-#EXTINF:-1,USA: Fight Sport 2
-http://4ever.biz:80/20192/20192/23868
 
 #EXTINF:-1,USA: Food Network
 http://4ever.biz:80/20192/20192/23831
@@ -807,32 +580,8 @@ http://4ever.biz:80/20192/20192/23836
 #EXTINF:-1,USA: FOX 5 Las Vegas HD
 http://4ever.biz:80/20192/20192/23862
 
-#EXTINF:-1,USA: FOX BUSINESS UHD
-http://4ever.biz:80/20192/20192/23866
-
-#EXTINF:-1,USA: FOX EAST UHD
-http://4ever.biz:80/20192/20192/23865
-
-#EXTINF:-1,USA: FOX News
-http://4ever.biz:80/20192/20192/23861
-
-#EXTINF:-1,USA: FOX News HD
-http://4ever.biz:80/20192/20192/23835
-
-#EXTINF:-1,USA: FOX NEWS SD
-http://4ever.biz:80/20192/20192/23864
-
-#EXTINF:-1,USA: FOX NEWS UHD
-http://4ever.biz:80/20192/20192/23834
-
 #EXTINF:-1,USA: FOX NY HD
 http://4ever.biz:80/20192/20192/23860
-
-#EXTINF:-1,USA: Fox Soccer  HD
-http://4ever.biz:80/20192/20192/23859
-
-#EXTINF:-1,USA: Fox Soccer Plus HD
-http://4ever.biz:80/20192/20192/23858
 
 #EXTINF:-1,USA: Fox Sports 1
 http://4ever.biz:80/20192/20192/23857
@@ -840,1364 +589,8 @@ http://4ever.biz:80/20192/20192/23857
 #EXTINF:-1,USA: Fox Sports 2 us
 http://4ever.biz:80/20192/20192/23856
 
-#EXTINF:-1,USA: Fox Sports 2HD
-http://4ever.biz:80/20192/20192/23855
-
 #EXTINF:-1,USA: Fox Sports Arizona HD
 http://4ever.biz:80/20192/20192/23854
 
 #EXTINF:-1,USA: Fox Sports College Atlantic HD
 http://4ever.biz:80/20192/20192/23853
-
-#EXTINF:-1,USA: Fox Sports College Central HD
-http://4ever.biz:80/20192/20192/23852
-
-#EXTINF:-1,USA: Fox Sports College Pacific HD
-http://4ever.biz:80/20192/20192/23851
-
-#EXTINF:-1,USA: Fox Sports Detroit HD
-http://4ever.biz:80/20192/20192/23850
-
-#EXTINF:-1,USA: Fox Sports Florida HD
-http://4ever.biz:80/20192/20192/23849
-
-#EXTINF:-1,USA: Fox Sports Mid West HD
-http://4ever.biz:80/20192/20192/23848
-
-#EXTINF:-1,USA: Fox Sports North HD
-http://4ever.biz:80/20192/20192/23847
-
-#EXTINF:-1,USA: Fox Sports Ohio ʜᴅ
-http://4ever.biz:80/20192/20192/23846
-
-#EXTINF:-1,USA: Fox Sports Prime Ticket HD
-http://4ever.biz:80/20192/20192/23845
-
-#EXTINF:-1,USA: Fox Sports San Diego HD
-http://4ever.biz:80/20192/20192/23844
-
-#EXTINF:-1,USA: Fox Sports South East HD
-http://4ever.biz:80/20192/20192/23843
-
-#EXTINF:-1,USA: Fox Sports South HD
-http://4ever.biz:80/20192/20192/23842
-
-#EXTINF:-1,USA: Fox Sports South West HD
-http://4ever.biz:80/20192/20192/23841
-
-#EXTINF:-1,USA: Fox Sports Sun HD
-http://4ever.biz:80/20192/20192/23840
-
-#EXTINF:-1,USA: Fox Sports Tennessee HD
-http://4ever.biz:80/20192/20192/23839
-
-#EXTINF:-1,USA: Fox Sports West HD
-http://4ever.biz:80/20192/20192/23838
-
-#EXTINF:-1,USA: Fox Sports Wisconsin HD
-http://4ever.biz:80/20192/20192/23837
-
-#EXTINF:-1,USA: FOX WEST UHD
-http://4ever.biz:80/20192/20192/23863
-
-#EXTINF:-1,USA: Freeform
-http://4ever.biz:80/20192/20192/23829
-
-#EXTINF:-1,USA: Freeform (East)
-http://4ever.biz:80/20192/20192/23828
-
-#EXTINF:-1,USA: FREEFORM UHD
-http://4ever.biz:80/20192/20192/23830
-
-#EXTINF:-1,USA: FX us
-http://4ever.biz:80/20192/20192/23821
-
-#EXTINF:-1,USA: FX (East)
-http://4ever.biz:80/20192/20192/23824
-
-#EXTINF:-1,USA: FX (West)
-http://4ever.biz:80/20192/20192/23823
-
-#EXTINF:-1,USA: FX East UHD
-http://4ever.biz:80/20192/20192/23827
-
-#EXTINF:-1,USA: FXM
-http://4ever.biz:80/20192/20192/23822
-
-#EXTINF:-1,USA: FXM UHD
-http://4ever.biz:80/20192/20192/23826
-
-#EXTINF:-1,USA: FXX   UHD
-http://4ever.biz:80/20192/20192/23825
-
-#EXTINF:-1,USA: FXX (West)
-http://4ever.biz:80/20192/20192/23820
-
-#EXTINF:-1,USA: FYI UHD
-http://4ever.biz:80/20192/20192/23819
-
-#EXTINF:-1,USA: GET TV
-http://4ever.biz:80/20192/20192/23818
-
-#EXTINF:-1,USA: Grit
-http://4ever.biz:80/20192/20192/23817
-
-#EXTINF:-1,USA: GSN UHD
-http://4ever.biz:80/20192/20192/23816
-
-#EXTINF:-1,USA: Hallmark
-http://4ever.biz:80/20192/20192/23812
-
-#EXTINF:-1,USA: HALLMARK CHANNEL FHD
-http://4ever.biz:80/20192/20192/23815
-
-#EXTINF:-1,USA: HALLMARK CHANNEL UHD
-http://4ever.biz:80/20192/20192/23814
-
-#EXTINF:-1,USA: HALLMARK MOVIE CHANNEL UHD
-http://4ever.biz:80/20192/20192/23813
-
-#EXTINF:-1,USA: HBO 2 EAST UHD
-http://4ever.biz:80/20192/20192/23811
-
-#EXTINF:-1,USA: HBO Comedy
-http://4ever.biz:80/20192/20192/23806
-
-#EXTINF:-1,USA: HBO COMEDY UHD
-http://4ever.biz:80/20192/20192/23810
-
-#EXTINF:-1,USA: HBO East
-http://4ever.biz:80/20192/20192/23802
-
-#EXTINF:-1,USA: HBO East UHD
-http://4ever.biz:80/20192/20192/23809
-
-#EXTINF:-1,USA: HBO Family
-http://4ever.biz:80/20192/20192/23805
-
-#EXTINF:-1,USA: HBO FAMILY UHD
-http://4ever.biz:80/20192/20192/23808
-
-#EXTINF:-1,USA: HBO SIGNATURE
-http://4ever.biz:80/20192/20192/23804
-
-#EXTINF:-1,USA: HBO SIGNATURE UHD
-http://4ever.biz:80/20192/20192/23801
-
-#EXTINF:-1,USA: HBO Zone
-http://4ever.biz:80/20192/20192/23803
-
-#EXTINF:-1,USA: HBO ZONE UHD
-http://4ever.biz:80/20192/20192/23807
-
-#EXTINF:-1,USA: HGTV us
-http://4ever.biz:80/20192/20192/23800
-
-#EXTINF:-1,USA: HIFI
-http://4ever.biz:80/20192/20192/23799
-
-#EXTINF:-1,USA: History Channel
-http://4ever.biz:80/20192/20192/23798
-
-#EXTINF:-1,USA: HLN
-http://4ever.biz:80/20192/20192/23797
-
-#EXTINF:-1,USA: IFC
-http://4ever.biz:80/20192/20192/23795
-
-#EXTINF:-1,USA: IFC UHD
-http://4ever.biz:80/20192/20192/23794
-
-#EXTINF:-1,USA: Investigation Discovery
-http://4ever.biz:80/20192/20192/23793
-
-#EXTINF:-1,USA: INVESTIGATION DISCOVERY UHD
-http://4ever.biz:80/20192/20192/23796
-
-#EXTINF:-1,USA: JBTV Music
-http://4ever.biz:80/20192/20192/23791
-
-#EXTINF:-1,USA: Lifetime
-http://4ever.biz:80/20192/20192/23787
-
-#EXTINF:-1,USA: LIFETIME MOVIE NETWORK UHD
-http://4ever.biz:80/20192/20192/23789
-
-#EXTINF:-1,USA: LIFETIME UHD
-http://4ever.biz:80/20192/20192/23788
-
-#EXTINF:-1,USA: LMN
-http://4ever.biz:80/20192/20192/23786
-
-#EXTINF:-1,USA: Longhorn
-http://4ever.biz:80/20192/20192/23785
-
-#EXTINF:-1,USA: MAV TV
-http://4ever.biz:80/20192/20192/23784
-
-#EXTINF:-1,USA: ME TV UHD
-http://4ever.biz:80/20192/20192/23782
-
-#EXTINF:-1,USA: MLB Extra Innings 720
-http://4ever.biz:80/20192/20192/23566
-
-#EXTINF:-1,USA: MLB Extra Innings 721
-http://4ever.biz:80/20192/20192/23565
-
-#EXTINF:-1,USA: MLB Extra Innings 722
-http://4ever.biz:80/20192/20192/23564
-
-#EXTINF:-1,USA: MLB Extra Innings 723
-http://4ever.biz:80/20192/20192/23563
-
-#EXTINF:-1,USA: MLB Extra Innings 724 -
-http://4ever.biz:80/20192/20192/23562
-
-#EXTINF:-1,USA: MLB Extra Innings 725
-http://4ever.biz:80/20192/20192/23561
-
-#EXTINF:-1,USA: MLB Extra Innings 726
-http://4ever.biz:80/20192/20192/23560
-
-#EXTINF:-1,USA: MLB Extra Innings 727
-http://4ever.biz:80/20192/20192/23559
-
-#EXTINF:-1,USA: MLB Extra Innings 728
-http://4ever.biz:80/20192/20192/23558
-
-#EXTINF:-1,USA: MLB Extra Innings 729
-http://4ever.biz:80/20192/20192/23557
-
-#EXTINF:-1,USA: MLB Extra Innings 730
-http://4ever.biz:80/20192/20192/23556
-
-#EXTINF:-1,USA: MLB Extra Innings 731
-http://4ever.biz:80/20192/20192/23555
-
-#EXTINF:-1,USA: MLB Extra Innings 732
-http://4ever.biz:80/20192/20192/23554
-
-#EXTINF:-1,USA: MLB Extra Innings 733
-http://4ever.biz:80/20192/20192/23553
-
-#EXTINF:-1,USA: MLB Extra Innings 734
-http://4ever.biz:80/20192/20192/23552
-
-#EXTINF:-1,USA: MLB Extra Innings 735
-http://4ever.biz:80/20192/20192/23551
-
-#EXTINF:-1,USA: MLB Extra Innings 736
-http://4ever.biz:80/20192/20192/23550
-
-#EXTINF:-1,USA: MLB Extra Innings 737
-http://4ever.biz:80/20192/20192/23549
-
-#EXTINF:-1,USA: MLB Extra Innings 738
-http://4ever.biz:80/20192/20192/23548
-
-#EXTINF:-1,USA: MLB Extra Innings 739
-http://4ever.biz:80/20192/20192/23547
-
-#EXTINF:-1,USA: MLB Extra Innings 740
-http://4ever.biz:80/20192/20192/23546
-
-#EXTINF:-1,USA: MLB Extra Innings 741
-http://4ever.biz:80/20192/20192/23545
-
-#EXTINF:-1,USA: MLB Extra Innings 742
-http://4ever.biz:80/20192/20192/23544
-
-#EXTINF:-1,USA: MLB Extra Innings 743
-http://4ever.biz:80/20192/20192/23543
-
-#EXTINF:-1,USA: MLB Extra Innings 744
-http://4ever.biz:80/20192/20192/23542
-
-#EXTINF:-1,USA: MLB Extra Innings 745
-http://4ever.biz:80/20192/20192/23541
-
-#EXTINF:-1,USA: MLB Extra Innings 746
-http://4ever.biz:80/20192/20192/23540
-
-#EXTINF:-1,USA: MLB Extra Innings 747
-http://4ever.biz:80/20192/20192/23539
-
-#EXTINF:-1,USA: MLB Extra Innings 748
-http://4ever.biz:80/20192/20192/23538
-
-#EXTINF:-1,USA: MLB Extra Innings 749
-http://4ever.biz:80/20192/20192/23537
-
-#EXTINF:-1,USA: MLB Network
-http://4ever.biz:80/20192/20192/23567
-
-#EXTINF:-1,USA: More Max
-http://4ever.biz:80/20192/20192/23780
-
-#EXTINF:-1,USA: MORE MAX UHD
-http://4ever.biz:80/20192/20192/23781
-
-#EXTINF:-1,USA: MSNBC HD
-http://4ever.biz:80/20192/20192/23779
-
-#EXTINF:-1,USA: MTV  EAST UHD
-http://4ever.biz:80/20192/20192/23768
-
-#EXTINF:-1,USA: MTV (East)
-http://4ever.biz:80/20192/20192/23769
-
-#EXTINF:-1,USA: MTV 2
-http://4ever.biz:80/20192/20192/23777
-
-#EXTINF:-1,USA: MTV LIVE
-http://4ever.biz:80/20192/20192/23776
-
-#EXTINF:-1,USA: MTV UHD
-http://4ever.biz:80/20192/20192/23778
-
-#EXTINF:-1,USA: NASA TV
-http://4ever.biz:80/20192/20192/23765
-
-#EXTINF:-1,USA: Nat Geo
-http://4ever.biz:80/20192/20192/23767
-
-#EXTINF:-1,USA: Nat Geo Wild 2
-http://4ever.biz:80/20192/20192/23766
-
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 1 ʜᴅ
-http://4ever.biz:80/20192/20192/23750
-
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 10 ʜᴅ
-http://4ever.biz:80/20192/20192/23741
-
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 14 ʜᴅ
-http://4ever.biz:80/20192/20192/23739
-
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 15 ʜᴅ
-http://4ever.biz:80/20192/20192/23740
-
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 2 ʜᴅ
-http://4ever.biz:80/20192/20192/23749
-
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 3 ʜᴅ
-http://4ever.biz:80/20192/20192/23748
-
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 4 ʜᴅ
-http://4ever.biz:80/20192/20192/23747
-
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 5 ʜᴅ
-http://4ever.biz:80/20192/20192/23746
-
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 6 ʜᴅ
-http://4ever.biz:80/20192/20192/23745
-
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 7 ʜᴅ
-http://4ever.biz:80/20192/20192/23744
-
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 8 ʜᴅ
-http://4ever.biz:80/20192/20192/23743
-
-#EXTINF:-1,USA: NBA LEAGUE PASS LIVE 9 ʜᴅ
-http://4ever.biz:80/20192/20192/23742
-
-#EXTINF:-1,USA: NBA TV
-http://4ever.biz:80/20192/20192/23738
-
-#EXTINF:-1,USA: NBA Tv US ʜᴅ
-http://4ever.biz:80/20192/20192/23736
-
-#EXTINF:-1,USA: NBC (East)
-http://4ever.biz:80/20192/20192/23735
-
-#EXTINF:-1,USA: NBC EAST UHD
-http://4ever.biz:80/20192/20192/23762
-
-#EXTINF:-1,USA: NBC Golf us
-http://4ever.biz:80/20192/20192/23737
-
-#EXTINF:-1,USA: NBC Sports
-http://4ever.biz:80/20192/20192/23728
-
-#EXTINF:-1,USA: NBC Upstate NY UHD
-http://4ever.biz:80/20192/20192/23764
-
-#EXTINF:-1,USA: NBC WEST UHD
-http://4ever.biz:80/20192/20192/23763
-
-#EXTINF:-1,USA: NBCSN EPL Live Match 1 ʜᴅ
-http://4ever.biz:80/20192/20192/23761
-
-#EXTINF:-1,USA: NBCSN EPL Live Match 10 ʜᴅ
-http://4ever.biz:80/20192/20192/23752
-
-#EXTINF:-1,USA: NBCSN EPL Live Match 11 ʜᴅ
-http://4ever.biz:80/20192/20192/23751
-
-#EXTINF:-1,USA: NBCSN EPL Live Match 2 ʜᴅ
-http://4ever.biz:80/20192/20192/23760
-
-#EXTINF:-1,USA: NBCSN EPL Live Match 3 ʜᴅ
-http://4ever.biz:80/20192/20192/23759
-
-#EXTINF:-1,USA: NBCSN EPL Live Match 4 ʜᴅ
-http://4ever.biz:80/20192/20192/23758
-
-#EXTINF:-1,USA: NBCSN EPL Live Match 5 ʜᴅ
-http://4ever.biz:80/20192/20192/23757
-
-#EXTINF:-1,USA: NBCSN EPL Live Match 6 ʜᴅ
-http://4ever.biz:80/20192/20192/23756
-
-#EXTINF:-1,USA: NBCSN EPL Live Match 7 ʜᴅ
-http://4ever.biz:80/20192/20192/23755
-
-#EXTINF:-1,USA: NBCSN EPL Live Match 8 ʜᴅ
-http://4ever.biz:80/20192/20192/23754
-
-#EXTINF:-1,USA: NBCSN EPL Live Match 9 ʜᴅ
-http://4ever.biz:80/20192/20192/23753
-
-#EXTINF:-1,USA: NBCSN
-http://4ever.biz:80/20192/20192/23727
-
-#EXTINF:-1,USA: NEWS 12 THE BRONX UHD
-http://4ever.biz:80/20192/20192/23726
-
-#EXTINF:-1,USA: NFL NETWORK us
-http://4ever.biz:80/20192/20192/23725
-
-#EXTINF:-1,USA: NFL NOW
-http://4ever.biz:80/20192/20192/23724
-
-#EXTINF:-1,USA: NFL Red Zone
-http://4ever.biz:80/20192/20192/23723
-
-#EXTINF:-1,USA: NFL SUNDAY TICKET 705
-http://4ever.biz:80/20192/20192/23710
-
-#EXTINF:-1,USA: NFL SUNDAY TICKET 706
-http://4ever.biz:80/20192/20192/23718
-
-#EXTINF:-1,USA: NFL SUNDAY TICKET 707
-http://4ever.biz:80/20192/20192/23717
-
-#EXTINF:-1,USA: NFL SUNDAY TICKET 708
-http://4ever.biz:80/20192/20192/23716
-
-#EXTINF:-1,USA: NFL SUNDAY TICKET 709
-http://4ever.biz:80/20192/20192/23715
-
-#EXTINF:-1,USA: NFL SUNDAY TICKET 710
-http://4ever.biz:80/20192/20192/23714
-
-#EXTINF:-1,USA: NFL SUNDAY TICKET 711
-http://4ever.biz:80/20192/20192/23713
-
-#EXTINF:-1,USA: NFL SUNDAY TICKET 712
-http://4ever.biz:80/20192/20192/23712
-
-#EXTINF:-1,USA: NFL SUNDAY TICKET 713
-http://4ever.biz:80/20192/20192/23711
-
-#EXTINF:-1,USA: NFL SUNDAY TICKET 714
-http://4ever.biz:80/20192/20192/23722
-
-#EXTINF:-1,USA: NFL SUNDAY TICKET 715
-http://4ever.biz:80/20192/20192/23721
-
-#EXTINF:-1,USA: NFL SUNDAY TICKET 716
-http://4ever.biz:80/20192/20192/23720
-
-#EXTINF:-1,USA: NFL SUNDAY TICKET 717
-http://4ever.biz:80/20192/20192/23719
-
-#EXTINF:-1,USA: NHL  771
-http://4ever.biz:80/20192/20192/23707
-
-#EXTINF:-1,USA: NHL  772
-http://4ever.biz:80/20192/20192/23706
-
-#EXTINF:-1,USA: NHL  773
-http://4ever.biz:80/20192/20192/23705
-
-#EXTINF:-1,USA: NHL  774
-http://4ever.biz:80/20192/20192/23704
-
-#EXTINF:-1,USA: NHL  775
-http://4ever.biz:80/20192/20192/23703
-
-#EXTINF:-1,USA: NHL  776
-http://4ever.biz:80/20192/20192/23702
-
-#EXTINF:-1,USA: NHL  777
-http://4ever.biz:80/20192/20192/23701
-
-#EXTINF:-1,USA: NHL  778
-http://4ever.biz:80/20192/20192/23700
-
-#EXTINF:-1,USA: NHL 770
-http://4ever.biz:80/20192/20192/23699
-
-#EXTINF:-1,USA: NHL 779
-http://4ever.biz:80/20192/20192/23698
-
-#EXTINF:-1,USA: NHL 780
-http://4ever.biz:80/20192/20192/23697
-
-#EXTINF:-1,USA: NHL 781
-http://4ever.biz:80/20192/20192/23696
-
-#EXTINF:-1,USA: NHL 782
-http://4ever.biz:80/20192/20192/23695
-
-#EXTINF:-1,USA: NHL NETWORK
-http://4ever.biz:80/20192/20192/23708
-
-#EXTINF:-1,USA: NHL Network HD us
-http://4ever.biz:80/20192/20192/23709
-
-#EXTINF:-1,USA: NICK JR UHD
-http://4ever.biz:80/20192/20192/23694
-
-#EXTINF:-1,USA: Nick Jr.
-http://4ever.biz:80/20192/20192/23692
-
-#EXTINF:-1,USA: NICKELODEON 2
-http://4ever.biz:80/20192/20192/23691
-
-#EXTINF:-1,USA: NICKELODEON UHD
-http://4ever.biz:80/20192/20192/23693
-
-#EXTINF:-1,USA: OUTDOOR CHANNEL UHD
-http://4ever.biz:80/20192/20192/23689
-
-#EXTINF:-1,USA: OWN
-http://4ever.biz:80/20192/20192/23687
-
-#EXTINF:-1,USA: OWN  UHD
-http://4ever.biz:80/20192/20192/23688
-
-#EXTINF:-1,USA: Oxygen
-http://4ever.biz:80/20192/20192/23685
-
-#EXTINF:-1,USA: OXYGEN TV UHD
-http://4ever.biz:80/20192/20192/23686
-
-#EXTINF:-1,USA: PAC-12 Arizona
-http://4ever.biz:80/20192/20192/23684
-
-#EXTINF:-1,USA: PAC-12 Bay Area
-http://4ever.biz:80/20192/20192/23683
-
-#EXTINF:-1,USA: PAC-12 Bay Area 2
-http://4ever.biz:80/20192/20192/23679
-
-#EXTINF:-1,USA: PAC-12 Los Angeles
-http://4ever.biz:80/20192/20192/23682
-
-#EXTINF:-1,USA: PAC-12 Oregon
-http://4ever.biz:80/20192/20192/23681
-
-#EXTINF:-1,USA: PAC-12 Oregon 2
-http://4ever.biz:80/20192/20192/23678
-
-#EXTINF:-1,USA: PAC-12 Washington
-http://4ever.biz:80/20192/20192/23680
-
-#EXTINF:-1,USA: PAC-12 Washington 2
-http://4ever.biz:80/20192/20192/23677
-
-#EXTINF:-1,USA: PARAMOUNT NETWORK UHD
-http://4ever.biz:80/20192/20192/23676
-
-#EXTINF:-1,USA: POP UHD
-http://4ever.biz:80/20192/20192/23675
-
-#EXTINF:-1,USA: PRESS TV
-http://4ever.biz:80/20192/20192/23674
-
-#EXTINF:-1,USA: Pursuit
-http://4ever.biz:80/20192/20192/23673
-
-#EXTINF:-1,USA: QVC PLUS UHD
-http://4ever.biz:80/20192/20192/23671
-
-#EXTINF:-1,USA: QVC UHD
-http://4ever.biz:80/20192/20192/23670
-
-#EXTINF:-1,USA: Red Bull TV
-http://4ever.biz:80/20192/20192/23667
-
-#EXTINF:-1,USA: Red Bull TV HD UHD
-http://4ever.biz:80/20192/20192/23669
-
-#EXTINF:-1,USA: Reelz Channel
-http://4ever.biz:80/20192/20192/23665
-
-#EXTINF:-1,USA: QVC 2 UHD
-http://4ever.biz:80/20192/20192/23672
-
-#EXTINF:-1,USA: Reelz Channel UHD
-http://4ever.biz:80/20192/20192/23666
-
-#EXTINF:-1,USA: REVOLT UHD
-http://4ever.biz:80/20192/20192/23668
-
-#EXTINF:-1,USA: RT America
-http://4ever.biz:80/20192/20192/23664
-
-#EXTINF:-1,USA: Science Channel
-http://4ever.biz:80/20192/20192/23663
-
-#EXTINF:-1,USA: SEC Network
-http://4ever.biz:80/20192/20192/23662
-
-#EXTINF:-1,USA: Showcase Fhd
-http://4ever.biz:80/20192/20192/23655
-
-#EXTINF:-1,USA: Showtime
-http://4ever.biz:80/20192/20192/23656
-
-#EXTINF:-1,USA: Showtime 1
-http://4ever.biz:80/20192/20192/23653
-
-#EXTINF:-1,USA: Showtime 2
-http://4ever.biz:80/20192/20192/23654
-
-#EXTINF:-1,USA: SHOWTIME 2 UHD
-http://4ever.biz:80/20192/20192/23661
-
-#EXTINF:-1,USA: SHOWTIME EAST (back up) UHD
-http://4ever.biz:80/20192/20192/23660
-
-#EXTINF:-1,USA: SHOWTIME FAMILY ZONE UHD
-http://4ever.biz:80/20192/20192/23659
-
-#EXTINF:-1,USA: SHOWTIME SHOWCASE UHD
-http://4ever.biz:80/20192/20192/23658
-
-#EXTINF:-1,USA: SHOWTIME UHD
-http://4ever.biz:80/20192/20192/23657
-
-#EXTINF:-1,USA: SMITHSONIAN CHANNEL UHD
-http://4ever.biz:80/20192/20192/23652
-
-#EXTINF:-1,USA: ˢᵖ Astro Sports 4
-http://4ever.biz:80/20192/20192/23579
-
-#EXTINF:-1,USA: ˢᵖ Astro SuperSports 2
-http://4ever.biz:80/20192/20192/23581
-
-#EXTINF:-1,USA: ˢᵖ Astro SuperSports 3
-http://4ever.biz:80/20192/20192/23580
-
-#EXTINF:-1,USA: ˢᵖ SKYNET SPORTS 1
-http://4ever.biz:80/20192/20192/23535
-
-#EXTINF:-1,USA: ˢᵖ SKYNET SPORTS 2
-http://4ever.biz:80/20192/20192/23534
-
-#EXTINF:-1,USA: ˢᵖ SKYNET SPORTS 4
-http://4ever.biz:80/20192/20192/23532
-
-#EXTINF:-1,USA: ˢᵖ SKYNET SPORTS 5
-http://4ever.biz:80/20192/20192/23531
-
-#EXTINF:-1,USA: ˢᵖ SKYNET SPORTS 6
-http://4ever.biz:80/20192/20192/23530
-
-#EXTINF:-1,USA: ˢᵖ SKYNET SPORTS ʜᴅ
-http://4ever.biz:80/20192/20192/23536
-
-#EXTINF:-1,USA: SPIKE (East)
-http://4ever.biz:80/20192/20192/23644
-
-#EXTINF:-1,USA: Sportsnet 360 HD
-http://4ever.biz:80/20192/20192/23578
-
-#EXTINF:-1,USA: Sportsnet 360 HD.
-http://4ever.biz:80/20192/20192/23577
-
-#EXTINF:-1,USA: Sportsnet East HD
-http://4ever.biz:80/20192/20192/23576
-
-#EXTINF:-1,USA: Sportsnet One HD
-http://4ever.biz:80/20192/20192/23574
-
-#EXTINF:-1,USA: Sportsnet One HD.
-http://4ever.biz:80/20192/20192/23573
-
-#EXTINF:-1,USA: Sportsnet Ontario HD
-http://4ever.biz:80/20192/20192/23572
-
-#EXTINF:-1,USA: Sportsnet Ontario HD.
-http://4ever.biz:80/20192/20192/23571
-
-#EXTINF:-1,USA: Sportsnet Pacific HD.
-http://4ever.biz:80/20192/20192/23570
-
-#EXTINF:-1,USA: Sportsnet West HD.
-http://4ever.biz:80/20192/20192/23575
-
-#EXTINF:-1,USA: Sportsnet World HD
-http://4ever.biz:80/20192/20192/23569
-
-#EXTINF:-1,USA: Sportsnet World HD.
-http://4ever.biz:80/20192/20192/23568
-
-#EXTINF:-1,USA: ˢᵖSKYNET SPORTS 3
-http://4ever.biz:80/20192/20192/23533
-
-#EXTINF:-1,USA: Starz Cinema
-http://4ever.biz:80/20192/20192/23646
-
-#EXTINF:-1,USA: STARZ CINEMA UHD
-http://4ever.biz:80/20192/20192/23651
-
-#EXTINF:-1,USA: Starz Comedy
-http://4ever.biz:80/20192/20192/23645
-
-#EXTINF:-1,USA: STARZ COMEDY UHD
-http://4ever.biz:80/20192/20192/23650
-
-#EXTINF:-1,USA: Starz East
-http://4ever.biz:80/20192/20192/23640
-
-#EXTINF:-1,USA: Starz Edge
-http://4ever.biz:80/20192/20192/23639
-
-#EXTINF:-1,USA: STARZ EDGE UHD
-http://4ever.biz:80/20192/20192/23649
-
-#EXTINF:-1,USA: Starz Encore
-http://4ever.biz:80/20192/20192/23641
-
-#EXTINF:-1,USA: STARZ ENCORE UHD
-http://4ever.biz:80/20192/20192/23647
-
-#EXTINF:-1,USA: STARZ KIDS & FAMILY UHD
-http://4ever.biz:80/20192/20192/23648
-
-#EXTINF:-1,USA: Starz West
-http://4ever.biz:80/20192/20192/23638
-
-#EXTINF:-1,USA: SUN DANCE TV
-http://4ever.biz:80/20192/20192/23642
-
-#EXTINF:-1,USA: SUN DANCE TV UHD
-http://4ever.biz:80/20192/20192/23643
-
-#EXTINF:-1,USA: SYFY
-http://4ever.biz:80/20192/20192/23636
-
-#EXTINF:-1,USA: SYFY UHD
-http://4ever.biz:80/20192/20192/23637
-
-#EXTINF:-1,USA: TBN
-http://4ever.biz:80/20192/20192/23633
-
-#EXTINF:-1,USA: TBS us
-http://4ever.biz:80/20192/20192/23634
-
-#EXTINF:-1,USA: TBS UHD
-http://4ever.biz:80/20192/20192/23635
-
-#EXTINF:-1,USA: TCM UHD
-http://4ever.biz:80/20192/20192/23632
-
-#EXTINF:-1,USA: Tennis Channel
-http://4ever.biz:80/20192/20192/23631
-
-#EXTINF:-1,USA: Tennis Channel 2
-http://4ever.biz:80/20192/20192/23630
-
-#EXTINF:-1,USA: The Blaze
-http://4ever.biz:80/20192/20192/23627
-
-#EXTINF:-1,USA: THE STRIP  UHD
-http://4ever.biz:80/20192/20192/23629
-
-#EXTINF:-1,USA: THRILLER MAX UHD
-http://4ever.biz:80/20192/20192/23628
-
-#EXTINF:-1,USA: TLC 2
-http://4ever.biz:80/20192/20192/23625
-
-#EXTINF:-1,USA: TLC UHD
-http://4ever.biz:80/20192/20192/23626
-
-#EXTINF:-1,USA: TNT 1
-http://4ever.biz:80/20192/20192/23624
-
-#EXTINF:-1,USA: TNT 2
-http://4ever.biz:80/20192/20192/23622
-
-#EXTINF:-1,USA: TNT UHD
-http://4ever.biz:80/20192/20192/23623
-
-#EXTINF:-1,USA: Travel Channel
-http://4ever.biz:80/20192/20192/23620
-
-#EXTINF:-1,USA: TRAVEL CHANNEL UHD
-http://4ever.biz:80/20192/20192/23621
-
-#EXTINF:-1,USA: TRT World
-http://4ever.biz:80/20192/20192/23619
-
-#EXTINF:-1,USA: Tru TV
-http://4ever.biz:80/20192/20192/23617
-
-#EXTINF:-1,USA: TRU TV UHD
-http://4ever.biz:80/20192/20192/23618
-
-#EXTINF:-1,USA: TSN Sport 1 HD
-http://4ever.biz:80/20192/20192/23591
-
-#EXTINF:-1,USA: TSN Sport 1 HD.
-http://4ever.biz:80/20192/20192/23590
-
-#EXTINF:-1,USA: TSN Sport 2 HD
-http://4ever.biz:80/20192/20192/23589
-
-#EXTINF:-1,USA: TSN Sport 2 HD.
-http://4ever.biz:80/20192/20192/23588
-
-#EXTINF:-1,USA: TSN Sport 3 HD
-http://4ever.biz:80/20192/20192/23587
-
-#EXTINF:-1,USA: TSN Sport 3 HD.
-http://4ever.biz:80/20192/20192/23586
-
-#EXTINF:-1,USA: TSN Sport 4 HD
-http://4ever.biz:80/20192/20192/23585
-
-#EXTINF:-1,USA: TSN Sport 4 HD.
-http://4ever.biz:80/20192/20192/23584
-
-#EXTINF:-1,USA: TSN Sport 5 HD
-http://4ever.biz:80/20192/20192/23582
-
-#EXTINF:-1,USA: TSN Sport 5 HD.
-http://4ever.biz:80/20192/20192/23583
-
-#EXTINF:-1,USA: TV Land
-http://4ever.biz:80/20192/20192/23615
-
-#EXTINF:-1,USA: TV Land (East)
-http://4ever.biz:80/20192/20192/23614
-
-#EXTINF:-1,USA: TV Land (West)
-http://4ever.biz:80/20192/20192/23613
-
-#EXTINF:-1,USA: TV LAND UHD
-http://4ever.biz:80/20192/20192/23612
-
-#EXTINF:-1,USA: TV ONE UHD
-http://4ever.biz:80/20192/20192/23616
-
-#EXTINF:-1,USA: UFC FIGHT NETWORK
-http://4ever.biz:80/20192/20192/23611
-
-#EXTINF:-1,USA: UFC Fight Pass 2
-http://4ever.biz:80/20192/20192/23610
-
-#EXTINF:-1,USA: UNIVISION UHD
-http://4ever.biz:80/20192/20192/23609
-
-#EXTINF:-1,USA: USA NETWORK
-http://4ever.biz:80/20192/20192/23607
-
-#EXTINF:-1,USA: USA NETWORK UHD
-http://4ever.biz:80/20192/20192/23608
-
-#EXTINF:-1,USA: Velocity
-http://4ever.biz:80/20192/20192/23605
-
-#EXTINF:-1,USA: VELOCITY UHD
-http://4ever.biz:80/20192/20192/23606
-
-#EXTINF:-1,USA: VH1
-http://4ever.biz:80/20192/20192/23602
-
-#EXTINF:-1,USA: VH1 EAST  UHD
-http://4ever.biz:80/20192/20192/23604
-
-#EXTINF:-1,USA: VH1 UHD
-http://4ever.biz:80/20192/20192/23603
-
-#EXTINF:-1,USA: Viceland
-http://4ever.biz:80/20192/20192/23600
-
-#EXTINF:-1,USA: VICELAND UHD
-http://4ever.biz:80/20192/20192/23599
-
-#EXTINF:-1,USA: VIRGIN TV (MUSIC) UHD
-http://4ever.biz:80/20192/20192/23601
-
-#EXTINF:-1,USA: WE TV UHD
-http://4ever.biz:80/20192/20192/23598
-
-#EXTINF:-1,USA: WGN America
-http://4ever.biz:80/20192/20192/23596
-
-#EXTINF:-1,USA: WGN AMERICA UHD
-http://4ever.biz:80/20192/20192/23597
-
-#EXTINF:-1,USA: WWE NETWORK
-http://4ever.biz:80/20192/20192/23595
-
-#EXTINF:-1,USA: Yes Network
-http://4ever.biz:80/20192/20192/23593
-
-#EXTINF:-1,USA: A&E
-http://4ever.biz:80/20192/20192/7659
-
-#EXTINF:-1,USA: A&E HD
-http://4ever.biz:80/20192/20192/9362
-
-#EXTINF:-1,USA: ABC NEWS HD
-http://4ever.biz:80/20192/20192/9364
-
-#EXTINF:-1,USA: ABC EAST
-http://4ever.biz:80/20192/20192/7619
-
-#EXTINF:-1,USA: Abc News
-http://4ever.biz:80/20192/20192/7645
-
-#EXTINF:-1,USA: Al Jazeera
-http://4ever.biz:80/20192/20192/7622
-
-#EXTINF:-1,USA: AMC
-http://4ever.biz:80/20192/20192/7655
-
-#EXTINF:-1,USA: AMC HD
-http://4ever.biz:80/20192/20192/9360
-
-#EXTINF:-1,USA: Animal Planet
-http://4ever.biz:80/20192/20192/7626
-
-#EXTINF:-1,USA: BEIN_SPORT
-http://4ever.biz:80/20192/20192/7644
-
-#EXTINF:-1,USA: BLOOMBERG
-http://4ever.biz:80/20192/20192/7617
-
-#EXTINF:-1,USA: CNBC
-http://4ever.biz:80/20192/20192/7636
-
-#EXTINF:-1,USA: CNBC HD
-http://4ever.biz:80/20192/20192/9358
-
-#EXTINF:-1,USA: CNN HD
-http://4ever.biz:80/20192/20192/9357
-
-#EXTINF:-1,USA: Comedy Central
-http://4ever.biz:80/20192/20192/9355
-
-#EXTINF:-1,USA: ComedyCentral
-http://4ever.biz:80/20192/20192/7627
-
-#EXTINF:-1,USA: Cooking Ch
-http://4ever.biz:80/20192/20192/9356
-
-#EXTINF:-1,USA: DISCOVERY
-http://4ever.biz:80/20192/20192/7630
-
-#EXTINF:-1,USA: DISCOVERY Science
-http://4ever.biz:80/20192/20192/7620
-
-#EXTINF:-1,USA: ESPN
-http://4ever.biz:80/20192/20192/7648
-
-#EXTINF:-1,USA: FOOD NETWORK HD
-http://4ever.biz:80/20192/20192/9352
-
-#EXTINF:-1,USA: Fox Sports 2
-http://4ever.biz:80/20192/20192/7641
-
-#EXTINF:-1,USA: FX
-http://4ever.biz:80/20192/20192/7661
-
-#EXTINF:-1,USA: HBO COMEDY HD
-http://4ever.biz:80/20192/20192/9349
-
-#EXTINF:-1,USA: HBO FAMILY HD
-http://4ever.biz:80/20192/20192/9351
-
-#EXTINF:-1,USA: HBO SIGNATURE HD
-http://4ever.biz:80/20192/20192/9350
-
-#EXTINF:-1,USA: HGTV
-http://4ever.biz:80/20192/20192/7649
-
-#EXTINF:-1,USA: ID
-http://4ever.biz:80/20192/20192/7662
-
-#EXTINF:-1,USA: LIFETIME HD
-http://4ever.biz:80/20192/20192/9363
-
-#EXTINF:-1,USA: National Geographie
-http://4ever.biz:80/20192/20192/7623
-
-#EXTINF:-1,USA: NBC Golf
-http://4ever.biz:80/20192/20192/7629
-
-#EXTINF:-1,USA: NFL Network
-http://4ever.biz:80/20192/20192/7643
-
-#EXTINF:-1,USA: TBS
-http://4ever.biz:80/20192/20192/7658
-
-#EXTINF:-1,USA: TNT
-http://4ever.biz:80/20192/20192/7660
-
-#EXTINF:-1,USA: CNN
-http://4ever.biz:80/20192/20192/9338
-
-#EXTINF:-1,USA: TELEMUNDO
-http://4ever.biz:80/20192/20192/21313
-
-#EXTINF:-1,USA: UNIVISION HD
-http://4ever.biz:80/20192/20192/9342
-
-#EXTINF:-1,USA: FX HD
-http://4ever.biz:80/20192/20192/9991
-
-#EXTINF:-1,USA: FXM HD
-http://4ever.biz:80/20192/20192/9989
-
-#EXTINF:-1,USA: FXX HD
-http://4ever.biz:80/20192/20192/9990
-
-#EXTINF:-1,USA: BIG TEN NETWORK HD
-http://4ever.biz:80/20192/20192/20763
-
-#EXTINF:-1,USA: NHL NETWORK HD
-http://4ever.biz:80/20192/20192/20756
-
-#EXTINF:-1,USA: Showtime West 24/7 HD
-http://4ever.biz:80/20192/20192/20771
-
-#EXTINF:-1,USA: Starz Comedy 24/7 HD
-http://4ever.biz:80/20192/20192/20768
-
-#EXTINF:-1,USA: Starz Edge 24/7 HD
-http://4ever.biz:80/20192/20192/20767
-
-#EXTINF:-1,USA: Starz Encore 24/7 HD
-http://4ever.biz:80/20192/20192/20766
-
-#EXTINF:-1,USA: STARZ ENCORE WESTERN
-http://4ever.biz:80/20192/20192/20752
-
-#EXTINF:-1,USA: Starz Kids & Family 24/7 HD
-http://4ever.biz:80/20192/20192/20764
-
-#EXTINF:-1,USA: DISNEY CHANNEL
-http://4ever.biz:80/20192/20192/20780
-
-#EXTINF:-1,USA: DISNEY JR
-http://4ever.biz:80/20192/20192/20779
-
-#EXTINF:-1,USA: MLB NETWORK HD
-http://4ever.biz:80/20192/20192/20783
-
-#EXTINF:-1,CAN: CP24
-http://4ever.biz:80/20192/20192/9347
-
-#EXTINF:-1,CAN: CRIME INVESTIGATION
-http://4ever.biz:80/20192/20192/9346
-
-#EXTINF:-1,CAN: FAMILY WEST
-http://4ever.biz:80/20192/20192/9341
-
-#EXTINF:-1,CAN: BRAVO
-http://4ever.biz:80/20192/20192/9348
-
-#EXTINF:-1,CAN: FOX WEST
-http://4ever.biz:80/20192/20192/9339
-
-#EXTINF:-1,CAN: HBO 1
-http://4ever.biz:80/20192/20192/9336
-
-#EXTINF:-1,CAN: HBO 2
-http://4ever.biz:80/20192/20192/9335
-
-#EXTINF:-1,CAN: NBC EAST
-http://4ever.biz:80/20192/20192/9324
-
-#EXTINF:-1,CAN: PBS-E
-http://4ever.biz:80/20192/20192/9334
-
-#EXTINF:-1,CAN: SHOWTIME
-http://4ever.biz:80/20192/20192/9332
-
-#EXTINF:-1,CAN: TLC
-http://4ever.biz:80/20192/20192/9331
-
-#EXTINF:-1,CAN: TRAVEL AND ESCAPE
-http://4ever.biz:80/20192/20192/9329
-
-#EXTINF:-1,CAN: YES
-http://4ever.biz:80/20192/20192/9326
-
-#EXTINF:-1,CAN: YTV-E
-http://4ever.biz:80/20192/20192/9325
-
-#EXTINF:-1,CAN: ABC EAST
-http://4ever.biz:80/20192/20192/9932
-
-#EXTINF:-1,CAN: ABC WEST
-http://4ever.biz:80/20192/20192/9988
-
-#EXTINF:-1,CAN: AMC
-http://4ever.biz:80/20192/20192/9987
-
-#EXTINF:-1,CAN: ANIMAL PLANET
-http://4ever.biz:80/20192/20192/9986
-
-#EXTINF:-1,CAN: BBC CANADA
-http://4ever.biz:80/20192/20192/9885
-
-#EXTINF:-1,CAN: BNN
-http://4ever.biz:80/20192/20192/9883
-
-#EXTINF:-1,CAN: CANAL SAVOIR
-http://4ever.biz:80/20192/20192/9985
-
-#EXTINF:-1,CAN: CARTOON NETWORK
-http://4ever.biz:80/20192/20192/9928
-
-#EXTINF:-1,CAN: CBC NEWS
-http://4ever.biz:80/20192/20192/9927
-
-#EXTINF:-1,CAN: CBC OTTAWA
-http://4ever.biz:80/20192/20192/9882
-
-#EXTINF:-1,CAN: CBC VANCOUVER
-http://4ever.biz:80/20192/20192/9881
-
-#EXTINF:-1,CAN: CBS EAST
-http://4ever.biz:80/20192/20192/9880
-
-#EXTINF:-1,CAN: CBS WEST
-http://4ever.biz:80/20192/20192/9879
-
-#EXTINF:-1,CAN: CITY TORONTO
-http://4ever.biz:80/20192/20192/9877
-
-#EXTINF:-1,CAN: CMT CANADA
-http://4ever.biz:80/20192/20192/9926
-
-#EXTINF:-1,CAN: CNBC
-http://4ever.biz:80/20192/20192/9876
-
-#EXTINF:-1,CAN: CNN INTERNATIONAL
-http://4ever.biz:80/20192/20192/9875
-
-#EXTINF:-1,CAN: COTTAGE LIFE
-http://4ever.biz:80/20192/20192/9924
-
-#EXTINF:-1,CAN: CW 11
-http://4ever.biz:80/20192/20192/9973
-
-#EXTINF:-1,CAN: DISCOVERY VELOCITY
-http://4ever.biz:80/20192/20192/9845
-
-#EXTINF:-1,CAN: INVESTIGATION DISCOVERY
-http://4ever.biz:80/20192/20192/9824
-
-#EXTINF:-1,CAN: DISNEY
-http://4ever.biz:80/20192/20192/9843
-
-#EXTINF:-1,CAN: DISNEY FRENCH
-http://4ever.biz:80/20192/20192/9971
-
-#EXTINF:-1,CAN: DIY
-http://4ever.biz:80/20192/20192/9874
-
-#EXTINF:-1,CAN: FAMILY EAST
-http://4ever.biz:80/20192/20192/9835
-
-#EXTINF:-1,CAN: FOOD NETWORK
-http://4ever.biz:80/20192/20192/9968
-
-#EXTINF:-1,CAN: FOX EAST
-http://4ever.biz:80/20192/20192/9868
-
-#EXTINF:-1,CAN: FOX NEWS
-http://4ever.biz:80/20192/20192/9967
-
-#EXTINF:-1,CAN: FX CANADA
-http://4ever.biz:80/20192/20192/9838
-
-#EXTINF:-1,CAN: GLOBAL VANCOUVER
-http://4ever.biz:80/20192/20192/9866
-
-#EXTINF:-1,CAN: HLN
-http://4ever.biz:80/20192/20192/9871
-
-#EXTINF:-1,CAN: LCN
-http://4ever.biz:80/20192/20192/9907
-
-#EXTINF:-1,CAN: MOI CIE
-http://4ever.biz:80/20192/20192/9960
-
-#EXTINF:-1,CAN: MTV
-http://4ever.biz:80/20192/20192/9958
-
-#EXTINF:-1,CAN: NAT GEO
-http://4ever.biz:80/20192/20192/9865
-
-#EXTINF:-1,CAN: NBA TV
-http://4ever.biz:80/20192/20192/9904
-
-#EXTINF:-1,CAN: NBC WEST
-http://4ever.biz:80/20192/20192/9956
-
-#EXTINF:-1,CAN: OMNI 1
-http://4ever.biz:80/20192/20192/9953
-
-#EXTINF:-1,CAN: OWN
-http://4ever.biz:80/20192/20192/9951
-
-#EXTINF:-1,CAN: RDI
-http://4ever.biz:80/20192/20192/9950
-
-#EXTINF:-1,CAN: RDS
-http://4ever.biz:80/20192/20192/9859
-
-#EXTINF:-1,CAN: SHOWCASE EAST
-http://4ever.biz:80/20192/20192/9821
-
-#EXTINF:-1,CAN: SMITHSONIAN
-http://4ever.biz:80/20192/20192/9810
-
-#EXTINF:-1,CAN: SPACE
-http://4ever.biz:80/20192/20192/9944
-
-#EXTINF:-1,CAN: SPIKE TV USA
-http://4ever.biz:80/20192/20192/9846
-
-#EXTINF:-1,CAN: SPORTSNET 360
-http://4ever.biz:80/20192/20192/9915
-
-#EXTINF:-1,CAN: SPORTSNET ONE
-http://4ever.biz:80/20192/20192/9914
-
-#EXTINF:-1,CAN: SPORTSNET ONTARIO
-http://4ever.biz:80/20192/20192/9913
-
-#EXTINF:-1,CAN: SPORTSNET PACIFIC
-http://4ever.biz:80/20192/20192/9943
-
-#EXTINF:-1,CAN: SPORTSNET WEST
-http://4ever.biz:80/20192/20192/9901
-
-#EXTINF:-1,CAN: SPORTSNET WORLD
-http://4ever.biz:80/20192/20192/9942
-
-#EXTINF:-1,CAN: SUPER CHANNEL 2
-http://4ever.biz:80/20192/20192/9940
-
-#EXTINF:-1,CAN: SUPER ECRAN 1
-http://4ever.biz:80/20192/20192/9949
-
-#EXTINF:-1,CAN: SUPER ECRAN 2
-http://4ever.biz:80/20192/20192/9948
-
-#EXTINF:-1,CAN: SUPER ECRAN 3
-http://4ever.biz:80/20192/20192/9947
-
-#EXTINF:-1,CAN: SUPER ECRAN 4
-http://4ever.biz:80/20192/20192/9946
-
-#EXTINF:-1,CAN: TCM
-http://4ever.biz:80/20192/20192/9939
-
-#EXTINF:-1,CAN: TELE QUEBEC
-http://4ever.biz:80/20192/20192/9899
-
-#EXTINF:-1,CAN: TELE TOON FRENCH
-http://4ever.biz:80/20192/20192/9898
-
-#EXTINF:-1,CAN: TMN 1
-http://4ever.biz:80/20192/20192/9854
-
-#EXTINF:-1,CAN: TMN 2
-http://4ever.biz:80/20192/20192/9853
-
-#EXTINF:-1,CAN: TMN 3
-http://4ever.biz:80/20192/20192/9839
-
-#EXTINF:-1,CAN: TMN 4
-http://4ever.biz:80/20192/20192/9852
-
-#EXTINF:-1,CAN: TSN 1
-http://4ever.biz:80/20192/20192/9920
-
-#EXTINF:-1,CAN: TSN 2
-http://4ever.biz:80/20192/20192/9919
-
-#EXTINF:-1,CAN: TSN 3
-http://4ever.biz:80/20192/20192/9918
-
-#EXTINF:-1,CAN: TSN 4
-http://4ever.biz:80/20192/20192/9917
-
-#EXTINF:-1,CAN: TSN 5
-http://4ever.biz:80/20192/20192/9916
-
-#EXTINF:-1,CAN: TV5 QUEBEC
-http://4ever.biz:80/20192/20192/9819
-
-#EXTINF:-1,CAN: TVA GATINEAU
-http://4ever.biz:80/20192/20192/9851
-
-#EXTINF:-1,CAN: TVA SPORTS
-http://4ever.biz:80/20192/20192/9937
-
-#EXTINF:-1,CAN: TVO Kids
-http://4ever.biz:80/20192/20192/9818
-
-#EXTINF:-1,CAN: VICELAND
-http://4ever.biz:80/20192/20192/9850
-
-#EXTINF:-1,CAN: VIE
-http://4ever.biz:80/20192/20192/9895
-
-#EXTINF:-1,CAN: VRAK TV
-http://4ever.biz:80/20192/20192/9935
-
-#EXTINF:-1,CAN: WFN
-http://4ever.biz:80/20192/20192/9893
-
-#EXTINF:-1,CAN: Wild TV
-http://4ever.biz:80/20192/20192/9891
-
-#EXTINF:-1,CAN: YOOPA
-http://4ever.biz:80/20192/20192/9849
-
-#EXTINF:-1,CAN: CITY MONTREAL
-http://4ever.biz:80/20192/20192/10270
-
-#EXTINF:-1,CAN: COMEDY WEST
-http://4ever.biz:80/20192/20192/10271
-
-#EXTINF:-1,CAN: GLOBAL HALIFAX
-http://4ever.biz:80/20192/20192/10265
-
-#EXTINF:-1,CAN: YES TV (Alberta)
-http://4ever.biz:80/20192/20192/10263
-
-#EXTINF:-1,CAN: RDS INFO
-http://4ever.biz:80/20192/20192/10272
-
-#EXTINF:-1,CAN: TFO
-http://4ever.biz:80/20192/20192/10273
-
-#EXTINF:-1,CAN: TLC CANADA
-http://4ever.biz:80/20192/20192/10268
-
-#EXTINF:-1,CAN: UNIS TV
-http://4ever.biz:80/20192/20192/10261
