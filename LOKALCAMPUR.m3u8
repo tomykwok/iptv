@@ -94,6 +94,9 @@ http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-HtYPaueR2CI/XBOKRlxqu5I/AAAAAAAATKU/3mx9c_3a7IQpVNrr7KajlRe8aaa0ekBSQCLcBGAs/s1600/tvri-sport-hd.png" tvg-name="TVRI SPORT"  group-title="INDO-TV",TVRI SPORT
 http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-HtYPaueR2CI/XBOKRlxqu5I/AAAAAAAATKU/3mx9c_3a7IQpVNrr7KajlRe8aaa0ekBSQCLcBGAs/s1600/tvri-sport-hd.png" tvg-name="TVRI SPORT"  group-title="INDO-TV",TVRI SPORT
+https://cdn-livetv1.metube.id/hls/tvri_480/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7c/Netmediatama.png/200px-Netmediatama.png" tvg-name="NET TV"  group-title="INDO-TV",NET TV
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
