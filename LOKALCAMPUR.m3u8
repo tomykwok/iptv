@@ -254,10 +254,10 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 http://203.153.218.26:9981/stream/channelid/2098292279
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" tvg-name="DISNEY CHANNEL"  group-title="KIDS",DISNEY CHANNEL
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/149953
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23660
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" tvg-name="DISNEY CHANNEL"  group-title="KIDS",NICK JR
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/208671
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/24022
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" tvg-name="DISNEY CHANNEL"  group-title="KIDS",NICK ASIA
 http://203.153.218.26:9981/stream/channelid/1474669592?ticket=34A2B30F83B9510A225AD259DCF94B2DFB4E4EE3&profile=pass
@@ -395,13 +395,13 @@ http://203.153.218.26:9981/stream/channelid/960201661
 http://125.227.210.37:8895/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO"  group-title="MOVIES",HBO 1 HD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198510
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/24131
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO"  group-title="MOVIES",HBO Comedy HD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198509
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/24130
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO"  group-title="MOVIES",HBO HD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/198508
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/24126
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/2000px-Showtime.svg.png" tvg-name="SHOWTIME HD"  group-title="MOVIES",SHOWTIME HD
 http://80.80.160.168/live/7/live.m3u8
@@ -1911,3 +1911,4 @@ http://boonniyomtv-xefg3d.cdn.byteark.com/live/13wDt2b6g4/media_w347232082.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch108.gif" tvg-name="SENATE HD"  group-title="THAILAND",SENATE HD
 http://202.122.40.36/livestream/encoder3/media_w2122111964.m3u8
+
