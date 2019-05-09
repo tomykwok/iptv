@@ -385,10 +385,10 @@ http://125.227.210.37:8895/VideoInput/play.ts
 http://157.119.56.249:2019/live/gratis/diemdiemaja/137.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO"  group-title="MOVIES",HBO Comedy HD
-http://iptv-volkan.net:8000/farid22/farid22/36529
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO"  group-title="MOVIES",HBO HD
-http://iptv-volkan.net:8000/farid22/farid22/5231
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/2000px-Showtime.svg.png" tvg-name="SHOWTIME HD"  group-title="MOVIES",SHOWTIME HD
 http://80.80.160.168/live/7/live.m3u8
