@@ -203,10 +203,10 @@ http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/megastar/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="SPORT",Bein Sport 1
-http://l.land02.live:8080/santos/santos123/209741
+http://primestreams.tv:826/jamesfamily/jamesfamily/89210
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="SPORT",Bein Sport 2 Indonesia
-http://l.land02.live:8080/santos/santos123/206476
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="SPORT",Bein Sport 2
+http://primestreams.tv:826/jamesfamily/jamesfamily/89209
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png" group-title="SPORT",SUPER SOCCER TV
 http://210.210.155.35/session/f00a19c2-5048-11e9-b11f-b82a72d63267/uq2663/h/h20/02.m3u8
@@ -236,13 +236,13 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" tvg-name="DISNEY CHANNEL"  group-title="KIDS",DISNEY CHANNEL
-http://l.land02.live:8080/santos/santos123/76491
+http://www.jadobox.eu:8000/Elhafsi/tRcja69e12BBgk/13394
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" tvg-name="DISNEY CHANNEL"  group-title="KIDS",DISNEY CHANNEL
 http://122.155.180.8:5021/live/499
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" tvg-name="DISNEY CHANNEL"  group-title="KIDS",NICK JR
-http://l.land02.live:8080/santos/santos123/146005
+http://www.jadobox.eu:8000/Elhafsi/tRcja69e12BBgk/13351
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" tvg-name="DISNEY CHANNEL"  group-title="KIDS",NICK ASIA
 http://203.153.218.26:9981/stream/channelid/1474669592?ticket=34A2B30F83B9510A225AD259DCF94B2DFB4E4EE3&profile=pass
@@ -317,7 +317,7 @@ http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" tvg-name="AXN ID"  group-title="ENTERTAINMENT",AXN
-http://l.land02.live:8080/santos/santos123/115767
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/77
 
 #EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/89/img-live-jgo.jpg" tvg-name="JGO ID"  group-title="MOVIES",JGO ID
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
@@ -344,10 +344,10 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 http://203.153.218.26:9981/stream/channelid/1764566305
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png" tvg-name="FOX FAMMILY MOVIE ID"  group-title="MOVIES",FOX FAMMILY MOVIE ID
-http://l.land02.live:8080/santos/santos123/213986
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/217
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" tvg-name="FOX ACTION MOVIE ID"  group-title="MOVIES",FOX ACTION MOVIE ID
-http://l.land02.live:8080/santos/santos123/206324
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/90
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1200px-Cinemax.svg.png" tvg-name="CINEMAX ID"  group-title="MOVIES",CINEMAX ID
 http://203.153.218.26:9981/stream/channelid/51542457
@@ -362,7 +362,7 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxSPORTtv.m3u8
 http://203.153.218.26:9981/stream/channelid/1742170657
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" tvg-name="HBO SIGNATURE ID"  group-title="MOVIES",HBO SIGNATURE ID
-http://l.land02.live:8080/santos/santos123/156783
+http://www.jadobox.eu:8000/Elhafsi/tRcja69e12BBgk/13368
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" tvg-name="HBO FAMMILY ID"  group-title="MOVIES",HBO FAMMILY ID
 http://203.153.218.26:9981/stream/channelid/960201661
@@ -371,7 +371,7 @@ http://203.153.218.26:9981/stream/channelid/960201661
 http://125.227.210.37:8895/VideoInput/play.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO"  group-title="MOVIES",HBO 1 HD
-http://l.land02.live:8080/santos/santos123/75881
+http://www.jadobox.eu:8000/Elhafsi/tRcja69e12BBgk/13370
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO"  group-title="MOVIES",HBO HD
 http://l.land02.live:8080/santos/santos123/84377
@@ -1354,44 +1354,188 @@ http://stream.rs.co.th/sbd-hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif" tvg-name="CARTOON CLUB HD"  group-title="THAILAND",CARTOON CLUB HD
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",SPORT: AR - beIN Sports 2 HD
-http://l.land02.live:8080/cPwP3P2XDV/xvTPbKnw5H/197980
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS NEWS HD
+http://siptv-online.com:8789/Julien90/Julien90/24979
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",SPORT: AR - beIN Sports 3 HD
-http://l.land02.live:8080/cPwP3P2XDV/xvTPbKnw5H/197982
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS HD
+http://siptv-online.com:8789/Julien90/Julien90/24980
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",SPORT: AR - beIN Sports 4 HD
-http://l.land02.live:8080/cPwP3P2XDV/xvTPbKnw5H/197984
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/13688
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",SPORT: AR - beIN Sports 5 HD
-http://l.land02.live:8080/cPwP3P2XDV/xvTPbKnw5H/197985
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS BKP1
+http://siptv-online.com:8789/Julien90/Julien90/13687
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",SPORT: AR - beIN Sports 6 HD
-http://l.land02.live:8080/cPwP3P2XDV/xvTPbKnw5H/197987
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/13686
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",SPORT: AR - beIN Sports 7 HD
-http://l.land02.live:8080/cPwP3P2XDV/xvTPbKnw5H/197989
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS BKP2
+http://siptv-online.com:8789/Julien90/Julien90/13685
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",SPORT: AR - beIN Sports 8 HD
-http://l.land02.live:8080/cPwP3P2XDV/xvTPbKnw5H/197991
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 3 HD
+http://siptv-online.com:8789/Julien90/Julien90/13684
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",SPORT: AR - beIN Sports 9 HD
-http://l.land02.live:8080/cPwP3P2XDV/xvTPbKnw5H/198062
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS BKP3
+http://siptv-online.com:8789/Julien90/Julien90/13683
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",SPORT: AR - beIN Sports 10 HD
-http://l.land02.live:8080/cPwP3P2XDV/xvTPbKnw5H/197970
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 4 HD
+http://siptv-online.com:8789/Julien90/Julien90/13682
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",SPORT: AR - beIN Sports 11 HD
-http://l.land02.live:8080/cPwP3P2XDV/xvTPbKnw5H/211810
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS BKP4
+http://siptv-online.com:8789/Julien90/Julien90/13681
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",SPORT: AR - beIN Sports 12 HD
-http://l.land02.live:8080/cPwP3P2XDV/xvTPbKnw5H/197974
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 5 HD
+http://siptv-online.com:8789/Julien90/Julien90/13680
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",SPORT: AR - beIN Sports 13 HD
-http://l.land02.live:8080/cPwP3P2XDV/xvTPbKnw5H/197975
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS BKP5
+http://siptv-online.com:8789/Julien90/Julien90/13679
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",SPORT: AR - beIN Sports NBA HD
-http://l.land02.live:8080/cPwP3P2XDV/xvTPbKnw5H/197999
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 6 HD
+http://siptv-online.com:8789/Julien90/Julien90/13678
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",SPORT: AR - beIN Sports News HD
-http://l.land02.live:8080/cPwP3P2XDV/xvTPbKnw5H/198000
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS BKP6
+http://siptv-online.com:8789/Julien90/Julien90/13677
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 7 HD
+http://siptv-online.com:8789/Julien90/Julien90/13676
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS BKP7
+http://siptv-online.com:8789/Julien90/Julien90/13675
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 8 HD
+http://siptv-online.com:8789/Julien90/Julien90/13674
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS BKP8
+http://siptv-online.com:8789/Julien90/Julien90/13673
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 9 HD
+http://siptv-online.com:8789/Julien90/Julien90/13672
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS 9 BKP
+http://siptv-online.com:8789/Julien90/Julien90/13587
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 10 HD
+http://siptv-online.com:8789/Julien90/Julien90/13670
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS BKP10
+http://siptv-online.com:8789/Julien90/Julien90/13669
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS HD11
+http://siptv-online.com:8789/Julien90/Julien90/24977
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS HD13
+http://siptv-online.com:8789/Julien90/Julien90/21202
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS HD14
+http://siptv-online.com:8789/Julien90/Julien90/21201
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS HD15
+http://siptv-online.com:8789/Julien90/Julien90/21200
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS HD16
+http://siptv-online.com:8789/Julien90/Julien90/21199
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS HD17
+http://siptv-online.com:8789/Julien90/Julien90/21198
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS MAX 1.HD
+http://siptv-online.com:8789/Julien90/Julien90/28065
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS MAX 1 BKP
+http://siptv-online.com:8789/Julien90/Julien90/13667
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS MAX 2.HD
+http://siptv-online.com:8789/Julien90/Julien90/28064
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS MAX 2 BKP
+http://siptv-online.com:8789/Julien90/Julien90/13665
+
+#EXTINF:-1,|AR|****BEINSPORT FHD ****|AR|
+http://siptv-online.com:8789/Julien90/Julien90/24981
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 1 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13611
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 2 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13610
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 3 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13609
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 4 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13608
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 5 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13607
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 6 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13606
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 7 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13605
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 8 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13604
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 9 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13603
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORT 10 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13602
+
+#EXTINF:-1,|AR|*****BEOUTQ SPORTS*****|AR|
+http://siptv-online.com:8789/Julien90/Julien90/28659
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEOUTQ SPORT 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/28658
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEOUTQ SPORT 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/28657
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEOUTQ SPORT 3 HD
+http://siptv-online.com:8789/Julien90/Julien90/28656
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEOUTQ SPORT 4 HD
+http://siptv-online.com:8789/Julien90/Julien90/28655
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEOUTQ SPORT 5 HD
+http://siptv-online.com:8789/Julien90/Julien90/28654
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEOUTQ SPORT 6 HD
+http://siptv-online.com:8789/Julien90/Julien90/28653
+
+#EXTINF:-1,|AR|*****BEINSPORT SD*****|AR|
+http://siptv-online.com:8789/Julien90/Julien90/24982
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS 1  SD
+http://siptv-online.com:8789/Julien90/Julien90/13601
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS 2  SD
+http://siptv-online.com:8789/Julien90/Julien90/13612
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS 3  SD
+http://siptv-online.com:8789/Julien90/Julien90/13613
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS 4  SD
+http://siptv-online.com:8789/Julien90/Julien90/13614
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS 5  SD
+http://siptv-online.com:8789/Julien90/Julien90/13615
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS 6  SD
+http://siptv-online.com:8789/Julien90/Julien90/13616
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS 7 SD
+http://siptv-online.com:8789/Julien90/Julien90/13617
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS 8 SD
+http://siptv-online.com:8789/Julien90/Julien90/13618
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS 9  SD
+http://siptv-online.com:8789/Julien90/Julien90/13641
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS 10  SD
+http://siptv-online.com:8789/Julien90/Julien90/13642
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",BEINSPORTS 11  SD
+http://siptv-online.com:8789/Julien90/Julien90/13643
