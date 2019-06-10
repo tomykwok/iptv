@@ -1356,6 +1356,9 @@ http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/m
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif" tvg-name="CARTOON CLUB HD"  group-title="THAILAND",CARTOON CLUB HD
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",B31N Sp0rts 1
+http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/215
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="BEINSPORT NOT PERMANENT",B31N Sp0rts 2
 http://disfruta.net:8000/SvwPgLO8wl/38m20WDgBw/216
 
