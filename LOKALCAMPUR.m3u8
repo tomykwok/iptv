@@ -195,11 +195,14 @@ http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" tvg-name="POP MUSIK"  group-title="NINMEDIA",POP MUSIK
 http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="Bein Sport 1"  group-title="SPORT",Bein Sport 1
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/9559
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="Bein Sport 1"  group-title="SPORT",Bein Sport 1 SD
+http://203.207.56.228/live/iptv003.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="Bein Sport 2"  group-title="SPORT",Bein Sport 2
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/9558
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="Bein Sport 2"  group-title="SPORT",Bein Sport 2 SD
+http://203.207.56.228/live/iptv002.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="Bein Sport 2"  group-title="SPORT",Bein Sport 3 SD
+http://203.207.56.228/live/iptv001.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png" tvg-name="SUPER SOCCER TV"  group-title="SPORT",SUPER SOCCER TV
 http://210.210.155.35/session/f00a19c2-5048-11e9-b11f-b82a72d63267/uq2663/h/h20/02.m3u8
@@ -1332,44 +1335,50 @@ http://stream.rs.co.th/sbd-hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif" tvg-name="CARTOON CLUB HD"  group-title="THAILAND",CARTOON CLUB HD
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",Bein 1 Hd
-http://force102.com:8080/abdullahu/uabdullah/10901
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BeIN Sports 1 HD (Arabia)
+http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/16771
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",Bein 2 Hd
-http://force102.com:8080/abdullahu/uabdullah/10900
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BeIN Sports 1 HD (Francia)
+http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/16746
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",Bein 3 Hd
-http://force102.com:8080/abdullahu/uabdullah/10899
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BeIN Sports 2 HD (Arabia)
+http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/16770
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",Bein 4 Hd
-http://force102.com:8080/abdullahu/uabdullah/10898
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BeIN Sports 2 HD (Francia)
+http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/16745
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",Bein 5 Hd
-http://force102.com:8080/abdullahu/uabdullah/10897
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BeIN Sports 3 HD (Francia)
+http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/16744
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",Bein 6 Hd
-http://force102.com:8080/abdullahu/uabdullah/10896
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BEIN 3 FULL HD
+http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/11082
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",Bein 7 Hd
-http://force102.com:8080/abdullahu/uabdullah/10895
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BEIN 4 FULL HD
+http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/11081
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",Bein 8 Hd
-http://force102.com:8080/abdullahu/uabdullah/10894
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BEIN 5 FULL HD
+http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/11080
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",Bein 9 Hd
-http://force102.com:8080/abdullahu/uabdullah/10893
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BEIN 6 FULL HD
+http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/11079
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",Bein 10 Hd
-http://force102.com:8080/abdullahu/uabdullah/10892
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BEIN 7 FULL HD
+http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/11078
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",Bein Sports-11hd
-http://force102.com:8080/abdullahu/uabdullah/10242
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BEIN 8 FULL HD
+http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/11077
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",Bein Sports-12hd
-http://force102.com:8080/abdullahu/uabdullah/10241
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BEIN 9 FULL HD
+http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/11076
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",Bein Sports-13hd
-http://force102.com:8080/abdullahu/uabdullah/10240
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BEIN 10 FULL HD
+http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/11084
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",Bein Sports English FULL HD
+http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/11126
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",Bein Sports Ã‘ [EspaÃ±ol] FULL HD
+http://iptv.wtf:8080/fzbuflli/72T5q3jvFy/11127
 
 #EXTINF:-1 ,USEE TV
 =============================================================================================================================================================
