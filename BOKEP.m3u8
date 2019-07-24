@@ -1,4 +1,4 @@
-﻿#EXTINF:-1 tvg-logo="https://gitlab.com/tonosidik/tv/raw/master/Capture.png" tvg-name="TONOMONS"  group-title="ADMIN",TONOMONS
+#EXTINF:-1 tvg-logo="https://gitlab.com/tonosidik/tv/raw/master/Capture.png" tvg-name="TONOMONS"  group-title="ADMIN",TONOMONS
 https://tonosidik3.github.io/VOD/Movie.mp4
 
 #EXTINF:-1 tvg-logo="http://logos.textgiraffe.com/logos/logo-name/Live-designstyle-friday-m.png" group-title="LIVE CHANNEL" ,(RED TRAFFIC)LESBIAN
@@ -12229,3 +12229,15 @@ http://vl1.vlxx.stream/vlxx/01300-01399/01381_720p.mp4
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-14" ,VIP-14-82
 http://vl1.vlxx.stream/vlxx/01300-01399/01382_720p.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-14" ,VIP-14-83
+http://vl1.vlxx.stream/vlxx/01300-01399/01383_720p.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-14" ,VIP-14-84
+http://vl1.vlxx.stream/vlxx/01300-01399/01384_720p.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-14" ,VIP-14-85
+http://vl1.vlxx.stream/vlxx/01300-01399/01385_720p.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-14" ,VIP-14-86
+http://vl1.vlxx.stream/vlxx/01300-01399/01386_720p.mp4
