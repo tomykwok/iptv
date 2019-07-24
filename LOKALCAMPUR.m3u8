@@ -2129,9 +2129,6 @@ http://50.7.161.82:8278/Aec/playlist.m3u8?tid=m02000000000016302253&ct=17975&tsu
 #EXTINF:-1 tvg-id="(ONLINE) ASTRO XI YUE HD MY" tvg-logo="https://i.imgur.com/yM8gZbD.png" tvg-name="(ONLINE) ASTRO XI YUE HD MY"  group-title="USEE TV",(ONLINE) ASTRO XI YUE HD MY
 http://50.7.161.82:8278/Xiyue/playlist.m3u8?tid=m02000000000017759820&ct=17981&tsum=53c29b0be7c64f104ae681714706c51a
 
-#EXTINF:-1 tvg-id="(ONLINE) UPDATE CODE ZAL TV ON INSTAGRAM : @hendra.murdani" tvg-logo="https://i.imgur.com/fbCtp65.png" tvg-name="(ONLINE) UPDATE CODE ZAL TV ON INSTAGRAM : @hendra.murdani"  group-title="USEE TV",(ONLINE) UPDATE CODE ZAL TV ON INSTAGRAM : @hendra.murdani
-http://wodpro24.tr4545.in:8080/expred/peru8k.mp4
-
 #EXTINF:-1 tvg-id="(ONLINE) BERNAMA TV MY (BACKUP)" tvg-logo="https://i.imgur.com/4MB9LlX.png" tvg-name="(ONLINE) BERNAMA TV MY (BACKUP)"  group-title="USEE TV",(ONLINE) BERNAMA TV MY (BACKUP)
 http://50.7.161.82:8278/Bernama/playlist.m3u8?tid=m02000000000012087578&ct=17975&tsum=73be977f4f0798142ff736e6f09da82d
 
