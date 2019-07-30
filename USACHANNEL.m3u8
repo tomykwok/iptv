@@ -1,596 +1,1471 @@
-#EXTINF:-1,And TV
-http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
-
-#EXTINF:-1,Animal Planet HD
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
-
-#EXTINF:-1,HBO 2 International
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1,Cooking Channel
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-
-#EXTINF:-1,B4U MOVIE
-http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
-
-#EXTINF:-1,B4U MUSIC
-http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
-
-#EXTINF:-1,CBC CANADA
-http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
-
-#EXTINF:-1,CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-
-#EXTINF:-1,NBC
-http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-
-#EXTINF:-1,SPORTSMAX
-http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-
-#EXTINF:-1,US:CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
-
-#EXTINF:-1,US:HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
-
-#EXTINF:-1,US:NBC
-http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
-
-#EXTINF:-1,B4U MUSIC
-http://161.0.157.5/PLTV/88888888/224/3221226332/01.m3u8
-
-#EXTINF:-1,CBC CANADA
-http://161.0.157.50/PLTV/88888888/224/3221227004/01.m3u8
-
-#EXTINF:-1,SPORTSMAX
-http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
-
-#EXTINF:-1,CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
-
-#EXTINF:-1,HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-
-#EXTINF:-1,NBC
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-
-#EXTINF:-1,CBC Television
-http://161.0.157.50/PLTV/88888888/224/3221227004/index.m3u8
-
-#EXTINF:-1,13
-http://161.0.157.5/PLTV/88888888/224/3221227013/index.m3u8
-
-#EXTINF:-1,40 HD
-http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
-
-#EXTINF:-1,41 HD
-http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8
-
-#EXTINF:-1,398
-http://161.0.157.5/PLTV/88888888/224/3221226398/index.m3u8
-
-#EXTINF:-1,TEN CRICKET
-http://161.0.157.5/PLTV/88888888/224/3221226394/index.m3u8
-
-#EXTINF:-1,B4U music
-http://161.0.157.5/PLTV/88888888/224/3221226332/index.m3u8
-
-#EXTINF:-1,FOX
-http://161.0.157.5/PLTV/88888888/224/3221226321/index.m3u8
-
-#EXTINF:-1,311
-http://161.0.157.5/PLTV/88888888/224/3221226311/index.m3u8
-
-#EXTINF:-1,B4U MOVIES
-http://161.0.157.5/PLTV/88888888/224/3221226255/index.m3u8
-
-#EXTINF:-1,TELESHOP HD
-http://161.0.157.5/PLTV/88888888/224/3221226207/index.m3u8
-
-#EXTINF:-1,177 HD
-http://161.0.157.5/PLTV/88888888/224/3221226177/index.m3u8
-
-#EXTINF:-1,145 HD
-http://161.0.157.5/PLTV/88888888/224/3221226145/index.m3u8
-
-#EXTINF:-1,HBO HD
-http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
-
-#EXTINF:-1,ZEE WORLD
-http://161.0.157.5/PLTV/88888888/224/3221226542/index.m3u8
-
-#EXTINF:-1,568 HD
-http://161.0.157.5/PLTV/88888888/224/3221226568/index.m3u8
-
-#EXTINF:-1,CFN
-http://161.0.157.5/PLTV/88888888/224/3221226638/index.m3u8
-
-#EXTINF:-1,ZEECINEMA
-http://161.0.157.5/PLTV/88888888/224/3221226709/index.m3u8
-
-#EXTINF:-1,FOX SPORT
-http://161.0.157.5/PLTV/88888888/224/3221226181/index.m3u8
-
-#EXTINF:-1,BASHMENT
-http://161.0.157.5/PLTV/88888888/224/3221226311/03.m3u8
-
-#EXTINF:-1,HYPE
-http://161.0.157.5/PLTV/88888888/224/3221226726/index.m3u8
-
-#EXTINF:-1,TV
-http://161.0.157.5/PLTV/88888888/224/3221226727/index.m3u8
-
-#EXTINF:-1,KLUB TV
-http://161.0.157.5/PLTV/88888888/224/3221226729/index.m3u8
-
-#EXTINF:-1,SPORTMAX
-http://161.0.157.5/PLTV/88888888/224/3221226766/index.m3u8
-
-#EXTINF:-1,CNN
-http://161.0.157.5/PLTV/88888888/224/3221226781/index.m3u8
-
-#EXTINF:-1,FOX CINEMA
-http://161.0.157.5/PLTV/88888888/224/3221226793/index.m3u8
-
-#EXTINF:-1,FOX COMEDY
-http://161.0.157.5/PLTV/88888888/224/3221226800/index.m3u8
-
-#EXTINF:-1,BRAVO
-http://161.0.157.5/PLTV/88888888/224/3221226804/index.m3u8
-
-#EXTINF:-1,MUDHOLE
-http://161.0.157.5/PLTV/88888888/224/3221226811/index.m3u8
-
-#EXTINF:-1,GOLF
-http://161.0.157.5/PLTV/88888888/224/3221226812/index.m3u8
-
-#EXTINF:-1,FRANCE24
-http://161.0.157.5/PLTV/88888888/224/3221226821/index.m3u8
-
-#EXTINF:-1,MTV
-http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
-
-#EXTINF:-1,UNIVERSAL
-http://161.0.157.5/PLTV/88888888/224/3221226828/index.m3u8
-
-#EXTINF:-1,TV
-http://161.0.157.5/PLTV/88888888/224/3221226831/index.m3u8
-
-#EXTINF:-1,Y
-http://161.0.157.5/PLTV/88888888/224/3221226832/index.m3u8
-
-#EXTINF:-1,MAX PRIME
-http://161.0.157.5/PLTV/88888888/224/3221226834/index.m3u8
-
-#EXTINF:-1,CN
-http://161.0.157.5/PLTV/88888888/224/3221226843/index.m3u8
-
-#EXTINF:-1,CNC3
-http://161.0.157.5/PLTV/88888888/224/3221226845/index.m3u8
-
-#EXTINF:-1,MTM
-http://161.0.157.5/PLTV/88888888/224/3221226847/index.m3u8
-
-#EXTINF:-1,TV
-http://161.0.157.5/PLTV/88888888/224/3221226848/index.m3u8
-
-#EXTINF:-1,DRS
-http://161.0.157.5/PLTV/88888888/224/3221226865/index.m3u8
-
-#EXTINF:-1,CATCH2
-http://161.0.157.5/PLTV/88888888/224/3221226874/index.m3u8
-
-#EXTINF:-1,EUROSPORT2
-http://161.0.157.5/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1,FLOW SPORT1
-http://161.0.157.5/PLTV/88888888/224/3221226899/index.m3u8
-
-#EXTINF:-1,CBC CANADA
-http://161.0.157.5/PLTV/88888888/224/3221227004/01.m3u8
-
-#EXTINF:-1,CBC CANADA
-http://161.0.157.5/PLTV/88888888/224/3221227004/03.m3u8
-
-#EXTINF:-1,CBC CANADA
-http://161.0.157.5/PLTV/88888888/224/3221227004/index.m3u8
-
-#EXTINF:-1,CBN
-http://161.0.157.5/PLTV/88888888/224/3221227005/index.m3u8
-
-#EXTINF:-1,USA NBC
-http://161.0.157.5/PLTV/88888888/224/3221227040/01.m3u8
-
-#EXTINF:-1,NBC
-http://161.0.157.5/PLTV/88888888/224/3221227040/03.m3u8
-
-#EXTINF:-1,USA CBS
-http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8
-
-#EXTINF:-1,CBS
-http://161.0.157.5/PLTV/88888888/224/3221227041/03.m3u8
-
-#EXTINF:-1,TV
-http://161.0.157.5/PLTV/88888888/224/3221227097/index.m3u8
-
-#EXTINF:-1,HBO
-http://161.0.157.5/PLTV/88888888/224/3221226127/03.m3u8
-
-#EXTINF:-1,VH HD
-http://161.0.157.5/PLTV/88888888/224/3221226078/index.m3u8
-
-#EXTINF:-1,HBO
-http://161.0.157.5/PLTV/88888888/224/3221226122/index.m3u8
-
-#EXTINF:-1,ANIMAL PLANET
-http://161.0.157.5/PLTV/88888888/224/3221226253/01.m3u8
-
-#EXTINF:-1,ANIMAL PLANET
-http://161.0.157.5/PLTV/88888888/224/3221226253/02.m3u8
-
-#EXTINF:-1,ANIMAL PLANET
-http://161.0.157.5/PLTV/88888888/224/3221226253/03.m3u8
-
-#EXTINF:-1,ANIMAL PLANET
-http://161.0.157.5/PLTV/88888888/224/3221226253/04.m3u8
-
-#EXTINF:-1,Unknown 0
-http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8
-
-#EXTINF:-1,Unknown 0
-http://live.italkdd.com/cds160/hls/channel023/channel023_2000.m3u8
-
-#EXTINF:-1,Abu Dhabi Sports HD 2
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
-#EXTINF:-1,Dubai Sports (AR)
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-
-#EXTINF:-1,US: RED BULL
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
-#EXTINF:-1,Real Madrid
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-
-#EXTINF:-1,KASS SPORTS 1 (AR)
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
-
-#EXTINF:-1,A SPOR HD
-http://livetr.teleromagna.it/sport/live/playlist.m3u8
-
-#EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-
-#EXTINF:-1,SETANTA SPORTS +
-http://ott-cdn.ucom.am/s81/index.m3u8
-
-#EXTINF:0 group-title="AR: _",AR: ARRYADIA
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-
-#EXTINF:-1,Sky TG24
-http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 HD
-http://www.elahmad.com/tv/m3u8/adtv.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 (1+) HD
-http://adtv.ercdn.net/adsport1/adsport1.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1 (2+) HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 1
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2 HD
-http://adtv.ercdn.net/adsport2/adsport2.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: ABU DHABI SPORTS 2
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: BAHRAIN SPORTS
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.m3u8
-
-#EXTINF:0 group-title="AR: Arabia",AR: YAS SPORTS UPDATED
-http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
-
-#EXTINF:0 group-title="ARG: Argentina",ARG: UMAG TV PUNTA ARENAS
-http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
-
-#EXTINF:0 group-title="ARG: Argentina",ARG: UMAGTV 2 PUNTA ARENAS
-http://edge1.cl.grupoz.cl/itser4/tser4.sdp/chunklist_w638282256.m3u8
-
-#EXTINF:0 group-title="IN: India",IN: DONBAS TV
-http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
-
-#EXTINF:0 group-title="MX: Mexico",MX: TELEFORMULA NEW
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-
-#EXTINF:0 group-title="SP: Spain",SP: FIGHT TIME (1+)
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-
-#EXTINF:0 group-title="UA: Ukraine",UA: DONBAS
-http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
-
-#EXTINF:0 group-title="US: United States",US: ESPN
-http://80.80.160.168/live/6/live.m3u8
-
-#EXTINF:0 group-title="US: United States",US: ESPN 2
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:0 group-title="US: United States",US: ESPN NEWS ENGLISH
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
-
-#EXTINF:0 group-title="US: United States",US: FOX SPORTS RACING
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-
-#EXTINF:0 group-title="US: United States",US: MLB NETWORK (1+)
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:0 group-title="US: United States",US: MLB NETWORK PUBLIC-SPORTS ENGLISH
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Linear_Stream_Tuesday_20180731_1533025887059/3000K/3000_slide.m3u8
-
-#EXTINF:0 group-title="US: United States",US: ONE CHANNEL SPORTS ARABIC
-http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
-
-#EXTINF:0 group-title="US: United States",US: RED BULL TV (2+)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:0 group-title="WW: World Wide",WW: FISHING NETWORK
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-
-#EXTINF:0 group-title="WW: World Wide",WW: MLB LIVE
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
-
-#EXTINF:-1,USA: Epix Hits
-http://4ever.biz:80/20192/20192/25498
-
-#EXTINF:-1,USA: ♫ MCM
-http://4ever.biz:80/20192/20192/23783
-
-#EXTINF:-1,USA: ♫ MTV Base ʜᴅ
-http://4ever.biz:80/20192/20192/23775
-
-#EXTINF:-1,USA: ♫ MTV Classic
-http://4ever.biz:80/20192/20192/23774
-
-#EXTINF:-1,USA: ♫ MTV Dance ʜᴅ
-http://4ever.biz:80/20192/20192/23773
-
-#EXTINF:-1,USA: ♫ MTV Music
-http://4ever.biz:80/20192/20192/23771
-
-#EXTINF:-1,USA: ♫ MTV Rocks
-http://4ever.biz:80/20192/20192/23770
-
-#EXTINF:-1,USA: ♫ XITE ʜᴅ
-http://4ever.biz:80/20192/20192/23594
-
-#EXTINF:-1,USA:A&E
-http://4ever.biz:80/20192/20192/23950
-
-#EXTINF:-1,USA: ABC
-http://4ever.biz:80/20192/20192/23968
-
-#EXTINF:-1,USA:ABC News
-http://4ever.biz:80/20192/20192/23967
-
-#EXTINF:-1,USA: ABC NEWS UHD
-http://4ever.biz:80/20192/20192/23969
-
-#EXTINF:-1,USA: ABC Spark
-http://4ever.biz:80/20192/20192/23966
-
-#EXTINF:-1,USA: ABC WEST UHD
-http://4ever.biz:80/20192/20192/23970
-
-#EXTINF:-1,USA: AFN Movie
-http://4ever.biz:80/20192/20192/23964
-
-#EXTINF:-1,USA: AFN News
-http://4ever.biz:80/20192/20192/23963
-
-#EXTINF:-1,USA: AFN Prime Atlantic
-http://4ever.biz:80/20192/20192/23962
-
-#EXTINF:-1,USA: AFN Prime Pacific
-http://4ever.biz:80/20192/20192/23961
-
-#EXTINF:-1,USA: AFN Spectrum
-http://4ever.biz:80/20192/20192/23959
-
-#EXTINF:-1,USA: AFN Sports 1
-http://4ever.biz:80/20192/20192/23956
-
-#EXTINF:-1,USA: AFN Sports 2
-http://4ever.biz:80/20192/20192/23957
-
-#EXTINF:-1,USA: AMC UHD
-http://4ever.biz:80/20192/20192/23952
-
-#EXTINF:-1,USA: American Heroes Channel
-http://4ever.biz:80/20192/20192/23954
-
-#EXTINF:-1,USA: AMERICAN HEROES NETWORK  UHD
-http://4ever.biz:80/20192/20192/23955
-
-#EXTINF:-1,USA: AMG TV
-http://4ever.biz:80/20192/20192/23953
-
-#EXTINF:-1,USA: ANIMAL PLANET UHD
-http://4ever.biz:80/20192/20192/23951
-
-#EXTINF:-1,USA: BBC America
-http://4ever.biz:80/20192/20192/23948
-
-#EXTINF:-1,USA: BBC AMERICA UHD
-http://4ever.biz:80/20192/20192/23949
-
-#EXTINF:-1,USA: beIN Sports US
-http://4ever.biz:80/20192/20192/23947
-
-#EXTINF:-1,USA: BET
-http://4ever.biz:80/20192/20192/23943
-
-#EXTINF:-1,USA: BET HER
-http://4ever.biz:80/20192/20192/23944
-
-#EXTINF:-1,USA: BET HER UHD
-http://4ever.biz:80/20192/20192/23946
-
-#EXTINF:-1,USA: BLOOMBERG  UHD
-http://4ever.biz:80/20192/20192/23940
-
-#EXTINF:-1,USA: Bravo
-http://4ever.biz:80/20192/20192/23938
-
-#EXTINF:-1,USA: BTN Sport
-http://4ever.biz:80/20192/20192/23936
-
-#EXTINF:-1,USA: C-SPAN 1
-http://4ever.biz:80/20192/20192/23900
-
-#EXTINF:-1,USA: C-SPAN 2
-http://4ever.biz:80/20192/20192/23899
-
-#EXTINF:-1,USA: C-SPAN 2 HD UHD
-http://4ever.biz:80/20192/20192/23902
-
-#EXTINF:-1,USA: C-SPAN 3
-http://4ever.biz:80/20192/20192/23898
-
-#EXTINF:-1,USA: C-SPAN 3 HD UHD
-http://4ever.biz:80/20192/20192/23901
-
-#EXTINF:-1,USA: CBN
-http://4ever.biz:80/20192/20192/23928
-
-#EXTINF:-1,USA: CBS
-http://4ever.biz:80/20192/20192/23927
-
-#EXTINF:-1,USA: CBS Sports
-http://4ever.biz:80/20192/20192/23926
-
-#EXTINF:-1,USA: CBS Sports ʜᴅ
-http://4ever.biz:80/20192/20192/23924
-
-#EXTINF:-1,USA: CBSN
-http://4ever.biz:80/20192/20192/23925
-
-#EXTINF:-1,USA: CC
-http://4ever.biz:80/20192/20192/23923
-
-#EXTINF:-1,USA: Cinemax
-http://4ever.biz:80/20192/20192/23922
-
-#EXTINF:-1,USA: Cinemax 5 Starmax
-http://4ever.biz:80/20192/20192/23921
-
-#EXTINF:-1,USA: Cinemax East
-http://4ever.biz:80/20192/20192/23919
-
-#EXTINF:-1,USA: CNBC World.
-http://4ever.biz:80/20192/20192/23914
-
-#EXTINF:-1,USA: CNBC-US
-http://4ever.biz:80/20192/20192/23913
-
-#EXTINF:-1,USA:CNN
-http://4ever.biz:80/20192/20192/23912
-
-#EXTINF:-1,USA: Comedy Central (East)
-http://4ever.biz:80/20192/20192/23910
-
-#EXTINF:-1,USA: Comedy Central (West)
-http://4ever.biz:80/20192/20192/23909
-
-#EXTINF:-1,USA: COOKING CHANNEL
-http://4ever.biz:80/20192/20192/23911
-
-#EXTINF:-1,USA: COOKING CHANNEL.
-http://4ever.biz:80/20192/20192/23905
-
-#EXTINF:-1,USA: COUNTRY MUSIC TELEVISION (CMT) UHD
-http://4ever.biz:80/20192/20192/23906
-
-#EXTINF:-1,USA: Cozi
-http://4ever.biz:80/20192/20192/23904
-
-#EXTINF:-1,USA: CW Network
-http://4ever.biz:80/20192/20192/23892
-
-#EXTINF:-1,USA: CW NETWORK UHD
-http://4ever.biz:80/20192/20192/23895
-
-#EXTINF:-1,USA: Destination America
-http://4ever.biz:80/20192/20192/23889
-
-#EXTINF:-1,USA: DISCOVERY LIFE  UHD
-http://4ever.biz:80/20192/20192/23888
-
-#EXTINF:-1,USA: DISCOVERY SCIENCE CHANNEL
-http://4ever.biz:80/20192/20192/23884
-
-#EXTINF:-1,USA: DISNEY CHANNEL UHD
-http://4ever.biz:80/20192/20192/23887
-
-#EXTINF:-1,USA: DISNEY XD  UHD
-http://4ever.biz:80/20192/20192/23885
-
-#EXTINF:-1,USA: DIY NETWORK UHD
-http://4ever.biz:80/20192/20192/23882
-
-#EXTINF:-1,USA: E!
-http://4ever.biz:80/20192/20192/23879
-
-#EXTINF:-1,USA: El Rey Network
-http://4ever.biz:80/20192/20192/23877
-
-#EXTINF:-1,USA: Epix
-http://4ever.biz:80/20192/20192/23870
-
-#EXTINF:-1,USA: Escape
-http://4ever.biz:80/20192/20192/23871
-
-#EXTINF:-1,USA: ESPN 3
-http://4ever.biz:80/20192/20192/23873
-
-#EXTINF:-1,USA: ESPN HD
-http://4ever.biz:80/20192/20192/23876
-
-#EXTINF:-1,USA: ESPN News
-http://4ever.biz:80/20192/20192/23872
-
-#EXTINF:-1,USA: Food Network
-http://4ever.biz:80/20192/20192/23831
-
-#EXTINF:-1,USA: Food Network 1
-http://4ever.biz:80/20192/20192/23832
-
-#EXTINF:-1,USA: FOOD NETWORK UHD
-http://4ever.biz:80/20192/20192/23833
-
-#EXTINF:-1,USA: FOX 4 FORT MYERS UHD
-http://4ever.biz:80/20192/20192/23867
-
-#EXTINF:-1,USA: FOX 43 HD
-http://4ever.biz:80/20192/20192/23836
-
-#EXTINF:-1,USA: FOX 5 Las Vegas HD
-http://4ever.biz:80/20192/20192/23862
-
-#EXTINF:-1,USA: FOX NY HD
-http://4ever.biz:80/20192/20192/23860
-
-#EXTINF:-1,USA: Fox Sports 1
-http://4ever.biz:80/20192/20192/23857
-
-#EXTINF:-1,USA: Fox Sports 2 us
-http://4ever.biz:80/20192/20192/23856
-
-#EXTINF:-1,USA: Fox Sports Arizona HD
-http://4ever.biz:80/20192/20192/23854
-
-#EXTINF:-1,USA: Fox Sports College Atlantic HD
-http://4ever.biz:80/20192/20192/23853
+#EXTINF:-1 tvg-id="" tvg-name="IN: &FLIX HD" tvg-logo="" group-title="INDIA",IN: &FLIX HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79664
+#EXTINF:-1 tvg-id="" tvg-name="IN: &PICTURES HD" tvg-logo="" group-title="INDIA",IN: &PICTURES HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79663
+#EXTINF:-1 tvg-id="" tvg-name="IN: &Prive HD" tvg-logo="" group-title="INDIA",IN: &Prive HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79662
+#EXTINF:-1 tvg-id="" tvg-name="IN: &TV HD" tvg-logo="" group-title="INDIA",IN: &TV HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79661
+#EXTINF:-1 tvg-id="" tvg-name="IN: &TV HD (UK)" tvg-logo="" group-title="INDIA",IN: &TV HD (UK)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79660
+#EXTINF:-1 tvg-id="" tvg-name="IN: 10 TV" tvg-logo="" group-title="INDIA",IN: 10 TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79659
+#EXTINF:-1 tvg-id="" tvg-name="IN: 24 Ghanta TV" tvg-logo="" group-title="INDIA",IN: 24 Ghanta TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79658
+#EXTINF:-1 tvg-id="" tvg-name="IN: 4 TV" tvg-logo="" group-title="INDIA",IN: 4 TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79657
+#EXTINF:-1 tvg-id="" tvg-name="IN: 5AAB TV" tvg-logo="" group-title="INDIA",IN: 5AAB TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79656
+#EXTINF:-1 tvg-id="" tvg-name="IN: 8XM" tvg-logo="" group-title="INDIA",IN: 8XM
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79655
+#EXTINF:-1 tvg-id="" tvg-name="IN: 92 NEWS PK HD" tvg-logo="" group-title="INDIA",IN: 92 NEWS PK HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79654
+#EXTINF:-1 tvg-id="" tvg-name="IN: 9x Jalwa HD" tvg-logo="" group-title="INDIA",IN: 9x Jalwa HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79653
+#EXTINF:-1 tvg-id="" tvg-name="IN: 9X JHAKAAS HD" tvg-logo="" group-title="INDIA",IN: 9X JHAKAAS HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79652
+#EXTINF:-1 tvg-id="" tvg-name="IN: 9X TASHAN" tvg-logo="" group-title="INDIA",IN: 9X TASHAN
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79651
+#EXTINF:-1 tvg-id="" tvg-name="IN: 9XM (Music)" tvg-logo="" group-title="INDIA",IN: 9XM (Music)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79650
+#EXTINF:-1 tvg-id="" tvg-name="IN: 9XM HD" tvg-logo="" group-title="INDIA",IN: 9XM HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79649
+#EXTINF:-1 tvg-id="" tvg-name="IN: A One" tvg-logo="" group-title="INDIA",IN: A One
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79648
+#EXTINF:-1 tvg-id="" tvg-name="IN: A1 TV Rajasthan" tvg-logo="" group-title="INDIA",IN: A1 TV Rajasthan
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79647
+#EXTINF:-1 tvg-id="" tvg-name="IN: AAJ NEWS PK" tvg-logo="" group-title="INDIA",IN: AAJ NEWS PK
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79646
+#EXTINF:-1 tvg-id="" tvg-name="IN: AAJ TAK (UK)" tvg-logo="" group-title="INDIA",IN: AAJ TAK (UK)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79645
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aaj Tak Delhi" tvg-logo="" group-title="INDIA",IN: Aaj Tak Delhi
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79644
+#EXTINF:-1 tvg-id="" tvg-name="IN: AAJ TAK HD" tvg-logo="" group-title="INDIA",IN: AAJ TAK HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79643
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aakash" tvg-logo="" group-title="INDIA",IN: Aakash
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79642
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aamar" tvg-logo="" group-title="INDIA",IN: Aamar
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79641
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aarya TV" tvg-logo="" group-title="INDIA",IN: Aarya TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79640
+#EXTINF:-1 tvg-id="" tvg-name="IN: AASTHA BHAJAN TV" tvg-logo="" group-title="INDIA",IN: AASTHA BHAJAN TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79639
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aastha TV (UK)" tvg-logo="" group-title="INDIA",IN: Aastha TV (UK)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79638
+#EXTINF:-1 tvg-id="" tvg-name="IN: ABN" tvg-logo="" group-title="INDIA",IN: ABN
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79637
+#EXTINF:-1 tvg-id="" tvg-name="IN: ABN Andhra Jyothi" tvg-logo="" group-title="INDIA",IN: ABN Andhra Jyothi
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79636
+#EXTINF:-1 tvg-id="" tvg-name="IN: ABP ANANDA" tvg-logo="" group-title="INDIA",IN: ABP ANANDA
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79635
+#EXTINF:-1 tvg-id="" tvg-name="IN: ABP Asmita" tvg-logo="" group-title="INDIA",IN: ABP Asmita
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79634
+#EXTINF:-1 tvg-id="" tvg-name="IN: ABP Majha" tvg-logo="" group-title="INDIA",IN: ABP Majha
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79633
+#EXTINF:-1 tvg-id="" tvg-name="IN: ABP NEWS" tvg-logo="" group-title="INDIA",IN: ABP NEWS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79632
+#EXTINF:-1 tvg-id="" tvg-name="IN: ACV" tvg-logo="" group-title="INDIA",IN: ACV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79631
+#EXTINF:-1 tvg-id="" tvg-name="IN: ACV JUKEBOX" tvg-logo="" group-title="INDIA",IN: ACV JUKEBOX
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79630
+#EXTINF:-1 tvg-id="" tvg-name="IN: ACV NEWS" tvg-logo="" group-title="INDIA",IN: ACV NEWS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79629
+#EXTINF:-1 tvg-id="" tvg-name="IN: ACV UTSAV" tvg-logo="" group-title="INDIA",IN: ACV UTSAV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79628
+#EXTINF:-1 tvg-id="" tvg-name="IN: ACV UTSAV PLUS" tvg-logo="" group-title="INDIA",IN: ACV UTSAV PLUS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79627
+#EXTINF:-1 tvg-id="" tvg-name="IN: Adithya TV" tvg-logo="" group-title="INDIA",IN: Adithya TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79626
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aditya TV Tamil" tvg-logo="" group-title="INDIA",IN: Aditya TV Tamil
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79625
+#EXTINF:-1 tvg-id="" tvg-name="IN: AINITA TV" tvg-logo="" group-title="INDIA",IN: AINITA TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79624
+#EXTINF:-1 tvg-id="" tvg-name="IN: Akaal Channel" tvg-logo="" group-title="INDIA",IN: Akaal Channel
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79623
+#EXTINF:-1 tvg-id="" tvg-name="IN: Akaram TV" tvg-logo="" group-title="INDIA",IN: Akaram TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79622
+#EXTINF:-1 tvg-id="" tvg-name="IN: AL Jazeera" tvg-logo="" group-title="INDIA",IN: AL Jazeera
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79621
+#EXTINF:-1 tvg-id="" tvg-name="IN: Alankar TV" tvg-logo="" group-title="INDIA",IN: Alankar TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79620
+#EXTINF:-1 tvg-id="" tvg-name="IN: Amaar Cinema" tvg-logo="" group-title="INDIA",IN: Amaar Cinema
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79619
+#EXTINF:-1 tvg-id="" tvg-name="IN: Amrita TV" tvg-logo="" group-title="INDIA",IN: Amrita TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79618
+#EXTINF:-1 tvg-id="" tvg-name="IN: Andy Haryana" tvg-logo="" group-title="INDIA",IN: Andy Haryana
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79617
+#EXTINF:-1 tvg-id="" tvg-name="IN: ANGEL TV HD" tvg-logo="" group-title="INDIA",IN: ANGEL TV HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79616
+#EXTINF:-1 tvg-id="" tvg-name="IN: ANIMAL PLANET HD" tvg-logo="" group-title="INDIA",IN: ANIMAL PLANET HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79615
+#EXTINF:-1 tvg-id="" tvg-name="IN: Anjan TV" tvg-logo="" group-title="INDIA",IN: Anjan TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79614
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ankhila Punjab TV" tvg-logo="" group-title="INDIA",IN: Ankhila Punjab TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79613
+#EXTINF:-1 tvg-id="" tvg-name="IN: Apka Colors HD (UK)" tvg-logo="" group-title="INDIA",IN: Apka Colors HD (UK)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79612
+#EXTINF:-1 tvg-id="" tvg-name="IN: APlus TV PK" tvg-logo="" group-title="INDIA",IN: APlus TV PK
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79611
+#EXTINF:-1 tvg-id="" tvg-name="IN: APN News" tvg-logo="" group-title="INDIA",IN: APN News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79610
+#EXTINF:-1 tvg-id="" tvg-name="IN: Apna Punjab" tvg-logo="" group-title="INDIA",IN: Apna Punjab
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79609
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aradhana TV" tvg-logo="" group-title="INDIA",IN: Aradhana TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79608
+#EXTINF:-1 tvg-id="" tvg-name="IN: ARIHANT TV" tvg-logo="" group-title="INDIA",IN: ARIHANT TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79607
+#EXTINF:-1 tvg-id="" tvg-name="IN: Arre" tvg-logo="" group-title="INDIA",IN: Arre
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79606
+#EXTINF:-1 tvg-id="" tvg-name="IN: ARY DIGITAL PK" tvg-logo="" group-title="INDIA",IN: ARY DIGITAL PK
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79605
+#EXTINF:-1 tvg-id="" tvg-name="IN: Asian TV" tvg-logo="" group-title="INDIA",IN: Asian TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79604
+#EXTINF:-1 tvg-id="" tvg-name="IN: ASIANET HD" tvg-logo="" group-title="INDIA",IN: ASIANET HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79603
+#EXTINF:-1 tvg-id="" tvg-name="IN: ASIANET ME" tvg-logo="" group-title="INDIA",IN: ASIANET ME
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79602
+#EXTINF:-1 tvg-id="" tvg-name="IN: AsiaNet Movies" tvg-logo="" group-title="INDIA",IN: AsiaNet Movies
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79601
+#EXTINF:-1 tvg-id="" tvg-name="IN: Asianet News" tvg-logo="" group-title="INDIA",IN: Asianet News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79600
+#EXTINF:-1 tvg-id="" tvg-name="IN: Asianet Plus HD" tvg-logo="" group-title="INDIA",IN: Asianet Plus HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79599
+#EXTINF:-1 tvg-id="" tvg-name="IN: Assam Talks" tvg-logo="" group-title="INDIA",IN: Assam Talks
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79598
+#EXTINF:-1 tvg-id="" tvg-name="IN: Astro Flix" tvg-logo="" group-title="INDIA",IN: Astro Flix
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79597
+#EXTINF:-1 tvg-id="" tvg-name="IN: ATN News" tvg-logo="" group-title="INDIA",IN: ATN News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79596
+#EXTINF:-1 tvg-id="" tvg-name="IN: AXN HD" tvg-logo="" group-title="INDIA",IN: AXN HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79595
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ayush TV" tvg-logo="" group-title="INDIA",IN: Ayush TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79594
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Aflam" tvg-logo="" group-title="INDIA",IN: B4U Aflam
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79593
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U MOVIES" tvg-logo="" group-title="INDIA",IN: B4U MOVIES
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79592
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U MOVIES (UK)" tvg-logo="" group-title="INDIA",IN: B4U MOVIES (UK)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79591
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U MUSIC (UK)" tvg-logo="" group-title="INDIA",IN: B4U MUSIC (UK)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79590
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Music HD" tvg-logo="" group-title="INDIA",IN: B4U Music HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79589
+#EXTINF:-1 tvg-id="" tvg-name="IN: B4U PLUS" tvg-logo="" group-title="INDIA",IN: B4U PLUS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79588
+#EXTINF:-1 tvg-id="" tvg-name="IN: Balle Balle" tvg-logo="" group-title="INDIA",IN: Balle Balle
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79587
+#EXTINF:-1 tvg-id="" tvg-name="IN: BANGLA" tvg-logo="" group-title="INDIA",IN: BANGLA
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79586
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bangla Time" tvg-logo="" group-title="INDIA",IN: Bangla Time
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79585
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bansal News" tvg-logo="" group-title="INDIA",IN: Bansal News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79584
+#EXTINF:-1 tvg-id="" tvg-name="IN: BBC EARTH HD" tvg-logo="" group-title="INDIA",IN: BBC EARTH HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79583
+#EXTINF:-1 tvg-id="" tvg-name="IN: BBC WORLD NEWS" tvg-logo="" group-title="INDIA",IN: BBC WORLD NEWS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79582
+#EXTINF:-1 tvg-id="" tvg-name="IN: BBO Classics" tvg-logo="" group-title="INDIA",IN: BBO Classics
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79581
+#EXTINF:-1 tvg-id="" tvg-name="IN: BBO HD" tvg-logo="" group-title="INDIA",IN: BBO HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79580
+#EXTINF:-1 tvg-id="" tvg-name="IN: BBO Hindi movies" tvg-logo="" group-title="INDIA",IN: BBO Hindi movies
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79579
+#EXTINF:-1 tvg-id="" tvg-name="IN: BHAI RANJIT SINGH NEW" tvg-logo="" group-title="INDIA",IN: BHAI RANJIT SINGH NEW
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79578
+#EXTINF:-1 tvg-id="" tvg-name="IN: BHAKTI SAGAR" tvg-logo="" group-title="INDIA",IN: BHAKTI SAGAR
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79577
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bhakti TV" tvg-logo="" group-title="INDIA",IN: Bhakti TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79576
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bhaktisagar 2" tvg-logo="" group-title="INDIA",IN: Bhaktisagar 2
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79575
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bharat Samachar" tvg-logo="" group-title="INDIA",IN: Bharat Samachar
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79574
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bhojpuri Cinema" tvg-logo="" group-title="INDIA",IN: Bhojpuri Cinema
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79573
+#EXTINF:-1 tvg-id="" tvg-name="IN: BIG GANGA" tvg-logo="" group-title="INDIA",IN: BIG GANGA
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79572
+#EXTINF:-1 tvg-id="" tvg-name="IN: BIG MAGIC" tvg-logo="" group-title="INDIA",IN: BIG MAGIC
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79571
+#EXTINF:-1 tvg-id="" tvg-name="IN: BINDASS PLAY" tvg-logo="" group-title="INDIA",IN: BINDASS PLAY
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79570
+#EXTINF:-1 tvg-id="" tvg-name="IN: BLOOMBERG QUINT" tvg-logo="" group-title="INDIA",IN: BLOOMBERG QUINT
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79569
+#EXTINF:-1 tvg-id="" tvg-name="IN: BOISHAKHI TV" tvg-logo="" group-title="INDIA",IN: BOISHAKHI TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79568
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bollywood Best Movies FHD" tvg-logo="" group-title="INDIA",IN: Bollywood Best Movies FHD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79567
+#EXTINF:-1 tvg-id="" tvg-name="IN: Boogle Bollywood HD" tvg-logo="" group-title="INDIA",IN: Boogle Bollywood HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79566
+#EXTINF:-1 tvg-id="" tvg-name="IN: Brit Asia (UK)" tvg-logo="" group-title="INDIA",IN: Brit Asia (UK)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79565
+#EXTINF:-1 tvg-id="" tvg-name="IN: Brit Asia TV" tvg-logo="" group-title="INDIA",IN: Brit Asia TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79564
+#EXTINF:-1 tvg-id="" tvg-name="IN: BTV" tvg-logo="" group-title="INDIA",IN: BTV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79563
+#EXTINF:-1 tvg-id="" tvg-name="IN: BTV World" tvg-logo="" group-title="INDIA",IN: BTV World
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79562
+#EXTINF:-1 tvg-id="" tvg-name="IN: BTVi" tvg-logo="" group-title="INDIA",IN: BTVi
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79561
+#EXTINF:-1 tvg-id="" tvg-name="IN: Captain News" tvg-logo="" group-title="INDIA",IN: Captain News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79560
+#EXTINF:-1 tvg-id="" tvg-name="IN: CAPTAIN TV" tvg-logo="" group-title="INDIA",IN: CAPTAIN TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79559
+#EXTINF:-1 tvg-id="" tvg-name="IN: Care World" tvg-logo="" group-title="INDIA",IN: Care World
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79558
+#EXTINF:-1 tvg-id="" tvg-name="IN: CARTOON 24 HD" tvg-logo="" group-title="INDIA",IN: CARTOON 24 HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79557
+#EXTINF:-1 tvg-id="" tvg-name="IN: Cartoon Network" tvg-logo="" group-title="INDIA",IN: Cartoon Network
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79556
+#EXTINF:-1 tvg-id="" tvg-name="IN: Cartoon Network Hindi" tvg-logo="" group-title="INDIA",IN: Cartoon Network Hindi
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79555
+#EXTINF:-1 tvg-id="" tvg-name="IN: Cartoon Network Tamil" tvg-logo="" group-title="INDIA",IN: Cartoon Network Tamil
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79554
+#EXTINF:-1 tvg-id="" tvg-name="IN: Cartoon Network Telugu" tvg-logo="" group-title="INDIA",IN: Cartoon Network Telugu
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79553
+#EXTINF:-1 tvg-id="" tvg-name="IN: Cauvery News" tvg-logo="" group-title="INDIA",IN: Cauvery News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79552
+#EXTINF:-1 tvg-id="" tvg-name="IN: Channel 9" tvg-logo="" group-title="INDIA",IN: Channel 9
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79551
+#EXTINF:-1 tvg-id="" tvg-name="IN: Channel I HD" tvg-logo="" group-title="INDIA",IN: Channel I HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79550
+#EXTINF:-1 tvg-id="" tvg-name="IN: Channel News Asia International" tvg-logo="" group-title="INDIA",IN: Channel News Asia International
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79549
+#EXTINF:-1 tvg-id="" tvg-name="IN: Channel One News" tvg-logo="" group-title="INDIA",IN: Channel One News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79548
+#EXTINF:-1 tvg-id="" tvg-name="IN: CHANNEL WIN" tvg-logo="" group-title="INDIA",IN: CHANNEL WIN
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79547
+#EXTINF:-1 tvg-id="" tvg-name="IN: CHANNEL Y" tvg-logo="" group-title="INDIA",IN: CHANNEL Y
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79546
+#EXTINF:-1 tvg-id="" tvg-name="IN: Chardikla Time Tv" tvg-logo="" group-title="INDIA",IN: Chardikla Time Tv
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79545
+#EXTINF:-1 tvg-id="" tvg-name="IN: Chintu TV" tvg-logo="" group-title="INDIA",IN: Chintu TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79544
+#EXTINF:-1 tvg-id="" tvg-name="IN: Chutti TV" tvg-logo="" group-title="INDIA",IN: Chutti TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79543
+#EXTINF:-1 tvg-id="" tvg-name="IN: CINEMA TV" tvg-logo="" group-title="INDIA",IN: CINEMA TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79542
+#EXTINF:-1 tvg-id="" tvg-name="IN: CLASSIC TOM & JERRY" tvg-logo="" group-title="INDIA",IN: CLASSIC TOM & JERRY
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79541
+#EXTINF:-1 tvg-id="" tvg-name="IN: CN HD" tvg-logo="" group-title="INDIA",IN: CN HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79540
+#EXTINF:-1 tvg-id="" tvg-name="IN: CN Tamil HD" tvg-logo="" group-title="INDIA",IN: CN Tamil HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79539
+#EXTINF:-1 tvg-id="" tvg-name="IN: CN Telugu HD" tvg-logo="" group-title="INDIA",IN: CN Telugu HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79538
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNBC Awaaz" tvg-logo="" group-title="INDIA",IN: CNBC Awaaz
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79537
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNBC Bazaar MNO" tvg-logo="" group-title="INDIA",IN: CNBC Bazaar MNO
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79536
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNBC NEWS 18" tvg-logo="" group-title="INDIA",IN: CNBC NEWS 18
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79535
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNBC Tv 18" tvg-logo="" group-title="INDIA",IN: CNBC Tv 18
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79534
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNN" tvg-logo="" group-title="INDIA",IN: CNN
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79533
+#EXTINF:-1 tvg-id="" tvg-name="IN: CNN NEW 18" tvg-logo="" group-title="INDIA",IN: CNN NEW 18
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79532
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Bengali HD" tvg-logo="" group-title="INDIA",IN: COLORS Bengali HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79531
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Gujarati" tvg-logo="" group-title="INDIA",IN: COLORS Gujarati
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79530
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS HD" tvg-logo="" group-title="INDIA",IN: COLORS HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79529
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS INFINITY HD" tvg-logo="" group-title="INDIA",IN: COLORS INFINITY HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79528
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Kannada HD" tvg-logo="" group-title="INDIA",IN: COLORS Kannada HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79527
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Marathi HD" tvg-logo="" group-title="INDIA",IN: COLORS Marathi HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79526
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Oriya" tvg-logo="" group-title="INDIA",IN: COLORS Oriya
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79525
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Super" tvg-logo="" group-title="INDIA",IN: COLORS Super
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79524
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS Tamil HD" tvg-logo="" group-title="INDIA",IN: COLORS Tamil HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79523
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS TV (UK)" tvg-logo="" group-title="INDIA",IN: COLORS TV (UK)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79522
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS USA" tvg-logo="" group-title="INDIA",IN: COLORS USA
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79521
+#EXTINF:-1 tvg-id="" tvg-name="IN: Comedy Central HD" tvg-logo="" group-title="INDIA",IN: Comedy Central HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79520
+#EXTINF:-1 tvg-id="" tvg-name="IN: CVR English" tvg-logo="" group-title="INDIA",IN: CVR English
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79519
+#EXTINF:-1 tvg-id="" tvg-name="IN: CVR Health" tvg-logo="" group-title="INDIA",IN: CVR Health
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79518
+#EXTINF:-1 tvg-id="" tvg-name="IN: CVR News" tvg-logo="" group-title="INDIA",IN: CVR News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79517
+#EXTINF:-1 tvg-id="" tvg-name="IN: CVR OM Spiritual" tvg-logo="" group-title="INDIA",IN: CVR OM Spiritual
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79516
+#EXTINF:-1 tvg-id="" tvg-name="IN: DABANG TV" tvg-logo="" group-title="INDIA",IN: DABANG TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79515
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dabangg" tvg-logo="" group-title="INDIA",IN: Dabangg
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79514
+#EXTINF:-1 tvg-id="" tvg-name="IN: DANGAAL TV" tvg-logo="" group-title="INDIA",IN: DANGAAL TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79513
+#EXTINF:-1 tvg-id="" tvg-name="IN: DANGAL" tvg-logo="" group-title="INDIA",IN: DANGAL
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79512
+#EXTINF:-1 tvg-id="" tvg-name="IN: Darshan 24" tvg-logo="" group-title="INDIA",IN: Darshan 24
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79511
+#EXTINF:-1 tvg-id="" tvg-name="IN: DAWN NEWS PK" tvg-logo="" group-title="INDIA",IN: DAWN NEWS PK
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79510
+#EXTINF:-1 tvg-id="" tvg-name="IN: DBC News" tvg-logo="" group-title="INDIA",IN: DBC News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79509
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Bangla" tvg-logo="" group-title="INDIA",IN: DD Bangla
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79508
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD BHARATI" tvg-logo="" group-title="INDIA",IN: DD BHARATI
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79507
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Bharti" tvg-logo="" group-title="INDIA",IN: DD Bharti
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79506
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Bihar" tvg-logo="" group-title="INDIA",IN: DD Bihar
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79505
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD GIRNAR" tvg-logo="" group-title="INDIA",IN: DD GIRNAR
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79504
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD INDIA" tvg-logo="" group-title="INDIA",IN: DD INDIA
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79503
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Kashir" tvg-logo="" group-title="INDIA",IN: DD Kashir
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79502
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD KISAN" tvg-logo="" group-title="INDIA",IN: DD KISAN
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79501
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Madhya Pradesh" tvg-logo="" group-title="INDIA",IN: DD Madhya Pradesh
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79500
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD MALAYALAM" tvg-logo="" group-title="INDIA",IN: DD MALAYALAM
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79499
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD NATIONAL" tvg-logo="" group-title="INDIA",IN: DD NATIONAL
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79498
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD News" tvg-logo="" group-title="INDIA",IN: DD News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79497
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Oriya" tvg-logo="" group-title="INDIA",IN: DD Oriya
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79496
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD PODHIGAI" tvg-logo="" group-title="INDIA",IN: DD PODHIGAI
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79495
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD PUNJABI" tvg-logo="" group-title="INDIA",IN: DD PUNJABI
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79494
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Rajasthan Jaipur" tvg-logo="" group-title="INDIA",IN: DD Rajasthan Jaipur
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79493
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Rajyasabha" tvg-logo="" group-title="INDIA",IN: DD Rajyasabha
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79492
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Sahayadri" tvg-logo="" group-title="INDIA",IN: DD Sahayadri
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79491
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Saptagiri" tvg-logo="" group-title="INDIA",IN: DD Saptagiri
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79490
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD SPORTS" tvg-logo="" group-title="INDIA",IN: DD SPORTS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79489
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD URDU" tvg-logo="" group-title="INDIA",IN: DD URDU
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79488
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Uttar Pradesh" tvg-logo="" group-title="INDIA",IN: DD Uttar Pradesh
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79487
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD13 Guwahati NE" tvg-logo="" group-title="INDIA",IN: DD13 Guwahati NE
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79486
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD5 Podhigai" tvg-logo="" group-title="INDIA",IN: DD5 Podhigai
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79485
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD9 chandana kannada" tvg-logo="" group-title="INDIA",IN: DD9 chandana kannada
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79484
+#EXTINF:-1 tvg-id="" tvg-name="IN: Deepto TV HD" tvg-logo="" group-title="INDIA",IN: Deepto TV HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79483
+#EXTINF:-1 tvg-id="" tvg-name="IN: DESH TV" tvg-logo="" group-title="INDIA",IN: DESH TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79482
+#EXTINF:-1 tvg-id="" tvg-name="IN: Deshe Bideshe TV" tvg-logo="" group-title="INDIA",IN: Deshe Bideshe TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79481
+#EXTINF:-1 tvg-id="" tvg-name="IN: Deshi TV" tvg-logo="" group-title="INDIA",IN: Deshi TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79480
+#EXTINF:-1 tvg-id="" tvg-name="IN: DESI BEATS" tvg-logo="" group-title="INDIA",IN: DESI BEATS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79479
+#EXTINF:-1 tvg-id="" tvg-name="IN: Desi Channel" tvg-logo="" group-title="INDIA",IN: Desi Channel
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79478
+#EXTINF:-1 tvg-id="" tvg-name="IN: Desi Plus HD" tvg-logo="" group-title="INDIA",IN: Desi Plus HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79477
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dhamaal TV" tvg-logo="" group-title="INDIA",IN: Dhamaal TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79476
+#EXTINF:-1 tvg-id="" tvg-name="IN: DHOOM" tvg-logo="" group-title="INDIA",IN: DHOOM
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79475
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dhoom Music" tvg-logo="" group-title="INDIA",IN: Dhoom Music
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79474
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dighvijay TV" tvg-logo="" group-title="INDIA",IN: Dighvijay TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79473
+#EXTINF:-1 tvg-id="" tvg-name="IN: DILLAGI TV" tvg-logo="" group-title="INDIA",IN: DILLAGI TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79472
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dilse" tvg-logo="" group-title="INDIA",IN: Dilse
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79471
+#EXTINF:-1 tvg-id="" tvg-name="IN: DIN NEWS PK HD" tvg-logo="" group-title="INDIA",IN: DIN NEWS PK HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79470
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery CHANNEL HD" tvg-logo="" group-title="INDIA",IN: Discovery CHANNEL HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79469
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery JEET HD" tvg-logo="" group-title="INDIA",IN: Discovery JEET HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79468
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery KIDS" tvg-logo="" group-title="INDIA",IN: Discovery KIDS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79467
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery Kids 1" tvg-logo="" group-title="INDIA",IN: Discovery Kids 1
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79466
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery Kids 2" tvg-logo="" group-title="INDIA",IN: Discovery Kids 2
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79465
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery Kids Tamil" tvg-logo="" group-title="INDIA",IN: Discovery Kids Tamil
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79464
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery Science" tvg-logo="" group-title="INDIA",IN: Discovery Science
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79463
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery Turbo" tvg-logo="" group-title="INDIA",IN: Discovery Turbo
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79462
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery World HD" tvg-logo="" group-title="INDIA",IN: Discovery World HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79461
+#EXTINF:-1 tvg-id="" tvg-name="IN: Disha TV" tvg-logo="" group-title="INDIA",IN: Disha TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79460
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dishum TV" tvg-logo="" group-title="INDIA",IN: Dishum TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79459
+#EXTINF:-1 tvg-id="" tvg-name="IN: DIVYA TV" tvg-logo="" group-title="INDIA",IN: DIVYA TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79458
+#EXTINF:-1 tvg-id="" tvg-name="IN: Divya Vani" tvg-logo="" group-title="INDIA",IN: Divya Vani
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79457
+#EXTINF:-1 tvg-id="" tvg-name="IN: DNN" tvg-logo="" group-title="INDIA",IN: DNN
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79456
+#EXTINF:-1 tvg-id="" tvg-name="IN: DSPORT HD" tvg-logo="" group-title="INDIA",IN: DSPORT HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79455
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dubbed Premium Movies" tvg-logo="" group-title="INDIA",IN: Dubbed Premium Movies
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79454
+#EXTINF:-1 tvg-id="" tvg-name="IN: DUNYA NEWS PK" tvg-logo="" group-title="INDIA",IN: DUNYA NEWS PK
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79453
+#EXTINF:-1 tvg-id="" tvg-name="IN: DW" tvg-logo="" group-title="INDIA",IN: DW
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79452
+#EXTINF:-1 tvg-id="" tvg-name="IN: DY 365" tvg-logo="" group-title="INDIA",IN: DY 365
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79451
+#EXTINF:-1 tvg-id="" tvg-name="IN: E! 24" tvg-logo="" group-title="INDIA",IN: E! 24
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79450
+#EXTINF:-1 tvg-id="" tvg-name="IN: E24 MUSIC" tvg-logo="" group-title="INDIA",IN: E24 MUSIC
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79449
+#EXTINF:-1 tvg-id="" tvg-name="IN: E24-Hin" tvg-logo="" group-title="INDIA",IN: E24-Hin
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79448
+#EXTINF:-1 tvg-id="" tvg-name="IN: E9 PUNJABI" tvg-logo="" group-title="INDIA",IN: E9 PUNJABI
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79447
+#EXTINF:-1 tvg-id="" tvg-name="IN: EET TV" tvg-logo="" group-title="INDIA",IN: EET TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79446
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ekatoor TV" tvg-logo="" group-title="INDIA",IN: Ekatoor TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79445
+#EXTINF:-1 tvg-id="" tvg-name="IN: Enter 10" tvg-logo="" group-title="INDIA",IN: Enter 10
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79444
+#EXTINF:-1 tvg-id="" tvg-name="IN: Epic HD" tvg-logo="" group-title="INDIA",IN: Epic HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79443
+#EXTINF:-1 tvg-id="" tvg-name="IN: ET Now" tvg-logo="" group-title="INDIA",IN: ET Now
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79442
+#EXTINF:-1 tvg-id="" tvg-name="IN: ET NOW NEWS" tvg-logo="" group-title="INDIA",IN: ET NOW NEWS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79441
+#EXTINF:-1 tvg-id="" tvg-name="IN: etc" tvg-logo="" group-title="INDIA",IN: etc
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79440
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV" tvg-logo="" group-title="INDIA",IN: ETV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79439
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV Abhiruchi" tvg-logo="" group-title="INDIA",IN: ETV Abhiruchi
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79438
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV Andhra Pradesh" tvg-logo="" group-title="INDIA",IN: ETV Andhra Pradesh
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79437
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV Bangla News" tvg-logo="" group-title="INDIA",IN: ETV Bangla News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79436
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV BIHAR" tvg-logo="" group-title="INDIA",IN: ETV BIHAR
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79435
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV Cinema" tvg-logo="" group-title="INDIA",IN: ETV Cinema
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79434
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV Haryana and HP News" tvg-logo="" group-title="INDIA",IN: ETV Haryana and HP News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79433
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV Kannada News" tvg-logo="" group-title="INDIA",IN: ETV Kannada News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79432
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV Life" tvg-logo="" group-title="INDIA",IN: ETV Life
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79431
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV MP" tvg-logo="" group-title="INDIA",IN: ETV MP
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79430
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV News Gujarati" tvg-logo="" group-title="INDIA",IN: ETV News Gujarati
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79429
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV News Oriya" tvg-logo="" group-title="INDIA",IN: ETV News Oriya
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79428
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV Plus" tvg-logo="" group-title="INDIA",IN: ETV Plus
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79427
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV Telangana" tvg-logo="" group-title="INDIA",IN: ETV Telangana
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79426
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV Telugu" tvg-logo="" group-title="INDIA",IN: ETV Telugu
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79425
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV UP (News)" tvg-logo="" group-title="INDIA",IN: ETV UP (News)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79424
+#EXTINF:-1 tvg-id="" tvg-name="IN: ETV Urdu" tvg-logo="" group-title="INDIA",IN: ETV Urdu
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79423
+#EXTINF:-1 tvg-id="" tvg-name="IN: euronews" tvg-logo="" group-title="INDIA",IN: euronews
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79422
+#EXTINF:-1 tvg-id="" tvg-name="IN: EZ mall (Shop)" tvg-logo="" group-title="INDIA",IN: EZ mall (Shop)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79421
+#EXTINF:-1 tvg-id="" tvg-name="IN: Fakt Marathi" tvg-logo="" group-title="INDIA",IN: Fakt Marathi
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79420
+#EXTINF:-1 tvg-id="" tvg-name="IN: FASHION TV" tvg-logo="" group-title="INDIA",IN: FASHION TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79419
+#EXTINF:-1 tvg-id="" tvg-name="IN: FASTWAY TV" tvg-logo="" group-title="INDIA",IN: FASTWAY TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79418
+#EXTINF:-1 tvg-id="" tvg-name="IN: Fathe TV" tvg-logo="" group-title="INDIA",IN: Fathe TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79417
+#EXTINF:-1 tvg-id="" tvg-name="IN: First India News" tvg-logo="" group-title="INDIA",IN: First India News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79416
+#EXTINF:-1 tvg-id="" tvg-name="IN: Firstdia News" tvg-logo="" group-title="INDIA",IN: Firstdia News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79415
+#EXTINF:-1 tvg-id="" tvg-name="IN: Flowers TV" tvg-logo="" group-title="INDIA",IN: Flowers TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79414
+#EXTINF:-1 tvg-id="" tvg-name="IN: FOOD FOOD HD" tvg-logo="" group-title="INDIA",IN: FOOD FOOD HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79413
+#EXTINF:-1 tvg-id="" tvg-name="IN: France 24" tvg-logo="" group-title="INDIA",IN: France 24
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79412
+#EXTINF:-1 tvg-id="" tvg-name="IN: FYI TV 18" tvg-logo="" group-title="INDIA",IN: FYI TV 18
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79411
+#EXTINF:-1 tvg-id="" tvg-name="IN: GABRUU TV HD" tvg-logo="" group-title="INDIA",IN: GABRUU TV HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79410
+#EXTINF:-1 tvg-id="" tvg-name="IN: Garv" tvg-logo="" group-title="INDIA",IN: Garv
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79409
+#EXTINF:-1 tvg-id="" tvg-name="IN: GARV GURBANI" tvg-logo="" group-title="INDIA",IN: GARV GURBANI
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79408
+#EXTINF:-1 tvg-id="" tvg-name="IN: Garv Punjabi" tvg-logo="" group-title="INDIA",IN: Garv Punjabi
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79407
+#EXTINF:-1 tvg-id="" tvg-name="IN: GAUNDA PUNJAB" tvg-logo="" group-title="INDIA",IN: GAUNDA PUNJAB
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79406
+#EXTINF:-1 tvg-id="" tvg-name="IN: Gemini Comedy" tvg-logo="" group-title="INDIA",IN: Gemini Comedy
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79405
+#EXTINF:-1 tvg-id="" tvg-name="IN: Gemini Life" tvg-logo="" group-title="INDIA",IN: Gemini Life
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79404
+#EXTINF:-1 tvg-id="" tvg-name="IN: Gemini Movies HD" tvg-logo="" group-title="INDIA",IN: Gemini Movies HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79403
+#EXTINF:-1 tvg-id="" tvg-name="IN: Gemini Music HD" tvg-logo="" group-title="INDIA",IN: Gemini Music HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79402
+#EXTINF:-1 tvg-id="" tvg-name="IN: Gemini TV HD" tvg-logo="" group-title="INDIA",IN: Gemini TV HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79401
+#EXTINF:-1 tvg-id="" tvg-name="IN: GEO Kahani HD" tvg-logo="" group-title="INDIA",IN: GEO Kahani HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79400
+#EXTINF:-1 tvg-id="" tvg-name="IN: Geo News PK" tvg-logo="" group-title="INDIA",IN: Geo News PK
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79399
+#EXTINF:-1 tvg-id="" tvg-name="IN: GEO SUPER HD" tvg-logo="" group-title="INDIA",IN: GEO SUPER HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79398
+#EXTINF:-1 tvg-id="" tvg-name="IN: Global Sanjh TV" tvg-logo="" group-title="INDIA",IN: Global Sanjh TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79397
+#EXTINF:-1 tvg-id="" tvg-name="IN: Good Food HD" tvg-logo="" group-title="INDIA",IN: Good Food HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79396
+#EXTINF:-1 tvg-id="" tvg-name="IN: Good News Channel" tvg-logo="" group-title="INDIA",IN: Good News Channel
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79395
+#EXTINF:-1 tvg-id="" tvg-name="IN: GS TV" tvg-logo="" group-title="INDIA",IN: GS TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79394
+#EXTINF:-1 tvg-id="" tvg-name="IN: GTV" tvg-logo="" group-title="INDIA",IN: GTV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79393
+#EXTINF:-1 tvg-id="" tvg-name="IN: Gulistan News" tvg-logo="" group-title="INDIA",IN: Gulistan News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79392
+#EXTINF:-1 tvg-id="" tvg-name="IN: Hamdard TV" tvg-logo="" group-title="INDIA",IN: Hamdard TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79391
+#EXTINF:-1 tvg-id="" tvg-name="IN: HARVEST TV USA" tvg-logo="" group-title="INDIA",IN: HARVEST TV USA
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79390
+#EXTINF:-1 tvg-id="" tvg-name="IN: HBO HD" tvg-logo="" group-title="INDIA",IN: HBO HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79389
+#EXTINF:-1 tvg-id="" tvg-name="IN: Hindi ACTION Movies" tvg-logo="" group-title="INDIA",IN: Hindi ACTION Movies
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79388
+#EXTINF:-1 tvg-id="" tvg-name="IN: Hindi Bhajans HD" tvg-logo="" group-title="INDIA",IN: Hindi Bhajans HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79387
+#EXTINF:-1 tvg-id="" tvg-name="IN: Hindi Khabar" tvg-logo="" group-title="INDIA",IN: Hindi Khabar
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79386
+#EXTINF:-1 tvg-id="" tvg-name="IN: Hindi Premium (Movies)" tvg-logo="" group-title="INDIA",IN: Hindi Premium (Movies)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79385
+#EXTINF:-1 tvg-id="" tvg-name="IN: Hindu Dharmam" tvg-logo="" group-title="INDIA",IN: Hindu Dharmam
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79384
+#EXTINF:-1 tvg-id="" tvg-name="IN: HISTORI TV" tvg-logo="" group-title="INDIA",IN: HISTORI TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79383
+#EXTINF:-1 tvg-id="" tvg-name="IN: HISTORY CHANNEL" tvg-logo="" group-title="INDIA",IN: HISTORY CHANNEL
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79382
+#EXTINF:-1 tvg-id="" tvg-name="IN: HM TV" tvg-logo="" group-title="INDIA",IN: HM TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79381
+#EXTINF:-1 tvg-id="" tvg-name="IN: HNN" tvg-logo="" group-title="INDIA",IN: HNN
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79380
+#EXTINF:-1 tvg-id="" tvg-name="IN: Hollywood dubbed FHD" tvg-logo="" group-title="INDIA",IN: Hollywood dubbed FHD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79379
+#EXTINF:-1 tvg-id="" tvg-name="IN: home shop 18" tvg-logo="" group-title="INDIA",IN: home shop 18
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79378
+#EXTINF:-1 tvg-id="" tvg-name="IN: HOUSE FULL ACTION" tvg-logo="" group-title="INDIA",IN: HOUSE FULL ACTION
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79377
+#EXTINF:-1 tvg-id="" tvg-name="IN: Housefull Movie HD" tvg-logo="" group-title="INDIA",IN: Housefull Movie HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79376
+#EXTINF:-1 tvg-id="" tvg-name="IN: HUM EUROPE PK" tvg-logo="" group-title="INDIA",IN: HUM EUROPE PK
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79375
+#EXTINF:-1 tvg-id="" tvg-name="IN: HUM MASALA HD" tvg-logo="" group-title="INDIA",IN: HUM MASALA HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79374
+#EXTINF:-1 tvg-id="" tvg-name="IN: HUNGAMA" tvg-logo="" group-title="INDIA",IN: HUNGAMA
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79373
+#EXTINF:-1 tvg-id="" tvg-name="IN: I Plus News" tvg-logo="" group-title="INDIA",IN: I Plus News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79372
+#EXTINF:-1 tvg-id="" tvg-name="IN: IBC 24" tvg-logo="" group-title="INDIA",IN: IBC 24
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79371
+#EXTINF:-1 tvg-id="" tvg-name="IN: IBC Bakthi" tvg-logo="" group-title="INDIA",IN: IBC Bakthi
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79370
+#EXTINF:-1 tvg-id="" tvg-name="IN: IBC Comedy" tvg-logo="" group-title="INDIA",IN: IBC Comedy
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79369
+#EXTINF:-1 tvg-id="" tvg-name="IN: IBC Music" tvg-logo="" group-title="INDIA",IN: IBC Music
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79368
+#EXTINF:-1 tvg-id="" tvg-name="IN: IBC Tamil" tvg-logo="" group-title="INDIA",IN: IBC Tamil
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79367
+#EXTINF:-1 tvg-id="" tvg-name="IN: IBN 7" tvg-logo="" group-title="INDIA",IN: IBN 7
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79366
+#EXTINF:-1 tvg-id="" tvg-name="IN: IBN Lokmat" tvg-logo="" group-title="INDIA",IN: IBN Lokmat
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79365
+#EXTINF:-1 tvg-id="" tvg-name="IN: IBN LOKMAT NEWS" tvg-logo="" group-title="INDIA",IN: IBN LOKMAT NEWS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79364
+#EXTINF:-1 tvg-id="" tvg-name="IN: ID" tvg-logo="" group-title="INDIA",IN: ID
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79363
+#EXTINF:-1 tvg-id="" tvg-name="IN: Imagine Movies" tvg-logo="" group-title="INDIA",IN: Imagine Movies
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79362
+#EXTINF:-1 tvg-id="" tvg-name="IN: India News" tvg-logo="" group-title="INDIA",IN: India News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79361
+#EXTINF:-1 tvg-id="" tvg-name="IN: India News Haryana" tvg-logo="" group-title="INDIA",IN: India News Haryana
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79360
+#EXTINF:-1 tvg-id="" tvg-name="IN: India News MP" tvg-logo="" group-title="INDIA",IN: India News MP
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79359
+#EXTINF:-1 tvg-id="" tvg-name="IN: India News Rajasthan" tvg-logo="" group-title="INDIA",IN: India News Rajasthan
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79358
+#EXTINF:-1 tvg-id="" tvg-name="IN: India News UP" tvg-logo="" group-title="INDIA",IN: India News UP
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79357
+#EXTINF:-1 tvg-id="" tvg-name="IN: India Today" tvg-logo="" group-title="INDIA",IN: India Today
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79356
+#EXTINF:-1 tvg-id="" tvg-name="IN: INDIA TODAY NEWS" tvg-logo="" group-title="INDIA",IN: INDIA TODAY NEWS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79355
+#EXTINF:-1 tvg-id="" tvg-name="IN: INDIA TV" tvg-logo="" group-title="INDIA",IN: INDIA TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79354
+#EXTINF:-1 tvg-id="" tvg-name="IN: INN MUSIC" tvg-logo="" group-title="INDIA",IN: INN MUSIC
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79353
+#EXTINF:-1 tvg-id="" tvg-name="IN: Investigation Discovery" tvg-logo="" group-title="INDIA",IN: Investigation Discovery
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79352
+#EXTINF:-1 tvg-id="" tvg-name="IN: ISAI ARUVI" tvg-logo="" group-title="INDIA",IN: ISAI ARUVI
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79351
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ishwar TV" tvg-logo="" group-title="INDIA",IN: Ishwar TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79350
+#EXTINF:-1 tvg-id="" tvg-name="IN: J Movies" tvg-logo="" group-title="INDIA",IN: J Movies
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79349
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jai hind TV" tvg-logo="" group-title="INDIA",IN: Jai hind TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79348
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jalsa Movies HD" tvg-logo="" group-title="INDIA",IN: Jalsa Movies HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79347
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jan TV" tvg-logo="" group-title="INDIA",IN: Jan TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79346
+#EXTINF:-1 tvg-id="" tvg-name="IN: JANAM TV" tvg-logo="" group-title="INDIA",IN: JANAM TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79345
+#EXTINF:-1 tvg-id="" tvg-name="IN: Janta TV" tvg-logo="" group-title="INDIA",IN: Janta TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79344
+#EXTINF:-1 tvg-id="" tvg-name="IN: Janta TV (News)" tvg-logo="" group-title="INDIA",IN: Janta TV (News)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79343
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jantantra" tvg-logo="" group-title="INDIA",IN: Jantantra
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79342
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jaya Jaya Shankara TV" tvg-logo="" group-title="INDIA",IN: Jaya Jaya Shankara TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79341
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jaya Movies HD" tvg-logo="" group-title="INDIA",IN: Jaya Movies HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79340
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jaya Plus" tvg-logo="" group-title="INDIA",IN: Jaya Plus
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79339
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jaya TV HD" tvg-logo="" group-title="INDIA",IN: Jaya TV HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79338
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jeevan TV" tvg-logo="" group-title="INDIA",IN: Jeevan TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79337
+#EXTINF:-1 tvg-id="" tvg-name="IN: JHANJAR TV" tvg-logo="" group-title="INDIA",IN: JHANJAR TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79336
+#EXTINF:-1 tvg-id="" tvg-name="IN: JIO Bollywood Classic HD" tvg-logo="" group-title="INDIA",IN: JIO Bollywood Classic HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79335
+#EXTINF:-1 tvg-id="" tvg-name="IN: JK News" tvg-logo="" group-title="INDIA",IN: JK News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79334
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jonack" tvg-logo="" group-title="INDIA",IN: Jonack
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79333
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jus" tvg-logo="" group-title="INDIA",IN: Jus
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79332
+#EXTINF:-1 tvg-id="" tvg-name="IN: K1 TV" tvg-logo="" group-title="INDIA",IN: K1 TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79331
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kadak Hits" tvg-logo="" group-title="INDIA",IN: Kadak Hits
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79330
+#EXTINF:-1 tvg-id="" tvg-name="IN: KAIRALI TV" tvg-logo="" group-title="INDIA",IN: KAIRALI TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79329
+#EXTINF:-1 tvg-id="" tvg-name="IN: KAIRALI WE TV" tvg-logo="" group-title="INDIA",IN: KAIRALI WE TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79328
+#EXTINF:-1 tvg-id="" tvg-name="IN: KAIRALI-PEOPLE" tvg-logo="" group-title="INDIA",IN: KAIRALI-PEOPLE
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79327
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kalinga TV" tvg-logo="" group-title="INDIA",IN: Kalinga TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79326
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kanak TV" tvg-logo="" group-title="INDIA",IN: Kanak TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79325
+#EXTINF:-1 tvg-id="" tvg-name="IN: KAPPA TV" tvg-logo="" group-title="INDIA",IN: KAPPA TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79324
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kasturi" tvg-logo="" group-title="INDIA",IN: Kasturi
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79323
+#EXTINF:-1 tvg-id="" tvg-name="IN: KAUMUDY TV" tvg-logo="" group-title="INDIA",IN: KAUMUDY TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79322
+#EXTINF:-1 tvg-id="" tvg-name="IN: KERALA VISION" tvg-logo="" group-title="INDIA",IN: KERALA VISION
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79321
+#EXTINF:-1 tvg-id="" tvg-name="IN: Khabar Fast" tvg-logo="" group-title="INDIA",IN: Khabar Fast
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79320
+#EXTINF:-1 tvg-id="" tvg-name="IN: KHALSA TV" tvg-logo="" group-title="INDIA",IN: KHALSA TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79319
+#EXTINF:-1 tvg-id="" tvg-name="IN: KIDZ Sony Yay Hindi" tvg-logo="" group-title="INDIA",IN: KIDZ Sony Yay Hindi
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79318
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kiran TV" tvg-logo="" group-title="INDIA",IN: Kiran TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79317
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kochu TV" tvg-logo="" group-title="INDIA",IN: Kochu TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79316
+#EXTINF:-1 tvg-id="" tvg-name="IN: KTV HD" tvg-logo="" group-title="INDIA",IN: KTV HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79315
+#EXTINF:-1 tvg-id="" tvg-name="IN: LIVE TODAY" tvg-logo="" group-title="INDIA",IN: LIVE TODAY
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79314
+#EXTINF:-1 tvg-id="" tvg-name="IN: LIVING FOOD HD" tvg-logo="" group-title="INDIA",IN: LIVING FOOD HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79313
+#EXTINF:-1 tvg-id="" tvg-name="IN: Living Foodz" tvg-logo="" group-title="INDIA",IN: Living Foodz
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79312
+#EXTINF:-1 tvg-id="" tvg-name="IN: Living India News" tvg-logo="" group-title="INDIA",IN: Living India News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79311
+#EXTINF:-1 tvg-id="" tvg-name="IN: Lord Buddha" tvg-logo="" group-title="INDIA",IN: Lord Buddha
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79310
+#EXTINF:-1 tvg-id="" tvg-name="IN: Lotus News" tvg-logo="" group-title="INDIA",IN: Lotus News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79309
+#EXTINF:-1 tvg-id="" tvg-name="IN: LOVE 7" tvg-logo="" group-title="INDIA",IN: LOVE 7
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79308
+#EXTINF:-1 tvg-id="" tvg-name="IN: maa gold" tvg-logo="" group-title="INDIA",IN: maa gold
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79307
+#EXTINF:-1 tvg-id="" tvg-name="IN: Maa Gold Movies" tvg-logo="" group-title="INDIA",IN: Maa Gold Movies
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79306
+#EXTINF:-1 tvg-id="" tvg-name="IN: Maa HD" tvg-logo="" group-title="INDIA",IN: Maa HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79305
+#EXTINF:-1 tvg-id="" tvg-name="IN: Maa Movies" tvg-logo="" group-title="INDIA",IN: Maa Movies
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79304
+#EXTINF:-1 tvg-id="" tvg-name="IN: Madhimugam TV" tvg-logo="" group-title="INDIA",IN: Madhimugam TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79303
+#EXTINF:-1 tvg-id="" tvg-name="IN: Magic bricks Now" tvg-logo="" group-title="INDIA",IN: Magic bricks Now
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79302
+#EXTINF:-1 tvg-id="" tvg-name="IN: Maha Movies" tvg-logo="" group-title="INDIA",IN: Maha Movies
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79301
+#EXTINF:-1 tvg-id="" tvg-name="IN: Maha News" tvg-logo="" group-title="INDIA",IN: Maha News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79300
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mahua Plus" tvg-logo="" group-title="INDIA",IN: Mahua Plus
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79299
+#EXTINF:-1 tvg-id="" tvg-name="IN: Maiboli" tvg-logo="" group-title="INDIA",IN: Maiboli
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79298
+#EXTINF:-1 tvg-id="" tvg-name="IN: MAKKAL TV" tvg-logo="" group-title="INDIA",IN: MAKKAL TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79297
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mala AsiaNet" tvg-logo="" group-title="INDIA",IN: Mala AsiaNet
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79296
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mala Kairali We" tvg-logo="" group-title="INDIA",IN: Mala Kairali We
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79295
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mala Manorama" tvg-logo="" group-title="INDIA",IN: Mala Manorama
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79294
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mala People" tvg-logo="" group-title="INDIA",IN: Mala People
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79293
+#EXTINF:-1 tvg-id="" tvg-name="IN: Malayalam Asianet" tvg-logo="" group-title="INDIA",IN: Malayalam Asianet
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79292
+#EXTINF:-1 tvg-id="" tvg-name="IN: Malayalam Asianet News" tvg-logo="" group-title="INDIA",IN: Malayalam Asianet News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79291
+#EXTINF:-1 tvg-id="" tvg-name="IN: Malayalam Asianet Utsav Plus" tvg-logo="" group-title="INDIA",IN: Malayalam Asianet Utsav Plus
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79290
+#EXTINF:-1 tvg-id="" tvg-name="IN: Malayalam Flowers TV" tvg-logo="" group-title="INDIA",IN: Malayalam Flowers TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79289
+#EXTINF:-1 tvg-id="" tvg-name="IN: Malayalam Janam TV HD" tvg-logo="" group-title="INDIA",IN: Malayalam Janam TV HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79288
+#EXTINF:-1 tvg-id="" tvg-name="IN: Malayalam Kaumudi" tvg-logo="" group-title="INDIA",IN: Malayalam Kaumudi
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79287
+#EXTINF:-1 tvg-id="" tvg-name="IN: Malayalam Manorama" tvg-logo="" group-title="INDIA",IN: Malayalam Manorama
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79286
+#EXTINF:-1 tvg-id="" tvg-name="IN: Malayalam Media Net" tvg-logo="" group-title="INDIA",IN: Malayalam Media Net
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79285
+#EXTINF:-1 tvg-id="" tvg-name="IN: Malayalam News 18" tvg-logo="" group-title="INDIA",IN: Malayalam News 18
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79284
+#EXTINF:-1 tvg-id="" tvg-name="IN: Malayalam Surya HD" tvg-logo="" group-title="INDIA",IN: Malayalam Surya HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79283
+#EXTINF:-1 tvg-id="" tvg-name="IN: MANGLAM TV" tvg-logo="" group-title="INDIA",IN: MANGLAM TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79282
+#EXTINF:-1 tvg-id="" tvg-name="IN: Manoranjan TV" tvg-logo="" group-title="INDIA",IN: Manoranjan TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79281
+#EXTINF:-1 tvg-id="" tvg-name="IN: Marathi 9x Jhakaas" tvg-logo="" group-title="INDIA",IN: Marathi 9x Jhakaas
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79280
+#EXTINF:-1 tvg-id="" tvg-name="IN: Marathi ABP Majha" tvg-logo="" group-title="INDIA",IN: Marathi ABP Majha
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79279
+#EXTINF:-1 tvg-id="" tvg-name="IN: Marathi DD Sahyadri" tvg-logo="" group-title="INDIA",IN: Marathi DD Sahyadri
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79278
+#EXTINF:-1 tvg-id="" tvg-name="IN: Marathi Sangeet" tvg-logo="" group-title="INDIA",IN: Marathi Sangeet
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79277
+#EXTINF:-1 tvg-id="" tvg-name="IN: Marathi Zee 24 Taas" tvg-logo="" group-title="INDIA",IN: Marathi Zee 24 Taas
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79276
+#EXTINF:-1 tvg-id="" tvg-name="IN: Marathi Zee Marathi HD" tvg-logo="" group-title="INDIA",IN: Marathi Zee Marathi HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79275
+#EXTINF:-1 tvg-id="" tvg-name="IN: Marathi Zee Talkies HD" tvg-logo="" group-title="INDIA",IN: Marathi Zee Talkies HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79274
+#EXTINF:-1 tvg-id="" tvg-name="IN: MASTII" tvg-logo="" group-title="INDIA",IN: MASTII
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79273
+#EXTINF:-1 tvg-id="" tvg-name="IN: MASTII MUSIC" tvg-logo="" group-title="INDIA",IN: MASTII MUSIC
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79272
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mastiii" tvg-logo="" group-title="INDIA",IN: Mastiii
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79271
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mathrubhumi News" tvg-logo="" group-title="INDIA",IN: Mathrubhumi News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79270
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mazavali Manorama HD" tvg-logo="" group-title="INDIA",IN: Mazavali Manorama HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79269
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mazhavil Manorama" tvg-logo="" group-title="INDIA",IN: Mazhavil Manorama
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79268
+#EXTINF:-1 tvg-id="" tvg-name="IN: MBC" tvg-logo="" group-title="INDIA",IN: MBC
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79267
+#EXTINF:-1 tvg-id="" tvg-name="IN: MBC BOLLYWOOD HD" tvg-logo="" group-title="INDIA",IN: MBC BOLLYWOOD HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79266
+#EXTINF:-1 tvg-id="" tvg-name="IN: Media One TV" tvg-logo="" group-title="INDIA",IN: Media One TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79265
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mh One News" tvg-logo="" group-title="INDIA",IN: Mh One News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79264
+#EXTINF:-1 tvg-id="" tvg-name="IN: MH1 MUSIC HD" tvg-logo="" group-title="INDIA",IN: MH1 MUSIC HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79263
+#EXTINF:-1 tvg-id="" tvg-name="IN: MH1 NEWS" tvg-logo="" group-title="INDIA",IN: MH1 NEWS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79262
+#EXTINF:-1 tvg-id="" tvg-name="IN: MH1 SHARDDHA" tvg-logo="" group-title="INDIA",IN: MH1 SHARDDHA
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79261
+#EXTINF:-1 tvg-id="" tvg-name="IN: mh1 Shraddha" tvg-logo="" group-title="INDIA",IN: mh1 Shraddha
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79260
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mirror Now" tvg-logo="" group-title="INDIA",IN: Mirror Now
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79259
+#EXTINF:-1 tvg-id="" tvg-name="IN: MK Music" tvg-logo="" group-title="INDIA",IN: MK Music
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79258
+#EXTINF:-1 tvg-id="" tvg-name="IN: MK News" tvg-logo="" group-title="INDIA",IN: MK News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79257
+#EXTINF:-1 tvg-id="" tvg-name="IN: MK TV" tvg-logo="" group-title="INDIA",IN: MK TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79256
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mohana" tvg-logo="" group-title="INDIA",IN: Mohana
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79255
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mojo TV" tvg-logo="" group-title="INDIA",IN: Mojo TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79254
+#EXTINF:-1 tvg-id="" tvg-name="IN: MOON TV" tvg-logo="" group-title="INDIA",IN: MOON TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79253
+#EXTINF:-1 tvg-id="" tvg-name="IN: MOVIES NOW HD" tvg-logo="" group-title="INDIA",IN: MOVIES NOW HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79252
+#EXTINF:-1 tvg-id="" tvg-name="IN: Movies Now2 HD" tvg-logo="" group-title="INDIA",IN: Movies Now2 HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79251
+#EXTINF:-1 tvg-id="" tvg-name="IN: Movies OK" tvg-logo="" group-title="INDIA",IN: Movies OK
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79250
+#EXTINF:-1 tvg-id="" tvg-name="IN: MTV" tvg-logo="" group-title="INDIA",IN: MTV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79249
+#EXTINF:-1 tvg-id="" tvg-name="IN: MTV BEATS HD" tvg-logo="" group-title="INDIA",IN: MTV BEATS HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79248
+#EXTINF:-1 tvg-id="" tvg-name="IN: MTV HD Plus" tvg-logo="" group-title="INDIA",IN: MTV HD Plus
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79247
+#EXTINF:-1 tvg-id="" tvg-name="IN: MTV INDIA" tvg-logo="" group-title="INDIA",IN: MTV INDIA
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79246
+#EXTINF:-1 tvg-id="" tvg-name="IN: MUSIC" tvg-logo="" group-title="INDIA",IN: MUSIC
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79245
+#EXTINF:-1 tvg-id="" tvg-name="IN: Music E24" tvg-logo="" group-title="INDIA",IN: Music E24
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79244
+#EXTINF:-1 tvg-id="" tvg-name="IN: MUSIC EXPRESS" tvg-logo="" group-title="INDIA",IN: MUSIC EXPRESS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79243
+#EXTINF:-1 tvg-id="" tvg-name="IN: MUSIC INDIA HD" tvg-logo="" group-title="INDIA",IN: MUSIC INDIA HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79242
+#EXTINF:-1 tvg-id="" tvg-name="IN: MY TV" tvg-logo="" group-title="INDIA",IN: MY TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79241
+#EXTINF:-1 tvg-id="" tvg-name="IN: Nambikkai" tvg-logo="" group-title="INDIA",IN: Nambikkai
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79240
+#EXTINF:-1 tvg-id="" tvg-name="IN: NAT GEO HD" tvg-logo="" group-title="INDIA",IN: NAT GEO HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79239
+#EXTINF:-1 tvg-id="" tvg-name="IN: NAT GEO WILD HD" tvg-logo="" group-title="INDIA",IN: NAT GEO WILD HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79238
+#EXTINF:-1 tvg-id="" tvg-name="IN: National Voice" tvg-logo="" group-title="INDIA",IN: National Voice
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79237
+#EXTINF:-1 tvg-id="" tvg-name="IN: Naxatra News" tvg-logo="" group-title="INDIA",IN: Naxatra News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79236
+#EXTINF:-1 tvg-id="" tvg-name="IN: NAZRANA" tvg-logo="" group-title="INDIA",IN: NAZRANA
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79235
+#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV" tvg-logo="" group-title="INDIA",IN: NDTV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79234
+#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV 24x7" tvg-logo="" group-title="INDIA",IN: NDTV 24x7
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79233
+#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV GOOD TIMES" tvg-logo="" group-title="INDIA",IN: NDTV GOOD TIMES
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79232
+#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV India" tvg-logo="" group-title="INDIA",IN: NDTV India
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79231
+#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV PRIME" tvg-logo="" group-title="INDIA",IN: NDTV PRIME
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79230
+#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV Profit" tvg-logo="" group-title="INDIA",IN: NDTV Profit
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79229
+#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV PROFIT NEWS" tvg-logo="" group-title="INDIA",IN: NDTV PROFIT NEWS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79228
+#EXTINF:-1 tvg-id="" tvg-name="IN: Nepal One" tvg-logo="" group-title="INDIA",IN: Nepal One
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79227
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 1 India" tvg-logo="" group-title="INDIA",IN: News 1 India
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79226
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 11" tvg-logo="" group-title="INDIA",IN: News 11
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79225
+#EXTINF:-1 tvg-id="" tvg-name="IN: NEWS 18" tvg-logo="" group-title="INDIA",IN: NEWS 18
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79224
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 24 HD" tvg-logo="" group-title="INDIA",IN: News 24 HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79223
+#EXTINF:-1 tvg-id="" tvg-name="IN: NEWS 7" tvg-logo="" group-title="INDIA",IN: NEWS 7
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79222
+#EXTINF:-1 tvg-id="" tvg-name="IN: News 9" tvg-logo="" group-title="INDIA",IN: News 9
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79221
+#EXTINF:-1 tvg-id="" tvg-name="IN: News India" tvg-logo="" group-title="INDIA",IN: News India
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79220
+#EXTINF:-1 tvg-id="" tvg-name="IN: NEWS NATION" tvg-logo="" group-title="INDIA",IN: NEWS NATION
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79219
+#EXTINF:-1 tvg-id="" tvg-name="IN: News State UK UP" tvg-logo="" group-title="INDIA",IN: News State UK UP
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79218
+#EXTINF:-1 tvg-id="" tvg-name="IN: News Time TV" tvg-logo="" group-title="INDIA",IN: News Time TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79217
+#EXTINF:-1 tvg-id="" tvg-name="IN: News World India" tvg-logo="" group-title="INDIA",IN: News World India
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79216
+#EXTINF:-1 tvg-id="" tvg-name="IN: News X" tvg-logo="" group-title="INDIA",IN: News X
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79215
+#EXTINF:-1 tvg-id="" tvg-name="IN: Newslive" tvg-logo="" group-title="INDIA",IN: Newslive
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79214
+#EXTINF:-1 tvg-id="" tvg-name="IN: Nick Junior" tvg-logo="" group-title="INDIA",IN: Nick Junior
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79213
+#EXTINF:-1 tvg-id="" tvg-name="IN: Nickelodeon" tvg-logo="" group-title="INDIA",IN: Nickelodeon
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79212
+#EXTINF:-1 tvg-id="" tvg-name="IN: NTV" tvg-logo="" group-title="INDIA",IN: NTV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79211
+#EXTINF:-1 tvg-id="" tvg-name="IN: OTV Odisha TV" tvg-logo="" group-title="INDIA",IN: OTV Odisha TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79210
+#EXTINF:-1 tvg-id="" tvg-name="IN: Paras TV" tvg-logo="" group-title="INDIA",IN: Paras TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79209
+#EXTINF:-1 tvg-id="" tvg-name="IN: PBN MUSIC" tvg-logo="" group-title="INDIA",IN: PBN MUSIC
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79208
+#EXTINF:-1 tvg-id="" tvg-name="IN: Peace of Mind" tvg-logo="" group-title="INDIA",IN: Peace of Mind
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79207
+#EXTINF:-1 tvg-id="" tvg-name="IN: PEACE TV URDU" tvg-logo="" group-title="INDIA",IN: PEACE TV URDU
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79206
+#EXTINF:-1 tvg-id="" tvg-name="IN: Peppers TV" tvg-logo="" group-title="INDIA",IN: Peppers TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79205
+#EXTINF:-1 tvg-id="" tvg-name="IN: Pitaara" tvg-logo="" group-title="INDIA",IN: Pitaara
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79204
+#EXTINF:-1 tvg-id="" tvg-name="IN: POGO" tvg-logo="" group-title="INDIA",IN: POGO
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79203
+#EXTINF:-1 tvg-id="" tvg-name="IN: POLIMER NEWS" tvg-logo="" group-title="INDIA",IN: POLIMER NEWS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79202
+#EXTINF:-1 tvg-id="" tvg-name="IN: Polimer TV" tvg-logo="" group-title="INDIA",IN: Polimer TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79201
+#EXTINF:-1 tvg-id="" tvg-name="IN: Prag News" tvg-logo="" group-title="INDIA",IN: Prag News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79200
+#EXTINF:-1 tvg-id="" tvg-name="IN: Prajaa TV" tvg-logo="" group-title="INDIA",IN: Prajaa TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79199
+#EXTINF:-1 tvg-id="" tvg-name="IN: Prameya News 7" tvg-logo="" group-title="INDIA",IN: Prameya News 7
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79198
+#EXTINF:-1 tvg-id="" tvg-name="IN: Prathana TV" tvg-logo="" group-title="INDIA",IN: Prathana TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79197
+#EXTINF:-1 tvg-id="" tvg-name="IN: Pratidin News" tvg-logo="" group-title="INDIA",IN: Pratidin News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79196
+#EXTINF:-1 tvg-id="" tvg-name="IN: Prime Asia HD" tvg-logo="" group-title="INDIA",IN: Prime Asia HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79195
+#EXTINF:-1 tvg-id="" tvg-name="IN: Prime News" tvg-logo="" group-title="INDIA",IN: Prime News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79194
+#EXTINF:-1 tvg-id="" tvg-name="IN: PTC Chak De" tvg-logo="" group-title="INDIA",IN: PTC Chak De
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79193
+#EXTINF:-1 tvg-id="" tvg-name="IN: PTC News" tvg-logo="" group-title="INDIA",IN: PTC News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79192
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ptc Punjab" tvg-logo="" group-title="INDIA",IN: Ptc Punjab
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79191
+#EXTINF:-1 tvg-id="" tvg-name="IN: PTC PUNJABI" tvg-logo="" group-title="INDIA",IN: PTC PUNJABI
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79190
+#EXTINF:-1 tvg-id="" tvg-name="IN: PTV Prime" tvg-logo="" group-title="INDIA",IN: PTV Prime
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79189
+#EXTINF:-1 tvg-id="" tvg-name="IN: PTV Sport" tvg-logo="" group-title="INDIA",IN: PTV Sport
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79188
+#EXTINF:-1 tvg-id="" tvg-name="IN: PUNJABI MOVIES HD" tvg-logo="" group-title="INDIA",IN: PUNJABI MOVIES HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79187
+#EXTINF:-1 tvg-id="" tvg-name="IN: Punjabi Music Mix" tvg-logo="" group-title="INDIA",IN: Punjabi Music Mix
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79186
+#EXTINF:-1 tvg-id="" tvg-name="IN: PUNJABI NEW MOVIES" tvg-logo="" group-title="INDIA",IN: PUNJABI NEW MOVIES
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79185
+#EXTINF:-1 tvg-id="" tvg-name="IN: Puthiya" tvg-logo="" group-title="INDIA",IN: Puthiya
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79184
+#EXTINF:-1 tvg-id="" tvg-name="IN: Puthiya Thalimurai" tvg-logo="" group-title="INDIA",IN: Puthiya Thalimurai
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79183
+#EXTINF:-1 tvg-id="" tvg-name="IN: PUTHUYUGAM TV" tvg-logo="" group-title="INDIA",IN: PUTHUYUGAM TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79182
+#EXTINF:-1 tvg-id="" tvg-name="IN: R Plus News" tvg-logo="" group-title="INDIA",IN: R Plus News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79181
+#EXTINF:-1 tvg-id="" tvg-name="IN: RAJ Digital Plus" tvg-logo="" group-title="INDIA",IN: RAJ Digital Plus
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79180
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj Music Kannada" tvg-logo="" group-title="INDIA",IN: Raj Music Kannada
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79179
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj Music Malayalam" tvg-logo="" group-title="INDIA",IN: Raj Music Malayalam
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79178
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj Music Telugu" tvg-logo="" group-title="INDIA",IN: Raj Music Telugu
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79177
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj Musix" tvg-logo="" group-title="INDIA",IN: Raj Musix
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79176
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj News" tvg-logo="" group-title="INDIA",IN: Raj News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79175
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj News Kannada" tvg-logo="" group-title="INDIA",IN: Raj News Kannada
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79174
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj News Malayalam" tvg-logo="" group-title="INDIA",IN: Raj News Malayalam
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79173
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj News Telugu" tvg-logo="" group-title="INDIA",IN: Raj News Telugu
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79172
+#EXTINF:-1 tvg-id="" tvg-name="IN: Raj TV" tvg-logo="" group-title="INDIA",IN: Raj TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79171
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ramdhenu" tvg-logo="" group-title="INDIA",IN: Ramdhenu
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79170
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rang" tvg-logo="" group-title="INDIA",IN: Rang
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79169
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rengoni" tvg-logo="" group-title="INDIA",IN: Rengoni
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79168
+#EXTINF:-1 tvg-id="" tvg-name="IN: REPUBLIC TV" tvg-logo="" group-title="INDIA",IN: REPUBLIC TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79167
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rishtey" tvg-logo="" group-title="INDIA",IN: Rishtey
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79166
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rishtey (UK)" tvg-logo="" group-title="INDIA",IN: Rishtey (UK)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79165
+#EXTINF:-1 tvg-id="" tvg-name="IN: RISHTEY ASIA" tvg-logo="" group-title="INDIA",IN: RISHTEY ASIA
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79164
+#EXTINF:-1 tvg-id="" tvg-name="IN: RISHTEY CINEPLEX" tvg-logo="" group-title="INDIA",IN: RISHTEY CINEPLEX
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79163
+#EXTINF:-1 tvg-id="" tvg-name="IN: RISHTEY CINEPLEX (UK)" tvg-logo="" group-title="INDIA",IN: RISHTEY CINEPLEX (UK)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79162
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rishtey Europe (UK)" tvg-logo="" group-title="INDIA",IN: Rishtey Europe (UK)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79161
+#EXTINF:-1 tvg-id="" tvg-name="IN: Romedy Now HD" tvg-logo="" group-title="INDIA",IN: Romedy Now HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79160
+#EXTINF:-1 tvg-id="" tvg-name="IN: RPLUS" tvg-logo="" group-title="INDIA",IN: RPLUS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79159
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rujumargam TV" tvg-logo="" group-title="INDIA",IN: Rujumargam TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79158
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rupashi" tvg-logo="" group-title="INDIA",IN: Rupashi
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79157
+#EXTINF:-1 tvg-id="" tvg-name="IN: SA TV" tvg-logo="" group-title="INDIA",IN: SA TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79156
+#EXTINF:-1 tvg-id="" tvg-name="IN: Saab TV" tvg-logo="" group-title="INDIA",IN: Saab TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79155
+#EXTINF:-1 tvg-id="" tvg-name="IN: Saam TV" tvg-logo="" group-title="INDIA",IN: Saam TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79154
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sahana Music" tvg-logo="" group-title="INDIA",IN: Sahana Music
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79153
+#EXTINF:-1 tvg-id="" tvg-name="IN: SAHARA SAMAY" tvg-logo="" group-title="INDIA",IN: SAHARA SAMAY
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79152
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sahara Samay Bihar" tvg-logo="" group-title="INDIA",IN: Sahara Samay Bihar
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79151
+#EXTINF:-1 tvg-id="" tvg-name="IN: SAHARA SAMAY MP" tvg-logo="" group-title="INDIA",IN: SAHARA SAMAY MP
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79150
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sahara Samay Mumbai" tvg-logo="" group-title="INDIA",IN: Sahara Samay Mumbai
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79149
+#EXTINF:-1 tvg-id="" tvg-name="IN: SAHARA SAMAY NEWS" tvg-logo="" group-title="INDIA",IN: SAHARA SAMAY NEWS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79148
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sahara Samay Rastriya" tvg-logo="" group-title="INDIA",IN: Sahara Samay Rastriya
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79147
+#EXTINF:-1 tvg-id="" tvg-name="IN: SaiTV" tvg-logo="" group-title="INDIA",IN: SaiTV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79146
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sakshi TV" tvg-logo="" group-title="INDIA",IN: Sakshi TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79145
+#EXTINF:-1 tvg-id="" tvg-name="IN: Samachar Plus" tvg-logo="" group-title="INDIA",IN: Samachar Plus
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79144
+#EXTINF:-1 tvg-id="" tvg-name="IN: Samay Rajasthan" tvg-logo="" group-title="INDIA",IN: Samay Rajasthan
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79143
+#EXTINF:-1 tvg-id="" tvg-name="IN: SANDESH NEWS" tvg-logo="" group-title="INDIA",IN: SANDESH NEWS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79142
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sangeet Bangla" tvg-logo="" group-title="INDIA",IN: Sangeet Bangla
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79141
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sangeet Bhojpuri" tvg-logo="" group-title="INDIA",IN: Sangeet Bhojpuri
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79140
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sangeet Marathi" tvg-logo="" group-title="INDIA",IN: Sangeet Marathi
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79139
+#EXTINF:-1 tvg-id="" tvg-name="IN: SANJH TV" tvg-logo="" group-title="INDIA",IN: SANJH TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79138
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sanjha Punjab TV" tvg-logo="" group-title="INDIA",IN: Sanjha Punjab TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79137
+#EXTINF:-1 tvg-id="" tvg-name="IN: SANSKAR TV" tvg-logo="" group-title="INDIA",IN: SANSKAR TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79136
+#EXTINF:-1 tvg-id="" tvg-name="IN: Santhora TV" tvg-logo="" group-title="INDIA",IN: Santhora TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79135
+#EXTINF:-1 tvg-id="" tvg-name="IN: Saral Jeevan" tvg-logo="" group-title="INDIA",IN: Saral Jeevan
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79134
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sarthak TV" tvg-logo="" group-title="INDIA",IN: Sarthak TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79133
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sarv Dharam Sangam" tvg-logo="" group-title="INDIA",IN: Sarv Dharam Sangam
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79132
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sathiyam" tvg-logo="" group-title="INDIA",IN: Sathiyam
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79131
+#EXTINF:-1 tvg-id="" tvg-name="IN: SATR GOLD (UK)" tvg-logo="" group-title="INDIA",IN: SATR GOLD (UK)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79130
+#EXTINF:-1 tvg-id="" tvg-name="IN: Satsang TV" tvg-logo="" group-title="INDIA",IN: Satsang TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79129
+#EXTINF:-1 tvg-id="" tvg-name="IN: Shalom" tvg-logo="" group-title="INDIA",IN: Shalom
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79128
+#EXTINF:-1 tvg-id="" tvg-name="IN: Shubh TV" tvg-logo="" group-title="INDIA",IN: Shubh TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79127
+#EXTINF:-1 tvg-id="" tvg-name="IN: Shubhsandesh TV" tvg-logo="" group-title="INDIA",IN: Shubhsandesh TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79126
+#EXTINF:-1 tvg-id="" tvg-name="IN: SIKH Channel" tvg-logo="" group-title="INDIA",IN: SIKH Channel
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79125
+#EXTINF:-1 tvg-id="" tvg-name="IN: Six HD" tvg-logo="" group-title="INDIA",IN: Six HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79124
+#EXTINF:-1 tvg-id="" tvg-name="IN: SK Movies" tvg-logo="" group-title="INDIA",IN: SK Movies
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79123
+#EXTINF:-1 tvg-id="" tvg-name="IN: SMBC TV" tvg-logo="" group-title="INDIA",IN: SMBC TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79122
+#EXTINF:-1 tvg-id="" tvg-name="IN: Soham TV" tvg-logo="" group-title="INDIA",IN: Soham TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79121
+#EXTINF:-1 tvg-id="" tvg-name="IN: Somoy News" tvg-logo="" group-title="INDIA",IN: Somoy News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79120
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sonic" tvg-logo="" group-title="INDIA",IN: Sonic
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79119
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sonic Nickelodeon" tvg-logo="" group-title="INDIA",IN: Sonic Nickelodeon
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79118
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony aath" tvg-logo="" group-title="INDIA",IN: Sony aath
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79117
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony BBC Earth HD" tvg-logo="" group-title="INDIA",IN: Sony BBC Earth HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79116
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Entertainment (UK)" tvg-logo="" group-title="INDIA",IN: Sony Entertainment (UK)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79115
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Entertainment HD" tvg-logo="" group-title="INDIA",IN: Sony Entertainment HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79114
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony ESPN HD" tvg-logo="" group-title="INDIA",IN: Sony ESPN HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79113
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony HD" tvg-logo="" group-title="INDIA",IN: Sony HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79112
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY HD USA HD" tvg-logo="" group-title="INDIA",IN: SONY HD USA HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79111
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY LE PLEX HD" tvg-logo="" group-title="INDIA",IN: SONY LE PLEX HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79110
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Marathi" tvg-logo="" group-title="INDIA",IN: Sony Marathi
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79109
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 2 HD" tvg-logo="" group-title="INDIA",IN: Sony Max 2 HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79108
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max HD" tvg-logo="" group-title="INDIA",IN: Sony Max HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79107
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY MAX USA" tvg-logo="" group-title="INDIA",IN: SONY MAX USA
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79106
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony MIX HD" tvg-logo="" group-title="INDIA",IN: Sony MIX HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79105
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Movie" tvg-logo="" group-title="INDIA",IN: Sony Movie
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79104
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY PAL" tvg-logo="" group-title="INDIA",IN: SONY PAL
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79103
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY PIX FHD" tvg-logo="" group-title="INDIA",IN: SONY PIX FHD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79102
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SAB (UK)" tvg-logo="" group-title="INDIA",IN: Sony SAB (UK)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79101
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SAB FHD" tvg-logo="" group-title="INDIA",IN: Sony SAB FHD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79100
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY SAB WEST" tvg-logo="" group-title="INDIA",IN: SONY SAB WEST
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79099
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Six FHD" tvg-logo="" group-title="INDIA",IN: Sony Six FHD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79098
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY Ten 1 HD" tvg-logo="" group-title="INDIA",IN: SONY Ten 1 HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79097
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TEN 2 HD" tvg-logo="" group-title="INDIA",IN: SONY TEN 2 HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79096
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TEN 3 HD" tvg-logo="" group-title="INDIA",IN: SONY TEN 3 HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79095
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten HD" tvg-logo="" group-title="INDIA",IN: Sony Ten HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79094
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TV ASIA HD" tvg-logo="" group-title="INDIA",IN: SONY TV ASIA HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79093
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY WAH" tvg-logo="" group-title="INDIA",IN: SONY WAH
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79092
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Yay" tvg-logo="" group-title="INDIA",IN: Sony Yay
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79091
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sri Sankara" tvg-logo="" group-title="INDIA",IN: Sri Sankara
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79090
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold FHD" tvg-logo="" group-title="INDIA",IN: Star Gold FHD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79089
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold Select HD" tvg-logo="" group-title="INDIA",IN: Star Gold Select HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79088
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Hindi MoviS HD" tvg-logo="" group-title="INDIA",IN: Star Hindi MoviS HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79087
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Jalsha HD" tvg-logo="" group-title="INDIA",IN: Star Jalsha HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79086
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR MOVIES FHD" tvg-logo="" group-title="INDIA",IN: STAR MOVIES FHD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79085
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies Select HD" tvg-logo="" group-title="INDIA",IN: Star Movies Select HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79084
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR PLUS" tvg-logo="" group-title="INDIA",IN: STAR PLUS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79083
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star plushd" tvg-logo="" group-title="INDIA",IN: Star plushd
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79082
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star pravah" tvg-logo="" group-title="INDIA",IN: Star pravah
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79081
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Vijay HD" tvg-logo="" group-title="INDIA",IN: Star Vijay HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79080
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star World FHD" tvg-logo="" group-title="INDIA",IN: Star World FHD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79079
+#EXTINF:-1 tvg-id="" tvg-name="IN: Studio N" tvg-logo="" group-title="INDIA",IN: Studio N
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79078
+#EXTINF:-1 tvg-id="" tvg-name="IN: Subhavarth TV" tvg-logo="" group-title="INDIA",IN: Subhavarth TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79077
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sudarshan" tvg-logo="" group-title="INDIA",IN: Sudarshan
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79076
+#EXTINF:-1 tvg-id="" tvg-name="IN: SUN LIFE" tvg-logo="" group-title="INDIA",IN: SUN LIFE
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79075
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sun Music HD" tvg-logo="" group-title="INDIA",IN: Sun Music HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79074
+#EXTINF:-1 tvg-id="" tvg-name="IN: SUN NEWS" tvg-logo="" group-title="INDIA",IN: SUN NEWS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79073
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sun Surya" tvg-logo="" group-title="INDIA",IN: Sun Surya
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79072
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sun TV HD" tvg-logo="" group-title="INDIA",IN: Sun TV HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79071
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sur Sagar TV" tvg-logo="" group-title="INDIA",IN: Sur Sagar TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79070
+#EXTINF:-1 tvg-id="" tvg-name="IN: SURYA HD" tvg-logo="" group-title="INDIA",IN: SURYA HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79069
+#EXTINF:-1 tvg-id="" tvg-name="IN: Surya Music" tvg-logo="" group-title="INDIA",IN: Surya Music
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79068
+#EXTINF:-1 tvg-id="" tvg-name="IN: Suvarna HD" tvg-logo="" group-title="INDIA",IN: Suvarna HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79067
+#EXTINF:-1 tvg-id="" tvg-name="IN: Swadesh News" tvg-logo="" group-title="INDIA",IN: Swadesh News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79066
+#EXTINF:-1 tvg-id="" tvg-name="IN: T News" tvg-logo="" group-title="INDIA",IN: T News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79065
+#EXTINF:-1 tvg-id="" tvg-name="IN: Taaza TV" tvg-logo="" group-title="INDIA",IN: Taaza TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79064
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Captain News" tvg-logo="" group-title="INDIA",IN: Tamil Captain News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79063
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Jaya Tv" tvg-logo="" group-title="INDIA",IN: Tamil Jaya Tv
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79062
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil KTV HD" tvg-logo="" group-title="INDIA",IN: Tamil KTV HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79061
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Murasu" tvg-logo="" group-title="INDIA",IN: Tamil Murasu
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79060
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Polimer News" tvg-logo="" group-title="INDIA",IN: Tamil Polimer News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79059
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Raj Digital Plus" tvg-logo="" group-title="INDIA",IN: Tamil Raj Digital Plus
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79058
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Sangamam HD" tvg-logo="" group-title="INDIA",IN: Tamil Sangamam HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79057
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Santhora TV" tvg-logo="" group-title="INDIA",IN: Tamil Santhora TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79056
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Star Vijay HD" tvg-logo="" group-title="INDIA",IN: Tamil Star Vijay HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79055
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Tamil Movie Classics" tvg-logo="" group-title="INDIA",IN: Tamil Tamil Movie Classics
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79054
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Tamil Vision HD" tvg-logo="" group-title="INDIA",IN: Tamil Tamil Vision HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79053
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil VELICHAM TV" tvg-logo="" group-title="INDIA",IN: Tamil VELICHAM TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79052
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Vendhar TV" tvg-logo="" group-title="INDIA",IN: Tamil Vendhar TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79051
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Zee" tvg-logo="" group-title="INDIA",IN: Tamil Zee
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79050
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tarang TV" tvg-logo="" group-title="INDIA",IN: Tarang TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79049
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tehlka News" tvg-logo="" group-title="INDIA",IN: Tehlka News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79048
+#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu Best Movies" tvg-logo="" group-title="INDIA",IN: Telugu Best Movies
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79047
+#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu Box Office HD" tvg-logo="" group-title="INDIA",IN: Telugu Box Office HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79046
+#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu Comedy" tvg-logo="" group-title="INDIA",IN: Telugu Comedy
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79045
+#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu ETV HD" tvg-logo="" group-title="INDIA",IN: Telugu ETV HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79044
+#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu Etv Plus" tvg-logo="" group-title="INDIA",IN: Telugu Etv Plus
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79043
+#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu Etv Telugu HD" tvg-logo="" group-title="INDIA",IN: Telugu Etv Telugu HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79042
+#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu Gemini Comedy" tvg-logo="" group-title="INDIA",IN: Telugu Gemini Comedy
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79041
+#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu Gemini HD" tvg-logo="" group-title="INDIA",IN: Telugu Gemini HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79040
+#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu Gemini Movies HD" tvg-logo="" group-title="INDIA",IN: Telugu Gemini Movies HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79039
+#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu Gemini Music" tvg-logo="" group-title="INDIA",IN: Telugu Gemini Music
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79038
+#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu Hmtv" tvg-logo="" group-title="INDIA",IN: Telugu Hmtv
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79037
+#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu MANA TV HD" tvg-logo="" group-title="INDIA",IN: Telugu MANA TV HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79036
+#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu Studio N" tvg-logo="" group-title="INDIA",IN: Telugu Studio N
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79035
+#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu T News" tvg-logo="" group-title="INDIA",IN: Telugu T News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79034
+#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu Telugu Best Movies" tvg-logo="" group-title="INDIA",IN: Telugu Telugu Best Movies
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79033
+#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu TV 5 News" tvg-logo="" group-title="INDIA",IN: Telugu TV 5 News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79032
+#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu Zee Telugu Cinema" tvg-logo="" group-title="INDIA",IN: Telugu Zee Telugu Cinema
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79031
+#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu Zee Telugu HD" tvg-logo="" group-title="INDIA",IN: Telugu Zee Telugu HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79030
+#EXTINF:-1 tvg-id="" tvg-name="IN: TEN 3 CRICKET" tvg-logo="" group-title="INDIA",IN: TEN 3 CRICKET
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79029
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ten2 HD" tvg-logo="" group-title="INDIA",IN: Ten2 HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79028
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tez" tvg-logo="" group-title="INDIA",IN: Tez
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79027
+#EXTINF:-1 tvg-id="" tvg-name="IN: Thanthi TV" tvg-logo="" group-title="INDIA",IN: Thanthi TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79026
+#EXTINF:-1 tvg-id="" tvg-name="IN: Time Television" tvg-logo="" group-title="INDIA",IN: Time Television
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79025
+#EXTINF:-1 tvg-id="" tvg-name="IN: TIMES" tvg-logo="" group-title="INDIA",IN: TIMES
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79024
+#EXTINF:-1 tvg-id="" tvg-name="IN: Times Now HD" tvg-logo="" group-title="INDIA",IN: Times Now HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79023
+#EXTINF:-1 tvg-id="" tvg-name="IN: Times Now HD (NEWS)" tvg-logo="" group-title="INDIA",IN: Times Now HD (NEWS)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79022
+#EXTINF:-1 tvg-id="" tvg-name="IN: TLC English" tvg-logo="" group-title="INDIA",IN: TLC English
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79021
+#EXTINF:-1 tvg-id="" tvg-name="IN: TLC Hindi" tvg-logo="" group-title="INDIA",IN: TLC Hindi
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79020
+#EXTINF:-1 tvg-id="" tvg-name="IN: TLC WORLD HD" tvg-logo="" group-title="INDIA",IN: TLC WORLD HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79019
+#EXTINF:-1 tvg-id="" tvg-name="IN: Total TV" tvg-logo="" group-title="INDIA",IN: Total TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79018
+#EXTINF:-1 tvg-id="" tvg-name="IN: TRAVEL XP HD" tvg-logo="" group-title="INDIA",IN: TRAVEL XP HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79017
+#EXTINF:-1 tvg-id="" tvg-name="IN: Travel XP Tamil" tvg-logo="" group-title="INDIA",IN: Travel XP Tamil
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79016
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tulja Bhavani" tvg-logo="" group-title="INDIA",IN: Tulja Bhavani
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79015
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV 100" tvg-logo="" group-title="INDIA",IN: TV 100
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79014
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV 5 Kannada" tvg-logo="" group-title="INDIA",IN: TV 5 Kannada
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79013
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV 5 Monde" tvg-logo="" group-title="INDIA",IN: TV 5 Monde
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79012
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV 5 News" tvg-logo="" group-title="INDIA",IN: TV 5 News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79011
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV 84 HD" tvg-logo="" group-title="INDIA",IN: TV 84 HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79010
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tv 9 Gujarat" tvg-logo="" group-title="INDIA",IN: Tv 9 Gujarat
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79009
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV1" tvg-logo="" group-title="INDIA",IN: TV1
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79008
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV9" tvg-logo="" group-title="INDIA",IN: TV9
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79007
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV9 Karnataka" tvg-logo="" group-title="INDIA",IN: TV9 Karnataka
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79006
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV9 Maharashtra" tvg-logo="" group-title="INDIA",IN: TV9 Maharashtra
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79005
+#EXTINF:-1 tvg-id="" tvg-name="IN: TV9 Telugu News" tvg-logo="" group-title="INDIA",IN: TV9 Telugu News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79004
+#EXTINF:-1 tvg-id="" tvg-name="IN: Udaya Comedy" tvg-logo="" group-title="INDIA",IN: Udaya Comedy
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79003
+#EXTINF:-1 tvg-id="" tvg-name="IN: Udaya HD" tvg-logo="" group-title="INDIA",IN: Udaya HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79002
+#EXTINF:-1 tvg-id="" tvg-name="IN: Udaya Movies" tvg-logo="" group-title="INDIA",IN: Udaya Movies
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79001
+#EXTINF:-1 tvg-id="" tvg-name="IN: Udaya Music" tvg-logo="" group-title="INDIA",IN: Udaya Music
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/79000
+#EXTINF:-1 tvg-id="" tvg-name="IN: UTV ACTION" tvg-logo="" group-title="INDIA",IN: UTV ACTION
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78999
+#EXTINF:-1 tvg-id="" tvg-name="IN: UTV HD" tvg-logo="" group-title="INDIA",IN: UTV HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78998
+#EXTINF:-1 tvg-id="" tvg-name="IN: V6 News" tvg-logo="" group-title="INDIA",IN: V6 News
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78997
+#EXTINF:-1 tvg-id="" tvg-name="IN: Vanitha" tvg-logo="" group-title="INDIA",IN: Vanitha
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78996
+#EXTINF:-1 tvg-id="" tvg-name="IN: VASANTH TV" tvg-logo="" group-title="INDIA",IN: VASANTH TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78995
+#EXTINF:-1 tvg-id="" tvg-name="IN: Vedic TV" tvg-logo="" group-title="INDIA",IN: Vedic TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78994
+#EXTINF:-1 tvg-id="" tvg-name="IN: Vendhar TV" tvg-logo="" group-title="INDIA",IN: Vendhar TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78993
+#EXTINF:-1 tvg-id="" tvg-name="IN: Vissa TV" tvg-logo="" group-title="INDIA",IN: Vissa TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78992
+#EXTINF:-1 tvg-id="" tvg-name="IN: VRAK HD" tvg-logo="" group-title="INDIA",IN: VRAK HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78991
+#EXTINF:-1 tvg-id="" tvg-name="IN: VTV Gujarati" tvg-logo="" group-title="INDIA",IN: VTV Gujarati
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78990
+#EXTINF:-1 tvg-id="" tvg-name="IN: WB" tvg-logo="" group-title="INDIA",IN: WB
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78989
+#EXTINF:-1 tvg-id="" tvg-name="IN: WILLOW CRICKET HD" tvg-logo="" group-title="INDIA",IN: WILLOW CRICKET HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78988
+#EXTINF:-1 tvg-id="" tvg-name="IN: WIN TV" tvg-logo="" group-title="INDIA",IN: WIN TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78987
+#EXTINF:-1 tvg-id="" tvg-name="IN: Wion News (News)" tvg-logo="" group-title="INDIA",IN: Wion News (News)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78986
+#EXTINF:-1 tvg-id="" tvg-name="IN: Wion TV" tvg-logo="" group-title="INDIA",IN: Wion TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78985
+#EXTINF:-1 tvg-id="" tvg-name="IN: WOW CINEMA" tvg-logo="" group-title="INDIA",IN: WOW CINEMA
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78984
+#EXTINF:-1 tvg-id="" tvg-name="IN: WOW Kidz-Hindi" tvg-logo="" group-title="INDIA",IN: WOW Kidz-Hindi
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78983
+#EXTINF:-1 tvg-id="" tvg-name="IN: WOW MUSIC" tvg-logo="" group-title="INDIA",IN: WOW MUSIC
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78982
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee 24" tvg-logo="" group-title="INDIA",IN: Zee 24
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78981
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee 24 Ghanta" tvg-logo="" group-title="INDIA",IN: Zee 24 Ghanta
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78980
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE 24 Kalak" tvg-logo="" group-title="INDIA",IN: ZEE 24 Kalak
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78979
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee 24 Taas" tvg-logo="" group-title="INDIA",IN: Zee 24 Taas
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78978
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE ACTION HD" tvg-logo="" group-title="INDIA",IN: ZEE ACTION HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78977
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Anmol" tvg-logo="" group-title="INDIA",IN: Zee Anmol
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78976
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Anmol Cinema" tvg-logo="" group-title="INDIA",IN: Zee Anmol Cinema
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78975
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Anmol Cinema (UK)" tvg-logo="" group-title="INDIA",IN: Zee Anmol Cinema (UK)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78974
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE Bangla" tvg-logo="" group-title="INDIA",IN: ZEE Bangla
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78973
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bangla Cinema" tvg-logo="" group-title="INDIA",IN: Zee Bangla Cinema
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78972
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bihar JH" tvg-logo="" group-title="INDIA",IN: Zee Bihar JH
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78971
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE BIOSKOP" tvg-logo="" group-title="INDIA",IN: ZEE BIOSKOP
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78970
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE BOLLYWOOD HD" tvg-logo="" group-title="INDIA",IN: ZEE BOLLYWOOD HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78969
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE Business" tvg-logo="" group-title="INDIA",IN: ZEE Business
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78968
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE BUSINESS NEWS" tvg-logo="" group-title="INDIA",IN: ZEE BUSINESS NEWS
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78967
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE CAFE HD" tvg-logo="" group-title="INDIA",IN: ZEE CAFE HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78966
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cannada" tvg-logo="" group-title="INDIA",IN: Zee Cannada
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78965
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema Classic" tvg-logo="" group-title="INDIA",IN: Zee Cinema Classic
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78964
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema HD" tvg-logo="" group-title="INDIA",IN: Zee Cinema HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78963
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema Malayam" tvg-logo="" group-title="INDIA",IN: Zee Cinema Malayam
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78962
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE Cinemalu" tvg-logo="" group-title="INDIA",IN: ZEE Cinemalu
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78961
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE CLASSIC" tvg-logo="" group-title="INDIA",IN: ZEE CLASSIC
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78960
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE ETC BOLLYWOOD HD" tvg-logo="" group-title="INDIA",IN: ZEE ETC BOLLYWOOD HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78959
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Foods" tvg-logo="" group-title="INDIA",IN: Zee Foods
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78958
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE HINDUSTAN" tvg-logo="" group-title="INDIA",IN: ZEE HINDUSTAN
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78957
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE Kalinga" tvg-logo="" group-title="INDIA",IN: ZEE Kalinga
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78956
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE Kannada" tvg-logo="" group-title="INDIA",IN: ZEE Kannada
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78955
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE KERALAM HD" tvg-logo="" group-title="INDIA",IN: ZEE KERALAM HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78954
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Living" tvg-logo="" group-title="INDIA",IN: Zee Living
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78953
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE Magic" tvg-logo="" group-title="INDIA",IN: ZEE Magic
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78952
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE MARATHI HD" tvg-logo="" group-title="INDIA",IN: ZEE MARATHI HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78951
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee MP" tvg-logo="" group-title="INDIA",IN: Zee MP
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78950
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee News HD" tvg-logo="" group-title="INDIA",IN: Zee News HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78949
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE News MP Chattisgarh" tvg-logo="" group-title="INDIA",IN: ZEE News MP Chattisgarh
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78948
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE Punjabi HP Haryana" tvg-logo="" group-title="INDIA",IN: ZEE Punjabi HP Haryana
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78947
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE Purvaiya" tvg-logo="" group-title="INDIA",IN: ZEE Purvaiya
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78946
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Rajasthan" tvg-logo="" group-title="INDIA",IN: Zee Rajasthan
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78945
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE SALAAM" tvg-logo="" group-title="INDIA",IN: ZEE SALAAM
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78944
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE SALAM" tvg-logo="" group-title="INDIA",IN: ZEE SALAM
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78943
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE SANGAM" tvg-logo="" group-title="INDIA",IN: ZEE SANGAM
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78942
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Studio HD" tvg-logo="" group-title="INDIA",IN: Zee Studio HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78941
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TALKIES HD" tvg-logo="" group-title="INDIA",IN: ZEE TALKIES HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78940
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Tamil TV" tvg-logo="" group-title="INDIA",IN: Zee Tamil TV
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78939
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE Telugu" tvg-logo="" group-title="INDIA",IN: ZEE Telugu
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78938
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TV (UK)" tvg-logo="" group-title="INDIA",IN: ZEE TV (UK)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78937
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TV (USA)" tvg-logo="" group-title="INDIA",IN: ZEE TV (USA)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78936
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TV APAC" tvg-logo="" group-title="INDIA",IN: ZEE TV APAC
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78935
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee TV HD" tvg-logo="" group-title="INDIA",IN: Zee TV HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78934
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE Yuva" tvg-logo="" group-title="INDIA",IN: ZEE Yuva
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78933
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZeeCafe HD (Eng)" tvg-logo="" group-title="INDIA",IN: ZeeCafe HD (Eng)
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78932
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZING HD" tvg-logo="" group-title="INDIA",IN: ZING HD
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78931
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZING INDIA" tvg-logo="" group-title="INDIA",IN: ZING INDIA
+http://thenew.tv:8000/VegXlYYouj/PXLqWmGdFN/78930
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZOOM TV" tvg-logo="" group-title="INDIA",IN: ZOOM TV
