@@ -195,14 +195,14 @@ http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" tvg-name="POP MUSIK"  group-title="NINMEDIA",POP MUSIK
 http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="Bein Sport 1"  group-title="SPORT",Bein Sport 1 SD
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/1204
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="Bein Sport 1"  group-title="SPORT",Bein Sport 1 HD
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13860
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="Bein Sport 2"  group-title="SPORT",Bein Sport 2 SD
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/1203
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="Bein Sport 2"  group-title="SPORT",Bein Sport 2 HD
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13859
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="Bein Sport 2"  group-title="SPORT",Bein Sport 3 SD
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/1202
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="Bein Sport 2"  group-title="SPORT",Bein Sport 3 HD
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/53268
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png" tvg-name="SUPER SOCCER TV"  group-title="SPORT",SUPER SOCCER TV
 http://210.210.155.35/session/f00a19c2-5048-11e9-b11f-b82a72d63267/uq2663/h/h20/02.m3u8
@@ -1335,35 +1335,77 @@ http://stream.rs.co.th/sbd-hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif" tvg-name="CARTOON CLUB HD"  group-title="THAILAND",CARTOON CLUB HD
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BEIN SPORTS 1 HD
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/1204
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 1 FHD ARB
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13860
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BEIN SPORTS 2 HD
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/1203
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 2 FHD ARB
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13859
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BEIN SPORTS 3 HD
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/1202
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 3 FHD ARB
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/53268
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BEIN SPORTS 4 HD
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/1201
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 4 FHD ARB
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13857
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BEIN SPORTS 5 HD
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/1200
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 5 FHD ARB
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/625256
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BEIN SPORTS 6 HD
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/1199
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 6 FHD ARB
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13855
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BEIN SPORTS 7 HD
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/1198
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 7 FHD ARB
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13854
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BEIN SPORTS 8 HD
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/1197
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 8 FHD ARB
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13853
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BEIN SPORTS 9 HD
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/1196
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 9 FHD ARB
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13852
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="beIN SPORTS HD 1"  group-title="BEINSPORT NOT PERMANENT",BEIN SPORTS 10 HD
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/1195
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 10 FHD ARB
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13851
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports News FHD ARB
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13861
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 1 FHD TR
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/14096
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 2 FHD TR
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/14095
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 3 FHD TR
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/14094
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 4 FHD TR
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/14093
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",MyHD Animal Planet HD ARB
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/14115
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",MyHD MBC Variety HD ARB
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/14112
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",MyHD Rotana Aflam HD ARB
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/14111
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports MAX 5 FHD FR
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/16933
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports MAX 6 FHD FR
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/16932
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports MAX 7 FHD FR
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/16931
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports MAX 8 FHD FR
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/16930
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports MAX 9 FHD FR
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/16929
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports MAX 10 FHD FR
+http://iptv.rent:8080/87u6nyz6e/jheotu09w4/16928
 
 #EXTINF:-1 ,USEE TV
 =============================================================================================================================================================
