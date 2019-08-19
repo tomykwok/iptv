@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://gitlab.com/tonosidik/tv/raw/master/Capture.png" tvg-name="TONOMONS"  group-title="ADMIN",TONOMONS
 https://tonosidik3.github.io/VOD/Movie.mp4
@@ -199,13 +199,13 @@ http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="Bein Sport 1"  group-title="SPORT",Bein Sport 1 HD
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13860
+http://www.vtpii.net:8000/85088808680887/58078670520022/432
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="Bein Sport 2"  group-title="SPORT",Bein Sport 2 HD
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13859
+http://www.vtpii.net:8000/85088808680887/58078670520022/433
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="Bein Sport 2"  group-title="SPORT",Bein Sport 3 HD
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/53268
+http://www.vtpii.net:8000/85088808680887/58078670520022/434
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png" tvg-name="SUPER SOCCER TV"  group-title="SPORT",SUPER SOCCER TV
 http://210.210.155.35/session/f00a19c2-5048-11e9-b11f-b82a72d63267/uq2663/h/h20/02.m3u8
@@ -235,7 +235,7 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" tvg-name="DISNEY CHANNEL"  group-title="KIDS",DISNEY CHANNEL
-http://185.205.108.58:8000/play/a017
+http://tvpremiumhd.club/lista-gratuita/183002/tv/live.php?id=2619
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" tvg-name="DISNEY CHANNEL"  group-title="KIDS",DISNEY CHANNEL
 http://122.155.180.8:5021/live/499
@@ -244,7 +244,7 @@ http://122.155.180.8:5021/live/499
 http://thepk.co:2086/bigt127/4161962/14950
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/1200px-DC_2014_hero.svg.png" tvg-name="NICK ASIA"  group-title="KIDS",NICK ASIA
-http://clientportaliptv.com:25500/islam/erstrdyfuygiuhkl/4791
+http://tvpremiumhd.club/lista-gratuita/183002/tv/live.php?id=2766
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" tvg-name="DISNEY JUNIOR"  group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -1339,76 +1339,34 @@ http://stream.rs.co.th/sbd-hi/index.m3u8
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 1 FHD ARB
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13860
+http://www.vtpii.net:8000/85088808680887/58078670520022/432
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 2 FHD ARB
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13859
+http://www.vtpii.net:8000/85088808680887/58078670520022/433
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 3 FHD ARB
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/53268
+http://www.vtpii.net:8000/85088808680887/58078670520022/434
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 4 FHD ARB
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13857
+http://www.vtpii.net:8000/85088808680887/58078670520022/435
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 5 FHD ARB
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/625256
+http://www.vtpii.net:8000/85088808680887/58078670520022/436
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 6 FHD ARB
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13855
+http://www.vtpii.net:8000/85088808680887/58078670520022/437
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 7 FHD ARB
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13854
+http://www.vtpii.net:8000/85088808680887/58078670520022/438
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 8 FHD ARB
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13853
+http://www.vtpii.net:8000/85088808680887/58078670520022/439
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 9 FHD ARB
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13852
+http://www.vtpii.net:8000/85088808680887/58078670520022/440
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 10 FHD ARB
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13851
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports News FHD ARB
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/13861
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 1 FHD TR
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/14096
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 2 FHD TR
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/14095
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 3 FHD TR
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/14094
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 4 FHD TR
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/14093
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",MyHD Animal Planet HD ARB
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/14115
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",MyHD MBC Variety HD ARB
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/14112
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",MyHD Rotana Aflam HD ARB
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/14111
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports MAX 5 FHD FR
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/16933
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports MAX 6 FHD FR
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/16932
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports MAX 7 FHD FR
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/16931
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports MAX 8 FHD FR
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/16930
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports MAX 9 FHD FR
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/16929
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports MAX 10 FHD FR
-http://iptv.rent:8080/87u6nyz6e/jheotu09w4/16928
+http://www.vtpii.net:8000/85088808680887/58078670520022/441
 
 #EXTINF:-1 ,USEE TV
 =============================================================================================================================================================
