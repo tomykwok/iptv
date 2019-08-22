@@ -199,7 +199,7 @@ http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="Bein Sport 1"  group-title="SPORT",Bein Sport 1 HD
-http://www.vtpii.net:8000/85088808680887/58078670520022/432
+http://www.vtpii.net:8000/live/4954965424115/6415214625461/63.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" tvg-name="Bein Sport 2"  group-title="SPORT",Bein Sport 2 HD
 http://www.vtpii.net:8000/85088808680887/58078670520022/433
