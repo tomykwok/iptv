@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://gitlab.com/tonosidik/tv/raw/master/Capture.png" tvg-name="TONOMONS"  group-title="ADMIN",TONOMONS
 https://tonosidik3.github.io/VOD/Movie.mp4
@@ -1338,35 +1338,38 @@ http://stream.rs.co.th/sbd-hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif" tvg-name="CARTOON CLUB HD"  group-title="THAILAND",CARTOON CLUB HD
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 1 FHD ARB
-http://www.vtpii.net:8000/85088808680887/58078670520022/432
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 1 HD
+http://89.187.181.239:25461/RENO87/AaBbCc54321/42529
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 2 FHD ARB
-http://www.vtpii.net:8000/85088808680887/58078670520022/433
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 2 HD
+http://89.187.181.239:25461/RENO87/AaBbCc54321/42530
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 3 FHD ARB
-http://www.vtpii.net:8000/85088808680887/58078670520022/434
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 3 HD
+http://89.187.181.239:25461/RENO87/AaBbCc54321/42531
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 4 FHD ARB
-http://www.vtpii.net:8000/85088808680887/58078670520022/435
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 4 HD
+http://89.187.181.239:25461/RENO87/AaBbCc54321/42532
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 5 FHD ARB
-http://www.vtpii.net:8000/85088808680887/58078670520022/436
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 5 HD
+http://89.187.181.239:25461/RENO87/AaBbCc54321/42533
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 6 FHD ARB
-http://www.vtpii.net:8000/85088808680887/58078670520022/437
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 6 HD
+http://89.187.181.239:25461/RENO87/AaBbCc54321/42534
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 7 FHD ARB
-http://www.vtpii.net:8000/85088808680887/58078670520022/438
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 7 HD
+http://89.187.181.239:25461/RENO87/AaBbCc54321/42535
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 8 FHD ARB
-http://www.vtpii.net:8000/85088808680887/58078670520022/439
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 8 HD
+http://89.187.181.239:25461/RENO87/AaBbCc54321/42536
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 9 FHD ARB
-http://www.vtpii.net:8000/85088808680887/58078670520022/440
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 9 HD
+http://89.187.181.239:25461/RENO87/AaBbCc54321/42537
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",beIN Sports 10 FHD ARB
-http://www.vtpii.net:8000/85088808680887/58078670520022/441
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 10 HD
+http://89.187.181.239:25461/RENO87/AaBbCc54321/42538
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 11
+http://89.187.181.239:25461/RENO87/AaBbCc54321/42539
 
 #EXTINF:-1 ,USEE TV
 =============================================================================================================================================================
