@@ -845,7 +845,7 @@ http://s02.cdn2.me/vlxx/00200-00299/00278_720p.mp4
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-3" ,VIP-3-79
 http://s02.cdn2.me/vlxx/00200-00299/00279_720p.mp4
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title ,VIP-3-80
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-3" ,VIP-3-80
 http://s02.cdn2.me/vlxx/00200-00299/00280_720p.mp4
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-3" ,VIP-3-81
@@ -4228,3 +4228,44 @@ http://s02.cdn2.me/vlxx/01300-01399/01396_720p.mp4
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-14" ,VIP-14-97
 http://s02.cdn2.me/vlxx/01300-01399/01397_720p.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-14" ,VIP-14-98
+http://s02.cdn2.me/vlxx/01300-01399/01398_720p.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-14" ,VIP-14-99
+http://s02.cdn2.me/vlxx/01300-01399/01399_720p.mp4
+
+#EXTINF:-1 ==============================================================VIP-15====================================================================
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-15" ,VIP-15-0
+http://s02.cdn2.me/vlxx/01400-01499/01400_720p.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-15" ,VIP-15-1
+http://s02.cdn2.me/vlxx/01400-01499/01401_720p.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-15" ,VIP-15-2
+http://s02.cdn2.me/vlxx/01400-01499/01402_720p.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-15" ,VIP-15-3
+http://s02.cdn2.me/vlxx/01400-01499/01403_720p.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-15" ,VIP-15-4
+http://s02.cdn2.me/vlxx/01400-01499/01404_720p.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-15" ,VIP-15-5
+http://s02.cdn2.me/vlxx/01400-01499/01405_720p.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-15" ,VIP-15-6
+http://s02.cdn2.me/vlxx/01400-01499/01406_720p.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-15" ,VIP-15-7
+http://s02.cdn2.me/vlxx/01400-01499/01407_720p.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-15" ,VIP-15-8
+http://s02.cdn2.me/vlxx/01400-01499/01408_720p.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-15" ,VIP-15-9
+http://s02.cdn2.me/vlxx/01400-01499/01409_720p.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71zS7TwLDEL._SX450_.jpg" group-title="VIP-15" ,VIP-15-10
+http://s02.cdn2.me/vlxx/01400-01499/01410_720p.mp4
