@@ -1338,38 +1338,53 @@ http://stream.rs.co.th/sbd-hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch67.gif" tvg-name="CARTOON CLUB HD"  group-title="THAILAND",CARTOON CLUB HD
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 1 HD
-http://89.187.181.239:25461/RENO87/AaBbCc54321/42529
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",Bein Sports La Liga HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16760.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 2 HD
-http://89.187.181.239:25461/RENO87/AaBbCc54321/42530
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",BeIN Sports 1 HD (Arabia)
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16771.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 3 HD
-http://89.187.181.239:25461/RENO87/AaBbCc54321/42531
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",BeIN Sports 1 HD (Francia)
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16746.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 4 HD
-http://89.187.181.239:25461/RENO87/AaBbCc54321/42532
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",BeIN Sports 2 HD (Arabia)
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16770.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 5 HD
-http://89.187.181.239:25461/RENO87/AaBbCc54321/42533
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",BeIN Sports 2 HD (Francia)
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16745.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 6 HD
-http://89.187.181.239:25461/RENO87/AaBbCc54321/42534
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",BeIN Sports 3 HD (Francia)
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16744.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 7 HD
-http://89.187.181.239:25461/RENO87/AaBbCc54321/42535
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",BEIN 3 FULL HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/11082.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 8 HD
-http://89.187.181.239:25461/RENO87/AaBbCc54321/42536
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",BEIN 4 FULL HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/11081.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 9 HD
-http://89.187.181.239:25461/RENO87/AaBbCc54321/42537
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",BEIN 5 FULL HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/11080.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 10 HD
-http://89.187.181.239:25461/RENO87/AaBbCc54321/42538
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",BEIN 6 FULL HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/11079.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",AR: Bein Sport 11
-http://89.187.181.239:25461/RENO87/AaBbCc54321/42539
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",BEIN 7 FULL HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/11078.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",BEIN 8 FULL HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/11077.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",BEIN 9 FULL HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/11076.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",BEIN 10 FULL HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/11084.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",Bein Sports English FULL HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/11126.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png"  group-title="BEINSPORT NOT PERMANENT",Bein Sports Ñ [Español] FULL HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/11127.m3u8
 
 #EXTINF:-1 ,USEE TV
 =============================================================================================================================================================
