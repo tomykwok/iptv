@@ -1,119 +1,1539 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49580.m3u8
-#EXTINF:-1,RTP 2 PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49579.m3u8
-#EXTINF:-1,RTP 3 PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49569.m3u8
-#EXTINF:-1,SIC PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49578.m3u8
-#EXTINF:-1,TVI PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49577.m3u8
-#EXTINF:-1,TVI 24 PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49571.m3u8
-#EXTINF:-1,SIC NOTICIAS PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49572.m3u8
-#EXTINF:-1,CMTV PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49570.m3u8
-#EXTINF:-1,TVI REALITY 24 PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49575.m3u8
-#EXTINF:-1,TVI FICCAO PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49576.m3u8
-#EXTINF:-1,PORTO CANAL PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49574.m3u8
-#EXTINF:-1,RTP MEMORIA PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49573.m3u8
-#EXTINF:-1,SPORT TV 1 PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49568.m3u8
-#EXTINF:-1,SPORT TV 2 PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49567.m3u8
-#EXTINF:-1,SPORT TV 3 PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49566.m3u8
-#EXTINF:-1,SPORT TV 4 PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49565.m3u8
-#EXTINF:-1,SPORT TV 5 PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49564.m3u8
-#EXTINF:-1,BENFICA TV 1 PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49557.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 HD PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49563.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 HD PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49562.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 HD PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49561.m3u8
-#EXTINF:-1,ELEVEN SPORTS 4 HD PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49560.m3u8
-#EXTINF:-1,ELEVEN SPORTS 5 HD PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49559.m3u8
-#EXTINF:-1,ELEVEN SPORTS 6 HD PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49558.m3u8
-#EXTINF:-1,ABOLA TV PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49555.m3u8
-#EXTINF:-1,SPORTING TV PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49556.m3u8
-#EXTINF:-1,TVCINE 1 PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49554.m3u8
-#EXTINF:-1,TVCINE 2 PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49553.m3u8
-#EXTINF:-1,TVCINE 3 PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49552.m3u8
-#EXTINF:-1,TVCINE 4 PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49551.m3u8
-#EXTINF:-1,HOLLYWOOD PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49550.m3u8
-#EXTINF:-1,FOX MOVIES PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49549.m3u8
-#EXTINF:-1,TV SERIES PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49548.m3u8
-#EXTINF:-1,FOX HD PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49547.m3u8
-#EXTINF:-1,FOX CRIME PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49546.m3u8
-#EXTINF:-1,FOX LIFE PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49545.m3u8
-#EXTINF:-1,FOX COMEDY PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49544.m3u8
-#EXTINF:-1,AXN HD PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49543.m3u8
-#EXTINF:-1,AXN WHITE PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49542.m3u8
-#EXTINF:-1,AXN BLACK PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49541.m3u8
-#EXTINF:-1,CANAL HISTORIA PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49536.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49538.m3u8
-#EXTINF:-1,DISCOVERY SHOWCASE PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49537.m3u8
-#EXTINF:-1,ODISSEIA PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49535.m3u8
-#EXTINF:-1,CRIME INVESTIGATION PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49534.m3u8
-#EXTINF:-1,CBS REALITY PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49522.m3u8
-#EXTINF:-1,BLAZE PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49523.m3u8
-#EXTINF:-1,NAT. GEOGRAPHIC PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49540.m3u8
-#EXTINF:-1,NAT GEO WILD PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49539.m3u8
-#EXTINF:-1,DISNEY CHANNEL PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49533.m3u8
-#EXTINF:-1,DISNEY JUNIOR PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49532.m3u8
-#EXTINF:-1,CARTOON NETWORK PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49524.m3u8
-#EXTINF:-1,CANAL PANDA PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49531.m3u8
-#EXTINF:-1,PANDA BIGGS PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49530.m3u8
-#EXTINF:-1,NICKELODEON PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49527.m3u8
-#EXTINF:-1,NICK JR. PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49526.m3u8
-#EXTINF:-1,JIM JAM PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49529.m3u8
-#EXTINF:-1,SIC K PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49525.m3u8
-#EXTINF:-1,BABY TV PT MOBILE
-http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49528.m3u8
+#EXTINF:-1,A&E HD
+http://csrv.tv:80/123456/123456/1906
+#EXTINF:-1,A&E HD [Alter]
+http://csrv.tv:80/123456/123456/2402
+#EXTINF:-1,A&E SD
+http://csrv.tv:80/123456/123456/1907
+#EXTINF:-1,A&E SD [Alter]
+http://csrv.tv:80/123456/123456/2215
+#EXTINF:-1,Aladdin [24H]
+http://csrv.tv:80/123456/123456/2100
+#EXTINF:-1,AMC HD
+http://csrv.tv:80/123456/123456/1904
+#EXTINF:-1,AMC HD [Alter]
+http://csrv.tv:80/123456/123456/2401
+#EXTINF:-1,AMC SD
+http://csrv.tv:80/123456/123456/1905
+#EXTINF:-1,AMC SD [Alter]
+http://csrv.tv:80/123456/123456/2214
+#EXTINF:-1,Animal Planet HD
+http://csrv.tv:80/123456/123456/1902
+#EXTINF:-1,Animal Planet HD [Alter]
+http://csrv.tv:80/123456/123456/2400
+#EXTINF:-1,Animal Planet SD
+http://csrv.tv:80/123456/123456/1903
+#EXTINF:-1,Animal Planet SD [Alter]
+http://csrv.tv:80/123456/123456/2213
+#EXTINF:-1,Arte 1 HD
+http://csrv.tv:80/123456/123456/1900
+#EXTINF:-1,Arte 1 SD
+http://csrv.tv:80/123456/123456/1901
+#EXTINF:-1,Arte 1 SD [Alter]
+http://csrv.tv:80/123456/123456/2113
+#EXTINF:-1,As Meninas Superpoderosas [24H]
+http://csrv.tv:80/123456/123456/2099
+#EXTINF:-1,As Tartarugas Ninja [24H]
+http://csrv.tv:80/123456/123456/2098
+#EXTINF:-1,AXN HD
+http://csrv.tv:80/123456/123456/1898
+#EXTINF:-1,AXN HD [Alter]
+http://csrv.tv:80/123456/123456/2399
+#EXTINF:-1,AXN SD
+http://csrv.tv:80/123456/123456/1899
+#EXTINF:-1,AXN SD [Alter]
+http://csrv.tv:80/123456/123456/2212
+#EXTINF:-1,Baby TV SD
+http://csrv.tv:80/123456/123456/1897
+#EXTINF:-1,Baby TV SD [Alter]
+http://csrv.tv:80/123456/123456/2211
+#EXTINF:-1,Band SP HD
+http://csrv.tv:80/123456/123456/1895
+#EXTINF:-1,Band SP HD [Alter]
+http://csrv.tv:80/123456/123456/2398
+#EXTINF:-1,Band SP SD
+http://csrv.tv:80/123456/123456/1896
+#EXTINF:-1,BandNews HD
+http://csrv.tv:80/123456/123456/1893
+#EXTINF:-1,BandNews SD
+http://csrv.tv:80/123456/123456/1894
+#EXTINF:-1,BandNews SD [Alter]
+http://csrv.tv:80/123456/123456/2210
+#EXTINF:-1,BandSports HD
+http://csrv.tv:80/123456/123456/1891
+#EXTINF:-1,BandSports HD [Alter]
+http://csrv.tv:80/123456/123456/2397
+#EXTINF:-1,BandSports SD
+http://csrv.tv:80/123456/123456/1892
+#EXTINF:-1,BandSports SD [Alter]
+http://csrv.tv:80/123456/123456/2209
+#EXTINF:-1,Bis HD
+http://csrv.tv:80/123456/123456/1889
+#EXTINF:-1,Bis HD [Alter]
+http://csrv.tv:80/123456/123456/2396
+#EXTINF:-1,Bis SD
+http://csrv.tv:80/123456/123456/1890
+#EXTINF:-1,Bis SD [Alter]
+http://csrv.tv:80/123456/123456/2121
+#EXTINF:-1,Boa Vontade TV HD
+http://csrv.tv:80/123456/123456/1888
+#EXTINF:-1,Bob Esponja [24H]
+http://csrv.tv:80/123456/123456/2097
+#EXTINF:-1,Boomerang HD
+http://csrv.tv:80/123456/123456/1886
+#EXTINF:-1,Boomerang SD
+http://csrv.tv:80/123456/123456/1887
+#EXTINF:-1,Boomerang SD [Alter]
+http://csrv.tv:80/123456/123456/2208
+#EXTINF:-1,DAZN 3 - Brasileirao Serie C HD
+http://csrv.tv:80/123456/123456/1640
+#EXTINF:-1,Breaking Bad [24H]
+http://csrv.tv:80/123456/123456/2029
+#EXTINF:-1,Canal Brasil HD
+http://csrv.tv:80/123456/123456/1884
+#EXTINF:-1,Canal Brasil SD
+http://csrv.tv:80/123456/123456/1885
+#EXTINF:-1,Canal Brasil SD [Alter]
+http://csrv.tv:80/123456/123456/2115
+#EXTINF:-1,Canal Do Boi SD
+http://csrv.tv:80/123456/123456/1655
+#EXTINF:-1,Canal Do Boi SD [Alter]
+http://csrv.tv:80/123456/123456/2114
+#EXTINF:-1,Canal Sony HD
+http://csrv.tv:80/123456/123456/1882
+#EXTINF:-1,Canal Sony HD [Alter]
+http://csrv.tv:80/123456/123456/2395
+#EXTINF:-1,Canal Sony SD
+http://csrv.tv:80/123456/123456/1883
+#EXTINF:-1,Canal Sony SD [Alter]
+http://csrv.tv:80/123456/123456/2207
+#EXTINF:-1,Cancao Nova SD
+http://csrv.tv:80/123456/123456/1881
+#EXTINF:-1,Cancao Nova SD [Alter]
+http://csrv.tv:80/123456/123456/2107
+#EXTINF:-1,Cartoon Network HD
+http://csrv.tv:80/123456/123456/1879
+#EXTINF:-1,Cartoon Network HD [Alter]
+http://csrv.tv:80/123456/123456/2394
+#EXTINF:-1,Cartoon Network SD
+http://csrv.tv:80/123456/123456/1880
+#EXTINF:-1,Cartoon Network SD [Alter]
+http://csrv.tv:80/123456/123456/2112
+#EXTINF:-1,Chapolin Colorado [24H]
+http://csrv.tv:80/123456/123456/2027
+#EXTINF:-1,Chaves Animado [24H]
+http://csrv.tv:80/123456/123456/2094
+#EXTINF:-1,Chicago [Camera]
+http://csrv.tv:80/123456/123456/2425
+#EXTINF:-1,Cinemax HD
+http://csrv.tv:80/123456/123456/1877
+#EXTINF:-1,Cinemax HD [Alter]
+http://csrv.tv:80/123456/123456/2393
+#EXTINF:-1,Cinemax SD
+http://csrv.tv:80/123456/123456/1878
+#EXTINF:-1,Cinemax SD [Alter]
+http://csrv.tv:80/123456/123456/2130
+#EXTINF:-1,Combate HD
+http://csrv.tv:80/123456/123456/1875
+#EXTINF:-1,Combate HD [Alter]
+http://csrv.tv:80/123456/123456/2392
+#EXTINF:-1,Combate SD
+http://csrv.tv:80/123456/123456/1876
+#EXTINF:-1,Combate SD [Alter]
+http://csrv.tv:80/123456/123456/2206
+#EXTINF:-1,Comedy Central HD
+http://csrv.tv:80/123456/123456/1873
+#EXTINF:-1,Comedy Central HD [Alter]
+http://csrv.tv:80/123456/123456/2391
+#EXTINF:-1,Comedy Central SD
+http://csrv.tv:80/123456/123456/1874
+#EXTINF:-1,Comedy Central SD [Alter]
+http://csrv.tv:80/123456/123456/2205
+#EXTINF:-1,DAZN 1 - Copa Sulamericana HD
+http://csrv.tv:80/123456/123456/1642
+#EXTINF:-1,DAZN 2 - Copa Libertadores HD
+http://csrv.tv:80/123456/123456/1641
+#EXTINF:-1,Coragem [24H]
+http://csrv.tv:80/123456/123456/2092
+#EXTINF:-1,Curta HD
+http://csrv.tv:80/123456/123456/1871
+#EXTINF:-1,Curta SD
+http://csrv.tv:80/123456/123456/1872
+#EXTINF:-1,Curta SD [Alter]
+http://csrv.tv:80/123456/123456/2204
+#EXTINF:-1,Denis - O Pimentinha [24H]
+http://csrv.tv:80/123456/123456/2091
+#EXTINF:-1,Digimon [24H]
+http://csrv.tv:80/123456/123456/2090
+#EXTINF:-1,Discovery Channel HD
+http://csrv.tv:80/123456/123456/1869
+#EXTINF:-1,Discovery Channel HD [Alter]
+http://csrv.tv:80/123456/123456/2390
+#EXTINF:-1,Discovery Channel SD
+http://csrv.tv:80/123456/123456/1870
+#EXTINF:-1,Discovery Channel SD [Alter]
+http://csrv.tv:80/123456/123456/2203
+#EXTINF:-1,Discovery Civilization HD
+http://csrv.tv:80/123456/123456/1867
+#EXTINF:-1,Discovery Civilization HD [Alter]
+http://csrv.tv:80/123456/123456/2389
+#EXTINF:-1,Discovery Civilization SD
+http://csrv.tv:80/123456/123456/1868
+#EXTINF:-1,Discovery Civilization SD [Alter]
+http://csrv.tv:80/123456/123456/2117
+#EXTINF:-1,Discovery H&H HD
+http://csrv.tv:80/123456/123456/1865
+#EXTINF:-1,Discovery H&H HD [Alter]
+http://csrv.tv:80/123456/123456/2388
+#EXTINF:-1,Discovery H&H SD
+http://csrv.tv:80/123456/123456/1866
+#EXTINF:-1,Discovery H&H SD [Alter]
+http://csrv.tv:80/123456/123456/2106
+#EXTINF:-1,Discovery Kids HD
+http://csrv.tv:80/123456/123456/1863
+#EXTINF:-1,Discovery Kids HD [Alter]
+http://csrv.tv:80/123456/123456/2387
+#EXTINF:-1,Discovery Kids SD
+http://csrv.tv:80/123456/123456/1864
+#EXTINF:-1,Discovery Kids SD [Alter]
+http://csrv.tv:80/123456/123456/2202
+#EXTINF:-1,Discovery Science HD
+http://csrv.tv:80/123456/123456/1861
+#EXTINF:-1,Discovery Science HD [Alter]
+http://csrv.tv:80/123456/123456/2386
+#EXTINF:-1,Discovery Science SD
+http://csrv.tv:80/123456/123456/1862
+#EXTINF:-1,Discovery Science SD [Alter]
+http://csrv.tv:80/123456/123456/2123
+#EXTINF:-1,Discovery Theater HD
+http://csrv.tv:80/123456/123456/1859
+#EXTINF:-1,Discovery Theater HD [Alter]
+http://csrv.tv:80/123456/123456/2385
+#EXTINF:-1,Discovery Theater SD
+http://csrv.tv:80/123456/123456/1860
+#EXTINF:-1,Discovery Theater SD [Alter]
+http://csrv.tv:80/123456/123456/2124
+#EXTINF:-1,Discovery Turbo HD
+http://csrv.tv:80/123456/123456/1857
+#EXTINF:-1,Discovery Turbo HD [Alter]
+http://csrv.tv:80/123456/123456/2384
+#EXTINF:-1,Discovery Turbo SD
+http://csrv.tv:80/123456/123456/1858
+#EXTINF:-1,Discovery Turbo SD [Alter]
+http://csrv.tv:80/123456/123456/2201
+#EXTINF:-1,Discovery World HD
+http://csrv.tv:80/123456/123456/1855
+#EXTINF:-1,Discovery World HD [Alter]
+http://csrv.tv:80/123456/123456/2383
+#EXTINF:-1,Discovery World SD
+http://csrv.tv:80/123456/123456/1856
+#EXTINF:-1,Discovery World SD [Alter]
+http://csrv.tv:80/123456/123456/2122
+#EXTINF:-1,Disney Channel HD
+http://csrv.tv:80/123456/123456/1853
+#EXTINF:-1,Disney Channel HD [Alter]
+http://csrv.tv:80/123456/123456/2382
+#EXTINF:-1,Disney Channel SD
+http://csrv.tv:80/123456/123456/1854
+#EXTINF:-1,Disney Channel SD [Alter]
+http://csrv.tv:80/123456/123456/2200
+#EXTINF:-1,Disney Jr HD
+http://csrv.tv:80/123456/123456/1678
+#EXTINF:-1,Disney Jr HD [Alter]
+http://csrv.tv:80/123456/123456/2381
+#EXTINF:-1,Disney Jr SD
+http://csrv.tv:80/123456/123456/1852
+#EXTINF:-1,Disney Jr SD [Alter]
+http://csrv.tv:80/123456/123456/2199
+#EXTINF:-1,Disney XD SD
+http://csrv.tv:80/123456/123456/1851
+#EXTINF:-1,Disney XD SD [Alter]
+http://csrv.tv:80/123456/123456/2198
+#EXTINF:-1,Doha [Camera]
+http://csrv.tv:80/123456/123456/2428
+#EXTINF:-1,Dois Homens e Meio [24H]
+http://csrv.tv:80/123456/123456/2089
+#EXTINF:-1,Doug [24H]
+http://csrv.tv:80/123456/123456/2049
+#EXTINF:-1,Dragon Ball Super [24H]
+http://csrv.tv:80/123456/123456/2056
+#EXTINF:-1,Dragon Ball Z [24H]
+http://csrv.tv:80/123456/123456/2088
+#EXTINF:-1,Dubai [Camera]
+http://csrv.tv:80/123456/123456/2423
+#EXTINF:-1,Dublin [Camera]
+http://csrv.tv:80/123456/123456/2421
+#EXTINF:-1,E! HD
+http://csrv.tv:80/123456/123456/1849
+#EXTINF:-1,E! HD [Alter]
+http://csrv.tv:80/123456/123456/2380
+#EXTINF:-1,E! SD
+http://csrv.tv:80/123456/123456/1850
+#EXTINF:-1,E! SD [Alter]
+http://csrv.tv:80/123456/123456/2197
+#EXTINF:-1,Ei Plus HD
+http://csrv.tv:80/123456/123456/1645
+#EXTINF:-1,Ei Plus SD
+http://csrv.tv:80/123456/123456/1644
+#EXTINF:-1,ESPN 2 HD
+http://csrv.tv:80/123456/123456/1846
+#EXTINF:-1,ESPN 2 HD [Alter]
+http://csrv.tv:80/123456/123456/2379
+#EXTINF:-1,ESPN 2 SD
+http://csrv.tv:80/123456/123456/1847
+#EXTINF:-1,ESPN 2 SD [Alter]
+http://csrv.tv:80/123456/123456/2196
+#EXTINF:-1,ESPN Brasil HD
+http://csrv.tv:80/123456/123456/1844
+#EXTINF:-1,ESPN Brasil HD [Alter]
+http://csrv.tv:80/123456/123456/2378
+#EXTINF:-1,ESPN Brasil SD
+http://csrv.tv:80/123456/123456/1845
+#EXTINF:-1,ESPN Brasil SD [Alter]
+http://csrv.tv:80/123456/123456/2195
+#EXTINF:-1,ESPN Extra HD
+http://csrv.tv:80/123456/123456/1842
+#EXTINF:-1,ESPN Extra HD [Alter]
+http://csrv.tv:80/123456/123456/2377
+#EXTINF:-1,ESPN Extra SD
+http://csrv.tv:80/123456/123456/1843
+#EXTINF:-1,ESPN HD
+http://csrv.tv:80/123456/123456/1841
+#EXTINF:-1,ESPN HD [Alter]
+http://csrv.tv:80/123456/123456/2376
+#EXTINF:-1,ESPN SD
+http://csrv.tv:80/123456/123456/1848
+#EXTINF:-1,ESPN SD [Alter]
+http://csrv.tv:80/123456/123456/2194
+#EXTINF:-1,Eu a Patroa e as Criancas [24H]
+http://csrv.tv:80/123456/123456/2054
+#EXTINF:-1,Film & Arts SD
+http://csrv.tv:80/123456/123456/1666
+#EXTINF:-1,Fish TV HD
+http://csrv.tv:80/123456/123456/1839
+#EXTINF:-1,Fish TV SD
+http://csrv.tv:80/123456/123456/1840
+#EXTINF:-1,Fish TV SD [Alter]
+http://csrv.tv:80/123456/123456/2109
+#EXTINF:-1,Food Network HD
+http://csrv.tv:80/123456/123456/1837
+#EXTINF:-1,Food Network HD [Alter]
+http://csrv.tv:80/123456/123456/2375
+#EXTINF:-1,Food Network SD
+http://csrv.tv:80/123456/123456/1838
+#EXTINF:-1,Food Network SD [Alter]
+http://csrv.tv:80/123456/123456/2125
+#EXTINF:-1,Formiga Atomica [24H]
+http://csrv.tv:80/123456/123456/2039
+#EXTINF:-1,FOX HD
+http://csrv.tv:80/123456/123456/1835
+#EXTINF:-1,FOX HD [Alter]
+http://csrv.tv:80/123456/123456/2374
+#EXTINF:-1,FOX Life HD
+http://csrv.tv:80/123456/123456/1833
+#EXTINF:-1,FOX Life HD [Alter]
+http://csrv.tv:80/123456/123456/2373
+#EXTINF:-1,FOX Life SD
+http://csrv.tv:80/123456/123456/1834
+#EXTINF:-1,FOX Life SD [Alter]
+http://csrv.tv:80/123456/123456/2193
+#EXTINF:-1,FOX Premium 1 HD
+http://csrv.tv:80/123456/123456/1831
+#EXTINF:-1,FOX Premium 1 HD [Alter]
+http://csrv.tv:80/123456/123456/2372
+#EXTINF:-1,FOX Premium 1 SD
+http://csrv.tv:80/123456/123456/1832
+#EXTINF:-1,FOX Premium 2 HD
+http://csrv.tv:80/123456/123456/1829
+#EXTINF:-1,FOX Premium 2 HD [Alter]
+http://csrv.tv:80/123456/123456/2371
+#EXTINF:-1,FOX Premium 2 SD
+http://csrv.tv:80/123456/123456/1830
+#EXTINF:-1,FOX SD
+http://csrv.tv:80/123456/123456/1836
+#EXTINF:-1,FOX SD [Alter]
+http://csrv.tv:80/123456/123456/2192
+#EXTINF:-1,FOX Sports 2 HD
+http://csrv.tv:80/123456/123456/1825
+#EXTINF:-1,FOX Sports 2 HD [Alter]
+http://csrv.tv:80/123456/123456/2370
+#EXTINF:-1,FOX Sports 2 SD
+http://csrv.tv:80/123456/123456/1826
+#EXTINF:-1,FOX Sports 2 SD [Alter]
+http://csrv.tv:80/123456/123456/2191
+#EXTINF:-1,FOX Sports HD
+http://csrv.tv:80/123456/123456/1827
+#EXTINF:-1,FOX Sports HD [Alter]
+http://csrv.tv:80/123456/123456/2369
+#EXTINF:-1,FOX Sports SD
+http://csrv.tv:80/123456/123456/1828
+#EXTINF:-1,FOX Sports SD [Alter]
+http://csrv.tv:80/123456/123456/2190
+#EXTINF:-1,Futura HD
+http://csrv.tv:80/123456/123456/1823
+#EXTINF:-1,Futura SD
+http://csrv.tv:80/123456/123456/1824
+#EXTINF:-1,Futura SD [Alter]
+http://csrv.tv:80/123456/123456/2189
+#EXTINF:-1,FX HD
+http://csrv.tv:80/123456/123456/1821
+#EXTINF:-1,FX HD [Alter]
+http://csrv.tv:80/123456/123456/2368
+#EXTINF:-1,FX SD
+http://csrv.tv:80/123456/123456/1822
+#EXTINF:-1,FX SD [Alter]
+http://csrv.tv:80/123456/123456/2118
+#EXTINF:-1,Galinha Pintadinha [24H]
+http://csrv.tv:80/123456/123456/2087
+#EXTINF:-1,GloboEsporte.com HD
+http://csrv.tv:80/123456/123456/28653
+#EXTINF:-1,Globo Brasilia HD
+http://csrv.tv:80/123456/123456/1638
+#EXTINF:-1,Globo Brasilia SD
+http://csrv.tv:80/123456/123456/1639
+#EXTINF:-1,Globo Brasilia SD [Alter]
+http://csrv.tv:80/123456/123456/2410
+#EXTINF:-1,Globo EPTV Araraquara SD
+http://csrv.tv:80/123456/123456/1637
+#EXTINF:-1,Globo EPTV Campinas HD
+http://csrv.tv:80/123456/123456/1635
+#EXTINF:-1,Globo EPTV Campinas SD
+http://csrv.tv:80/123456/123456/1636
+#EXTINF:-1,Globo EPTV Campinas SD [Alter]
+http://csrv.tv:80/123456/123456/2409
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD
+http://csrv.tv:80/123456/123456/1634
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD
+http://csrv.tv:80/123456/123456/1633
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD [Alter]
+http://csrv.tv:80/123456/123456/2408
+#EXTINF:-1,Globo EPTV Sao Carlos SD
+http://csrv.tv:80/123456/123456/1632
+#EXTINF:-1,Globo EPTV Sao Carlos SD [Alter]
+http://csrv.tv:80/123456/123456/2407
+#EXTINF:-1,Globo Inter TV Alto Litoral HD
+http://csrv.tv:80/123456/123456/1561
+#EXTINF:-1,Globo Inter TV Alto Litoral SD
+http://csrv.tv:80/123456/123456/1560
+#EXTINF:-1,Globo Inter TV dos Vales HD
+http://csrv.tv:80/123456/123456/1558
+#EXTINF:-1,Globo Inter TV dos Vales SD
+http://csrv.tv:80/123456/123456/1557
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://csrv.tv:80/123456/123456/1555
+#EXTINF:-1,Globo Inter TV Grande Minas SD
+http://csrv.tv:80/123456/123456/1554
+#EXTINF:-1,Globo Inter TV Natal SD
+http://csrv.tv:80/123456/123456/1631
+#EXTINF:-1,Globo Inter TV Serra Mar HD
+http://csrv.tv:80/123456/123456/1552
+#EXTINF:-1,Globo Inter TV Serra Mar SD
+http://csrv.tv:80/123456/123456/1551
+#EXTINF:-1,Globo Internacional HD
+http://csrv.tv:80/123456/123456/1599
+#EXTINF:-1,Globo Minas HD
+http://csrv.tv:80/123456/123456/1629
+#EXTINF:-1,Globo Minas HD [Alter]
+http://csrv.tv:80/123456/123456/2414
+#EXTINF:-1,Globo Minas SD
+http://csrv.tv:80/123456/123456/1630
+#EXTINF:-1,Globo Minas SD [Alter]
+http://csrv.tv:80/123456/123456/2406
+#EXTINF:-1,Globo News HD
+http://csrv.tv:80/123456/123456/1819
+#EXTINF:-1,Globo News HD [Alter]
+http://csrv.tv:80/123456/123456/2367
+#EXTINF:-1,Globo News SD
+http://csrv.tv:80/123456/123456/1820
+#EXTINF:-1,Globo News SD [Alter]
+http://csrv.tv:80/123456/123456/2132
+#EXTINF:-1,Globo Nordeste HD
+http://csrv.tv:80/123456/123456/1627
+#EXTINF:-1,Globo Nordeste SD
+http://csrv.tv:80/123456/123456/1628
+#EXTINF:-1,Globo Nordeste SD [Alter]
+http://csrv.tv:80/123456/123456/2405
+#EXTINF:-1,Globo NSC TV Blumenau HD
+http://csrv.tv:80/123456/123456/1549
+#EXTINF:-1,Globo NSC TV Blumenau SD
+http://csrv.tv:80/123456/123456/1548
+#EXTINF:-1,Globo NSC TV Chapeco HD
+http://csrv.tv:80/123456/123456/1597
+#EXTINF:-1,Globo NSC TV Chapeco SD
+http://csrv.tv:80/123456/123456/1596
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+http://csrv.tv:80/123456/123456/1625
+#EXTINF:-1,Globo NSC TV Florianopolis SD
+http://csrv.tv:80/123456/123456/1626
+#EXTINF:-1,Globo NSC TV Joinville HD
+http://csrv.tv:80/123456/123456/1543
+#EXTINF:-1,Globo NSC TV Joinville SD
+http://csrv.tv:80/123456/123456/1542
+#EXTINF:-1,Globo RBS TV Caxias do Sul HD
+http://csrv.tv:80/123456/123456/1546
+#EXTINF:-1,Globo RBS TV Caxias do Sul SD
+http://csrv.tv:80/123456/123456/1545
+#EXTINF:-1,Globo RBS TV Pelotas HD
+http://csrv.tv:80/123456/123456/1540
+#EXTINF:-1,Globo RBS TV Pelotas SD
+http://csrv.tv:80/123456/123456/1539
+#EXTINF:-1,Globo RBS TV Porto Alegre HD
+http://csrv.tv:80/123456/123456/1623
+#EXTINF:-1,Globo RBS TV Porto Alegre SD
+http://csrv.tv:80/123456/123456/1624
+#EXTINF:-1,Globo RBS TV Porto Alegre SD [Alter]
+http://csrv.tv:80/123456/123456/2404
+#EXTINF:-1,Globo Rede AM. Manaus SD
+http://csrv.tv:80/123456/123456/1622
+#EXTINF:-1,Globo RJ HD
+http://csrv.tv:80/123456/123456/1620
+#EXTINF:-1,Globo RJ HD [Alter]
+http://csrv.tv:80/123456/123456/2413
+#EXTINF:-1,Globo RJ SD
+http://csrv.tv:80/123456/123456/1621
+#EXTINF:-1,Globo RJ SD [Alter]
+http://csrv.tv:80/123456/123456/2403
+#EXTINF:-1,Globo RPC Curitiba HD
+http://csrv.tv:80/123456/123456/1617
+#EXTINF:-1,Globo RPC Curitiba SD
+http://csrv.tv:80/123456/123456/1618
+#EXTINF:-1,Globo RPC Foz do Iguacu HD
+http://csrv.tv:80/123456/123456/1593
+#EXTINF:-1,Globo RPC Foz do Iguacu SD
+http://csrv.tv:80/123456/123456/1595
+#EXTINF:-1,Globo SP HD
+http://csrv.tv:80/123456/123456/1614
+#EXTINF:-1,Globo SP HD [Alter]
+http://csrv.tv:80/123456/123456/2311
+#EXTINF:-1,Globo SP SD
+http://csrv.tv:80/123456/123456/1615
+#EXTINF:-1,Globo SP SD [Alter]
+http://csrv.tv:80/123456/123456/2127
+#EXTINF:-1,Globo TV Anhanguera HD
+http://csrv.tv:80/123456/123456/1611
+#EXTINF:-1,Globo TV Anhanguera SD
+http://csrv.tv:80/123456/123456/1612
+#EXTINF:-1,Globo TV Bahia HD
+http://csrv.tv:80/123456/123456/1609
+#EXTINF:-1,Globo TV Bahia SD
+http://csrv.tv:80/123456/123456/1610
+#EXTINF:-1,Globo TV C. America Cuiaba SD
+http://csrv.tv:80/123456/123456/1608
+#EXTINF:-1,Globo TV Cabo Branco HD
+http://csrv.tv:80/123456/123456/1537
+#EXTINF:-1,Globo TV Cabo Branco SD
+http://csrv.tv:80/123456/123456/1536
+#EXTINF:-1,Globo TV Clube Teresina HD
+http://csrv.tv:80/123456/123456/1590
+#EXTINF:-1,Globo TV Clube Teresina SD
+http://csrv.tv:80/123456/123456/1592
+#EXTINF:-1,Globo TV Diario Fortaleza HD
+http://csrv.tv:80/123456/123456/1659
+#EXTINF:-1,Globo TV Diario Fortaleza SD
+http://csrv.tv:80/123456/123456/1658
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+http://csrv.tv:80/123456/123456/1566
+#EXTINF:-1,Globo TV Gazeta Alagoas SD
+http://csrv.tv:80/123456/123456/1568
+#EXTINF:-1,Globo TV Gazeta Sul ES HD
+http://csrv.tv:80/123456/123456/1564
+#EXTINF:-1,Globo TV Gazeta Vitoria HD
+http://csrv.tv:80/123456/123456/1587
+#EXTINF:-1,Globo TV Gazeta Vitoria SD
+http://csrv.tv:80/123456/123456/1589
+#EXTINF:-1,Globo TV Liberal Belem SD
+http://csrv.tv:80/123456/123456/1607
+#EXTINF:-1,Globo TV Mirante Sao Luis HD
+http://csrv.tv:80/123456/123456/1574
+#EXTINF:-1,Globo TV Mirante Sao Luis SD
+http://csrv.tv:80/123456/123456/1573
+#EXTINF:-1,Globo TV Morena Campo Grande HD
+http://csrv.tv:80/123456/123456/1571
+#EXTINF:-1,Globo TV Morena Campo Grande SD
+http://csrv.tv:80/123456/123456/1570
+#EXTINF:-1,Globo TV Rio Sul HD
+http://csrv.tv:80/123456/123456/1534
+#EXTINF:-1,Globo TV Rio Sul SD
+http://csrv.tv:80/123456/123456/1533
+#EXTINF:-1,Globo TV Santa Cruz HD
+http://csrv.tv:80/123456/123456/1531
+#EXTINF:-1,Globo TV Santa Cruz SD
+http://csrv.tv:80/123456/123456/1530
+#EXTINF:-1,Globo TV Sergipe HD
+http://csrv.tv:80/123456/123456/1584
+#EXTINF:-1,Globo TV Sergipe SD
+http://csrv.tv:80/123456/123456/1586
+#EXTINF:-1,Globo TV Tem Bauru SD
+http://csrv.tv:80/123456/123456/1606
+#EXTINF:-1,Globo TV Tem S. J. Do Rio Preto HD
+http://csrv.tv:80/123456/123456/1604
+#EXTINF:-1,Globo TV Tem S. J. DO Rio Preto SD
+http://csrv.tv:80/123456/123456/1603
+#EXTINF:-1,Globo TV Tem Sorocaba SD
+http://csrv.tv:80/123456/123456/1605
+#EXTINF:-1,Globo TV Tribuna Santos SD
+http://csrv.tv:80/123456/123456/1602
+#EXTINF:-1,Globo TV Vanguarda S. J. Dos Campos SD
+http://csrv.tv:80/123456/123456/1601
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD
+http://csrv.tv:80/123456/123456/1600
+#EXTINF:-1,Gloob HD
+http://csrv.tv:80/123456/123456/1817
+#EXTINF:-1,Gloob HD [Alter]
+http://csrv.tv:80/123456/123456/2365
+#EXTINF:-1,Gloob SD
+http://csrv.tv:80/123456/123456/1818
+#EXTINF:-1,Gloob SD [Alter]
+http://csrv.tv:80/123456/123456/2187
+#EXTINF:-1,Gloobinho HD
+http://csrv.tv:80/123456/123456/1816
+#EXTINF:-1,Gloobinho SD
+http://csrv.tv:80/123456/123456/1815
+#EXTINF:-1,GNT HD
+http://csrv.tv:80/123456/123456/1813
+#EXTINF:-1,GNT HD [Alter]
+http://csrv.tv:80/123456/123456/2364
+#EXTINF:-1,GNT SD
+http://csrv.tv:80/123456/123456/1814
+#EXTINF:-1,GNT SD [Alter]
+http://csrv.tv:80/123456/123456/2120
+#EXTINF:-1,Gospel Cartoon [24H]
+http://csrv.tv:80/123456/123456/2086
+#EXTINF:-1,Guardioes da Galaxia [24H]
+http://csrv.tv:80/123456/123456/2040
+#EXTINF:-1,H2 HD
+http://csrv.tv:80/123456/123456/1811
+#EXTINF:-1,H2 HD [Alter]
+http://csrv.tv:80/123456/123456/2363
+#EXTINF:-1,H2 SD
+http://csrv.tv:80/123456/123456/1812
+#EXTINF:-1,H2 SD [Alter]
+http://csrv.tv:80/123456/123456/2186
+#EXTINF:-1,HBO 2 HD
+http://csrv.tv:80/123456/123456/1808
+#EXTINF:-1,HBO 2 HD [Alter]
+http://csrv.tv:80/123456/123456/2362
+#EXTINF:-1,HBO 2 SD
+http://csrv.tv:80/123456/123456/1809
+#EXTINF:-1,HBO 2 SD [Alter]
+http://csrv.tv:80/123456/123456/2126
+#EXTINF:-1,HBO Family HD
+http://csrv.tv:80/123456/123456/1806
+#EXTINF:-1,HBO Family HD [Alter]
+http://csrv.tv:80/123456/123456/2361
+#EXTINF:-1,HBO Family SD
+http://csrv.tv:80/123456/123456/1807
+#EXTINF:-1,HBO Family SD [Alter]
+http://csrv.tv:80/123456/123456/2185
+#EXTINF:-1,HBO HD
+http://csrv.tv:80/123456/123456/1805
+#EXTINF:-1,HBO HD [Alter]
+http://csrv.tv:80/123456/123456/2360
+#EXTINF:-1,HBO Plus E SD [Alter]
+http://csrv.tv:80/123456/123456/2184
+#EXTINF:-1,HBO Plus HD
+http://csrv.tv:80/123456/123456/1803
+#EXTINF:-1,HBO Plus HD [Alter]
+http://csrv.tv:80/123456/123456/2359
+#EXTINF:-1,HBO Plus SD
+http://csrv.tv:80/123456/123456/1804
+#EXTINF:-1,HBO Plus SD [Alter]
+http://csrv.tv:80/123456/123456/2183
+#EXTINF:-1,HBO SD
+http://csrv.tv:80/123456/123456/1810
+#EXTINF:-1,HBO SD [Alter]
+http://csrv.tv:80/123456/123456/2182
+#EXTINF:-1,HBO Signature HD
+http://csrv.tv:80/123456/123456/1801
+#EXTINF:-1,HBO Signature HD [Alter]
+http://csrv.tv:80/123456/123456/2358
+#EXTINF:-1,HBO Signature SD
+http://csrv.tv:80/123456/123456/1802
+#EXTINF:-1,HBO Signature SD [Alter]
+http://csrv.tv:80/123456/123456/2181
+#EXTINF:-1,He-Man [24H]
+http://csrv.tv:80/123456/123456/2085
+#EXTINF:-1,HÃ©rcules [24H]
+http://csrv.tv:80/123456/123456/2026
+#EXTINF:-1,Historias da Disney [24H]
+http://csrv.tv:80/123456/123456/2084
+#EXTINF:-1,History Channel HD
+http://csrv.tv:80/123456/123456/1799
+#EXTINF:-1,History Channel HD [Alter]
+http://csrv.tv:80/123456/123456/2320
+#EXTINF:-1,History Channel SD
+http://csrv.tv:80/123456/123456/1800
+#EXTINF:-1,History Channel SD [Alter]
+http://csrv.tv:80/123456/123456/2143
+#EXTINF:-1,Homem de Ferro [24H]
+http://csrv.tv:80/123456/123456/2036
+#EXTINF:-1,Homem-Aranha [24H]
+http://csrv.tv:80/123456/123456/2083
+#EXTINF:-1,Incrivel Hulk [24H]
+http://csrv.tv:80/123456/123456/2038
+#EXTINF:-1,Investigation Discovery HD
+http://csrv.tv:80/123456/123456/1797
+#EXTINF:-1,Investigation Discovery HD [Alter]
+http://csrv.tv:80/123456/123456/2357
+#EXTINF:-1,Investigation Discovery SD
+http://csrv.tv:80/123456/123456/1798
+#EXTINF:-1,Investigation Discovery SD [Alter]
+http://csrv.tv:80/123456/123456/2119
+#EXTINF:-1,Jack-Chan [24H]
+http://csrv.tv:80/123456/123456/2052
+#EXTINF:-1,Jaspion [24H]
+http://csrv.tv:80/123456/123456/2082
+#EXTINF:-1,Jerusalem [Camera]
+http://csrv.tv:80/123456/123456/2430
+#EXTINF:-1,Jiraya [24H]
+http://csrv.tv:80/123456/123456/2081
+#EXTINF:-1,Kenan e Kel [24H]
+http://csrv.tv:80/123456/123456/2044
+#EXTINF:-1,Lifetime HD
+http://csrv.tv:80/123456/123456/1795
+#EXTINF:-1,Lifetime HD [Alter]
+http://csrv.tv:80/123456/123456/2356
+#EXTINF:-1,Lifetime SD
+http://csrv.tv:80/123456/123456/1796
+#EXTINF:-1,Lifetime SD [Alter]
+http://csrv.tv:80/123456/123456/2180
+#EXTINF:-1,Los Angeles [Camera]
+http://csrv.tv:80/123456/123456/2432
+#EXTINF:-1,Mais GloboSat HD
+http://csrv.tv:80/123456/123456/1793
+#EXTINF:-1,Mais GloboSat HD [Alter]
+http://csrv.tv:80/123456/123456/2366
+#EXTINF:-1,Mais GloboSat SD
+http://csrv.tv:80/123456/123456/1794
+#EXTINF:-1,Mais GloboSat SD [Alter]
+http://csrv.tv:80/123456/123456/2188
+#EXTINF:-1,Maldivas [Camera]
+http://csrv.tv:80/123456/123456/2422
+#EXTINF:-1,MAX HD
+http://csrv.tv:80/123456/123456/1791
+#EXTINF:-1,MAX HD [Alter]
+http://csrv.tv:80/123456/123456/2355
+#EXTINF:-1,MAX Prime HD
+http://csrv.tv:80/123456/123456/1789
+#EXTINF:-1,MAX Prime HD [Alter]
+http://csrv.tv:80/123456/123456/2354
+#EXTINF:-1,MAX Prime SD
+http://csrv.tv:80/123456/123456/1790
+#EXTINF:-1,MAX Prime SD [Alter]
+http://csrv.tv:80/123456/123456/2179
+#EXTINF:-1,MAX SD
+http://csrv.tv:80/123456/123456/1792
+#EXTINF:-1,MAX SD [Alter]
+http://csrv.tv:80/123456/123456/2178
+#EXTINF:-1,MAX Up HD
+http://csrv.tv:80/123456/123456/1787
+#EXTINF:-1,MAX Up HD [Alter]
+http://csrv.tv:80/123456/123456/2353
+#EXTINF:-1,MAX Up SD
+http://csrv.tv:80/123456/123456/1788
+#EXTINF:-1,MAX Up SD [Alter]
+http://csrv.tv:80/123456/123456/2177
+#EXTINF:-1,Medabots [24H]
+http://csrv.tv:80/123456/123456/2080
+#EXTINF:-1,MegaMan [24H]
+http://csrv.tv:80/123456/123456/2032
+#EXTINF:-1,Megapix HD
+http://csrv.tv:80/123456/123456/1785
+#EXTINF:-1,Megapix HD [Alter]
+http://csrv.tv:80/123456/123456/2352
+#EXTINF:-1,Megapix SD
+http://csrv.tv:80/123456/123456/1786
+#EXTINF:-1,Megapix SD [Alter]
+http://csrv.tv:80/123456/123456/2176
+#EXTINF:-1,Miami [Camera]
+http://csrv.tv:80/123456/123456/2426
+#EXTINF:-1,MIB Homens de Preto [24H]
+http://csrv.tv:80/123456/123456/2047
+#EXTINF:-1,Mortal Kombat [24H]
+http://csrv.tv:80/123456/123456/2031
+#EXTINF:-1,Moscow [Camera]
+http://csrv.tv:80/123456/123456/2431
+#EXTINF:-1,Mr. Ben [24H]
+http://csrv.tv:80/123456/123456/2045
+#EXTINF:-1,MTV HD
+http://csrv.tv:80/123456/123456/1783
+#EXTINF:-1,MTV HD [Alter]
+http://csrv.tv:80/123456/123456/2351
+#EXTINF:-1,MTV Live HD
+http://csrv.tv:80/123456/123456/1676
+#EXTINF:-1,MTV Live SD
+http://csrv.tv:80/123456/123456/1677
+#EXTINF:-1,MTV SD
+http://csrv.tv:80/123456/123456/1784
+#EXTINF:-1,Multishow HD
+http://csrv.tv:80/123456/123456/1781
+#EXTINF:-1,Multishow HD [Alter]
+http://csrv.tv:80/123456/123456/2350
+#EXTINF:-1,Multishow SD
+http://csrv.tv:80/123456/123456/1782
+#EXTINF:-1,Multishow SD [Alter]
+http://csrv.tv:80/123456/123456/2175
+#EXTINF:-1,Music Box Brasil HD
+http://csrv.tv:80/123456/123456/1779
+#EXTINF:-1,Music Box Brasil SD
+http://csrv.tv:80/123456/123456/1780
+#EXTINF:-1,Naruto [24H]
+http://csrv.tv:80/123456/123456/2079
+#EXTINF:-1,Naruto Shippuuden [24H]
+http://csrv.tv:80/123456/123456/2078
+#EXTINF:-1,NatGeo HD
+http://csrv.tv:80/123456/123456/1777
+#EXTINF:-1,NatGeo HD [Alter]
+http://csrv.tv:80/123456/123456/2349
+#EXTINF:-1,NatGeo Kids HD
+http://csrv.tv:80/123456/123456/1775
+#EXTINF:-1,NatGeo Kids HD [Alter]
+http://csrv.tv:80/123456/123456/2348
+#EXTINF:-1,NatGeo Kids SD
+http://csrv.tv:80/123456/123456/1776
+#EXTINF:-1,NatGeo Kids SD [Alter]
+http://csrv.tv:80/123456/123456/2174
+#EXTINF:-1,NatGeo SD
+http://csrv.tv:80/123456/123456/1778
+#EXTINF:-1,NatGeo SD [Alter]
+http://csrv.tv:80/123456/123456/2173
+#EXTINF:-1,NatGeo Wild HD
+http://csrv.tv:80/123456/123456/1774
+#EXTINF:-1,NatGeo Wild HD [Alter]
+http://csrv.tv:80/123456/123456/2347
+#EXTINF:-1,NatGeo Wild SD
+http://csrv.tv:80/123456/123456/1773
+#EXTINF:-1,NatGeo Wild SD [Alter]
+http://csrv.tv:80/123456/123456/2172
+#EXTINF:-1,NBR SD
+http://csrv.tv:80/123456/123456/1772
+#EXTINF:-1,New York City [Camera]
+http://csrv.tv:80/123456/123456/2418
+#EXTINF:-1,Nick Jr HD
+http://csrv.tv:80/123456/123456/1770
+#EXTINF:-1,Nick Jr HD [Alter]
+http://csrv.tv:80/123456/123456/2346
+#EXTINF:-1,Nick Jr SD
+http://csrv.tv:80/123456/123456/1771
+#EXTINF:-1,Nick Jr SD [Alter]
+http://csrv.tv:80/123456/123456/2171
+#EXTINF:-1,Nickelodeon HD
+http://csrv.tv:80/123456/123456/1768
+#EXTINF:-1,Nickelodeon HD [Alter]
+http://csrv.tv:80/123456/123456/2345
+#EXTINF:-1,Nickelodeon SD
+http://csrv.tv:80/123456/123456/1769
+#EXTINF:-1,Nickelodeon SD [Alter]
+http://csrv.tv:80/123456/123456/2170
+#EXTINF:-1,O Fantastico Mundo de Bobby [24H]
+http://csrv.tv:80/123456/123456/2048
+#EXTINF:-1,O Inspetor [24H]
+http://csrv.tv:80/123456/123456/2077
+#EXTINF:-1,O Maskara [24H]
+http://csrv.tv:80/123456/123456/2076
+#EXTINF:-1,OFF HD
+http://csrv.tv:80/123456/123456/1766
+#EXTINF:-1,OFF HD [Alter]
+http://csrv.tv:80/123456/123456/2344
+#EXTINF:-1,OFF SD
+http://csrv.tv:80/123456/123456/1767
+#EXTINF:-1,OFF SD [Alter]
+http://csrv.tv:80/123456/123456/2169
+#EXTINF:-1,Os Anjinhos Rugrats [24H]
+http://csrv.tv:80/123456/123456/2075
+#EXTINF:-1,Os Cavaleiros do Zodiaco [24H]
+http://csrv.tv:80/123456/123456/2074
+#EXTINF:-1,Os Flintstones [24H]
+http://csrv.tv:80/123456/123456/2073
+#EXTINF:-1,Os Simpsons [24H]
+http://csrv.tv:80/123456/123456/2072
+#EXTINF:-1,Os Ursinhos Carinhosos [24H]
+http://csrv.tv:80/123456/123456/2059
+#EXTINF:-1,Os Vingadores [24H]
+http://csrv.tv:80/123456/123456/2037
+#EXTINF:-1,Papa Leguas [24H]
+http://csrv.tv:80/123456/123456/2053
+#EXTINF:-1,Paramount Channel HD
+http://csrv.tv:80/123456/123456/1764
+#EXTINF:-1,Paramount Channel HD [Alter]
+http://csrv.tv:80/123456/123456/2343
+#EXTINF:-1,Paramount Channel SD
+http://csrv.tv:80/123456/123456/1765
+#EXTINF:-1,Paramount Channel SD [Alter]
+http://csrv.tv:80/123456/123456/2168
+#EXTINF:-1,Paris [Camera]
+http://csrv.tv:80/123456/123456/2429
+#EXTINF:-1,Peppa Pig [24H]
+http://csrv.tv:80/123456/123456/2033
+#EXTINF:-1,Pernalonga [24H]
+http://csrv.tv:80/123456/123456/2071
+#EXTINF:-1,Phineas e Ferb [24H]
+http://csrv.tv:80/123456/123456/2070
+#EXTINF:-1,Pica Pau [24H]
+http://csrv.tv:80/123456/123456/2069
+#EXTINF:-1,Pink e Cerebro [24H]
+http://csrv.tv:80/123456/123456/2046
+#EXTINF:-1,Play TV SD [Alter]
+http://csrv.tv:80/123456/123456/2167
+#EXTINF:-1,[+18] Playboy HD
+http://csrv.tv:80/123456/123456/1649
+#EXTINF:-1,[+18] Playboy HD [Alter]
+http://csrv.tv:80/123456/123456/2309
+#EXTINF:-1,[+18] Playboy SD
+http://csrv.tv:80/123456/123456/1650
+#EXTINF:-1,[+18] Playboy SD [Alter]
+http://csrv.tv:80/123456/123456/2166
+#EXTINF:-1,PlayKids HD
+http://csrv.tv:80/123456/123456/1668
+#EXTINF:-1,PlayKids SD
+http://csrv.tv:80/123456/123456/1667
+#EXTINF:-1,Pokemon [24H]
+http://csrv.tv:80/123456/123456/2051
+#EXTINF:-1,Polishop TV HD
+http://csrv.tv:80/123456/123456/1652
+#EXTINF:-1,Popeye O Marinheiro [24H]
+http://csrv.tv:80/123456/123456/2041
+#EXTINF:-1,Power Couple Brasil HD
+http://csrv.tv:80/123456/123456/1643
+#EXTINF:-1,Power Couple Brasil HD [Alter]
+http://csrv.tv:80/123456/123456/2308
+#EXTINF:-1,Prague [Camera]
+http://csrv.tv:80/123456/123456/2419
+#EXTINF:-1,Premiere 2 HD
+http://csrv.tv:80/123456/123456/1762
+#EXTINF:-1,Premiere 2 HD [Alter]
+http://csrv.tv:80/123456/123456/2342
+#EXTINF:-1,Premiere 2 SD
+http://csrv.tv:80/123456/123456/1763
+#EXTINF:-1,Premiere 2 SD [Alter]
+http://csrv.tv:80/123456/123456/2165
+#EXTINF:-1,Premiere 3 HD
+http://csrv.tv:80/123456/123456/1760
+#EXTINF:-1,Premiere 3 HD [Alter]
+http://csrv.tv:80/123456/123456/2341
+#EXTINF:-1,Premiere 3 SD
+http://csrv.tv:80/123456/123456/1761
+#EXTINF:-1,Premiere 3 SD [Alter]
+http://csrv.tv:80/123456/123456/2164
+#EXTINF:-1,Premiere 4 HD
+http://csrv.tv:80/123456/123456/1758
+#EXTINF:-1,Premiere 4 HD [Alter]
+http://csrv.tv:80/123456/123456/2340
+#EXTINF:-1,Premiere 4 SD
+http://csrv.tv:80/123456/123456/1759
+#EXTINF:-1,Premiere 4 SD [Alter]
+http://csrv.tv:80/123456/123456/2163
+#EXTINF:-1,Premiere 5 HD
+http://csrv.tv:80/123456/123456/1756
+#EXTINF:-1,Premiere 5 HD [Alter]
+http://csrv.tv:80/123456/123456/2339
+#EXTINF:-1,Premiere 5 SD
+http://csrv.tv:80/123456/123456/1757
+#EXTINF:-1,Premiere 5 SD [Alter]
+http://csrv.tv:80/123456/123456/2162
+#EXTINF:-1,Premiere 6 HD
+http://csrv.tv:80/123456/123456/1754
+#EXTINF:-1,Premiere 6 HD [Alter]
+http://csrv.tv:80/123456/123456/2338
+#EXTINF:-1,Premiere 6 SD
+http://csrv.tv:80/123456/123456/1755
+#EXTINF:-1,Premiere 6 SD [Alter]
+http://csrv.tv:80/123456/123456/2161
+#EXTINF:-1,Premiere 7 HD
+http://csrv.tv:80/123456/123456/1752
+#EXTINF:-1,Premiere 7 HD [Alter]
+http://csrv.tv:80/123456/123456/2337
+#EXTINF:-1,Premiere 7 SD
+http://csrv.tv:80/123456/123456/1753
+#EXTINF:-1,Premiere 7 SD [Alter]
+http://csrv.tv:80/123456/123456/2160
+#EXTINF:-1,Premiere 8 SD [Alter]
+http://csrv.tv:80/123456/123456/2159
+#EXTINF:-1,Premiere Clubes HD
+http://csrv.tv:80/123456/123456/1750
+#EXTINF:-1,Premiere Clubes HD [Alter]
+http://csrv.tv:80/123456/123456/2336
+#EXTINF:-1,Premiere Clubes SD
+http://csrv.tv:80/123456/123456/1751
+#EXTINF:-1,Premiere Clubes SD [Alter]
+http://csrv.tv:80/123456/123456/2158
+#EXTINF:-1,Prime Box Brasil HD
+http://csrv.tv:80/123456/123456/1748
+#EXTINF:-1,Prime Box Brasil SD
+http://csrv.tv:80/123456/123456/1749
+#EXTINF:-1,Rambo [24H]
+http://csrv.tv:80/123456/123456/2068
+#EXTINF:-1,RCI SD
+http://csrv.tv:80/123456/123456/1651
+#EXTINF:-1,Record News HD
+http://csrv.tv:80/123456/123456/1745
+#EXTINF:-1,Record News SD
+http://csrv.tv:80/123456/123456/1746
+#EXTINF:-1,RecordTV BA HD
+http://csrv.tv:80/123456/123456/1665
+#EXTINF:-1,RecordTV BA SD
+http://csrv.tv:80/123456/123456/1664
+#EXTINF:-1,RecordTV DF HD
+http://csrv.tv:80/123456/123456/1663
+#EXTINF:-1,RecordTV DF SD
+http://csrv.tv:80/123456/123456/1662
+#EXTINF:-1,RecordTV MG HD
+http://csrv.tv:80/123456/123456/1670
+#EXTINF:-1,RecordTV MG SD
+http://csrv.tv:80/123456/123456/1669
+#EXTINF:-1,RecordTV RJ HD
+http://csrv.tv:80/123456/123456/1672
+#EXTINF:-1,RecordTV RJ SD
+http://csrv.tv:80/123456/123456/1671
+#EXTINF:-1,RecordTV RS HD
+http://csrv.tv:80/123456/123456/1661
+#EXTINF:-1,RecordTV RS SD
+http://csrv.tv:80/123456/123456/1660
+#EXTINF:-1,RecordTV SP HD
+http://csrv.tv:80/123456/123456/1743
+#EXTINF:-1,RecordTV SP SD
+http://csrv.tv:80/123456/123456/1747
+#EXTINF:-1,Rede Brasil SD
+http://csrv.tv:80/123456/123456/1742
+#EXTINF:-1,Rede TV HD
+http://csrv.tv:80/123456/123456/1740
+#EXTINF:-1,Rede TV HD [Alter]
+http://csrv.tv:80/123456/123456/2335
+#EXTINF:-1,Rede TV SD
+http://csrv.tv:80/123456/123456/1741
+#EXTINF:-1,Rede TV SD [Alter]
+http://csrv.tv:80/123456/123456/2116
+#EXTINF:-1,Rede Vida HD
+http://csrv.tv:80/123456/123456/1673
+#EXTINF:-1,Rede Vida SD
+http://csrv.tv:80/123456/123456/1739
+#EXTINF:-1,Rede Vida SD [Alter]
+http://csrv.tv:80/123456/123456/2110
+#EXTINF:-1,Rio de Janeiro [Camera]
+http://csrv.tv:80/123456/123456/2420
+#EXTINF:-1,Rit TV SD
+http://csrv.tv:80/123456/123456/1654
+#EXTINF:-1,Saipan [Camera]
+http://csrv.tv:80/123456/123456/2424
+#EXTINF:-1,SBT HD
+http://csrv.tv:80/123456/123456/1737
+#EXTINF:-1,SBT HD [Alter]
+http://csrv.tv:80/123456/123456/2334
+#EXTINF:-1,SBT SD
+http://csrv.tv:80/123456/123456/1738
+#EXTINF:-1,SBT SD [Alter]
+http://csrv.tv:80/123456/123456/2157
+#EXTINF:-1,SBT SP Interior SD
+http://csrv.tv:80/123456/123456/1736
+#EXTINF:-1,Scooby Doo [24H]
+http://csrv.tv:80/123456/123456/2067
+#EXTINF:-1,[+18] Sextreme SD
+http://csrv.tv:80/123456/123456/1648
+#EXTINF:-1,[+18] Sextreme SD [Alter]
+http://csrv.tv:80/123456/123456/2105
+#EXTINF:-1,[+18] Sexy Hot SD
+http://csrv.tv:80/123456/123456/1647
+#EXTINF:-1,[+18] Sexy Hot SD [Alter]
+http://csrv.tv:80/123456/123456/2104
+#EXTINF:-1,Smallville [24H]
+http://csrv.tv:80/123456/123456/2030
+#EXTINF:-1,Smithsonian Channel HD
+http://csrv.tv:80/123456/123456/1657
+#EXTINF:-1,Smithsonian Channel SD
+http://csrv.tv:80/123456/123456/1656
+#EXTINF:-1,Sobrenatural [24H]
+http://csrv.tv:80/123456/123456/2043
+#EXTINF:-1,South Park [24H]
+http://csrv.tv:80/123456/123456/2066
+#EXTINF:-1,Space HD
+http://csrv.tv:80/123456/123456/1732
+#EXTINF:-1,Space HD [Alter]
+http://csrv.tv:80/123456/123456/2333
+#EXTINF:-1,Space SD
+http://csrv.tv:80/123456/123456/1733
+#EXTINF:-1,Space SD [Alter]
+http://csrv.tv:80/123456/123456/2156
+#EXTINF:-1,SporTV 2 HD
+http://csrv.tv:80/123456/123456/1729
+#EXTINF:-1,SporTV 2 HD [Alter]
+http://csrv.tv:80/123456/123456/2332
+#EXTINF:-1,SporTV 2 SD
+http://csrv.tv:80/123456/123456/1730
+#EXTINF:-1,SporTV 2 SD [Alter]
+http://csrv.tv:80/123456/123456/2155
+#EXTINF:-1,SporTV 3 HD
+http://csrv.tv:80/123456/123456/1727
+#EXTINF:-1,SporTV 3 HD [Alter]
+http://csrv.tv:80/123456/123456/2331
+#EXTINF:-1,SporTV 3 SD
+http://csrv.tv:80/123456/123456/1728
+#EXTINF:-1,SporTV 3 SD [Alter]
+http://csrv.tv:80/123456/123456/2131
+#EXTINF:-1,SporTV HD
+http://csrv.tv:80/123456/123456/1726
+#EXTINF:-1,SporTV HD [Alter]
+http://csrv.tv:80/123456/123456/2330
+#EXTINF:-1,SporTV SD
+http://csrv.tv:80/123456/123456/1731
+#EXTINF:-1,SporTV SD [Alter]
+http://csrv.tv:80/123456/123456/2154
+#EXTINF:-1,Steven Universe [24H]
+http://csrv.tv:80/123456/123456/2065
+#EXTINF:-1,Studio Universal HD
+http://csrv.tv:80/123456/123456/1724
+#EXTINF:-1,Studio Universal HD [Alter]
+http://csrv.tv:80/123456/123456/2329
+#EXTINF:-1,Studio Universal SD
+http://csrv.tv:80/123456/123456/1725
+#EXTINF:-1,Studio Universal SD [Alter]
+http://csrv.tv:80/123456/123456/2153
+#EXTINF:-1,Superman [24H]
+http://csrv.tv:80/123456/123456/2035
+#EXTINF:-1,SyFy HD
+http://csrv.tv:80/123456/123456/1734
+#EXTINF:-1,SyFy HD [Alter]
+http://csrv.tv:80/123456/123456/2328
+#EXTINF:-1,SyFy SD
+http://csrv.tv:80/123456/123456/1735
+#EXTINF:-1,SyFy SD [Alter]
+http://csrv.tv:80/123456/123456/2152
+#EXTINF:-1,TBS HD
+http://csrv.tv:80/123456/123456/1722
+#EXTINF:-1,TBS HD [Alter]
+http://csrv.tv:80/123456/123456/2327
+#EXTINF:-1,TBS SD
+http://csrv.tv:80/123456/123456/1723
+#EXTINF:-1,TBS SD [Alter]
+http://csrv.tv:80/123456/123456/2151
+#EXTINF:-1,TCM SD
+http://csrv.tv:80/123456/123456/1721
+#EXTINF:-1,TCM SD [Alter]
+http://csrv.tv:80/123456/123456/2150
+#EXTINF:-1,Telecine Action HD
+http://csrv.tv:80/123456/123456/1719
+#EXTINF:-1,Telecine Action HD [Alter]
+http://csrv.tv:80/123456/123456/2326
+#EXTINF:-1,Telecine Action SD
+http://csrv.tv:80/123456/123456/1720
+#EXTINF:-1,Telecine Action SD [Alter]
+http://csrv.tv:80/123456/123456/2149
+#EXTINF:-1,Telecine Cult HD
+http://csrv.tv:80/123456/123456/1717
+#EXTINF:-1,Telecine Cult HD [Alter]
+http://csrv.tv:80/123456/123456/2325
+#EXTINF:-1,Telecine Cult SD
+http://csrv.tv:80/123456/123456/1718
+#EXTINF:-1,Telecine Cult SD [Alter]
+http://csrv.tv:80/123456/123456/2148
+#EXTINF:-1,Telecine Fun HD
+http://csrv.tv:80/123456/123456/1715
+#EXTINF:-1,Telecine Fun HD [Alter]
+http://csrv.tv:80/123456/123456/2324
+#EXTINF:-1,Telecine Fun SD
+http://csrv.tv:80/123456/123456/1716
+#EXTINF:-1,Telecine Fun SD [Alter]
+http://csrv.tv:80/123456/123456/2147
+#EXTINF:-1,Telecine Pipoca HD
+http://csrv.tv:80/123456/123456/1713
+#EXTINF:-1,Telecine Pipoca HD [Alter]
+http://csrv.tv:80/123456/123456/2323
+#EXTINF:-1,Telecine Pipoca SD
+http://csrv.tv:80/123456/123456/1714
+#EXTINF:-1,Telecine Pipoca SD [Alter]
+http://csrv.tv:80/123456/123456/2146
+#EXTINF:-1,Telecine Premium HD
+http://csrv.tv:80/123456/123456/1711
+#EXTINF:-1,Telecine Premium HD [Alter]
+http://csrv.tv:80/123456/123456/2322
+#EXTINF:-1,Telecine Premium SD
+http://csrv.tv:80/123456/123456/1712
+#EXTINF:-1,Telecine Premium SD [Alter]
+http://csrv.tv:80/123456/123456/2145
+#EXTINF:-1,Telecine Touch HD
+http://csrv.tv:80/123456/123456/1709
+#EXTINF:-1,Telecine Touch HD [Alter]
+http://csrv.tv:80/123456/123456/2321
+#EXTINF:-1,Telecine Touch SD
+http://csrv.tv:80/123456/123456/1710
+#EXTINF:-1,Telecine Touch SD [Alter]
+http://csrv.tv:80/123456/123456/2144
+#EXTINF:-1,Terra Viva SD
+http://csrv.tv:80/123456/123456/1708
+#EXTINF:-1,Terra Viva SD [Alter]
+http://csrv.tv:80/123456/123456/2103
+#EXTINF:-1,Tesouros da Disney [24H]
+http://csrv.tv:80/123456/123456/2064
+#EXTINF:-1,Thundercats [24H]
+http://csrv.tv:80/123456/123456/2055
+#EXTINF:-1,Timao e Pumba [24H]
+http://csrv.tv:80/123456/123456/2063
+#EXTINF:-1,TLC HD
+http://csrv.tv:80/123456/123456/1706
+#EXTINF:-1,TLC HD [Alter]
+http://csrv.tv:80/123456/123456/2319
+#EXTINF:-1,TLC SD
+http://csrv.tv:80/123456/123456/1707
+#EXTINF:-1,TLC SD [Alter]
+http://csrv.tv:80/123456/123456/2142
+#EXTINF:-1,TNT HD
+http://csrv.tv:80/123456/123456/1704
+#EXTINF:-1,TNT HD [Alter]
+http://csrv.tv:80/123456/123456/2318
+#EXTINF:-1,TNT SD
+http://csrv.tv:80/123456/123456/1705
+#EXTINF:-1,TNT SD [Alter]
+http://csrv.tv:80/123456/123456/2141
+#EXTINF:-1,TNT Series HD
+http://csrv.tv:80/123456/123456/1702
+#EXTINF:-1,TNT Series HD [Alter]
+http://csrv.tv:80/123456/123456/2317
+#EXTINF:-1,TNT Series SD
+http://csrv.tv:80/123456/123456/1703
+#EXTINF:-1,TNT Series SD [Alter]
+http://csrv.tv:80/123456/123456/2140
+#EXTINF:-1,Todo Mundo Odeia o Cris [24H]
+http://csrv.tv:80/123456/123456/2062
+#EXTINF:-1,Tom e Jerry [24H]
+http://csrv.tv:80/123456/123456/2061
+#EXTINF:-1,Tooncast HD [Alter]
+http://csrv.tv:80/123456/123456/2316
+#EXTINF:-1,Tooncast SD
+http://csrv.tv:80/123456/123456/1701
+#EXTINF:-1,Tooncast SD [Alter]
+http://csrv.tv:80/123456/123456/2139
+#EXTINF:-1,Toronto [Camera]
+http://csrv.tv:80/123456/123456/2427
+#EXTINF:-1,Tres Espias Demais [24H]
+http://csrv.tv:80/123456/123456/2034
+#EXTINF:-1,TruTV HD
+http://csrv.tv:80/123456/123456/1690
+#EXTINF:-1,TruTV SD
+http://csrv.tv:80/123456/123456/1691
+#EXTINF:-1,TV Aparecida SD
+http://csrv.tv:80/123456/123456/1698
+#EXTINF:-1,TV Aparecida SD [Alter]
+http://csrv.tv:80/123456/123456/2108
+#EXTINF:-1,TV Brasil SD
+http://csrv.tv:80/123456/123456/1697
+#EXTINF:-1,TV Camara SD
+http://csrv.tv:80/123456/123456/1696
+#EXTINF:-1,TV Cultura HD
+http://csrv.tv:80/123456/123456/1674
+#EXTINF:-1,TV Cultura SD
+http://csrv.tv:80/123456/123456/1675
+#EXTINF:-1,TV Escola SD
+http://csrv.tv:80/123456/123456/1695
+#EXTINF:-1,TV Gazeta SP HD
+http://csrv.tv:80/123456/123456/1694
+#EXTINF:-1,TV Gazeta SP HD [Alter]
+http://csrv.tv:80/123456/123456/2411
+#EXTINF:-1,TV Justica SD
+http://csrv.tv:80/123456/123456/1699
+#EXTINF:-1,TV Justica SD [Alter]
+http://csrv.tv:80/123456/123456/2138
+#EXTINF:-1,TV Ra Tim Bum HD
+http://csrv.tv:80/123456/123456/1692
+#EXTINF:-1,TV Ra Tim Bum HD [Alter]
+http://csrv.tv:80/123456/123456/2310
+#EXTINF:-1,TV Ra Tim Bum SD
+http://csrv.tv:80/123456/123456/1693
+#EXTINF:-1,TV Ra Tim Bum SD [Alter]
+http://csrv.tv:80/123456/123456/2129
+#EXTINF:-1,TV Senado SD
+http://csrv.tv:80/123456/123456/1700
+#EXTINF:-1,TV Senado SD [Alter]
+http://csrv.tv:80/123456/123456/2128
+#EXTINF:-1,Um Maluco No Pedaco [24H]
+http://csrv.tv:80/123456/123456/2060
+#EXTINF:-1,Uma Familia da Pesada [24H]
+http://csrv.tv:80/123456/123456/2042
+#EXTINF:-1,Universal Channel HD
+http://csrv.tv:80/123456/123456/1688
+#EXTINF:-1,Universal Channel HD [Alter]
+http://csrv.tv:80/123456/123456/2315
+#EXTINF:-1,Universal Channel SD
+http://csrv.tv:80/123456/123456/1689
+#EXTINF:-1,Universal Channel SD [Alter]
+http://csrv.tv:80/123456/123456/2137
+#EXTINF:-1,[+18] Venus SD
+http://csrv.tv:80/123456/123456/1646
+#EXTINF:-1,[+18] Venus SD [Alter]
+http://csrv.tv:80/123456/123456/2102
+#EXTINF:-1,VH1 HD
+http://csrv.tv:80/123456/123456/1686
+#EXTINF:-1,VH1 MegaHits SD
+http://csrv.tv:80/123456/123456/1685
+#EXTINF:-1,VH1 MegaHits SD [Alter]
+http://csrv.tv:80/123456/123456/2136
+#EXTINF:-1,VH1 SD
+http://csrv.tv:80/123456/123456/1687
+#EXTINF:-1,Viva HD
+http://csrv.tv:80/123456/123456/1683
+#EXTINF:-1,Viva HD [Alter]
+http://csrv.tv:80/123456/123456/2314
+#EXTINF:-1,Viva SD
+http://csrv.tv:80/123456/123456/1684
+#EXTINF:-1,Viva SD [Alter]
+http://csrv.tv:80/123456/123456/2135
+#EXTINF:-1,Warner Channel HD
+http://csrv.tv:80/123456/123456/1681
+#EXTINF:-1,Warner Channel HD [Alter]
+http://csrv.tv:80/123456/123456/2313
+#EXTINF:-1,Warner Channel SD
+http://csrv.tv:80/123456/123456/1682
+#EXTINF:-1,Warner Channel SD [Alter]
+http://csrv.tv:80/123456/123456/2134
+#EXTINF:-1,WooHoo HD
+http://csrv.tv:80/123456/123456/1679
+#EXTINF:-1,WooHoo SD
+http://csrv.tv:80/123456/123456/1680
+#EXTINF:-1,WooHoo SD [Alter]
+http://csrv.tv:80/123456/123456/2133
+#EXTINF:-1,X-Men [24H]
+http://csrv.tv:80/123456/123456/2058
+#EXTINF:-1,Xena [24H]
+http://csrv.tv:80/123456/123456/2028
+#EXTINF:-1,Yu Yu Hakusho [24H]
+http://csrv.tv:80/123456/123456/2050
+#EXTINF:-1,Yu-Gi-Oh [24H]
+http://csrv.tv:80/123456/123456/2057
+#EXTINF:-1,ZooMoo SD
+http://csrv.tv:80/123456/123456/1653
+#EXTINF:-1,ZooMoo SD [Alter]
+http://csrv.tv:80/123456/123456/2111
+#EXTINF:-1,US: A&E HD
+http://csrv.tv:80/123456/123456/28168
+#EXTINF:-1,US: ABC HD
+http://csrv.tv:80/123456/123456/28155
+#EXTINF:-1,US: ABC News HD
+http://csrv.tv:80/123456/123456/28156
+#EXTINF:-1,US: AMC HD
+http://csrv.tv:80/123456/123456/28133
+#EXTINF:-1,US: Animal Planet HD
+http://csrv.tv:80/123456/123456/28209
+#EXTINF:-1,US: Bein Sports USA HD
+http://csrv.tv:80/123456/123456/28230
+#EXTINF:-1,US: Bloomberg EU HD
+http://csrv.tv:80/123456/123456/28208
+#EXTINF:-1,US: Bloomberg TV HD
+http://csrv.tv:80/123456/123456/28194
+#EXTINF:-1,US: BNN HD
+http://csrv.tv:80/123456/123456/28207
+#EXTINF:-1,US: Boomerang HD
+http://csrv.tv:80/123456/123456/28206
+#EXTINF:-1,US: Bravo TV HD
+http://csrv.tv:80/123456/123456/28157
+#EXTINF:-1,US: BYU TV HD
+http://csrv.tv:80/123456/123456/28134
+#EXTINF:-1,US: C-Span 1 HD
+http://csrv.tv:80/123456/123456/28210
+#EXTINF:-1,US: C-Span 2 HD
+http://csrv.tv:80/123456/123456/28211
+#EXTINF:-1,US: C-Span 3 HD
+http://csrv.tv:80/123456/123456/28212
+#EXTINF:-1,US: Capital TV HD
+http://csrv.tv:80/123456/123456/28193
+#EXTINF:-1,US: Cartoon Network HD
+http://csrv.tv:80/123456/123456/28135
+#EXTINF:-1,US: CBS HD
+http://csrv.tv:80/123456/123456/28158
+#EXTINF:-1,US: CBSN HD
+http://csrv.tv:80/123456/123456/28136
+#EXTINF:-1,US: Cinemax 5Star Max hd
+http://csrv.tv:80/123456/123456/28231
+#EXTINF:-1,US: Cinemax Action HD
+http://csrv.tv:80/123456/123456/28213
+#EXTINF:-1,US: Cinemax Action Max East HD
+http://csrv.tv:80/123456/123456/28232
+#EXTINF:-1,US: Cinemax East HD
+http://csrv.tv:80/123456/123456/28233
+#EXTINF:-1,US: Cinemax More Max HD
+http://csrv.tv:80/123456/123456/28205
+#EXTINF:-1,US: CNBC HD
+http://csrv.tv:80/123456/123456/28137
+#EXTINF:-1,US: CNN HD
+http://csrv.tv:80/123456/123456/28214
+#EXTINF:-1,US: Comedy Central HD
+http://csrv.tv:80/123456/123456/28159
+#EXTINF:-1,US: CW Network HD
+http://csrv.tv:80/123456/123456/28160
+#EXTINF:-1,US: Discovery Channel HD
+http://csrv.tv:80/123456/123456/28138
+#EXTINF:-1,US: Discovery Science HD
+http://csrv.tv:80/123456/123456/28234
+#EXTINF:-1,US: Discovery Showcase HD
+http://csrv.tv:80/123456/123456/28203
+#EXTINF:-1,US: DIY Network HD
+http://csrv.tv:80/123456/123456/28235
+#EXTINF:-1,US: DW HD
+http://csrv.tv:80/123456/123456/28139
+#EXTINF:-1,US: ESPN 2 HD
+http://csrv.tv:80/123456/123456/28215
+#EXTINF:-1,US: ESPN HD
+http://csrv.tv:80/123456/123456/28161
+#EXTINF:-1,US: ESPN News HD
+http://csrv.tv:80/123456/123456/28186
+#EXTINF:-1,US: ESPN SD
+http://csrv.tv:80/123456/123456/28169
+#EXTINF:-1,US: ESPNU HD
+http://csrv.tv:80/123456/123456/28185
+#EXTINF:-1,US: Fight HD
+http://csrv.tv:80/123456/123456/28140
+#EXTINF:-1,US: Fight Sports HD
+http://csrv.tv:80/123456/123456/28229
+#EXTINF:-1,US: Fine Living Network HD
+http://csrv.tv:80/123456/123456/28202
+#EXTINF:-1,US: Food Network HD
+http://csrv.tv:80/123456/123456/28236
+#EXTINF:-1,US: FOX 43 HD
+http://csrv.tv:80/123456/123456/28216
+#EXTINF:-1,US: FOX HD
+http://csrv.tv:80/123456/123456/28130
+#EXTINF:-1,US: FOX News HD
+http://csrv.tv:80/123456/123456/28162
+#EXTINF:-1,US: FOX Sports 1 HD
+http://csrv.tv:80/123456/123456/28170
+#EXTINF:-1,US: FOX Sports 2 HD
+http://csrv.tv:80/123456/123456/28171
+#EXTINF:-1,US: FOX Sports 506 HD
+http://csrv.tv:80/123456/123456/28217
+#EXTINF:-1,US: Fuel TV HD
+http://csrv.tv:80/123456/123456/28201
+#EXTINF:-1,US: FX HD
+http://csrv.tv:80/123456/123456/28237
+#EXTINF:-1,US: FXX HD
+http://csrv.tv:80/123456/123456/28141
+#EXTINF:-1,US: H2 HD
+http://csrv.tv:80/123456/123456/28238
+#EXTINF:-1,US: Hallmark Channel HD
+http://csrv.tv:80/123456/123456/28239
+#EXTINF:-1,US: HBO Comedy HD
+http://csrv.tv:80/123456/123456/28142
+#EXTINF:-1,US: HBO East HD
+http://csrv.tv:80/123456/123456/28143
+#EXTINF:-1,US: HBO HD
+http://csrv.tv:80/123456/123456/28144
+#EXTINF:-1,US: HBO Signature HD
+http://csrv.tv:80/123456/123456/28145
+#EXTINF:-1,US: HBO Zone HD
+http://csrv.tv:80/123456/123456/28146
+#EXTINF:-1,US: HGTV HD
+http://csrv.tv:80/123456/123456/28200
+#EXTINF:-1,US: HIFI HD
+http://csrv.tv:80/123456/123456/28240
+#EXTINF:-1,US: History Channel HD
+http://csrv.tv:80/123456/123456/28163
+#EXTINF:-1,US: Investigation Discovery HD
+http://csrv.tv:80/123456/123456/28164
+#EXTINF:-1,US: ION Television HD
+http://csrv.tv:80/123456/123456/28184
+#EXTINF:-1,US: KSTW HD
+http://csrv.tv:80/123456/123456/28204
+#EXTINF:-1,US: Lifetime Movies HD
+http://csrv.tv:80/123456/123456/28183
+#EXTINF:-1,US: MelloTV HD
+http://csrv.tv:80/123456/123456/28246
+#EXTINF:-1,US: MLB Network HD
+http://csrv.tv:80/123456/123456/28218
+#EXTINF:-1,US: MSG Network HD
+http://csrv.tv:80/123456/123456/28182
+#EXTINF:-1,US: MSNBC HD
+http://csrv.tv:80/123456/123456/28219
+#EXTINF:-1,US: MTV Rocks HD
+http://csrv.tv:80/123456/123456/28199
+#EXTINF:-1,US: MY9 TV HD
+http://csrv.tv:80/123456/123456/28192
+#EXTINF:-1,US: NatGeo HD
+http://csrv.tv:80/123456/123456/28241
+#EXTINF:-1,US: NBA TV HD
+http://csrv.tv:80/123456/123456/28147
+#EXTINF:-1,US: NBC Golf HD
+http://csrv.tv:80/123456/123456/28165
+#EXTINF:-1,US: NBC HD
+http://csrv.tv:80/123456/123456/28195
+#EXTINF:-1,US: NBCSN HD
+http://csrv.tv:80/123456/123456/28172
+#EXTINF:-1,US: NFL Network FHD
+http://csrv.tv:80/123456/123456/28132
+#EXTINF:-1,US: NFL Network HD
+http://csrv.tv:80/123456/123456/28173
+#EXTINF:-1,US: NFL RedZone SD
+http://csrv.tv:80/123456/123456/28131
+#EXTINF:-1,US: NHL Network HD
+http://csrv.tv:80/123456/123456/28220
+#EXTINF:-1,US: Nickelodeon HD
+http://csrv.tv:80/123456/123456/28242
+#EXTINF:-1,US: Outdoor Channel HD
+http://csrv.tv:80/123456/123456/28198
+#EXTINF:-1,US: PAC-12 Arizona HD
+http://csrv.tv:80/123456/123456/28174
+#EXTINF:-1,US: PAC-12 Bay Area HD
+http://csrv.tv:80/123456/123456/28175
+#EXTINF:-1,US: PAC-12 Los Angeles HD
+http://csrv.tv:80/123456/123456/28176
+#EXTINF:-1,US: PAC-12 Oregon HD
+http://csrv.tv:80/123456/123456/28177
+#EXTINF:-1,US: PAC-12 Washington HD
+http://csrv.tv:80/123456/123456/28178
+#EXTINF:-1,US: SEC Network HD
+http://csrv.tv:80/123456/123456/28221
+#EXTINF:-1,US: Showtime 2 HD
+http://csrv.tv:80/123456/123456/28148
+#EXTINF:-1,US: Showtime HD
+http://csrv.tv:80/123456/123456/28149
+#EXTINF:-1,US: Showtime West HD
+http://csrv.tv:80/123456/123456/28150
+#EXTINF:-1,US: Smile of A Child TV HD
+http://csrv.tv:80/123456/123456/28197
+#EXTINF:-1,US: Spike HD
+http://csrv.tv:80/123456/123456/28243
+#EXTINF:-1,US: Sportsnet 360 HD
+http://csrv.tv:80/123456/123456/28223
+#EXTINF:-1,US: Sportsnet HD
+http://csrv.tv:80/123456/123456/28247
+#EXTINF:-1,US: Starz Cinema HD
+http://csrv.tv:80/123456/123456/28151
+#EXTINF:-1,US: Starz Comedy HD
+http://csrv.tv:80/123456/123456/28152
+#EXTINF:-1,US: Starz Edge HD
+http://csrv.tv:80/123456/123456/28244
+#EXTINF:-1,US: Starz Encore HD
+http://csrv.tv:80/123456/123456/28153
+#EXTINF:-1,US: SYFY HD
+http://csrv.tv:80/123456/123456/28166
+#EXTINF:-1,US: TBS HD
+http://csrv.tv:80/123456/123456/28222
+#EXTINF:-1,US: Tennis Channel HD
+http://csrv.tv:80/123456/123456/28154
+#EXTINF:-1,US: The Florida Channel HD
+http://csrv.tv:80/123456/123456/28191
+#EXTINF:-1,US: TLC HD
+http://csrv.tv:80/123456/123456/28179
+#EXTINF:-1,US: TNT HD
+http://csrv.tv:80/123456/123456/28167
+#EXTINF:-1,US: TSN CA 1 HD
+http://csrv.tv:80/123456/123456/28224
+#EXTINF:-1,US: TSN CA 2 HD
+http://csrv.tv:80/123456/123456/28225
+#EXTINF:-1,US: TSN CA 3 HD
+http://csrv.tv:80/123456/123456/28226
+#EXTINF:-1,US: TSN CA 4 HD
+http://csrv.tv:80/123456/123456/28227
+#EXTINF:-1,US: TSN CA 5 HD
+http://csrv.tv:80/123456/123456/28228
+#EXTINF:-1,US: USA Network HD
+http://csrv.tv:80/123456/123456/28245
+#EXTINF:-1,US: VH1 Classic HD
+http://csrv.tv:80/123456/123456/28196
+#EXTINF:-1,US: WeatherNation HD
+http://csrv.tv:80/123456/123456/28190
+#EXTINF:-1,US: WGN America HD
+http://csrv.tv:80/123456/123456/28181
+#EXTINF:-1,US: WGN-TV HD
+http://csrv.tv:80/123456/123456/28189
+#EXTINF:-1,US: WWE HD
+http://csrv.tv:80/123456/123456/28180
+#EXTINF:-1,US: Yes Network HD
+http://csrv.tv:80/123456/123456/28188
+#EXTINF:-1,US: YTV CA HD
+http://csrv.tv:80/123456/123456/28187
